@@ -111,4 +111,12 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 - [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 
-Contributing
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/andricksantos/awesome-web-development/blob/master/Contributing.md) first.
+
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andricksantos/awesome-web-development/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **5**.
+
+- - -
+
+If you have any question about this opinionated list, do not hesitate to contact me [@santosandrick1](https://twitter.com/santosandrick1) on Twitter or open an issue on GitHub.
