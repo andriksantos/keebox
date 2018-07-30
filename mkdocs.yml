@@ -32,7 +32,7 @@ repo_url: https://github.com/andricksantos/awesome-web-development
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2018 Andrick Santos'
+copyright: 'Copyright &copy; 2018 Andrick Santos'
 
 pages:
   - Life is short, you need programer: index.md
