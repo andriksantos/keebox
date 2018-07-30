@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Awesome Web Development\n\n\nA curated list of impressive framework, libraries, software and resources for your project on web development.\n\n\nInspired by \nAwesome Python\n\nbr\n\n*a",
+            "text": "Awesome Web Development\n\n\nA curated list of impressive framework, libraries, software and resources for your project on web development.\n\n\nInspired by \nAwesome Python",
             "title": "home"
         },
         {
             "location": "/#awesome-web-development",
-            "text": "A curated list of impressive framework, libraries, software and resources for your project on web development.  Inspired by  Awesome Python \nbr \n*a",
+            "text": "A curated list of impressive framework, libraries, software and resources for your project on web development.  Inspired by  Awesome Python",
             "title": "Awesome Web Development"
         }
     ]

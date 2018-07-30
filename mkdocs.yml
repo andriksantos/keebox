@@ -35,8 +35,9 @@ edit_uri: ""
 copyright: 'Copyright &copy; 2016 - 2018 Andrick Santos'
 
 pages:
-  - home: index.md
+  - Life is short, you need programer: index.md
 theme: material
+
 
 # Customization
 extra:
@@ -48,4 +49,16 @@ extra:
     - type: twitter
       link: https://twitter.com/santosandrick1
     - type: linkedin
-      link: https://linkedin.com/in/andricksantos
+      link: https://www.linkedin.com/in/andrick-santos-19128b146/
+# Google Analytics
+google_analytics:
+  - 'UA-103804510-1'
+  - 'auto'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
