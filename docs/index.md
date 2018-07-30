@@ -102,3 +102,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
+
+## Editors
+
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
+- [Vim](https://github.com/mhinz/vim-galore#readme)
+- [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
+- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
