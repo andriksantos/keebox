@@ -31,6 +31,8 @@ extra:
       link: https://www.facebook.com/andrick.mago
     - type: instagram
       link: https://www.instagram.com/andricksantos12/
+    - type: youtube
+      link: https://www.youtube.com/channel/UCepbBv6NUBPnPAJyZqSiWWQ?sub_confirmation=1
       
 # Google Analytics
 google_analytics:
