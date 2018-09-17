@@ -13,7 +13,7 @@ edit_uri: ""
 copyright: 'Copyright &copy; 2018 Andrick Santos'
 
 pages:
-  - Life is short, you need programer: index.md
+  - Life is short, you need programmer: index.md
 theme: material
 
 # Customization
