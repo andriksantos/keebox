@@ -223,8 +223,8 @@ Inspired by [Awesome](https://github.com/sindresorhus/awesome)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Module bundler.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
-- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
+- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
 
 ## Contributing
 
