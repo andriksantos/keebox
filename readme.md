@@ -1,3 +1,19 @@
+<div align="center">
+	<img src="site/assets/images/awesome.png" width="400" height="500" alt="awesome">
+	<br>
+	<br>
+	<p>
+		<a href="https://github.com/andricksantos/awesome-web-development/blob/master/Contributing.md" target="_blank">Do you want to help?</a>
+	</p>
+
+	<p align="center">
+		<a href="readme.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+		<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+		<a href="https://andricksantos.github.io/awesome-web-development/">Awesome Web Development</a>&nbsp;&nbsp;&nbsp;
+		<a href="https://www.redbubble.com/es/people/andricksantos1/works/34065686-awesome?asc=u">Stickers & t-shirts</a>
+	</p>
+
+</div>
 
 # Awesome Web Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
