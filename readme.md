@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="site/assets/images/awesome.png" width="500" height="500" alt="awesome">
+	<img src="site/assets/images/awesome.png" width="300" height="300" alt="awesome">
 	<br>
 	<br>
 	<p>
@@ -14,6 +14,12 @@
 	<a href="Contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://andricksantos.github.io/awesome-web-development/">Awesome Web Development</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.redbubble.com/es/people/andricksantos1/works/34065686-awesome?asc=u">Stickers & t-shirts</a>
+</p>
+
+<br>
+
+<p align="center">
+		<sub>Just type <a href="https://github.com/andricksantos/awesome-web-development#awesome-web-development-"><code>awesome web development</code></a> to go here. Check out my <a href="https://andricksantos.github.io/">web</a> and follow me on <a href="https://twitter.com/santosandrick1">Twitter</a>.</sub>
 </p>
 
 <br>
