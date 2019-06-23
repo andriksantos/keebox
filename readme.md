@@ -3,7 +3,7 @@
 	<br>
 	<br>
 	<p>
-		<a href="https://github.com/andricksantos/awesome-web-development/blob/master/Contributing.md" target="_blank">Do you want to help?</a>
+		<a href="https://github.com/andriksantos/awesome-web-development/blob/master/Contributing.md" target="_blank">Do you want to help?</a>
 	</p>
 </div>
 
@@ -12,14 +12,14 @@
 <p align="center">
 	<a href="readme.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="Contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://andricksantos.github.io/awesome-web-development/">Awesome Web Development</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/es/people/andricksantos1/works/34065686-awesome?asc=u">Stickers & t-shirts</a>
+	<a href="https://andriksantos.github.io/awesome-web-development/">Awesome Web Development</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.redbubble.com/es/people/andriksantos1/works/34065686-awesome?asc=u">Stickers & t-shirts</a>
 </p>
 
 <br>
 
 <p align="center">
-		<sub>Just type <a href="https://github.com/andricksantos/awesome-web-development#awesome-web-development-"><code>awesome web development</code></a> to go here. Check out my <a href="https://andricksantos.github.io/">web</a> and follow me on <a href="https://twitter.com/santosandrick1">Twitter</a>.</sub>
+		<sub>Just type <a href="https://github.com/andriksantos/awesome-web-development#awesome-web-development-"><code>awesome web development</code></a> to go here. Check out my <a href="https://andriksantos.github.io/">web</a> and follow me on <a href="https://twitter.com/andrik_rsm">Twitter</a>.</sub>
 </p>
 
 <br>
@@ -31,22 +31,27 @@ A curated list of impressive framework, libraries, software and resources for yo
 
 Inspired by [Awesome](https://github.com/sindresorhus/awesome)
 
--   [Contents](#Contents)
-    - [Editors](#editors)
-    - [Front-End Development](#front-end-development)
-	- [Inspiration](#inspiration)
-	- [Colors](#colors)
-	- [Typography](#typography)
-	- [Icons](#icons)
-	- [Images](#images)
-	- [Guidelines](#guidelines)
-	- [Design Tools](#design-tools)
-	- [Prototype Tools](#prototype-tools)
-	- [Tutorials](#tutorials)
-	- [Productivity](#productivity)
-	- [Slack Teams](#slack-teams)
-    - [Back-End Development](#back-end-development)
-	- [Contributing](#contributing)
+- [Awesome Web Development ![Awesome](https://github.com/sindresorhus/awesome)](#Awesome-Web-Development-Awesomehttpsgithubcomsindresorhusawesome)
+	- [Editors](#Editors)
+	- [Front-End Development](#Front-End-Development)
+		- [CSS3](#CSS3)
+		- [Javascript](#Javascript)
+		- [Inspiration](#Inspiration)
+		- [Colors](#Colors)
+		- [Typography](#Typography)
+		- [Icons](#Icons)
+		- [Images](#Images)
+		- [Guidelines](#Guidelines)
+		- [Design Tools](#Design-Tools)
+		- [Prototype Tools](#Prototype-Tools)
+		- [Tutorials](#Tutorials)
+		- [Productivity](#Productivity)
+		- [Slack Teams](#Slack-Teams)
+	- [Back-End Development](#Back-End-Development)
+		- [Framework](#Framework)
+	- [Others](#Others)
+	- [Contributing](#Contributing)
+	- [Share](#Share)
 
 ## Editors
 
@@ -72,7 +77,7 @@ Inspired by [Awesome](https://github.com/sindresorhus/awesome)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
 - [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
 - [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
-- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
+- [PostCSS](https:mk//github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
 ### Javascript
@@ -254,14 +259,15 @@ Inspired by [Awesome](https://github.com/sindresorhus/awesome)
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/andricksantos/awesome-web-development/blob/master/Contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/andriksantos/awesome-web-development/blob/master/Contributing.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andricksantos/awesome-web-development/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **1**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andriksantos/awesome-web-development/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **1**.
 
 - - -
 ## Share
-* <a href="https://twitter.com/intent/tweet?text=https://github.com/andricksantos/awesome-web-development%20@santosandrick1" target="_blank">Share on Twitter</a>
-* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andricksantos/awesome-web-development&p[images][0]=&p[title]=Awesome%20Web%20Development&p[summary]=" target="_blank">Share on Facebook</a>
+* <a href="https://twitter.com/intent/tweet?text=https://github.com/andriksantos/awesome-web-development%20@santosandrik1" target="_blank">Share on Twitter</a>
+* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andriksantos/awesome-web-development&p[images][0]=&p[title]=Awesome%20Web%20Development&p[summary]=" target="_blank">Share on Facebook</a>
+
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me [Andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) on Gmail or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [andriksantos1@gmail.com](mailto:andriksantos1@gmail.com) on Gmail or open an issue on GitHub.

@@ -1,16 +1,16 @@
 # Project  information
 site_name: Awesome Web Development
 site_description: A curated list of impressive framework, libraries, software and resources for your project on web development.
-site_author: Andrick Santos
-site_url: https://andricksantos.github.io/awesome-web-development/
+site_author: andrik Santos
+site_url: https://andriksantos.github.io/awesome-web-development/
 
 # Repository
-repo_name: andricksantos/awesome-web-development
-repo_url: https://github.com/andricksantos/awesome-web-development
+repo_name: andriksantos/awesome-web-development
+repo_url: https://github.com/andriksantos/awesome-web-development
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2018 Andrick Santos'
+copyright: 'Copyright &copy; 2018 andrik Santos'
 
 pages:
   - Life is short, you need programmer: index.md
@@ -20,17 +20,17 @@ theme: material
 extra:
   social:
     - type: globe
-      link: https://andricksantos.github.io/
+      link: https://andriksantos.github.io/
     - type: github-alt
-      link: https://github.com/andricksantos
+      link: https://github.com/andriksantos
     - type: twitter
-      link: https://twitter.com/santosandrick1
+      link: https://twitter.com/andrik_rsm
     - type: linkedin
-      link: https://www.linkedin.com/in/andrick-santos-19128b146/
+      link: https://www.linkedin.com/in/andrik-santos-19128b146/
     - type: facebook
-      link: https://www.facebook.com/andrick.mago
+      link: https://www.facebook.com/andrik.rsm
     - type: instagram
-      link: https://www.instagram.com/andricksantos12/
+      link: https://www.instagram.com/andriksantos12/
     - type: youtube
       link: https://www.youtube.com/channel/UCepbBv6NUBPnPAJyZqSiWWQ?sub_confirmation=1
       
