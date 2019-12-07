@@ -5,28 +5,28 @@ A curated list of impressive framework, libraries, software and resources for yo
 
 Inspired by [Awesome](https://github.com/sindresorhus/awesome)
 
-- [Awesome Web Development ![Awesome](https://github.com/sindresorhus/awesome)](#Awesome-Web-Development-Awesomehttpsgithubcomsindresorhusawesome)
-	- [Editors](#Editors)
-	- [Front-End Development](#Front-End-Development)
-		- [CSS3](#CSS3)
-		- [Javascript](#Javascript)
-		- [Inspiration](#Inspiration)
-		- [Colors](#Colors)
-		- [Typography](#Typography)
-		- [Icons](#Icons)
-		- [Images](#Images)
-		- [Guidelines](#Guidelines)
-		- [Design Tools](#Design-Tools)
-		- [Prototype Tools](#Prototype-Tools)
-		- [Tutorials](#Tutorials)
-		- [Productivity](#Productivity)
-		- [Slack Teams](#Slack-Teams)
-	- [Back-End Development](#Back-End-Development)
-		- [Framework](#Framework)
-	- [Others](#Others)
-	- [Contributing](#Contributing)
-	- [Share](#Share)
-	- [* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andriksantos/awesome-web-development&p[images][0]=&p[title]=Awesome%20Web%20Development&p[summary]=" target="_blank">Share on Facebook</a>](#a-href%22httpswwwfacebookcomsharersharerphps100purlhttpsgithubcomandriksantosawesome-web-developmentpimages0ptitleAwesome20Web20Developmentpsummary%22-target%22blank%22Share-on-Facebooka)
+- [Awesome Web Development ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-web-development-awesomehttpsgithubcomsindresorhusawesome)
+	- [Editors](#editors)
+	- [Front-End Development](#front-end-development)
+		- [CSS3](#css3)
+		- [Javascript](#javascript)
+		- [Inspiration](#inspiration)
+		- [Colors](#colors)
+		- [Typography](#typography)
+		- [Icons](#icons)
+		- [Images](#images)
+		- [Guidelines](#guidelines)
+		- [Design Tools](#design-tools)
+		- [Prototype Tools](#prototype-tools)
+		- [Tutorials](#tutorials)
+		- [Productivity](#productivity)
+		- [Slack Teams](#slack-teams)
+	- [Back-End Development](#back-end-development)
+		- [Framework](#framework)
+	- [Others](#others)
+	- [Contributing](#contributing)
+	- [Share](#share)
+	- [* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andriksantos/awesome-web-development&p[images][0]=&p[title]=Awesome%20Web%20Development&p[summary]=" target="_blank">Share on Facebook</a>](#a-href%22httpswwwfacebookcomsharersharerphps100purlhttpsgithubcomandriksantosawesome-web-developmentpimages0ptitleawesome20web20developmentpsummary%22-target%22blank%22share-on-facebooka)
 
 ## Editors
 
@@ -240,8 +240,8 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 - - -
 ## Share
-* <a href="https://twitter.com/intent/tweet?text=https://github.com/andriksantos/awesome-web-development%20@santosandrik1" target="_blank">Share on Twitter</a>
+* <a href="https://twitter.com/intent/tweet?text=https://github.com/andriksantos/awesome-web-development%20@andrik_rsm" target="_blank">Share on Twitter</a>
 * <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andriksantos/awesome-web-development&p[images][0]=&p[title]=Awesome%20Web%20Development&p[summary]=" target="_blank">Share on Facebook</a>
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me [andriksantos1@gmail.com](mailto:andriksantos1@gmail.com) on Gmail or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) on Gmail or open an issue on GitHub.

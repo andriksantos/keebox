@@ -10,7 +10,7 @@ repo_url: https://github.com/andriksantos/awesome-web-development
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2018 andrik Santos'
+copyright: 'Copyright &copy; 2018 Andrik Santos'
 
 pages:
   - Life is short, you need programmer: index.md
@@ -23,16 +23,12 @@ extra:
       link: https://andriksantos.github.io/
     - type: github-alt
       link: https://github.com/andriksantos
-    - type: twitter
-      link: https://twitter.com/andrik_rsm
     - type: linkedin
-      link: https://www.linkedin.com/in/andrik-santos-19128b146/
+      link: https://www.linkedin.com/in/andriksantos/
     - type: facebook
       link: https://www.facebook.com/andrik.rsm
     - type: instagram
       link: https://www.instagram.com/andriksantos12/
-    - type: youtube
-      link: https://www.youtube.com/channel/UCepbBv6NUBPnPAJyZqSiWWQ?sub_confirmation=1
       
 # Google Analytics
 google_analytics:
