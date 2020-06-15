@@ -13,7 +13,6 @@
 	<a href="readme.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="Contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://andriksantos.github.io/awesome-web-development/">Awesome Web Development</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/es/people/andriksantos1/works/34065686-awesome?asc=u">Stickers & t-shirts</a>
 </p>
 
 <br>
@@ -204,7 +203,6 @@ Inspired by [Awesome](https://github.com/sindresorhus/awesome)
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
-
 - [Django](https://github.com/rosarior/awesome-django#readme)
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme)
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
