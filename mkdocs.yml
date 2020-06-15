@@ -1,7 +1,7 @@
 # Project  information
 site_name: Awesome Web Development
 site_description: A curated list of impressive framework, libraries, software and resources for your project on web development.
-site_author: andrik Santos
+site_author: Andrik Santos
 site_url: https://andriksantos.github.io/awesome-web-development/
 
 # Repository
@@ -10,7 +10,7 @@ repo_url: https://github.com/andriksantos/awesome-web-development
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2018 Andrik Santos'
+copyright: 'Copyright &copy; 2020 Andrik Santos'
 
 pages:
   - Life is short, you need programmer: index.md
@@ -32,7 +32,7 @@ extra:
       
 # Google Analytics
 google_analytics:
-  - 'UA-103804510-1'
+  - 'UA-169388687-1'
   - 'auto'
 
 # Extensions

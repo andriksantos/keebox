@@ -53,6 +53,7 @@ Inspired by [Awesome](https://github.com/sindresorhus/awesome)
 	- [Contributing](#Contributing)
 	- [Share](#Share)
 
+---  
 ## Editors
 
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
@@ -263,11 +264,11 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andriksantos/awesome-web-development/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **1**.
 
-- - -
+---
 ## Share
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/andriksantos/awesome-web-development%20@santosandrik1" target="_blank">Share on Twitter</a>
 * <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/andriksantos/awesome-web-development&p[images][0]=&p[title]=Awesome%20Web%20Development&p[summary]=" target="_blank">Share on Facebook</a>
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me [andriksantos1@gmail.com](mailto:andriksantos1@gmail.com) on Gmail or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) on Gmail or open an issue on GitHub.
