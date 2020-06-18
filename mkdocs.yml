@@ -53,7 +53,3 @@ markdown_extensions:
   - toc:
       permalink: true
   - meta
-
-#plugins:
-#  - search # necessary for search to work
-#  - awesome-pages
