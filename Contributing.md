@@ -1,6 +1,6 @@
 # Contributing
 
-Your contributions are always welcome!
+**Your contributions are always welcome!**
 
 ## Guidelines
 
@@ -14,3 +14,7 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 * Send a Pull Request with the reason why the library is awesome.
+
+---
+
+Copyright © 2020

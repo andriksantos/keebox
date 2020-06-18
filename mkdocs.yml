@@ -1,6 +1,6 @@
 # Project  information
-site_name: Awesome Web Development
-site_description: A curated list of impressive framework, libraries, software and resources for your project on web development.
+site_name: Awesome List Universal
+site_description: Awesome lists about all kinds of interesting topics, impressive framework, libraries, software and resources for your project out the limit!
 site_author: Andrik Santos
 site_url: https://andriksantos.github.io/awesome-web-development/
 
@@ -13,8 +13,20 @@ edit_uri: ""
 copyright: 'Copyright &copy; 2020 Andrik Santos'
 
 pages:
-  - Life is short, you need programmer: index.md
-theme: material
+  - one commit at a time: index.md
+
+theme: 
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'teal'
+    accent: 'deep orange'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
+extra:
+  disqus: 'andrikSantos'
 
 # Customization
 extra:
@@ -25,10 +37,6 @@ extra:
       link: https://github.com/andriksantos
     - type: linkedin
       link: https://www.linkedin.com/in/andriksantos/
-    - type: facebook
-      link: https://www.facebook.com/andrik.rsm
-    - type: instagram
-      link: https://www.instagram.com/andriksantos12/
     - type: twitter
       link: https://www.twitter.com/andrik_rsm/
       
@@ -41,6 +49,11 @@ google_analytics:
 markdown_extensions:
   - admonition
   - codehilite:
-      guess_lang: false
+      guess_lang: true
   - toc:
       permalink: true
+  - meta
+
+#plugins:
+#  - search # necessary for search to work
+#  - awesome-pages
