@@ -1,0 +1,60 @@
+# Project information
+site_name: Amazing List ™
+site_url: https://andriksantos.github.io/amazinglist/
+site_author: Andrik Santos ™
+site_description: >-
+    Compilation of programming resources to boost your career in the world of software development.
+
+#Menu
+nav:
+    - Home: index.md
+    - Code of conduct: code-of-conduct.md
+    - Contributing: contributing.md
+    - License: license.md
+    - About: about.md
+    - Thanks: thanks.md
+
+# Repository
+repo_name: andriksantos/amazinglist
+repo_url: https://github.com/andriksantos/amazinglist
+edit_uri: ""
+
+# Copyright
+copyright: 'Copyright &copy; 2021 Andrik Santos ™'
+
+#Configuration
+theme: material
+
+# Static files
+static_templates:
+    - 404.html
+
+# Don't include MkDocs' JavaScript
+include_search_page: false
+search_index_only: true
+
+markdown_extensions:
+    - admonition
+    - abbr
+    - attr_list
+    - def_list
+    - footnotes
+    - meta
+    - md_in_html
+
+# Social Networks
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://andriksantos.github.io/
+    - icon: fontawesome/brands/twitter
+      link: https://www.twitter.com/andrik_rsm/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/andriksantos/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/andriksantos1/
+      
+# Google Analytics
+google_analytics:
+  - 'UA-169388687-1'
+  - 'auto'
