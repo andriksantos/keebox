@@ -24,9 +24,7 @@
 
 # _Welcome to **AMAZING** LIST_
 
-Compilation of programming resources to boost your career in the world of software development. 💡
-
-Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your _off-limits project!_
+Compilation of programming resources to boost your career in the world of software development. 💡 Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your **_off-limits project!_**
 
 For that reason, this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at all times. The repository is divided by programming languages, in each language you can find resources for that language, frameworks, libraries and much more.
 
@@ -47,7 +45,7 @@ For that reason, this repository was born. Whose main objective is to collect as
 
 **Your contributions are always welcome!** Our list is constantly changing for continuous improvement.
 
-Please See [contribution guidelines](https://github.com/andriksantos/amazinglist/blob/master/Contributing.md).
+Please See [contribution guidelines](https://github.com/andriksantos/amazinglist/blob/master/contributing.md).
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andriksantos/amazinglist/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **1**.
 
