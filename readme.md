@@ -6,9 +6,9 @@
 
 <p align="center">
 	<a href="readme.md">What is amazing list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="docs/Contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="docs/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="docs/code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
-	<a href="#">Visit Amazing List </a>&nbsp;&nbsp;&nbsp;
+	<a href="https://andriksantos.github.io/amazinglist/">Visit Amazing List </a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.redbubble.com/es/shop/ap/34065686">Store amazing list</a>&nbsp;&nbsp;&nbsp;
 </p>
 
