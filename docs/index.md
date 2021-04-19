@@ -667,4 +667,4 @@ If you are interested in Contribuiting to this repository, you can do it [this w
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 
-[let's go up](#welcome-to-AMAZING-LIST-™)
+[let's go up](#welcome-to-amazing-list-™)
