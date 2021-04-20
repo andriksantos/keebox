@@ -3,7 +3,7 @@ site_name: Amazing List ™
 site_url: https://andriksantos.github.io/amazinglist/
 site_author: Andrik Santos ™
 site_description: >-
-    Compilation of programming resources to boost your career in the world of software development.
+    Compilation of programming resources to boost your career in the world of software development. Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your off-limits project!
 
 #Menu
 nav:
@@ -25,12 +25,16 @@ copyright: 'Copyright &copy; 2021 Andrik Santos ™'
 #Configuration
 theme: material
 
+favicon: assets/favicon.png
+icon:
+  logo: logo
+
 # Static files
 static_templates:
     - 404.html
 
 # Don't include MkDocs' JavaScript
-include_search_page: false
+include_search_page: true
 search_index_only: true
 
 markdown_extensions:
