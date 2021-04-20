@@ -47,13 +47,17 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://andriksantos.github.io/
+      name: Go to my repository on github
     - icon: fontawesome/brands/twitter
       link: https://www.twitter.com/andrik_rsm/
+      name: Follow me on twitter
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/andriksantos/
+      name: Follow me on linkedin
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/andriksantos1/
-      
+      name: andriksantos1 on instagram
+
 # Google Analytics
 google_analytics:
   - 'UA-169388687-1'
