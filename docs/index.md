@@ -1,4 +1,4 @@
-# _Welcome to **AMAZING** LIST_
+# _Welcome to **AMAZING** LIST ™_
 
 This is a compilation of programming resources to boost your career in the world of software development. 💡 Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your **_off-limits project!_**
 
