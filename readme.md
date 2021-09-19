@@ -3,32 +3,28 @@
 	<br>
 </div>
 
-
 <p align="center">
-	<a href="readme.md">What is amazing list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="docs/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://andriksantos.github.io/amazinglist/"><code>VISIT AMAZING LIST </code></a>&nbsp;&nbsp;&nbsp;
 	<a href="docs/code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://andriksantos.github.io/amazinglist/">Visit Amazing List </a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/es/shop/ap/34065686">Store amazing list</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<br>
 
 <p align="center">
-		<sub>Just type <a href="https://github.com/andriksantos/amazinglist#Welcome-to-amazing-list"><code>amazing list</code></a> to go here. Check out my <a href="https://andriksantos.github.io/">web</a> and follow me on <a href="https://twitter.com/andrik_rsm">Twitter</a>.</sub>
+	<sub>Your contributions are always welcome!</sub>
 </p>
-
-<br>
 
 ---
 
 # _Welcome to **AMAZING** LIST_
 
-Compilation of programming resources to boost your career in the world of software development. 💡 Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your **_off-limits project!_**
+This is a compilation of programming resources to boost your career in the world of software development. 💡 Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your **_off-limits project!_**
 
 For that reason, this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at all times. The repository is divided by programming languages, in each language you can find resources for that language, frameworks, libraries and much more.
 
-[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
+If you are interested in contributing to this repository, you can do so, but first read the [Contribution Guidelines](docs/contributing.md)
+
+
+_Without you none of this would be possible!_ [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 
 ---
 
@@ -63,7 +59,7 @@ For that reason, this repository was born. Whose main objective is to collect as
 	- [Testing](#testing)
 	- [Miscellaneous](#miscellaneous)
 	- [Contributing](#contributing)
-	- [Share](#share)
+	- [Share on](#share-on)
 
 ## Platforms
 
@@ -734,20 +730,19 @@ For that reason, this repository was born. Whose main objective is to collect as
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
-
-
+- [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 
 ---
 ## Contributing
 
 **Your contributions are always welcome!** Our list is constantly changing for continuous improvement.
 
-Please See [contribution guidelines](https://github.com/andriksantos/amazinglist/blob/master/contributing.md).
+Please See [contribution guidelines](https://github.com/andriksantos/amazinglist/blob/master/docs/contributing.md).
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andriksantos/amazinglist/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **1**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andriksantos/amazinglist/pulls) by adding :+1: to them. Pull requests will be merged after being reviewed.
 
 ---
-## Share
+## Share on
 * <a href="https://twitter.com/home?status=https%3A//andriksantos.github.io/amazinglist/">Share in Twitter</a>
 * <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//andriksantos.github.io/amazinglist/&title=Awesome%20List%20Universal&summary=Awesome%20lists%20about%20all%20kinds%20of%20interesting%20topics...%20out%20the%20limit&source=https%3A//github.com/andriksantos/amazinglist">Share in LinkedIn</a>
 * <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//andriksantos.github.io/amazinglist/">Share in Facebook</a>

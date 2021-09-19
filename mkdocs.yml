@@ -51,16 +51,16 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://andriksantos.github.io/
-      name: Go to my repository on github
-    - icon: fontawesome/brands/twitter
-      link: https://www.twitter.com/andrik_rsm/
-      name: Follow me on twitter
+      name: Visit my portfolio
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/andriksantos/
       name: Follow me on linkedin
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/andriksantos1/
       name: andriksantos1 on instagram
+    - icon: fontawesome/brands/whatsapp
+      link: https://www.wa.me/+50496679577
+      name: write me on whatsapp
 
 # Google Analytics
 google_analytics:

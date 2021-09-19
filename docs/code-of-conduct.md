@@ -72,3 +72,7 @@ available at [https://contributor-covenant.org/version/1/4][version]
 
 [homepage]: https://contributor-covenant.org
 [version]: https://contributor-covenant.org/version/1/4/
+
+---
+
+[let's go up](#contributor-covenant-code-of-conduct)
