@@ -1,27 +1,237 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://andriksantos.github.io/amazinglist/</loc>
-     <lastmod>2021-09-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://andriksantos.github.io/amazinglist/code-of-conduct/</loc>
-     <lastmod>2021-09-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://andriksantos.github.io/amazinglist/contributing/</loc>
-     <lastmod>2021-09-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://andriksantos.github.io/amazinglist/license/</loc>
-     <lastmod>2021-09-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://andriksantos.github.io/amazinglist/about/</loc>
-     <lastmod>2021-09-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://andriksantos.github.io/amazinglist/thanks/</loc>
-     <lastmod>2021-09-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://andriksantos.github.io/index.html</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/doc/AndrikSantosCV2021.pdf</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/GildanPractice/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/Andrick+ReinaldoSantos+Maradiaga-CCNA+1+-+Introd.+Net-Certificate.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/Andrick+ReinaldoSantos+Maradiaga-CCNA+2+-+R_S+Essenti-Certificate-1.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/Andrick+ReinaldoSantos+Maradiaga-CCNA+2+-+R&amp;S+Essenti-Letter-1.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/cloud-computing.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/Introducción-al-Desarrollo-Web.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/web-development-II.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/Competencias-digitales-para-profesionales.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/WebManager.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/Voluntario.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/assets/Transformación-digital-para-el-empleo.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/amazinglist/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/password-generator</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/manual-politicas/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/.</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/sobre-mi/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>http://andriksantos.github.io/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/code-of-conduct/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/contributing/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/license/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/about/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/thanks/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/docs/contributing.md</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/password-generator/</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/index.html</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/doc/AndrikSantosCV2021.pdf</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/Andrick+ReinaldoSantos+Maradiaga-CCNA+1+-+Introd.+Net-Certificate.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/Andrick+ReinaldoSantos+Maradiaga-CCNA+2+-+R_S+Essenti-Certificate-1.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/Andrick+ReinaldoSantos+Maradiaga-CCNA+2+-+R&amp;S+Essenti-Letter-1.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/cloud-computing.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/Introducción-al-Desarrollo-Web.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/web-development-II.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/Competencias-digitales-para-profesionales.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/WebManager.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/Voluntario.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/assets/Transformación-digital-para-el-empleo.jpg</loc>
+  <priority>1.0</priority>
+  <changefreq>always</changefreq>
+  <lastmod>2021-10-17</lastmod>
+</url>
 </urlset>
