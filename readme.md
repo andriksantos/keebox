@@ -15,22 +15,20 @@
 
 ---
 
-# _Welcome to **AMAZING** LIST ™_
+# _Welcome to **AMAZING LIST ™**_
 
 This is a compilation of programming resources to boost your career in the world of software development. 💡 Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your **_off-limits project!_**
 
 For that reason, this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at all times. The repository is divided by programming languages, in each language you can find resources for that language, frameworks, libraries and much more.
 
-If you are interested in contributing to this repository, you can do so, but first read the [Contribution Guidelines](docs/contributing.md)
+If you are interested in contributing to this repository, you can do so, but first read the [Contribution Guidelines](docs/contributing.md) 👌🏻
 
-
-_Without you none of this would be possible!_ [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 
 ---
 
 ## Contents
 
-- [_Welcome to **AMAZING** LIST ™_](#welcome-to-amazing-list-)
+- [_Welcome to **AMAZING LIST ™**_](#welcome-to-amazing-list-)
 	- [Contents](#contents)
 	- [Platforms](#platforms)
 	- [Programming Languages](#programming-languages)
@@ -77,6 +75,7 @@ _Without you none of this would be possible!_ [![Mentioned in Awesome](https://a
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
@@ -113,6 +112,7 @@ _Without you none of this would be possible!_ [![Mentioned in Awesome](https://a
 - [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [Integration](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
 ## Programming Languages
 
@@ -246,7 +246,6 @@ _Without you none of this would be possible!_ [![Mentioned in Awesome](https://a
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
-- [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Module bundler.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
@@ -753,4 +752,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ---
 
-[let's go up](#welcome-to-amazing-list-tm)
+[let's go up](#welcome-to-amazing-list-) ☝🏻
