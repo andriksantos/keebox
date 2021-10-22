@@ -1,5 +1,5 @@
 # Project information
-site_name: Amazing List ™
+site_name: Compilation of programming resources | Amazing List ™
 site_url: https://andriksantos.github.io/amazinglist/
 site_author: Andrik Santos ™
 site_description: >-
@@ -10,9 +10,6 @@ nav:
     - Home: index.md
     - Code of conduct: code-of-conduct.md
     - Contributing: contributing.md
-    - License: license.md
-    - About: about.md
-    - Thanks: thanks.md
 
 # Repository
 repo_name: andriksantos/amazinglist
@@ -20,7 +17,7 @@ repo_url: https://github.com/andriksantos/amazinglist
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2021 Andrik Santos ™'
+copyright: 'Copyright &copy; 2022 Andrik Santos ™'
 
 #Configuration
 theme: material
