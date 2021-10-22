@@ -20,7 +20,35 @@ edit_uri: ""
 copyright: 'Copyright &copy; 2022 Andrik Santos ™'
 
 #Configuration
-theme: material
+theme: 
+  name: material
+
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  features:
+    #- navigation.tabs
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
 
 favicon: assets/favicon.png
 icon:
@@ -69,3 +97,4 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
+
