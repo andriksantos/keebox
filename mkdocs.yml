@@ -87,6 +87,15 @@ extra:
       link: https://www.wa.me/+50496679577
       name: write me on whatsapp
 
+  alternate:
+    - name: Español
+      link: /es/ 
+      lang: es
+    - name: Chino
+      link: /zh/
+      lang: zh
+
+
 # Google Analytics
 google_analytics:
   - 'UA-169388687-1'
