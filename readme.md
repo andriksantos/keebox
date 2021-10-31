@@ -23,17 +23,6 @@ For that reason, this repository was born. Whose main objective is to collect as
 
 If you are interested in contributing to this repository, you can do so, but first read the [Contribution Guidelines](docs/contributing.md) 👌🏻
 
-
----
-
-## Contributing
-
-**Your contributions are always welcome!** Our list is constantly changing for continuous improvement.
-
-Please See [contribution guidelines](https://github.com/andriksantos/amazinglist/blob/master/docs/contributing.md).
-
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/andriksantos/amazinglist/pulls) by adding :+1: to them. Pull requests will be merged after being reviewed.
-
 ---
 ## Share on
 * <a href="https://twitter.com/home?status=https%3A//andriksantos.github.io/amazinglist/">Share in Twitter</a>
@@ -46,4 +35,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ---
 
-[let's go up](#welcome-to-amazing-list-) ☝🏻
+[let's go up](#welcome-to-amazing-) ☝🏻	
