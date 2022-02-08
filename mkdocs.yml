@@ -17,7 +17,7 @@ repo_url: https://github.com/andriksantos/amazinglist
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2022 Andrik Santos ™'
+copyright: 'Copyright &copy; 2023 Andrik Santos ™'
 
 #Configuration
 theme: 
@@ -84,7 +84,7 @@ extra:
       link: https://www.instagram.com/andriksantos1/
       name: andriksantos1 on instagram
     - icon: fontawesome/brands/whatsapp
-      link: https://www.wa.me/+50496679577
+      link: https://wa.me/50496679577
       name: write me on whatsapp
 
   alternate:

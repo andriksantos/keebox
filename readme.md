@@ -1,27 +1,31 @@
 <div align="center">
-	<img src="assets/img/logoAL.png" width="300" height="300" alt="amazing list">
+	<img src="assets/img/kb.png" width="300" height="300" alt="amazing list">
 	<br>
 </div>
 
 <p align="center">
 	<a href="docs/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://andriksantos.github.io/amazinglist/"><code>VISIT AMAZING LIST </code></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://andriksantos.github.io/amazinglist/"><code> 🔥 VISIT THE PAGE DEVELOPER RESOURCES OFFICIAL 🔥 </code></a>&nbsp;&nbsp;&nbsp;
 	<a href="docs/code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-	<sub>Your contributions are always welcome!</sub>
+	<sub>Your contributions are always welcome! 😎</sub>
 </p>
 
 ---
 
-# _Welcome to **AMAZING LIST ™**_
+# _Welcome to **KEEBOX LIST ™**_
 
 This is a compilation of programming resources to boost your career in the world of software development. 💡 Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your **_off-limits project!_**
 
 For that reason, this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at all times. The repository is divided by programming languages, in each language you can find resources for that language, frameworks, libraries and much more.
 
 If you are interested in contributing to this repository, you can do so, but first read the [Contribution Guidelines](docs/contributing.md) 👌🏻
+
+---
+
+## Thumbs | Imgs
 
 ---
 ## Share on
