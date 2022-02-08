@@ -1,11 +1,11 @@
 <div align="center">
-	<img src="assets/img/kb.png" width="300" height="300" alt="amazing list">
+	<img src="assets/img/kb.png" width="300" height="300" alt="KEEBOX list">
 	<br>
 </div>
 
 <p align="center">
 	<a href="docs/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://andriksantos.github.io/amazinglist/"><code> 🔥 VISIT THE PAGE DEVELOPER RESOURCES OFFICIAL 🔥 </code></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://andriksantos.github.io/amazinglist/"><code> 🔥 VISIT THE PAGE developerresources.xyz OFFICIAL 🔥 </code></a>&nbsp;&nbsp;&nbsp;
 	<a href="docs/code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -26,6 +26,13 @@ If you are interested in contributing to this repository, you can do so, but fir
 ---
 
 ## Thumbs | Imgs
+
+<div align="center">
+	<img src="assets/img/thumb.png" alt="KEEBOX list">
+	<br>
+</div>
+
+*Website Official:* [developerresources.xyz](developerresources.xyz)
 
 ---
 ## Share on
