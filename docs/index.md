@@ -1,4 +1,4 @@
-# _Welcome to **AMAZING** LIST ™_
+# _Welcome to **KEEBOX** LIST ™_
 
 This is a **Compilation of programming resources** to boost your career in the world of software development. 💡 Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your **_off-limits project!_**
 

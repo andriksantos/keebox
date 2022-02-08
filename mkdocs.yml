@@ -1,5 +1,5 @@
 # Project information
-site_name: Developer Resources | Amazing List ™
+site_name: Developer Resources | Keebox List ™
 site_url: https://andriksantos.github.io/amazinglist/
 site_author: Andrik Santos ™
 site_description: >-
@@ -91,9 +91,9 @@ extra:
     - name: Español
       link: /es/ 
       lang: es
-    - name: Chino
-      link: /zh/
-      lang: zh
+    - name: English
+      link: /en/
+      lang: en
 
 
 # Google Analytics
