@@ -11,6 +11,7 @@ nav:
     - Resources node.js: nodejs.md
     - Electron: electron.md
     - Npm: npm.md
+    - Swift: Swift.md
     - Code of conduct: code-of-conduct.md
     - Contributing: contributing.md
 
