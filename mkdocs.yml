@@ -10,6 +10,7 @@ nav:
     - Resources of programming: index.md
     - Resources node.js: nodejs.md
     - Electron: electron.md
+    - Npm: npm.md
     - Code of conduct: code-of-conduct.md
     - Contributing: contributing.md
 
