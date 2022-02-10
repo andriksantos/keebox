@@ -7,7 +7,9 @@ site_description: >-
 
 #Menu
 nav:
-    - Home: index.md
+    - Resources of programming: index.md
+    - Resources node.js: nodejs.md
+    - Electron: electron.md
     - Code of conduct: code-of-conduct.md
     - Contributing: contributing.md
 
