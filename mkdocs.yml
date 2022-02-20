@@ -1,9 +1,9 @@
 # Project information
 site_name: Developer Resources | Keebox List ™
-site_url: https://andriksantos.github.io/amazinglist/
+site_url: https://andriksantos.github.io/keebox/
 site_author: Andrik Santos ™
 site_description: >-
-    Compilation of programming resources to boost your career in the world of software development. Amazing lists on all kinds of cool topics, awesome framework, libraries, software and resources for your off-limits project!
+    Programming resources are all over the internet, but they're hard to track down. That's why this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at any time
 
 #Menu
 nav:
@@ -16,8 +16,8 @@ nav:
     - Contributing: contributing.md
 
 # Repository
-repo_name: andriksantos/amazinglist
-repo_url: https://github.com/andriksantos/amazinglist
+repo_name: andriksantos/keebox
+repo_url: https://github.com/andriksantos/keebox
 edit_uri: ""
 
 # Copyright

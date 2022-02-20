@@ -2,17 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://andriksantos.github.io/amazinglist/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://andriksantos.github.io/amazinglist/Swift/</loc>
+         <lastmod>2022-02-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://andriksantos.github.io/amazinglist/code-of-conduct/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://andriksantos.github.io/amazinglist/contributing/</loc>
-         <lastmod>2022-02-08</lastmod>
+         <lastmod>2022-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://andriksantos.github.io/amazinglist/electron/</loc>
+         <lastmod>2022-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://andriksantos.github.io/amazinglist/nodejs/</loc>
+         <lastmod>2022-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://andriksantos.github.io/amazinglist/npm/</loc>
+         <lastmod>2022-02-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
