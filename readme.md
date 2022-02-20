@@ -5,7 +5,7 @@
 
 <p align="center">
 	<a href="docs/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://andriksantos.github.io/amazinglist/"><code> 🔥 VISIT THE PAGE developerresources.xyz OFFICIAL 🔥 </code></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://andriksantos.github.io/keebox"><code> 🔥 VISIT THE PAGE developerresources.xyz OFFICIAL 🔥 </code></a>&nbsp;&nbsp;&nbsp;
 	<a href="docs/code-of-conduct.md">Code of conduct</a>&nbsp;&nbsp;&nbsp;
 </p>
 
