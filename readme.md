@@ -36,9 +36,9 @@ If you are interested in contributing to this repository, you can do so, but fir
 
 ---
 ## Share on
-* <a href="https://twitter.com/home?status=https%3A//andriksantos.github.io/amazinglist/">Share in Twitter</a>
-* <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//andriksantos.github.io/amazinglist/&title=Awesome%20List%20Universal&summary=Awesome%20lists%20about%20all%20kinds%20of%20interesting%20topics...%20out%20the%20limit&source=https%3A//github.com/andriksantos/amazinglist">Share in LinkedIn</a>
-* <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//andriksantos.github.io/amazinglist/">Share in Facebook</a>
+* <a href="https://twitter.com/intent/tweet?url=https://developerresources.xyz/&text=This%20is%20a%20Compilation%20of%20programming%20resources%20to%20boost%20your%20career%20in%20the%20world%20of%20software%20development.%20%F0%9F%92%A1%20Amazing%20lists%20on%20all%20kinds%20of%20cool%20topics,%20awesome%20framework,%20libraries,%20software%20and%20resources%20for%20your%20off-limits%20project!">Share in Twitter</a>
+* <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://developerresources.xyz/">Share in LinkedIn</a>
+* <a href="https://www.facebook.com/sharer/sharer.php?u=https://developerresources.xyz/">Share in Facebook</a>
 
 ---
 
