@@ -8,12 +8,14 @@ site_description: >-
 #Menu
 nav:
     - Resources of programming: index.md
-    - Resources node.js: nodejs.md
+    - node.js: nodejs.md
     - Electron: electron.md
     - Npm: npm.md
+    - ios: ios.md
+    - mac: mac.md
     - Swift: Swift.md
-    - Code of conduct: code-of-conduct.md
     - Contributing: contributing.md
+    - Code of conduct: code-of-conduct.md
 
 # Repository
 repo_name: andriksantos/keebox
