@@ -8,14 +8,15 @@ site_description: >-
 #Menu
 nav:
     - Resources of programming: index.md
-    - node.js: nodejs.md
+    - Node.js: nodejs.md
     - Electron: electron.md
     - Npm: npm.md
-    - ios: ios.md
-    - mac: mac.md
+    - Ios: ios.md
+    - Mac: mac.md
     - Swift: Swift.md
     - Contributing: contributing.md
     - Code of conduct: code-of-conduct.md
+    - Donate: donate.md
 
 # Repository
 repo_name: andriksantos/keebox
@@ -89,9 +90,6 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/andriksantos1/
       name: andriksantos1 on instagram
-    - icon: fontawesome/brands/whatsapp
-      link: https://wa.me/50496679577
-      name: write me on whatsapp
 
   alternate:
     - name: Español
