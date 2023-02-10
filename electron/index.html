@@ -1,0 +1,1183 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Programming resources are all over the internet, but they're hard to track down. That's why this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at any time">
+      
+      
+        <meta name="author" content="Andrik Santos ™">
+      
+      
+        <link rel="canonical" href="https://andriksantos.github.io/keebox/electron/">
+      
+      
+        <link rel="prev" href="../nodejs/">
+      
+      
+        <link rel="next" href="../npm/">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.12">
+    
+    
+      
+        <title>Electron - Developer Resources | Keebox List ™</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.0d440cfe.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#apps" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Developer Resources | Keebox List ™" class="md-header__button md-logo" aria-label="Developer Resources | Keebox List ™" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Developer Resources | Keebox List ™
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Electron
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+            </label>
+          
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button class="md-header__button md-icon" aria-label="Select language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"/></svg>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a href="/es/" hreflang="es" class="md-select__link">
+                    Español
+                  </a>
+                </li>
+              
+                <li class="md-select__item">
+                  <a href="/en/" hreflang="en" class="md-select__link">
+                    English
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/andriksantos/keebox" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    andriksantos/keebox
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Developer Resources | Keebox List ™" class="md-nav__button md-logo" aria-label="Developer Resources | Keebox List ™" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Developer Resources | Keebox List ™
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/andriksantos/keebox" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    andriksantos/keebox
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Resources of programming
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nodejs/" class="md-nav__link">
+        Node.js
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Electron
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Electron
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#apps" class="md-nav__link">
+    Apps
+  </a>
+  
+    <nav class="md-nav" aria-label="Apps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#open-source" class="md-nav__link">
+    Open Source
+  </a>
+  
+    <nav class="md-nav" aria-label="Open Source">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#featured" class="md-nav__link">
+    Featured
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other" class="md-nav__link">
+    Other
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#closed-source" class="md-nav__link">
+    Closed Source
+  </a>
+  
+    <nav class="md-nav" aria-label="Closed Source">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#featured_1" class="md-nav__link">
+    Featured
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other_1" class="md-nav__link">
+    Other
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#samples" class="md-nav__link">
+    Samples
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#boilerplates" class="md-nav__link">
+    Boilerplates
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools" class="md-nav__link">
+    Tools
+  </a>
+  
+    <nav class="md-nav" aria-label="Tools">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#for-electron" class="md-nav__link">
+    For Electron
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#using-electron" class="md-nav__link">
+    Using Electron
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#components" class="md-nav__link">
+    Components
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#documentation" class="md-nav__link">
+    Documentation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#articles" class="md-nav__link">
+    Articles
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    Books
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#videos" class="md-nav__link">
+    Videos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#podcasts" class="md-nav__link">
+    Podcasts
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contribute" class="md-nav__link">
+    Contribute
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../npm/" class="md-nav__link">
+        Npm
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ios/" class="md-nav__link">
+        Ios
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mac/" class="md-nav__link">
+        Mac
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Swift/" class="md-nav__link">
+        Swift
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contributing/" class="md-nav__link">
+        Contributing
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../code-of-conduct/" class="md-nav__link">
+        Code of conduct
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../donate/" class="md-nav__link">
+        Donate
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#apps" class="md-nav__link">
+    Apps
+  </a>
+  
+    <nav class="md-nav" aria-label="Apps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#open-source" class="md-nav__link">
+    Open Source
+  </a>
+  
+    <nav class="md-nav" aria-label="Open Source">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#featured" class="md-nav__link">
+    Featured
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other" class="md-nav__link">
+    Other
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#closed-source" class="md-nav__link">
+    Closed Source
+  </a>
+  
+    <nav class="md-nav" aria-label="Closed Source">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#featured_1" class="md-nav__link">
+    Featured
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other_1" class="md-nav__link">
+    Other
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#samples" class="md-nav__link">
+    Samples
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#boilerplates" class="md-nav__link">
+    Boilerplates
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools" class="md-nav__link">
+    Tools
+  </a>
+  
+    <nav class="md-nav" aria-label="Tools">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#for-electron" class="md-nav__link">
+    For Electron
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#using-electron" class="md-nav__link">
+    Using Electron
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#components" class="md-nav__link">
+    Components
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#documentation" class="md-nav__link">
+    Documentation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#articles" class="md-nav__link">
+    Articles
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    Books
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#videos" class="md-nav__link">
+    Videos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#podcasts" class="md-nav__link">
+    Podcasts
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contribute" class="md-nav__link">
+    Contribute
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Electron</h1>
+
+<p><strong>Electron</strong> is an open-source framework for creating desktop apps using web technologies. It combines the Chromium rendering engine and the Node.js runtime.</p>
+<blockquote>
+<p>Useful resources for creating apps with <a href="https://electronjs.org">Electron</a></p>
+</blockquote>
+<h2 id="apps">Apps</h2>
+<p>Made with Electron.</p>
+<h3 id="open-source">Open Source</h3>
+<h6 id="featured">Featured</h6>
+<ul>
+<li><a href="https://github.com/feross/webtorrent-app">WebTorrent</a> - Streaming torrent client.</li>
+<li><a href="https://github.com/minbrowser/min">Min</a> - Minimal web browser.</li>
+<li><a href="https://github.com/zeit/hyper">Hyper</a> - Terminal.</li>
+<li><a href="https://github.com/Microsoft/vscode">Visual Studio Code</a> - Cross-platform IDE.</li>
+</ul>
+<h6 id="other">Other</h6>
+<ul>
+<li><a href="https://github.com/jlord/git-it-electron">Git-it</a> - Teaches you Git and GitHub.</li>
+<li><a href="https://github.com/sindresorhus/caprine">Caprine</a> - Unofficial Facebook Messenger app.</li>
+<li><a href="https://github.com/Automattic/simplenote-electron">Simplenote</a> - Note keeper.</li>
+<li><a href="https://github.com/brrd/Abricotine">Abricotine</a> - Markdown editor with inline preview.</li>
+<li><a href="https://github.com/wulkano/kap">Kap</a> - Screen recorder with GIF support.</li>
+<li><a href="https://github.com/luin/medis">Medis</a> - Redis database management.</li>
+<li><a href="https://github.com/evancohen/smart-mirror">SmartMirror</a> - Voice controlled smart mirror.</li>
+<li><a href="https://github.com/beakerbrowser/beaker">Beaker</a> - Browser with peer-to-peer web protocols.</li>
+<li><a href="https://github.com/keeweb/keeweb">KeeWeb</a> - Unofficial KeePass app.</li>
+<li><a href="https://github.com/manosim/gitify">Gitify</a> - GitHub notifications in your menubar.</li>
+<li><a href="https://github.com/zz85/space-radar">SpaceRadar</a> - Interactive disk space and memory visualization.</li>
+<li><a href="https://github.com/leanote/desktop-app">Leanote</a> - Cloud notepad.</li>
+<li><a href="https://github.com/mmckegg/loop-drop-app">Loop Drop</a> - MIDI looper and synth for live electronic music performances.</li>
+<li><a href="https://github.com/G07cha/pomodoro">Pomodoro</a> - Timer based on the Pomodoro Technique.</li>
+<li><a href="https://gitlab.com/NebulousLabs/Sia-UI">Sia-UI</a> - Decentralized file storage system based on cryptocurrency technology.</li>
+<li><a href="https://github.com/dvcrn/markright">MarkRight</a> - GitHub flavored Markdown editor with live preview.</li>
+<li><a href="https://github.com/sqlectron/sqlectron-gui">Sqlectron</a> - SQL client.</li>
+<li><a href="https://github.com/LightTable/LightTable">Light Table</a> - Code editor with instant feedback.</li>
+<li><a href="https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-">Google Play Music Desktop Player</a> - Unofficial Google Play Music app.</li>
+<li><a href="https://github.com/auchenberg/chrome-devtools-app">Chrome DevTools</a> - Chrome DevTools packaged as an app.</li>
+<li><a href="https://github.com/steventhanna/proton">Proton</a> - Markdown editor with live preview.</li>
+<li><a href="https://github.com/kalpetros/hawkpass">Hawkpass</a> - Password generator.</li>
+<li><a href="https://github.com/BoostIO/Boostnote">Boostnote</a> - Markdown note &amp; code snippet app for developers.</li>
+<li><a href="https://github.com/muffinista/before-dawn">Before Dawn</a> - Screensaver tool.</li>
+<li><a href="https://github.com/MeoBeoI/Catify">Catify</a> - Utility for Spotify.</li>
+<li><a href="https://github.com/m0g/ansel">Ansel</a> - Image organizer.</li>
+<li><a href="https://github.com/MayGo/tockler">Tockler</a> - Tracks your time.</li>
+<li><a href="https://github.com/mattermost/desktop">Mattermost</a> - Mattermost client.</li>
+<li><a href="https://github.com/HR/Crypter">Crypter</a> - Secure encryption client.</li>
+<li><a href="https://github.com/yakyak/yakyak">YakYak</a> - Unofficial Google Hangouts app.</li>
+<li><a href="https://github.com/KeitIG/museeks">Museeks</a> - Music player.</li>
+<li><a href="https://github.com/SabakiHQ/Sabaki">Sabaki</a> - Go/Baduk/Weiqi board.</li>
+<li><a href="https://github.com/wireapp/wire-desktop">Wire</a> - Messenger and calling app.</li>
+<li><a href="https://github.com/sedwards2009/extraterm">Extraterm</a> - Terminal.</li>
+<li><a href="https://github.com/oguzhaninan/Stacer">Stacer</a> - Ubuntu system optimizer.</li>
+<li><a href="https://github.com/sarah-seo/Inpad">Inpad</a> - Notes app with GitHub-flavored Markdown.</li>
+<li><a href="https://github.com/KELiON/cerebro">Cerebro</a> - Launcher with inline previews.</li>
+<li><a href="https://github.com/mifi/lossless-cut">LosslessCut</a> - Lossless video trimming &amp; cutting.</li>
+<li><a href="https://github.com/oguzhaninan/Buka">Buka</a> - E-book management.</li>
+<li><a href="https://github.com/getinsomnia/insomnia">Insomnia</a> - Create and manage HTTP requests.</li>
+<li><a href="https://github.com/champloohq/tusk">Tusk</a> - Unofficial Evernote app.</li>
+<li><a href="https://github.com/buttercup/buttercup-desktop">Buttercup Desktop</a> - Password manager.</li>
+<li><a href="https://github.com/Foundry376/Mailspring">Mailspring</a> - Extensible email client. (Fork of Nylas Mail)</li>
+<li><a href="https://github.com/headsetapp/headset-electron">Headset</a> - Discover, collect, and listen to music from YouTube.</li>
+<li><a href="https://github.com/nukeop/nuclear">Nuclear</a> - Music player that streams from free sources.</li>
+<li><a href="https://github.com/marktext/marktext">Mark Text</a> - Real-time preview Markdown editor.</li>
+<li><a href="https://github.com/Splode/pomotroid">Pomotroid</a> - Pomodoro timer.</li>
+<li><a href="https://github.com/lutzroeder/netron">Netron</a> - Visualizer for deep learning and machine learning models.</li>
+<li><a href="https://github.com/resin-io/etcher">Etcher</a> - Flash OS images to SD cards and USB drives.</li>
+<li><a href="https://github.com/fabiospampinato/notable">Notable</a> - Markdown-based note-taking.</li>
+<li><a href="https://github.com/soroushchehresa/unsplash-wallpapers">Unsplash Wallpapers</a> - Set desktop wallpaper from Unsplash.</li>
+<li><a href="https://github.com/agalwood/Motrix">Motrix</a> - Download manager.</li>
+<li><a href="https://github.com/meetfranz/franz">Franz</a> - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.</li>
+<li><a href="https://github.com/timche/gmail-desktop">Gmail Desktop</a> - Unofficial Gmail app.</li>
+<li><a href="https://github.com/madisvain/upcount">Upcount</a> - Invoicing.</li>
+<li><a href="https://github.com/szTheory/exifcleaner">ExifCleaner</a> - Clean image metadata with drag and drop.</li>
+<li><a href="https://github.com/antonreshetov/massCode">massCode</a> - Code snippet manager for developers.</li>
+<li><a href="https://github.com/swiftyapp/swifty">Swifty</a> - Password manager.</li>
+<li><a href="https://github.com/emqx/MQTTX">MQTTX</a> - Client for MQTT, which is a lightweight messaging protocol.</li>
+<li><a href="https://github.com/alibaba/lightproxy">LightProxy</a> - Web debugging proxy.</li>
+<li><a href="https://github.com/beekeeper-studio/beekeeper-studio">Beekeeper Studio</a> - Cross-platform SQL editor and database manager.</li>
+<li><a href="https://github.com/ueberdosis/mouseless">Mouseless</a> - Keyboard shortcut training and look-up.</li>
+<li><a href="https://github.com/ueberdosis/glyphfinder">Glyphfinder</a> - Unicode character search.</li>
+<li><a href="https://github.com/Graviton-Code-Editor/Graviton-App">Graviton Editor</a> - Cross-platform code editor.</li>
+<li><a href="https://github.com/lukasbach/yana">Yana</a> - Notebook app with rich-text notes, nested note organization and global search.</li>
+<li><a href="https://github.com/KYDronePilot/SpaceEye">SpaceEye</a> - Live satellite imagery for your desktop background.</li>
+<li><a href="https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher">Heroic Games Launcher</a> - Alternative Epic games launcher.</li>
+<li><a href="https://github.com/TommyX12/VIR">VIR</a> - Intelligent time manager with automatic planning.</li>
+<li><a href="https://github.com/will-stone/browserosaurus">Browserosaurus</a> - Browser prompter for macOS.</li>
+<li><a href="https://github.com/lostdesign/linked">linked</a> - Daily journal.</li>
+</ul>
+<h3 id="closed-source">Closed Source</h3>
+<h6 id="featured_1">Featured</h6>
+<ul>
+<li><a href="https://rosefinchapp.com">Rosefinch</a> - Store and run SQL queries.</li>
+<li><a href="https://nota.md">Nota</a> - Pro writing app designed for local Markdown files.</li>
+</ul>
+<h6 id="other_1">Other</h6>
+<ul>
+<li><a href="http://www.gitkraken.com">GitKraken</a> - Git client.</li>
+<li><a href="http://1clipboard.io">1Clipboard</a> - Universal clipboard manager.</li>
+<li><a href="https://www.getpostman.com">Postman</a> - Create and send HTTP requests.</li>
+<li><a href="https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f">Slack</a> - Desktop version.</li>
+<li><a href="http://avocode.com">Avocode</a> - Share design and collaborate.</li>
+<li><a href="https://prepros.io">Prepros</a> - Compile almost any preprocessing language with live browser refresh.</li>
+<li><a href="http://www.strem.io">Stremio</a> - Media center.</li>
+<li><a href="http://www.typetalk.in">Typetalk</a> - Share and discuss ideas with your team through instant messaging.</li>
+<li><a href="http://pingendo.com">Pingendo</a> - Bootstrap prototyping.</li>
+<li><a href="https://www.spreaker.com/download">Spreaker Studio</a> - Audio recording and broadcasting.</li>
+<li><a href="https://mockingbot.com">MockingBot</a> - Prototyping tool for designing apps.</li>
+<li><a href="http://caret.io">Caret</a> - Markdown editor.</li>
+<li><a href="https://rememberapp.co.kr">Remember</a> - Business card management. <em>(Korean)</em></li>
+<li><a href="https://www.mongodb.com/products/compass">MongoDB Compass</a> - Official MongoDB app.</li>
+<li><a href="https://freeter.io">Freeter</a> - Organizer for freelancers &amp; creatives.</li>
+<li><a href="https://www.whatsapp.com/download/">WhatsApp</a> - Official WhatsApp app.</li>
+<li><a href="https://catlight.io">CatLight</a> - Build status notifier.</li>
+<li><a href="https://discord.com">Discord</a> - Voice and text chat.</li>
+<li><a href="http://cocos2d-x.org/products#creator">Cocos Creator</a> - Game editor for creating web and native games for Cocos2D-x.</li>
+<li><a href="https://www.inkdrop.info">Inkdrop</a> - Markdown notebook for hackers.</li>
+<li><a href="https://www.exodus.io">Exodus</a> - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.</li>
+<li><a href="http://hackolade.com">Hackolade</a> - Data modeling for NoSQL and multi-model databases.</li>
+<li><a href="https://cashnotify.com">CashNotify</a> - Monitor your Stripe accounts from your menu bar.</li>
+<li><a href="https://mockoon.com">Mockoon</a> - Mock servers in seconds.</li>
+<li><a href="https://app.twitch.tv">Twitch</a> - Official Twitch app.</li>
+<li><a href="https://fenêt.re">Fenêtre</a> - Picture-in-picture for your Mac.</li>
+<li><a href="https://cleavr.io">Cleavr</a> - Provision servers and deploy web apps.</li>
+<li><a href="https://getbrandy.io">Brandy</a> - A brand asset manager for your menu bar.</li>
+<li><a href="https://www.cacher.io">Cacher</a> - Cloud-based, team-enabled code snippet manager with Gist sync.</li>
+<li><a href="https://musicplus.io">MusicPlus</a> - Free music app for macOS and Windows.</li>
+<li><a href="https://mingo.io">Mingo</a> - MongoDB GUI.</li>
+<li><a href="https://datensen.com">Moon Modeler</a> - Schema design tool for MongoDB, Mongoose, and MariaDB.</li>
+<li><a href="https://notion.so">Notion</a> - All-in-one workspace for your notes, tasks, wikis, and databases.</li>
+<li><a href="https://www.fatpick.com">FATpick</a> - Guitar tablature viewer that scores your performance as you play along.</li>
+<li><a href="https://www.taskade.com">Taskade</a> - Realtime organization and collaboration tool for distributed teams with tasks, notes, and chat.</li>
+<li><a href="https://www.coloban.com">Coloban</a> - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare, and more.</li>
+<li><a href="https://dynobase.dev">Dynobase</a> - AWS DynamoDB GUI.</li>
+<li><a href="https://getlotus.app">Lotus</a> - Keep up with GitHub notifications without stress.</li>
+<li><a href="https://runjs.app">RunJS</a> - Playground for JavaScript and TypeScript.</li>
+</ul>
+<h3 id="samples">Samples</h3>
+<ul>
+<li><a href="https://github.com/hokein/electron-sample-apps">Electron API usage</a> - Sample apps illustrating usage of Electron APIs.</li>
+<li><a href="https://github.com/hokein/electron-screen-recorder">Screen Recorder</a> - WebRTC screen recorder.</li>
+<li><a href="https://electronjs.org/blog/simple-samples#activity-monitor">Activity Monitor</a> - Shows a doughnut chart of the CPU system, user, and idle activity time.</li>
+<li><a href="https://electronjs.org/blog/simple-samples#hash">Hash</a> - Shows the hash values of entered text using different algorithms.</li>
+<li><a href="https://electronjs.org/blog/simple-samples#prices">Prices</a> - Shows the current price of oil, gold, and silver using the Yahoo Finance API.</li>
+</ul>
+<h2 id="boilerplates">Boilerplates</h2>
+<ul>
+<li><a href="https://github.com/sindresorhus/electron-boilerplate">electron-boilerplate</a> - Boilerplate to kickstart creating an app - by <a href="http://github.com/sindresorhus">sindresorhus</a>.</li>
+<li><a href="https://github.com/sindresorhus/generator-electron">generator-electron</a> - Scaffold out an app boilerplate.</li>
+<li><a href="https://github.com/szwacz/electron-boilerplate">electron-boilerplate</a> - Comprehensive boilerplate which even generates installers - by <a href="https://github.com/szwacz">szwacz</a>.</li>
+<li><a href="https://github.com/chentsulin/electron-react-boilerplate">electron-react-boilerplate</a> - Boilerplate based on React and webpack.</li>
+<li><a href="https://github.com/electron/electron-quick-start">electron-quick-start</a> - Clone the repo to try a simple app.</li>
+<li><a href="https://github.com/railsware/bozon">bozon</a> - Scaffold, run, test, and package your app.</li>
+<li><a href="https://github.com/reZach/secure-electron-template">secure-electron-template</a> - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.</li>
+<li><a href="https://github.com/maximegris/angular-electron">angular-electron</a> - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.</li>
+<li><a href="https://github.com/cawa-93/vite-electron-builder">vite-electron-builder</a> - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.</li>
+</ul>
+<h2 id="tools">Tools</h2>
+<h3 id="for-electron">For Electron</h3>
+<ul>
+<li><a href="https://github.com/electron-userland/electron-builder">electron-builder</a> - Create installers.</li>
+<li><a href="https://github.com/electron-userland/electron-packager">electron-packager</a> - Package and distribute your app.</li>
+<li><a href="https://github.com/sindresorhus/electron-debug">electron-debug</a> - Adds useful debug features.</li>
+<li><a href="https://github.com/sindresorhus/electron-is-dev">electron-is-dev</a> - Check if Electron is running in development.</li>
+<li><a href="https://github.com/parro-it/electron-localshortcut">electron-localshortcut</a> - Add keyboard shortcuts locally to a window.</li>
+<li><a href="https://github.com/sindresorhus/fix-path">fix-path</a> - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.</li>
+<li><a href="https://github.com/sindresorhus/electron-dl">electron-dl</a> - Simplified file downloads.</li>
+<li><a href="https://github.com/ArekSredzki/electron-release-server">electron-release-server</a> - Self-hosted release server with front-end &amp; auto-updater support.</li>
+<li><a href="https://github.com/electron/electron-rebuild">electron-rebuild</a> - Rebuild native Node.js modules against the currently installed Electron version.</li>
+<li><a href="https://github.com/parro-it/debug-menu">debug-menu</a> - Chrome-like "inspect element" context-menu.</li>
+<li><a href="https://github.com/unindented/electron-installer-debian">electron-installer-debian</a> - Create a Debian package.</li>
+<li><a href="https://github.com/unindented/electron-installer-redhat">electron-installer-redhat</a> - Create a Red Hat package.</li>
+<li><a href="https://github.com/unindented/electron-installer-windows">electron-installer-windows</a> - Create a Windows package.</li>
+<li><a href="https://github.com/electron-userland/electron-download">electron-download</a> - Download the Electron release zip from GitHub.</li>
+<li><a href="https://github.com/electron-userland/electron-osx-sign">electron-osx-sign</a> - Code-signing for macOS apps.</li>
+<li><a href="https://github.com/felixrieseberg/ember-electron">ember-electron</a> - Build, test, and package Ember apps.</li>
+<li><a href="https://github.com/sindresorhus/electron-store">electron-store</a> - Save and load data like user preferences, app state, cache, etc.</li>
+<li><a href="https://github.com/sindresorhus/electron-context-menu">electron-context-menu</a> - Extensible context menu.</li>
+<li><a href="https://github.com/louischatriot/nedb">NeDB</a> - Embedded persistent or in-memory database.</li>
+<li><a href="https://github.com/pubkey/rxdb">RxDB</a> - A realtime NoSQL database.</li>
+<li><a href="https://github.com/GPMDP/electron-devtools-installer">electron-devtools-installer</a> - Install DevTools extensions from the Chrome Web Store.</li>
+<li><a href="https://github.com/megahertz/electron-log">electron-log</a> - Simple logging.</li>
+<li><a href="https://github.com/rhysd/electron-about-window">electron-about-window</a> - 'About This App' window.</li>
+<li><a href="https://github.com/manidlou/elemon">elemon</a> - Live-reload your app during development.</li>
+<li><a href="https://github.com/brrd/electron-is-accelerator">electron-is-accelerator</a> - Check if a string is a valid accelerator.</li>
+<li><a href="https://github.com/gerhardberger/electron-pdf-window">electron-pdf-window</a> - View PDF files in browser windows.</li>
+<li><a href="https://github.com/sindresorhus/got">got</a> - Simplified HTTP requests.</li>
+<li><a href="https://github.com/sindresorhus/electron-unhandled">electron-unhandled</a> - Catch unhandled errors and promise rejections.</li>
+<li><a href="https://github.com/sindresorhus/electron-util">electron-util</a> - Useful utilities for developing apps and modules.</li>
+<li><a href="https://github.com/sindresorhus/electron-reloader">electron-reloader</a> - Simple auto-reloading during development.</li>
+<li><a href="https://github.com/sindresorhus/electron-serve">electron-serve</a> - Static file serving (Useful for routing, like <code>react-router</code>).</li>
+<li><a href="https://github.com/sindresorhus/electron-timber">electron-timber</a> - Pretty logger.</li>
+<li><a href="https://github.com/maxkueng/chromium-net-errors">chromium-net-errors</a> - Chromium's network errors as custom error classes.</li>
+<li><a href="https://github.com/sindresorhus/run-electron">run-electron</a> - Run Electron without all the junk terminal output.</li>
+<li><a href="https://github.com/pd4d10/debugtron">debugtron</a> - Debug in-production Electron-based apps.</li>
+<li><a href="https://github.com/sindresorhus/electron-better-ipc">electron-better-ipc</a> - Simplified IPC communication.</li>
+<li><a href="https://github.com/getstation/electron-chrome-extension">electron-chrome-extension</a> - Add support for Chrome extensions.</li>
+<li><a href="https://github.com/citycide/trilogy">trilogy</a> - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.</li>
+<li><a href="https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron">adblocker-electron</a> - Block ads and trackers.</li>
+<li><a href="https://github.com/catdad/electronmon">electronmon</a> - Monitor and reload apps out-of-process during development.</li>
+<li><a href="https://github.com/doyensec/electronegativity">electronegativity</a> - Identify misconfigurations and security anti-patterns.</li>
+<li><a href="https://www.update.rocks">UpdateRocks!</a> - Auto-update service. Free for open source projects.</li>
+</ul>
+<h3 id="using-electron">Using Electron</h3>
+<ul>
+<li><a href="https://github.com/jiahaog/nativefier">nativefier</a> - Create an app of any website.</li>
+<li><a href="https://github.com/juliangruber/electron-stream">electron-stream</a> - Streaming wrapper.</li>
+<li><a href="https://github.com/fraserxu/electron-pdf">electron-pdf</a> - Generate PDF from URL, HTML, or Markdown files on the command-line.</li>
+<li><a href="https://github.com/jprichardson/electron-mocha">electron-mocha</a> - Run Mocha tests in Electron.</li>
+<li><a href="https://github.com/reactotron/reactotron">Reactotron</a> - Inspect your React and React Native apps.</li>
+<li><a href="https://github.com/hustcc/jest-electron">jest-electron</a> - Run and debug Jest unit tests in a browser environment.</li>
+</ul>
+<h2 id="components">Components</h2>
+<ul>
+<li><a href="https://github.com/maxogden/menubar">menubar</a> - Menubar app framework.</li>
+<li><a href="https://github.com/gabrielbull/react-desktop">React Desktop</a> - UI toolkit for macOS and Windows built with React.</li>
+<li><a href="https://github.com/adamschwartz/chrome-tabs">chrome-tabs</a> - Chrome like tabs.</li>
+<li><a href="https://xel-toolkit.org">Xel</a> - Widget toolkit for building native-like apps.</li>
+</ul>
+<h2 id="documentation">Documentation</h2>
+<ul>
+<li><a href="https://electronjs.org/docs/tutorial/quick-start">Quick Start</a></li>
+<li><a href="https://electronjs.org/docs">Official docs</a></li>
+<li><a href="http://jlord.us/essential-electron/">Essential Electron</a> - Concise overview.</li>
+</ul>
+<h2 id="articles">Articles</h2>
+<ul>
+<li><a href="http://maxogden.com/electron-fundamentals.html">Electron Fundamentals</a></li>
+<li><a href="https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658">Building a desktop application with Electron</a></li>
+<li><a href="http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/">Codesigning your app for macOS</a></li>
+<li><a href="https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c">Auto-updating apps for macOS and Windows: The complete guide</a></li>
+<li><a href="https://anadea.info/blog/building-desktop-app-with-electron">Building a desktop app with Electron, React, and Redux</a></li>
+<li><a href="https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5">Introducing BrowserView for Electron</a> - New Electron API to embed web apps with fewer bugs and improved performance.</li>
+<li><a href="https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b">Migrating Slack's Desktop App to BrowserView</a> - Slack rewrote their Electron app with <code>BrowserView</code>, Redux, Rx, and TypeScript, to fix its performance problems.</li>
+<li><a href="https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92">Electron on the App Store</a> - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.</li>
+<li><a href="https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6">Building a file explorer with Electron, Quasar, and Vue</a> - Focused on design and code decisions and Electron security.</li>
+<li><a href="https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/">Using Google Analytics to gather usage statistics in Electron</a> - How to collect anonymous user statistics.</li>
+<li><a href="https://kilianvalkhof.com/2019/electron/notarizing-your-electron-application/">Notarizing your Electron app</a> - How to configure your app packaging for Apple's notarization.</li>
+<li><a href="https://getlotus.app/21-making-electron-apps-feel-native-on-mac">Making Electron apps feel native on Mac</a></li>
+</ul>
+<h2 id="books">Books</h2>
+<ul>
+<li><a href="https://bleedingedgepress.com/developing-an-electron-edge/">Developing an Electron Edge</a> - <a href="https://read.amazon.com/kp/embed?asin=B01G7TTKSK&amp;asin=B01G7TTKSK&amp;preview=newtab&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC">Preview</a> 💲</li>
+<li><a href="https://www.manning.com/books/electron-in-action?a_aid=electroninaction">Electron in Action</a> 💲</li>
+<li><a href="https://www.manning.com/books/cross-platform-desktop-applications">Cross-Platform Desktop Applications</a> 💲</li>
+</ul>
+<h2 id="videos">Videos</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=jKzBJAowmGg">Getting Started with Electron 1.x</a></li>
+<li><a href="https://www.youtube.com/watch?v=dz5SnmBzBXc">Packaging and Distributing Electron Desktop Apps</a></li>
+<li><a href="https://www.youtube.com/watch?v=K-H2amwQ_pU">Multi Window Electron Desktop Apps</a></li>
+<li><a href="https://www.youtube.com/watch?v=RaPmi-33rfc">The State of Electron</a></li>
+<li><a href="https://www.youtube.com/watch?v=9xX_G0l5jLU">Cross-Platform Desktop Apps with Electron</a></li>
+<li><a href="https://www.youtube.com/watch?v=nXIrFq5-FC8">Building Native Desktop apps using Electron</a></li>
+<li><a href="https://www.youtube.com/watch?v=jRPUB-D1Wx0">The New Desktop: Electron, React, &amp; Pixel-Perfect Native-Feeling Experiences</a></li>
+<li><a href="https://www.youtube.com/watch?v=rbSvc8_BHaw">Building Desktop Apps with Node.js and Electron</a></li>
+<li><a href="https://www.pluralsight.com/courses/electron-fundamentals">Electron Fundamentals course - Pluralsight</a> 💲</li>
+<li><a href="https://www.lynda.com/Electron-tutorials/Electron-Building-Cross-Platform-Desktop-Apps/518051-2.html">Electron: Building Cross Platform Desktop Apps - Lynda</a> 💲</li>
+<li><a href="https://egghead.io/courses/build-a-desktop-application-with-electron">Build a desktop application with Electron - Egghead</a> 💲</li>
+<li><a href="https://frontendmasters.com/courses/electron/">Build Cross-Platform Desktop Apps with Electron - Frontend Masters</a> 💲</li>
+<li><a href="https://www.youtube.com/watch?v=DDjVaHPvRdM">Electron Meetup SF, November 2017</a> - Includes some good talks on improving app startup time, debugging crashes, etc.</li>
+<li><a href="https://www.youtube.com/watch?v=fw4PmPaghyU">Make Your Electron App Feel at Home Everywhere</a> - Tips on making your app feel more native on macOS, Windows, and Linux without sacrificing your own style.</li>
+</ul>
+<h2 id="podcasts">Podcasts</h2>
+<ul>
+<li><a href="http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord">Hanselminutes: Creating cross-platform Electron apps with Jessica Lord</a></li>
+<li><a href="https://javascriptair.com/episodes/2016-07-06">JavaScript Air: Electron Apps with @jlord and @emorikawa</a></li>
+<li><a href="https://changelog.com/podcast/216">The Changelog #216: GitHub's Electron with Zeke Sikelianos</a></li>
+<li><a href="http://www.fullstackradio.com/48">Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron</a></li>
+</ul>
+<h2 id="community">Community</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/electronjs">Reddit</a></li>
+<li><a href="https://stackoverflow.com/questions/tagged/electron">Stack Overflow</a></li>
+<li><a href="https://twitter.com/electronjs"><code>@electronjs</code> on Twitter</a></li>
+<li><a href="https://electron-br.slack.com">electron-br</a> <em>(Brazilian Portuguese)</em></li>
+<li><a href="https://electronpl.github.io">electron-pl</a> <em>(Polish)</em></li>
+<li><a href="https://telegram.me/electron_ru"><code>@electron_ru</code> on Telegram</a> <em>(Russian)</em></li>
+<li><a href="https://www.facebook.com/groups/electronjs/"><code>electronjs</code> on Facebook</a></li>
+<li><a href="https://www.producthunt.com/@sindresorhus/collections/electron-apps">Product Hunt</a></li>
+</ul>
+<h2 id="contribute">Contribute</h2>
+<p>Contributions welcome! Read the <a href="../contributing/">contribution guidelines</a> first.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 Andrik Santos ™
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://andriksantos.github.io/" target="_blank" rel="noopener" title="Visit my portfolio" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.linkedin.com/in/andriksantos/" target="_blank" rel="noopener" title="Follow me on linkedin" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.instagram.com/andriksantos1/" target="_blank" rel="noopener" title="andriksantos1 on instagram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.top", "search.suggest", "search.highlight", "search.share"], "search": "../assets/javascripts/workers/search.db81ec45.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.4b2c34cd.min.js"></script>
+      
+        <script src="../javascripts/shortcuts.js"></script>
+      
+    
+  </body>
+</html>

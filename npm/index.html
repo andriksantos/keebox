@@ -1,0 +1,1445 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Programming resources are all over the internet, but they're hard to track down. That's why this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at any time">
+      
+      
+        <meta name="author" content="Andrik Santos ™">
+      
+      
+        <link rel="canonical" href="https://andriksantos.github.io/keebox/npm/">
+      
+      
+        <link rel="prev" href="../electron/">
+      
+      
+        <link rel="next" href="../ios/">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.12">
+    
+    
+      
+        <title>Npm - Developer Resources | Keebox List ™</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.0d440cfe.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#articles" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Developer Resources | Keebox List ™" class="md-header__button md-logo" aria-label="Developer Resources | Keebox List ™" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Developer Resources | Keebox List ™
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Npm
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+            </label>
+          
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button class="md-header__button md-icon" aria-label="Select language">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"/></svg>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a href="/es/" hreflang="es" class="md-select__link">
+                    Español
+                  </a>
+                </li>
+              
+                <li class="md-select__item">
+                  <a href="/en/" hreflang="en" class="md-select__link">
+                    English
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/andriksantos/keebox" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    andriksantos/keebox
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Developer Resources | Keebox List ™" class="md-nav__button md-logo" aria-label="Developer Resources | Keebox List ™" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Developer Resources | Keebox List ™
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/andriksantos/keebox" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    andriksantos/keebox
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Resources of programming
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nodejs/" class="md-nav__link">
+        Node.js
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../electron/" class="md-nav__link">
+        Electron
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Npm
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Npm
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#articles" class="md-nav__link">
+    Articles
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools" class="md-nav__link">
+    Tools
+  </a>
+  
+    <nav class="md-nav" aria-label="Tools">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#web" class="md-nav__link">
+    Web
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#browser-extensions" class="md-nav__link">
+    Browser extensions
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cli" class="md-nav__link">
+    CLI
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#packages" class="md-nav__link">
+    Packages
+  </a>
+  
+    <nav class="md-nav" aria-label="Packages">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#publishing" class="md-nav__link">
+    Publishing
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#registry" class="md-nav__link">
+    Registry
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other" class="md-nav__link">
+    Other
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clients" class="md-nav__link">
+    Clients
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" class="md-nav__link">
+    Tips
+  </a>
+  
+    <nav class="md-nav" aria-label="Tips">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#update-to-the-latest-npm-version" class="md-nav__link">
+    Update to the latest npm version
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#command-aliases" class="md-nav__link">
+    Command aliases
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shell-aliases" class="md-nav__link">
+    Shell aliases
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dont-add-to-packagejson-when-installing" class="md-nav__link">
+    Don't add to package.json when installing
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run-scripts" class="md-nav__link">
+    Run scripts
+  </a>
+  
+    <nav class="md-nav" aria-label="Run scripts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#passing-options-to-commands" class="md-nav__link">
+    Passing options to commands
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#silent-option" class="md-nav__link">
+    Silent option
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lifecycle-scripts" class="md-nav__link">
+    Lifecycle scripts
+  </a>
+  
+    <nav class="md-nav" aria-label="Lifecycle scripts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#npm-start-and-npm-test" class="md-nav__link">
+    npm start and npm test
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pre-and-post-scripts" class="md-nav__link">
+    pre and post scripts
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run-script-with-npx" class="md-nav__link">
+    Run script with npx
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run-commands-with-different-nodejs-versions" class="md-nav__link">
+    Run commands with different Node.js versions
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#link-local-packages" class="md-nav__link">
+    Link local packages
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#install-a-package-from-github" class="md-nav__link">
+    Install a package from GitHub
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#install-a-specific-version-of-a-package" class="md-nav__link">
+    Install a specific version of a package
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#list-top-level-installed-packages-and-their-version" class="md-nav__link">
+    List top-level installed packages and their version
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#command-help" class="md-nav__link">
+    Command help
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#standalone-version-of-a-package" class="md-nav__link">
+    Standalone version of a package
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faq" class="md-nav__link">
+    FAQ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#documentation" class="md-nav__link">
+    Documentation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#support" class="md-nav__link">
+    Support
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ios/" class="md-nav__link">
+        Ios
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mac/" class="md-nav__link">
+        Mac
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Swift/" class="md-nav__link">
+        Swift
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contributing/" class="md-nav__link">
+        Contributing
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../code-of-conduct/" class="md-nav__link">
+        Code of conduct
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../donate/" class="md-nav__link">
+        Donate
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#articles" class="md-nav__link">
+    Articles
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools" class="md-nav__link">
+    Tools
+  </a>
+  
+    <nav class="md-nav" aria-label="Tools">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#web" class="md-nav__link">
+    Web
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#browser-extensions" class="md-nav__link">
+    Browser extensions
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cli" class="md-nav__link">
+    CLI
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#packages" class="md-nav__link">
+    Packages
+  </a>
+  
+    <nav class="md-nav" aria-label="Packages">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#publishing" class="md-nav__link">
+    Publishing
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#registry" class="md-nav__link">
+    Registry
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other" class="md-nav__link">
+    Other
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clients" class="md-nav__link">
+    Clients
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" class="md-nav__link">
+    Tips
+  </a>
+  
+    <nav class="md-nav" aria-label="Tips">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#update-to-the-latest-npm-version" class="md-nav__link">
+    Update to the latest npm version
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#command-aliases" class="md-nav__link">
+    Command aliases
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#shell-aliases" class="md-nav__link">
+    Shell aliases
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dont-add-to-packagejson-when-installing" class="md-nav__link">
+    Don't add to package.json when installing
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run-scripts" class="md-nav__link">
+    Run scripts
+  </a>
+  
+    <nav class="md-nav" aria-label="Run scripts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#passing-options-to-commands" class="md-nav__link">
+    Passing options to commands
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#silent-option" class="md-nav__link">
+    Silent option
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lifecycle-scripts" class="md-nav__link">
+    Lifecycle scripts
+  </a>
+  
+    <nav class="md-nav" aria-label="Lifecycle scripts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#npm-start-and-npm-test" class="md-nav__link">
+    npm start and npm test
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pre-and-post-scripts" class="md-nav__link">
+    pre and post scripts
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run-script-with-npx" class="md-nav__link">
+    Run script with npx
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#run-commands-with-different-nodejs-versions" class="md-nav__link">
+    Run commands with different Node.js versions
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#link-local-packages" class="md-nav__link">
+    Link local packages
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#install-a-package-from-github" class="md-nav__link">
+    Install a package from GitHub
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#install-a-specific-version-of-a-package" class="md-nav__link">
+    Install a specific version of a package
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#list-top-level-installed-packages-and-their-version" class="md-nav__link">
+    List top-level installed packages and their version
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#command-help" class="md-nav__link">
+    Command help
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#standalone-version-of-a-package" class="md-nav__link">
+    Standalone version of a package
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#faq" class="md-nav__link">
+    FAQ
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#documentation" class="md-nav__link">
+    Documentation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#support" class="md-nav__link">
+    Support
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Npm</h1>
+
+<blockquote>
+<p>Awesome <a href="https://www.npmjs.com">npm</a> resources and tips</p>
+</blockquote>
+<p><a href="https://en.wikipedia.org/wiki/Npm_(software)">npm</a> is a package manager for the JavaScript programming language and comes bundled in the <a href="https://en.wikipedia.org/wiki/Node.js">Node.js</a> runtime.</p>
+<p><em>Please read the <a href="../contributing/">contribution guidelines</a> before contributing.</em></p>
+<h2 id="articles">Articles</h2>
+<ul>
+<li><a href="https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328">Small focused modules</a></li>
+<li><a href="http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs">Unix philosophy and Node.js</a> - Write programs that do one thing and do it well.</li>
+<li><a href="https://web.archive.org/web/20180302125059/https://substack.net/how_I_write_modules">Writing small modules</a></li>
+<li><a href="https://nodesource.com/blog/semver-a-primer/">Semver: A Primer</a> <em>(Must read!)</em></li>
+<li><a href="https://nodesource.com/blog/semver-tilde-and-caret/">Semver: Tilde and Caret</a></li>
+<li><a href="https://addyosmani.com/blog/using-npm-offline/">Offline installation of npm packages</a></li>
+<li><a href="https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run">Task automation with npm run</a></li>
+<li><a href="https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/">How to use npm as a build tool</a></li>
+<li><a href="https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md">Install npm packages globally without sudo on macOS and Linux</a></li>
+<li><a href="https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6">Optimizing the footprint of an npm package</a></li>
+<li><a href="https://github.com/maxogden/art-of-node#modules">The Art of Node</a> - An introduction to Node.js and client-side development with npm.</li>
+<li><a href="https://css-tricks.com/why-npm-scripts/">Why npm scripts?</a> - An introduction to npm scripts with common packages and scripts, as well as a boilerplate project.</li>
+</ul>
+<h2 id="tools">Tools</h2>
+<h3 id="web">Web</h3>
+<ul>
+<li><a href="https://npms.io">npms</a> - Superb package search with deep analysis of package quality using a <a href="https://npms.io/about">myriad of metrics</a>.<ul>
+<li><a href="http://npm-introspect.z3d.tech">npm-introspect</a> - A npms-based utility for visually exploring the quality of package dependencies.</li>
+</ul>
+</li>
+<li><a href="http://node-modules.com">node-modules</a> - Personalized package search based on your GitHub social graph.</li>
+<li><a href="https://nodei.co/">NodeICO</a> - Package badges.</li>
+<li><a href="https://libraries.io/npm">Libraries.io</a> - Package discovery.</li>
+<li><a href="http://npm-stat.com">npm-stat</a> - Statistics charts for packages.</li>
+<li><a href="http://npm.anvaka.com">npmgraph</a> - Visualization of dependencies.</li>
+<li><a href="http://www.npmtrends.com">npm trends</a> - Compare package download counts over time.</li>
+<li><a href="https://npmcompare.com">npm-compare</a> - Easily search and compare packages.</li>
+<li><a href="https://gist.github.com/bcoe/dcc961b869bbf6685002">npm-top</a> - npm users by downloads.</li>
+<li><a href="http://semver.npmjs.com">npm semver calculator</a> - Visually explore what versions of a package a semver range matches.</li>
+<li><a href="https://ghub.io">ghub.io</a> - Redirects to the GitHub repo of an npm package.</li>
+<li><a href="https://npmaddict.com">npm addict</a> - Your daily injection of npm packages.</li>
+<li><a href="https://moiva.io">moiva</a> - Discover and compare packages.</li>
+<li><a href="https://openbase.com">Openbase</a> - Compare open-source packages with powerful metrics and user reviews.</li>
+<li><a href="https://codelib.club">Codelib.club</a> - Search and discover open-source apps by dependencies.</li>
+</ul>
+<h3 id="browser-extensions">Browser extensions</h3>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp">Octo-Linker</a> - Chrome extension to navigate across npm packages on GitHub with ease.</li>
+<li><a href="https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj">npm-hub</a> - Chrome extension to explore npm dependencies on GitHub repos.</li>
+<li><a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef">github-npm-stats</a> - View npm download stats on GitHub.</li>
+<li><a href="https://chrome.google.com/webstore/detail/npm-search-update/kagpoplamlmaonpddimnnigiojimihnh">npm-search-update</a> - Chrome extension to quickly search for dependencies and monitor changes from the npm registry.</li>
+</ul>
+<h3 id="cli">CLI</h3>
+<ul>
+<li><a href="https://github.com/lukechilds/zsh-better-npm-completion">zsh-better-npm-completion</a> - Better ZSH completion for npm.</li>
+<li><a href="https://github.com/voidcosmos/npkill">npkill</a> - Easily find and remove old and heavy node_modules folders.</li>
+</ul>
+<h2 id="packages">Packages</h2>
+<h3 id="publishing">Publishing</h3>
+<ul>
+<li><a href="https://github.com/sindresorhus/np">np</a> - A better <code>npm publish</code>.</li>
+<li><a href="https://github.com/inikulin/publish-please">publish-please</a> - Publish packages safely and gracefully.</li>
+<li><a href="https://github.com/phuu/npm-release">npm-release</a> - Making releasing to npm so easy a kitten could probably do it™.</li>
+<li><a href="https://github.com/timoxley/pkgfiles">pkgfiles</a> - List all files which would be published in a package.</li>
+<li><a href="https://github.com/webpro/release-it">release-it</a> - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.</li>
+<li><a href="https://github.com/semantic-release/semantic-release">semantic-release</a> - Fully automated package publishing.</li>
+</ul>
+<h3 id="registry">Registry</h3>
+<ul>
+<li><a href="https://github.com/sindresorhus/npm-name-cli">npm-name</a> - Check whether a package name is available on npm.</li>
+<li><a href="https://github.com/sindresorhus/package-json">package-json</a> - Get the package.json of a package from the npm registry.</li>
+<li><a href="https://github.com/sindresorhus/latest-version-cli">latest-version</a> - Get the latest version of an npm package.</li>
+<li><a href="https://github.com/sindresorhus/npm-keyword">npm-keyword</a> - Get a list of npm packages with a certain keyword.</li>
+<li><a href="https://github.com/sindresorhus/npm-user">npm-user</a> - Get user info of an npm user.</li>
+<li><a href="https://github.com/sindresorhus/npm-email">npm-email</a> - Get the email of an npm user.</li>
+<li><a href="https://github.com/kevva/npm-user-packages-cli">npm-user-packages</a> - Get packages by an npm user.</li>
+<li><a href="https://github.com/gillstrom/dpn">dpn</a> - Get the dependents of a user's npm packages.</li>
+<li><a href="https://github.com/hughsk/npm-stats">npm-stats</a> - Get data from an npm registry.</li>
+<li><a href="https://github.com/postmanlabs/npm-cli-login">npm-cli-login</a> - Log in to npm.</li>
+<li><a href="https://github.com/Pana/nrm">nrm</a> - Registry manager.</li>
+<li><a href="https://github.com/dickeyxxx/npm-register">npm-register</a> - Easy to set up and maintain npm registry and proxy.</li>
+<li><a href="https://github.com/verdaccio/verdaccio">verdaccio</a> - Lightweight private npm proxy registry.</li>
+<li><a href="https://cloudsmith.io/l/npm-registry/">cloudsmith</a> - A fully managed package management SaaS with support for public and private npm registries (and many others).</li>
+</ul>
+<h3 id="other">Other</h3>
+<ul>
+<li><a href="https://github.com/sindresorhus/npm-home">npm-home</a> - Open the npm page of a package.</li>
+<li><a href="https://github.com/sindresorhus/gh-home">gh-home</a> - Open the GitHub page of a package.</li>
+<li><a href="https://github.com/alanshaw/david">david</a> - Check if your package dependencies are out of date.</li>
+<li><a href="https://github.com/dylang/npm-check">npm-check</a> - Check for outdated, incorrect, and unused dependencies, as well as interactive update.</li>
+<li><a href="https://github.com/th0r/npm-upgrade">npm-upgrade</a> - Update outdated npm dependencies interactively.</li>
+<li><a href="https://github.com/uber/npm-shrinkwrap">npm-shrinkwrap</a> - A consistent shrinkwrap tool.</li>
+<li><a href="https://github.com/felixrieseberg/npm-windows-upgrade">npm-windows-upgrade</a> - Upgrade npm on Windows.</li>
+<li><a href="https://github.com/sindresorhus/generator-nm">generator-nm</a> - Scaffold out an npm package.</li>
+<li><a href="https://github.com/sindresorhus/pkg-up">pkg-up</a> - Find the closest package.json file.</li>
+<li><a href="https://github.com/sindresorhus/read-pkg-up">read-pkg-up</a> - Read the closest package.json file.</li>
+<li><a href="https://github.com/npm/normalize-package-data">normalize-package-data</a> - Normalize package metadata.</li>
+<li><a href="https://github.com/sindresorhus/pkg-conf">pkg-conf</a> - Get namespaced config from the closest package.json.</li>
+<li><a href="https://github.com/sindresorhus/npm-run-path">npm-run-path</a> - Run locally installed binaries in the terminal by name like with global ones.</li>
+<li><a href="https://github.com/nolanlawson/local-npm">local-npm</a> - Use npm <a href="https://addyosmani.com/blog/using-npm-offline/">offline</a>.</li>
+<li><a href="https://github.com/zeke/npe">npe</a> - CLI for inspecting and editing properties in package.json.</li>
+<li><a href="https://github.com/samccone/engine-deps">engine-deps</a> - Manage Node.js version specific dependencies with ease.</li>
+<li><a href="https://github.com/amovah/enpeem-search">enpeem-search</a> - Search packages by scraping the npm web search.</li>
+<li><a href="https://github.com/seanzarrin/npm-issues">npm-issues</a> - Search known issues of all your packages at once.</li>
+<li><a href="https://github.com/davej/john">john</a> - Make npm3's flat dependencies easier to find and sort.</li>
+<li><a href="https://github.com/ruyadorno/ntl">ntl</a> - Interactive CLI menu to list &amp; run npm tasks.</li>
+<li><a href="https://github.com/egoist/decheck">decheck</a> - Explore dependencies of npm packages in the command-line.</li>
+<li><a href="https://github.com/JamieMason/shrinkpack">shrinkpack</a> - Lock down your dependencies and install offline.</li>
+<li><a href="https://github.com/coderaiser/redrun">redrun</a> - Expand scripts from package.json to improve execution speed.</li>
+<li><a href="https://github.com/egoist/package-size">package-size</a> - Get the bundle size of an npm package.</li>
+<li><a href="https://github.com/imsnif/synp">synp</a> - Convert yarn.lock to package-lock.json and vice versa.</li>
+<li><a href="https://github.com/mysticatea/npm-run-all">npm-run-all</a> - CLI tool to run multiple npm-scripts in parallel or serial.</li>
+<li><a href="https://github.com/Qard/onchange">onchange</a> - Watch files and folders and run a command when something changed.</li>
+<li><a href="https://github.com/micromata/cli-error-notifier">cli-error-notifier</a> - Sends native desktop notifications when npm scripts fail.</li>
+<li><a href="https://github.com/rvpanoz/luna">luna</a> - App to manage npm dependencies.</li>
+<li><a href="https://github.com/maticzav/emma-cli">emma-cli</a> - Interactive CLI package search utility.</li>
+<li><a href="https://github.com/lirantal/lockfile-lint">lockfile-lint</a> - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.</li>
+</ul>
+<h2 id="clients">Clients</h2>
+<ul>
+<li><a href="https://github.com/yarnpkg/yarn">yarn</a> - Fast, reliable, and secure dependency management.</li>
+<li><a href="https://github.com/npm/cli">npm</a> - The official client.</li>
+<li><a href="https://github.com/pnpm/pnpm">pnpm</a> - Fast, disk space efficient package manager.</li>
+</ul>
+<h2 id="tips">Tips</h2>
+<h3 id="update-to-the-latest-npm-version">Update to the latest npm version</h3>
+<pre><code>$ npm install --global npm
+</code></pre>
+<p><em><a href="https://github.com/felixrieseberg/npm-windows-upgrade">Windows users, read more.</a></em></p>
+<h3 id="command-aliases">Command aliases</h3>
+<ul>
+<li><code>npm i</code> → <code>npm install</code></li>
+<li><code>npm i -D</code> → <code>npm install --save-dev</code></li>
+<li><code>npm t</code> → <code>npm test</code></li>
+<li><code>npm it</code> → <code>npm install &amp;&amp; npm test</code></li>
+<li><code>npm r</code> → <code>npm uninstall</code></li>
+<li><code>npm un</code> → <code>npm uninstall</code></li>
+<li><code>npm up</code> → <code>npm update</code></li>
+</ul>
+<h3 id="shell-aliases">Shell aliases</h3>
+<p>Speed up your common npm tasks.</p>
+<p>In your <code>.zshrc</code>/<code>.bashrc</code>:</p>
+<pre><code class="language-sh">alias ni='npm install'
+alias nid='npm install --save-dev'
+alias nig='npm install --global'
+alias nt='npm test'
+alias nit='npm install &amp;&amp; npm test'
+alias nk='npm link'
+alias nr='npm run'
+alias ns='npm start'
+alias nf='npm cache clean &amp;&amp; rm -rf node_modules &amp;&amp; npm install'
+alias nlg='npm list --global --depth=0'
+</code></pre>
+<h3 id="dont-add-to-packagejson-when-installing">Don't add to package.json when installing</h3>
+<p>By default npm adds packages you install to the <code>dependencies</code> field in package.json (since v5). You can prevent this by specifying the <code>--no-save</code> flag. You can add a package to <code>devDependencies</code> with <code>--save-dev</code>/<code>-D</code>:</p>
+<pre><code>$ npm install --save-dev ava
+</code></pre>
+<h3 id="run-scripts">Run scripts</h3>
+<p>You can easily <a href="https://docs.npmjs.com/cli/run-script">run scripts</a> using npm by adding them to the <code>"scripts"</code> field in package.json and run them with <code>npm run &lt;script-name&gt;</code>. Run <code>npm run</code> to see available scripts. Binaries of locally install packages are made available in the <a href="https://en.wikipedia.org/wiki/PATH_(variable)">PATH</a>, so you can run them by name.</p>
+<pre><code class="language-json">{
+    &quot;name&quot;: &quot;awesome-package&quot;,
+    &quot;scripts&quot;: {
+        &quot;cat&quot;: &quot;cat-names&quot;
+    },
+    &quot;dependencies&quot;: {
+        &quot;cat-names&quot;: &quot;^1.0.0&quot;
+    }
+}
+</code></pre>
+<pre><code>$ npm run cat
+Max
+</code></pre>
+<p>All package.json properties are <a href="https://docs.npmjs.com/misc/scripts#packagejson-vars">exposed</a> as environment variables:</p>
+<pre><code class="language-json">{
+    &quot;name&quot;: &quot;awesome-package&quot;,
+    &quot;scripts&quot;: {
+        &quot;name&quot;: &quot;echo $npm_package_name&quot;
+    }
+}
+</code></pre>
+<pre><code>$ npm run name
+awesome-package
+</code></pre>
+<h4 id="passing-options-to-commands">Passing options to commands</h4>
+<p>You can pass options to the command you are using in your npm script by adding <code>-- --flag</code> like in the example below. The <code>--</code> <a href="https://unix.stackexchange.com/questions/11376/what-does-double-dash-mean-also-known-as-bare-double-dash">marks the end of options parsing</a>, so <code>npm run</code> will just ignore it and pass it to the command.</p>
+<pre><code class="language-json">{
+    &quot;name&quot;: &quot;awesome-package&quot;,
+    &quot;scripts&quot;: {
+        &quot;xo&quot;: &quot;xo&quot;,
+        &quot;xo:fix&quot;: &quot;npm run xo -- --fix&quot;,
+    }
+}
+</code></pre>
+<p><em>Adding the <code>-- --fix</code> option is like executing <code>xo --fix</code></em>.</p>
+<h4 id="silent-option">Silent option</h4>
+<p><code>npm run</code> has a <code>--silent</code> option which is especially useful when combining npm scripts.</p>
+<p>Imagine you have a setup for linting your JavaScript files like the following:</p>
+<pre><code class="language-json">{
+    &quot;name&quot;: &quot;awesome-package&quot;,
+    &quot;scripts&quot;: {
+        &quot;xo&quot;: &quot;xo&quot;,
+        &quot;xo:fix&quot;: &quot;npm run xo --silent -- --fix&quot;,
+    }
+}
+</code></pre>
+<p><em>Using the <code>--silent</code> option reduces the output in the terminal. See <a href="https://twitter.com/mkuehnel/status/957965749473210369">this comparison</a>.</em></p>
+<h3 id="lifecycle-scripts">Lifecycle scripts</h3>
+<p>npm comes with predefined <a href="https://docs.npmjs.com/misc/scripts">lifecyle scripts</a> which are excuted under specific conditions if they are defined in your package.json.</p>
+<pre><code class="language-json">{
+    &quot;name&quot;: &quot;awesome-package&quot;,
+    &quot;scripts&quot;: {
+        &quot;prepublishOnly&quot;: &quot;nsp check&quot;
+    },
+    &quot;devDependencies&quot;: {
+        &quot;nsp&quot;: &quot;^3.0.0&quot;
+    }
+}
+</code></pre>
+<p>This will be executed automatically before your npm package is published to the registry via <code>npm publish</code> to check for known vulnerabilties in your dependencies.</p>
+<p><em>Note: </em><em>prepublishOnly</em><em> is available since npm v4.0.0. See <a href="https://docs.npmjs.com/misc/scripts#deprecation-note">npm docs</a>.</em></p>
+<h4 id="npm-start-and-npm-test"><code>npm start</code> and <code>npm test</code></h4>
+<p><code>npm start</code> and <code>npm test</code> are also lifecycle scripts but are not executed automatically.</p>
+<pre><code class="language-json">{
+    &quot;name&quot;: &quot;awesome-package&quot;,
+    &quot;scripts&quot;: {
+        &quot;start&quot;: &quot;node server.js&quot;,
+        &quot;test&quot;: &quot;ava&quot;
+    },
+    &quot;devDependencies&quot;: {
+        &quot;ava&quot;: &quot;^1.0.0&quot;
+    }
+}
+</code></pre>
+<p>Therefore they can be executed simply with:</p>
+<pre><code class="language-console">$ npm test
+$ npm start
+</code></pre>
+<h4 id="pre-and-post-scripts"><code>pre</code> and <code>post</code> scripts</h4>
+<p>These are special lifecycle scripts which can be used to run scripts automatically in sequence.</p>
+<pre><code class="language-json">{
+    &quot;name&quot;: &quot;awesome-package&quot;,
+    &quot;scripts&quot;: {
+        &quot;pretest&quot;: &quot;eslint .&quot;,
+        &quot;test&quot;: &quot;ava&quot;
+    },
+    &quot;devDependencies&quot;: {
+        &quot;eslint&quot;: &quot;^4.19.0&quot;,
+        &quot;ava&quot;: &quot;^1.0.0&quot;
+    }
+}
+</code></pre>
+<pre><code class="language-console">$ npm test
+</code></pre>
+<p>This will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.</p>
+<p><em>Note: <code>pre</code> and <code>post</code> scripts can also be used for your custom npm scripts. So <code>npm run foo</code> will also run <code>prefoo</code> and <code>postfoo</code> if defined.</em></p>
+<h3 id="run-script-with-npx">Run script with <code>npx</code></h3>
+<p><code>npm</code> <a href="https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b">comes bundled</a> with <code>npx</code> (Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local <code>node_modules/.bin</code> directory, or from a central cache, installing any packages needed in order for <code>&lt;command&gt;</code> to run.</p>
+<pre><code class="language-json">{
+    &quot;name&quot;: &quot;awesome-package&quot;,
+    &quot;dependencies&quot;: {
+        &quot;cat-names&quot;: &quot;^1.0.0&quot;
+    }
+}
+</code></pre>
+<p>If the binary is already installed, it will be executed from <code>node_modules/.bin</code>.</p>
+<pre><code>$ npx cat-names
+Max
+</code></pre>
+<p>But if the binary is missing, it will be installed first.</p>
+<pre><code>$ npx dog-names
+npx: installed 46 in 3.136s
+Bentley
+</code></pre>
+<h3 id="run-commands-with-different-nodejs-versions">Run commands with different Node.js versions</h3>
+<p>With <code>npx</code> (Comes bundled with npm v5.2.0 or newer) and the <a href="https://www.npmjs.com/package/node-bin"><code>node-bin</code></a> package, you can easily try out code in different Node.js versions without having to use a version manager like <a href="http://nvm.sh"><code>nvm</code></a>, <a href="https://github.com/isaacs/nave"><code>nave</code></a>, or <a href="https://github.com/tj/n"><code>n</code></a>.</p>
+<pre><code>$ npx --package=node-bin@6.11.0 -- node --version
+v6.11.0
+</code></pre>
+<h3 id="link-local-packages">Link local packages</h3>
+<p>Sometimes it can be useful to have a local version of a package as a dependency. You can use <code>npm link</code> to link one local package into another. Run <code>npm link</code> in the package you want to use. This creates a global reference. Then go into your original package and run <code>npm link &lt;package-name&gt;</code> to link in the other package.</p>
+<pre><code>$ cd rainbow
+$ npm link
+$ cd ../unicorn
+$ npm link rainbow
+</code></pre>
+<p>You can now use <code>rainbow</code> as a dependency in the <code>unicorn</code> package.</p>
+<h3 id="install-a-package-from-github">Install a package from GitHub</h3>
+<p>npm supports using a shorthand for installing a package directly from a GitHub repo:</p>
+<pre><code>$ npm install sindresorhus/chalk
+</code></pre>
+<p>Let's target a specific commit as the main branch is a moving target:</p>
+<pre><code>$ npm install 'sindresorhus/chalk#51b8f32'
+</code></pre>
+<p>Specify either a commit SHA, branch, tag, or nothing.</p>
+<p>You can also install Git dependencies with semver: <em>(Requires npm v5 or newer)</em></p>
+<pre><code>$ npm install 'sindresorhus/chalk#semver:^2.0.0'
+</code></pre>
+<h3 id="install-a-specific-version-of-a-package">Install a specific version of a package</h3>
+<pre><code>$ npm install chalk@1.0.0
+</code></pre>
+<h3 id="list-top-level-installed-packages-and-their-version">List top-level installed packages and their version</h3>
+<pre><code>$ npm ls --depth=0
+</code></pre>
+<h3 id="command-help">Command help</h3>
+<p>Get help docs for a command:</p>
+<pre><code>$ npm help &lt;command&gt;
+</code></pre>
+<p>Example:</p>
+<pre><code>$ npm help install
+</code></pre>
+<h3 id="standalone-version-of-a-package">Standalone version of a package</h3>
+<p>Quickly get a standalone version of a package that is browserified and usable in the browser.</p>
+<pre><code>https://wzrd.in/standalone/&lt;package-name&gt;[@&lt;version&gt;]
+</code></pre>
+<p>Examples:</p>
+<ul>
+<li><a href="https://wzrd.in/standalone/object-assign">https://wzrd.in/standalone/object-assign</a></li>
+<li><a href="https://wzrd.in/standalone/object-assign@4.0.0">https://wzrd.in/standalone/object-assign@4.0.0</a></li>
+</ul>
+<p>Great for prototyping, but download the file or use Browserify yourself for production.</p>
+<h2 id="faq">FAQ</h2>
+<ul>
+<li><a href="http://stackoverflow.com/questions/11459733/check-in-node-modules-vs-shrinkwrap">Check in node_modules vs. shrinkwrap</a></li>
+<li><a href="http://stackoverflow.com/questions/18641899/what-is-the-difference-between-bower-and-npm">What is the difference between Bower and npm?</a></li>
+<li><a href="http://stackoverflow.com/questions/22137778/what-does-mean-in-package-json-versioning">What does <code>^</code> mean in package.json versioning?</a></li>
+<li><a href="http://stackoverflow.com/questions/10972176/find-the-version-of-an-installed-npm-package">Find the version of an installed npm package</a></li>
+<li><a href="http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies">What's the difference between dependencies, devDependencies, and peerDependencies in package.json?</a></li>
+</ul>
+<h2 id="community">Community</h2>
+<ul>
+<li><a href="http://webchat.freenode.net/?channels=npm"><code>#npm</code> on Freenode</a></li>
+<li><a href="https://stackoverflow.com/questions/tagged/npm">Stack Overflow</a></li>
+<li><a href="https://www.reddit.com/r/npm">Reddit</a></li>
+<li><a href="https://twitter.com/npmjs">Twitter</a></li>
+<li><a href="https://blog.npmjs.org">Blog</a></li>
+</ul>
+<h2 id="documentation">Documentation</h2>
+<ul>
+<li><a href="https://docs.npmjs.com">Official</a></li>
+<li><a href="https://github.com/npm/npm/wiki/Troubleshooting">Troubleshooting</a></li>
+<li><a href="https://docs.npmjs.com/getting-started/semantic-versioning">Semantic versioning</a></li>
+<li><a href="https://docs.npmjs.com/getting-started/fixing-npm-permissions">Fixing npm permissions</a></li>
+<li><a href="https://docs.npmjs.com/files/package.json">package.json</a></li>
+<li><a href="https://docs.npmjs.com/cli/run-script">npm run script</a></li>
+<li><a href="https://github.com/npm/download-counts">Stats API</a></li>
+</ul>
+<h2 id="support">Support</h2>
+<ul>
+<li><a href="https://npm.community/c/support">npm.community</a></li>
+<li><a href="https://twitter.com/npm_support">Twitter</a></li>
+<li><a href="https://www.npmjs.com/support">Contact form</a></li>
+</ul>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2023 Andrik Santos ™
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://andriksantos.github.io/" target="_blank" rel="noopener" title="Visit my portfolio" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.linkedin.com/in/andriksantos/" target="_blank" rel="noopener" title="Follow me on linkedin" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.instagram.com/andriksantos1/" target="_blank" rel="noopener" title="andriksantos1 on instagram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.top", "search.suggest", "search.highlight", "search.share"], "search": "../assets/javascripts/workers/search.db81ec45.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.4b2c34cd.min.js"></script>
+      
+        <script src="../javascripts/shortcuts.js"></script>
+      
+    
+  </body>
+</html>
