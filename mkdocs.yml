@@ -3,7 +3,7 @@ site_name: Developer Resources | Keebox List ™
 site_url: https://andriksantos.github.io/keebox/
 site_author: Andrik Santos ™
 site_description: >-
-    Programming resources are all over the internet, but they're hard to track down. That's why this repository was born. Whose main objective is to collect as many programming resources as possible that exist on the internet, so that they are available to anyone at any time
+    This repository is a valuable resource for anyone looking to boost their career in software development. 💡 The division of resources by programming language makes it easy to find the information you need, and the focus on including frameworks, libraries, and other resources makes it a comprehensive resource for all types of projects. off-limits project!
 
 #Menu
 nav:
@@ -92,12 +92,18 @@ extra:
       name: andriksantos1 on instagram
 
   alternate:
-    - name: Español
-      link: /es/ 
-      lang: es
     - name: English
       link: /en/
       lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
+    - name: Spanish
+      link: /es/
+      lang: es
+    - name: French
+      link: /fr/
+      lang: fr
 
 
 # Google Analytics
@@ -111,3 +117,12 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  analytics:
+    provider: google
+    property: UA-169388687-1
+
+extra:
+  analytics:
+    provider: google
+    property: G-21H9VKKJBK
