@@ -61,14 +61,6 @@ favicon: assets/favicon.png
 icon:
   logo: logo
 
-# Static files
-static_templates:
-    - 404.html
-
-# Don't include MkDocs' JavaScript
-include_search_page: true
-search_index_only: true
-
 markdown_extensions:
     - admonition
     - abbr
@@ -91,31 +83,14 @@ extra:
       link: https://www.instagram.com/andriksantos1/
       name: andriksantos1 on instagram
 
+extra:
   alternate:
     - name: English
-      link: /en/
+      link: /en/ 
       lang: en
     - name: Deutsch
       link: /de/
       lang: de
-    - name: Spanish
-      link: /es/
-      lang: es
-    - name: French
-      link: /fr/
-      lang: fr
-
-
-# Google Analytics
-google_analytics:
-  - 'UA-169388687-1'
-  - 'auto'
-
-extra_javascript:
-- javascripts/shortcuts.js
-
-extra_css:
-  - stylesheets/extra.css
 
 extra:
   analytics:
