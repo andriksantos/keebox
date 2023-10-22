@@ -8,48 +8,60 @@
 
 
 <url>
-  <loc>https://andriksantos.github.io/amazinglist/</loc>
-  <lastmod>2021-10-19T02:33:25+00:00</lastmod>
+  <loc>https://andriksantos.github.io/keebox/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://andriksantos.github.io/amazinglist/.</loc>
-  <lastmod>2021-10-19T02:33:25+00:00</lastmod>
+  <loc>https://andriksantos.github.io/keebox/.</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://andriksantos.github.io/amazinglist/code-of-conduct/</loc>
-  <lastmod>2021-10-19T02:33:25+00:00</lastmod>
+  <loc>https://andriksantos.github.io/keebox/nodejs/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://andriksantos.github.io/amazinglist/contributing/</loc>
-  <lastmod>2021-10-19T02:33:25+00:00</lastmod>
+  <loc>https://andriksantos.github.io/keebox/electron/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://andriksantos.github.io/amazinglist/license/</loc>
-  <lastmod>2021-10-19T02:33:25+00:00</lastmod>
+  <loc>https://andriksantos.github.io/keebox/npm/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://andriksantos.github.io/amazinglist/about/</loc>
-  <lastmod>2021-10-19T02:33:25+00:00</lastmod>
+  <loc>https://andriksantos.github.io/keebox/ios/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://andriksantos.github.io/amazinglist/thanks/</loc>
-  <lastmod>2021-10-19T02:33:25+00:00</lastmod>
+  <loc>https://andriksantos.github.io/keebox/mac/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://andriksantos.github.io/</loc>
-  <lastmod>2021-10-20T01:38:19+00:00</lastmod>
+  <loc>https://andriksantos.github.io/keebox/Swift/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://andriksantos.github.io/index.html</loc>
-  <lastmod>2021-10-20T01:38:19+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://andriksantos.github.io/keebox/contributing/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://andriksantos.github.io/keebox/code-of-conduct/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://andriksantos.github.io/keebox/donate/</loc>
+  <lastmod>2023-02-11T22:44:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>

@@ -44,7 +44,7 @@ If you are interested in contributing to this repository, you can do so, but fir
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) on Gmail or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [andricksantos1@gmail.com](mailto:andricksantos1@gmail.com) on Gmail or open an issue on GitHub...
 
 ---
 

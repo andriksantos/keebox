@@ -8,12 +8,12 @@ site_description: >-
 #Menu
 nav:
     - Resources of programming: index.md
-    - Node.js: nodejs.md
-    - Electron: electron.md
     - Npm: npm.md
     - Ios: ios.md
     - Mac: mac.md
     - Swift: Swift.md
+    - Node.js: nodejs.md
+    - Electron: electron.md
     - Contributing: contributing.md
     - Code of conduct: code-of-conduct.md
     - Donate: donate.md
@@ -24,7 +24,7 @@ repo_url: https://github.com/andriksantos/keebox
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2023 Andrik Santos ™'
+copyright: 'Copyright &copy; 2033 Andrik Santos ™'
 
 #Configuration
 theme: 
@@ -79,25 +79,20 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/andriksantos/
       name: Follow me on linkedin
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/andriksantos1/
-      name: andriksantos1 on instagram
 
 extra:
   alternate:
     - name: English
       link: /en/ 
       lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
+    - name: Spanish
+      link: /es/
+      lang: es
+    - name: Chinese (Traditional)
+      link: /zh-Hant/
+      lang: zh-Hant
 
 extra:
   analytics:
     provider: google
-    property: UA-169388687-1
-
-extra:
-  analytics:
-    provider: google
-    property: G-21H9VKKJBK
+    property: G-NS99JL93ZV
