@@ -96,3 +96,8 @@ extra:
   analytics:
     provider: google
     property: G-NS99JL93ZV
+
+extra:
+  analytics:
+    provider: google
+    property: G-LN19JCJ9LW
