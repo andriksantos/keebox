@@ -3,7 +3,7 @@ site_name: Developer Resources | Keebox List ™
 site_url: https://andriksantos.github.io/keebox/
 site_author: Andrik Santos ™
 site_description: >-
-    This repository is a valuable resource for anyone looking to boost their career in software development. 💡 The division of resources by programming language makes it easy to find the information you need, and the focus on including frameworks, libraries, and other resources makes it a comprehensive resource for all types of projects. off-limits project!
+    Welcome to KEEBOX LIST™, a carefully curated collection of essential resources for developers. This site is designed to be your centralized reference point, helping you quickly find tools, libraries, and guides relevant to your work.
 
 #Menu
 nav:
@@ -24,7 +24,7 @@ repo_url: https://github.com/andriksantos/keebox
 edit_uri: ""
 
 # Copyright
-copyright: 'Copyright &copy; 2033 Andrik Santos ™'
+copyright: 'Copyright &copy; 2030 Andrik Santos ™'
 
 #Configuration
 theme: 

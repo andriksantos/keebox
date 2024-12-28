@@ -17,7 +17,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 * Remove any trailing whitespace.
 * Send a Pull Request with the reason why the library is awesome.
 
-Copyright © 2023
+Copyright © 2030
 
 ---
 
