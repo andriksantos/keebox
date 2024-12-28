@@ -1,43 +1,447 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-         <loc>https://andriksantos.github.io/keebox/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/Swift/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/code-of-conduct/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/contributing/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/donate/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/electron/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/ios/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/mac/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/nodejs/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
-    <url>
-         <loc>https://andriksantos.github.io/keebox/npm/</loc>
-         <lastmod>2024-12-28</lastmod>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/andriksantos/keebox</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/master/LICENSE</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/activity</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/issues</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/pulls</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/discussions</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/security</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/master/.gitignore</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/master/CNAME</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/master/FUNDING.yml</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/master/mkdocs.yml</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/master/readme.md</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/master/docs/contributing.md</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/master/docs/code-of-conduct.md</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/search?q=repo%3Aandriksantos%2Fkeebox++language%3AHTML</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/search?q=repo%3Aandriksantos%2Fkeebox++language%3AJavaScript</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/discussions/categories/general</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/discussions/categories/ideas</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/discussions/categories/polls</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/discussions/categories/q-a</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/discussions/categories/show-and-tell</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/blob/980ce003d5e07f1c31eaadd3d7a80c0154f26b1e/docs/code-of-conduct.md</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/caches</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6685161015</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6684858559</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6600597438</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels?sort=name-asc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels?sort=name-desc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels?sort=count-desc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels?sort=count-asc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels/bug</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels/duplicate</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels/enhancement</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels/good%20first%20issue</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels/help%20wanted</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels/invalid</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels/question</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/labels/wontfix</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6685161015/job/18163164148</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6685161015/job/18163168805</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6685161015/job/18163168741</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6685161015/usage</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/e9c7698fd468d95d3bf5a0ddb45cc17bd4b8edf7</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6684858559/job/18162538593</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6684858559/job/18162542475</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6684858559/job/18162542521</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6684858559/usage</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/4a773689573a10a5a56be46fc185c4d50c8bd300</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6600597438/job/17930792378</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6600597438/job/17930798615</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6600597438/job/17930798676</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/actions/runs/6600597438/usage</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/9d228c8abf4cacff57da2e91dcfcc6b2f8684c40</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/10057e0b76a43c9eae3520858a08bc160ead17a1</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/3b105685ca0add2dd81529a3a89eec9f2a689c19</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/3840f6514a914d1fb92964f0018879677e65ddcb</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/cfcc05433052820afd2bb5694aea7b8c0c6c4c63</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/92f520a29f645c93b9b89bf4567227383397a4db</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/andriksantos/keebox/commit/065cfb6063f011952d275ad7fcd3ffa0dea8da2c</loc>
+  <lastmod>2024-12-28T18:03:11+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+
+
 </urlset>
