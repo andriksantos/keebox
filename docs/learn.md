@@ -36,6 +36,7 @@ Free books, courses, roadmaps, public APIs and developer tools with free tiers t
 ## Free APIs & services
 
 - [Public APIs](https://github.com/public-apis/public-apis) - Collective list of free APIs for software development.
+- [Datacircle API](https://api.datacircle.dev/v1) - Find the best GTM APIs, free and open with no key. More at [datacircle.dev](https://datacircle.dev).
 - [Free for Dev](https://github.com/ripienaar/free-for-dev) - SaaS, PaaS and IaaS offerings with free tiers for developers.
 - [gitignore templates](https://github.com/github/gitignore) - Collection of useful .gitignore templates.
 - [Awesome](https://github.com/sindresorhus/awesome) - The original list of awesome lists.
