@@ -1,0 +1,127 @@
+---
+title: "J2ME – Awesome List with 76 resources"
+description: "76 curated J2ME resources: Java specification designed for old keypad phones and PDAs.."
+---
+
+# J2ME
+
+Java specification designed for old keypad phones and PDAs..
+
+!!! info "Source"
+    76 resources imported from [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+## Communities
+
+- [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub. Features Awesome J2ME in it's resources section.
+- [Kahvibreak Discord](https://discord.gg/8TgbHAG) - Discord community focused on preserving J2ME games.
+- [Ketai Wiki](https://keitaiwiki.com/wiki/KeitaiWiki) - Wiki dedicated to cataloging games from Japanese Feature Phones (keitai), pre-Android/iPhone mobile devices released in Japan.
+- [r/J2MEGaming](https://reddit.com/r/j2megaming) - Reddit community for J2ME, Symbian, and related platforms.
+
+## Development
+
+- [Cibyl](https://github.com/SimonKagstrom/cibyl) - Environment to compile and run programs written in C, Objective-C, C++ and possibly Fortran on J2ME phones.
+- [NN JSON](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
+- [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) - Modified version of NN JSON for CLDC 1.0.
+- [J2ME Game Script Engine](https://j2megamescript.sourceforge.net/) - A lightweight script interpreter for building flexible J2ME games, with a BASIC-like scripting language. Runs on J2SE/J2ME/Win C++ platforms; ideal for game rapid prototyping and customization.
+- [J2ME Gradle template](https://gitea.bedohswe.eu.org/pixtaded/j2me-hello-gradle) - Gradle template for J2ME development using Microemulator.
+- [Lightweight User Interface Toolkit(LWUIT)](https://en.wikipedia.org/wiki/Lightweight_User_Interface_Toolkit) - Swing inspired widget toolkit for J2ME.
+
+### IDEs
+
+- [Eclipse](https://archive.eclipse.org/eclipse/downloads) - Archive of all versions of the Eclipse IDE.
+- [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) - Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to set up MIDP development environment.
+
+### SDKs
+
+- [Extra Transit Mobile Interaction Suite](http://web.archive.org/web/20070210202710/http://www.extransit.com) - IDE and SDK for J2ME specializing in the development of internet-based applications.
+- [Hecl](https://www.hecl.org) - A mobile scripting language based on Java, capable of running on J2ME-based devices.
+- [J2ME Polish](https://github.com/Enough-Software/j2mepolish) - Open source, Ant-based build tool for J2ME that supports building for multiple platforms including Blackberry and Symbian.
+- [MBooster](https://web.archive.org/web/20070314004015/http://innaworks.com/mBooster.html) - Optimizing suite for .jar files. Compresses images, audio, zip files, and optimizes API calls.
+- [Micro Code](https://web.archive.org/web/20061225061546/http://j2me-device-db.sourceforge.net/pmwiki/index.php?n=Main.HomePage) - Cross-device development framework for J2ME. Supports more than 100 devices.
+- [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
+- [Soap ME](https://dl.acm.org/doi/abs/10.1145/1462802.1462805) - SOAP-compliant Web service container that supports dynamic development.
+- [Sun Java Me SDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html) [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - Successor to WTK that integrates CLDC/MIDP development.
+- [Sun WTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun version 2.5.2.
+
+## Emulators
+
+- [FreeJ2ME](https://github.com/hex007/freej2me) - J2ME emulator with LibRetro, AWT and SDL2 frontends.
+- [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) - Active fork of FreeJ2ME.
+- [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) - J2ME emulator for Android.
+- [JL Mod](https://github.com/woesss/JL-Mod) - Fork of J2ME loader with Mascot capsule v3 support.
+- [JS2 J2ME](https://github.com/szatkus/js2me) - J2ME emulator for Firefox OS.
+- [KEmulator nnmod](https://github.com/shinovon/KEmulator) - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
+- [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
+- [SquirrelJME](https://github.com/squirreljme/squirreljme) - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
+
+## Finance
+
+- [Glu Mobile 10-K archive](https://www.sec.gov/edgar/search/#/dateRange=all&category=custom&entityName=0001366246&forms=10-K) - Archive of 10-K of Glu Mobile from it's IPO(2007) till acquisition(2021). Includes revenue breakdown by means of distribution and region, management commentary, portfolio of games etc.
+- [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
+
+## Hardware
+
+- [Mobile Phone Museum](https://mobilephonemuseum.com/about) - Registered charity and museum for mobile phones. Currently has over 2,800 models over 250 brands.
+
+## Native Software
+
+### Apps
+
+- [Discofi](https://github.com/gtrxAC/Discofi) - Unofficial Discord client for J2ME, designed to connect directly to Discord without a proxy. Supports select devices (Nokia and Sony Ericsson).
+- [Discord J2ME](https://github.com/gtrxAC/discord-j2me) - (Discontinued) Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
+- [Hotpants](https://github.com/baumschubser/hotpants/) - HOTP/TOTP client.
+- [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various emulators that run on J2ME.
+- [Jtube](https://github.com/shinovon/JTube) - YouTube client based on Invidious API.
+- [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
+- [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
+- [VK4ME](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
+- [W4ME Station](https://github.com/mulfyx/w4me-station) - WASM-4 runtime for CLDC 1.1 / MIDP 2.0 phones, with bundled cartridges and support for loading external `.wasm` files.
+- [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
+- [Pocket Gopher](https://github.com/felixp7/pocket-gopher) - Open source Gopher and Gopher+ client for J2ME.
+
+### Video Games
+
+- [Gravity Defied CPP](https://github.com/rgimad/gravity_defied_cpp) - C++, SDL2 port of J2ME game of the same name.
+- [Kahvibreak](https://bluemaxima.org/kahvibreak) - Collection of J2ME games.
+- [Moby Games](https://www.mobygames.com/platform/j2me) - Database of J2ME games with links to official stores.
+- [The "New" J2ME software archive](https://archive.org/details/96x65pixels_j2me) - 74GB+, sorted collection of J2ME games.
+- [New J2ME Software Archive Search](https://toca-1.github.io/new-j2me-software-archive-search/) - Search interface for the "New" J2ME software archive, with filename and MIDlet metadata searches as well as exact CRC32/SHA-1/SHA-256 lookups. Most importantly, it provides links to individual file downloads from the Internet Archive.
+- [Nowhere Dialogues](https://gist.github.com/hstsethi/d4ef0c9f0710e5b713d1beb2ff93a1ce) - Dialogues from a Nowhere, a 2007 J2ME game, with character names reverse engineered.
+- [J2ME Games at MyAbandonware](https://www.myabandonware.com/browse/platform/j2me) - Curated catalog of abandoned J2ME games with direct downloads.
+- [J2ME Games Speedruns](https://www.speedrun.com/games?platform=nzel5r6q) - List of all speedruns related to J2ME games along with guides, discussions and screen recordings.
+
+## Reverse Engineering
+
+- [PyLng](https://github.com/CakesTwix/pylng) - HandyGames .lng file parser written in Python.
+
+### Decompilers
+
+- [Fernflower](https://github.com/fesh0r/fernflower) - Analytical Java decompiler by JetBrains.
+- [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
+- [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
+- [Recaf](https://github.com/Col-E/Recaf) - Bytecode editor that supports multiple decompilers.
+- [Vineflower](https://github.com/vineflower/vineflower) - Fork of Fernflower decompiler with improved output quality.
+- [Sporeflower](https://github.com/hourianto/sporeflower) - Fork of Vineflower decompiler specially tailored for J2ME.
+
+## Tutorials
+
+- [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the 'alphabet soup' of micro edition programming, covering the CLDC, CDC, KVM and more."
+- [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
+- [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
+- [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/html/toc.htm) - Official tutorial on SDK 3.4, NetBeans on Windows variant.
+- [J2ME Performance Tips](https://web.archive.org/web/20050223040231/https://www.javaperformancetuning.com/tips/j2me.shtml#REF25) - Performance optimization tips specific to J2ME development.
+- [Basic Java Examples](https://web.archive.org/web/20121102161050/http://www.java-tips.org/java-me-tips/midp/page3.html) - Basic examples for Java ME and MIDP development.
+- [General Java Optimization Tips](https://web.archive.org/web/20050215222448/http://www-2.cs.cmu.edu/~jch/java/) - Foundational Java performance optimization techniques.
+- [Basic Java Performance Good Practices](https://web.archive.org/web/19970607121931/http://www.javaworld.com/javaworld/jw-04-1997/jw-04-optimize.html) - Early reference guide for Java performance best practices.
+- [The JavaTM Virtual Machine Specification Second Edition](https://web.archive.org/web/19990508124421/http://java.sun.com/docs/books/vmspec/2nd-edition/html/VMSpecTOC.doc.html) - Official JVM specification documentation covering virtual machine internals.
+- [Sony Ericsson Development Tips and Tricks](https://web.archive.org/web/20061006072043/http://developer.sonyericsson.com/site/global/techsupport/tipstrickscode/java/p_java.jsp) - Device-specific development guidelines and optimization techniques from Sony Ericsson.
+- [Nokia/Microsoft Mobile Developer Slideshare](https://www.slideshare.net/nokia-developer) - Presentations about developing apps for Nokia platforms, including Asha and Series 40 platforms.
+
+### Academic Articles
+
+- [A Testing Method for Java ME Software](https://doi.org/10.1109/EmbeddedCom-ScalCom.2009.21) - Reviews various unit testing methods for J2ME and introduces a custom one for NetBeans.
+- [Automated GUI Testing for J2ME Software Based on FSM](https://ieeexplore.ieee.org/abstract/document/5341641) - Introduces a technique for automating tests of LCDUI J2ME applications based on FSM.
+- [Developing Jini applications using J2ME technology](https://dl.acm.org/doi/abs/10.5555/507165) - Book on Developing networking applications using Jini and J2ME.
+- [Distributed Gaming using J2ME and XML](https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf) - Writeup on creating a cross-platform using Oracle XML database for gaming.
+- [Experiences of Implementing BitTorrent on Java ME Platform](https://ieeexplore.ieee.org/abstract/document/4446557) - Detailed writeup on implementing BitTorrent client on Nokia S40. Includes methodology and results.
+- [Networked J2ME Applications](https://www.mooreds.com/midp/midp.html) - Paper exploring various facets of building networked MIDP 1.0 applications.
+- [JSR 184: M3G Specification](https://jcp.org/en/jsr/detail?id=184) - Specification for Mobile Graphics 3D Graphics API(M3G), which is a file format and API for 3D graphics capabilities to J2ME devices. It has two mode: immediate and retained. The former is compatible with OpenGL ES.

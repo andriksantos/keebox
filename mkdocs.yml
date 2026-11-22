@@ -5,9 +5,10 @@ site_name: KEEBOX LIST™
 site_url: https://andriksantos.com/keebox/
 site_author: Andrik Santos
 site_description: >-
-  KEEBOX LIST™ is a free, curated directory of 6,500+ hand-picked developer
-  resources: tools, libraries, frameworks and guides for AI, Python, web,
-  Node.js, npm, iOS, Swift, macOS, Electron and DevOps.
+  KEEBOX LIST™ is a free directory of 80,000+ developer resources: 7,000+
+  hand-picked tools and guides for AI, Python, Go, Rust, Java, .NET, PHP,
+  web, mobile, cloud, data, DevOps, security and design, plus a Library of
+  444 public-domain awesome lists.
 
 # Repository
 repo_name: andriksantos/keebox
@@ -17,26 +18,64 @@ edit_uri: edit/master/docs/
 # Copyright
 copyright: Copyright &copy; 2018 - 2026 Andrik Santos™
 
+# Library pages are reached from library/index.md, not listed one by one in the menu
+not_in_nav: |
+  /library/*.md
+
 # Navigation
 nav:
   - Home: index.md
   - Resources:
-      - AI & LLM Tools: ai.md
-      - Python: python.md
-      - Web Development: web.md
-      - Node.js: nodejs.md
-      - npm: npm.md
-      - DevOps & Self-hosting: devops.md
-      - iOS: ios.md
-      - Swift: swift.md
-      - macOS: mac.md
-      - Electron: electron.md
-      - Learning & Free Resources: learn.md
-      - Awesome Lists Directory: lists.md
+      - AI & Data:
+          - AI & LLM Tools: ai.md
+          - Data Engineering & Analytics: data.md
+          - Databases: databases.md
+      - Languages:
+          - Python: python.md
+          - Go: go.md
+          - Rust: rust.md
+          - Java & Kotlin: java.md
+          - C# & .NET: dotnet.md
+          - PHP: php.md
+          - Node.js: nodejs.md
+          - npm: npm.md
+          - Swift: swift.md
+      - Web & Mobile:
+          - Web Development: web.md
+          - APIs: apis.md
+          - Mobile Development: mobile.md
+          - iOS: ios.md
+          - Electron: electron.md
+          - Templates & Starters: templates.md
+      - Infrastructure:
+          - DevOps & Self-hosting: devops.md
+          - Cloud & Free Tiers: cloud.md
+          - Linux & Terminal: linux.md
+          - Security: security.md
+          - Testing & QA: testing.md
+      - Creative & Hardware:
+          - Design & UI Assets: design.md
+          - Game Development: gamedev.md
+          - IoT & Hardware: iot.md
+          - Blockchain & Web3: web3.md
+      - Tools & Learning:
+          - Learning & Free Resources: learn.md
+          - Recursos en español: espanol.md
+          - Cheat Sheets: cheatsheets.md
+          - Free Online Tools: online-tools.md
+          - Editor & Browser Extensions: extensions.md
+          - Podcasts, Newsletters & Videos: media.md
+          - macOS: mac.md
+          - Awesome Lists Directory: lists.md
+  - Library: library/index.md
   - Community:
       - Contributing: contributing.md
       - Code of conduct: code-of-conduct.md
       - Donate: donate.md
+      - Sponsor KEEBOX: sponsors.md
+      - Supporters: supporters.md
+      - Transparency: transparency.md
+      - Credits & Licenses: credits.md
 
 # Configuration
 theme:
@@ -125,13 +164,26 @@ extra:
         - icon: material/emoticon-happy-outline
           name: This page was helpful
           data: 1
-          note: Thanks for your feedback!
+          note: >-
+            Thanks! If KEEBOX saved you time, a small contribution keeps it running:
+            <a href="https://buymeacoffee.com/andriksantos" target="_blank" rel="noopener">buy me a coffee ☕</a>
+            or <a href="https://www.paypal.com/paypalme/AndrikSantosHN/5" target="_blank" rel="noopener">donate $5 with PayPal</a>.
         - icon: material/emoticon-sad-outline
           name: This page could be improved
           data: 0
           note: >-
             Thanks! Help us improve it by
             <a href="https://github.com/andriksantos/keebox/issues/new" target="_blank" rel="noopener">opening an issue</a>.
+  # Donations — edit amounts, links and the monthly goal here
+  donate:
+    paypal: https://www.paypal.com/paypalme/AndrikSantosHN
+    amounts: [3, 5, 10, 50]
+    buymeacoffee: https://buymeacoffee.com/andriksantos
+    email: andricksantos1@gmail.com
+    goal:
+      label: Monthly goal
+      target: 100     # USD per month
+      raised: 0       # update when donations arrive
   # Google Tag Manager container ID. Empty = disabled.
   gtm_id: GTM-5B3HBLJW
   # Microsoft Clarity project ID (clarity.microsoft.com → Settings → Overview). Empty = disabled.

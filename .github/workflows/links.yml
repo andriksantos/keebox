@@ -19,7 +19,7 @@ jobs:
         with:
           args: >-
             --no-progress --max-concurrency 8 --accept 200,201,204,206,301,302,403,429
-            --exclude-path site 'docs/**/*.md' readme.md
+            --exclude-path site --exclude-path docs/library 'docs/**/*.md' readme.md
           fail: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

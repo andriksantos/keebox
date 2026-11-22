@@ -1,0 +1,7 @@
+{%- set d = config.extra.donate -%}
+<div class="kb-donate-buttons">
+  <a class="md-button md-button--primary kb-bmc" href="{{ d.buymeacoffee }}" target="_blank" rel="noopener">☕ Buy me a coffee</a>
+  {%- for amount in d.amounts %}
+  <a class="md-button kb-amount" href="{{ d.paypal }}/{{ amount }}" target="_blank" rel="noopener">PayPal ${{ amount }}</a>
+  {%- endfor %}
+</div>

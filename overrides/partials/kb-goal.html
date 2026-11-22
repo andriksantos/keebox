@@ -1,0 +1,11 @@
+{%- set g = config.extra.donate.goal -%}
+{%- set pct = ((g.raised / g.target) * 100) | round | int if g.target else 0 -%}
+{%- set pct = 100 if pct > 100 else pct -%}
+<div class="kb-goal" role="group" aria-label="{{ g.label }}">
+  <div class="kb-goal__head">
+    <strong>{{ g.label }}</strong>
+    <span>${{ g.raised }} of ${{ g.target }} · {{ pct }}%</span>
+  </div>
+  <div class="kb-goal__bar"><div class="kb-goal__fill" style="width: {{ pct if pct > 2 else 2 }}%"></div></div>
+  <p class="kb-goal__note">Covers link checking, new sections and Library updates. <a href="{{ 'transparency/' | url }}">See how it is used →</a></p>
+</div>

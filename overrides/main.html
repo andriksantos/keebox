@@ -96,7 +96,7 @@
         "@type": "FAQPage",
         "mainEntity": [
           { "@type": "Question", "name": "What is KEEBOX LIST™?",
-            "acceptedAnswer": { "@type": "Answer", "text": "KEEBOX LIST™ is a free, open-source directory of curated software development resources. It groups 6,500+ tools, libraries, frameworks, courses and guides by topic — AI & LLMs, Python, web development, Node.js, npm, iOS, Swift, macOS, Electron and DevOps." } },
+            "acceptedAnswer": { "@type": "Answer", "text": "KEEBOX LIST™ is a free, open-source directory of curated software development resources. It groups 7,000+ hand-picked tools, libraries, frameworks, courses and guides by topic — AI, data, Python, Go, Rust, Java, .NET, PHP, web and mobile development, APIs, cloud, DevOps, security, testing, design, game development, IoT and more, plus a section in Spanish. Its Library adds 444 public-domain awesome lists with 74,000+ more resources." } },
           { "@type": "Question", "name": "Is KEEBOX LIST™ free?",
             "acceptedAnswer": { "@type": "Answer", "text": "Yes. The site is completely free, has no sign-up and its source is published on GitHub under the MIT license." } },
           { "@type": "Question", "name": "How are resources selected and kept up to date?",
@@ -138,8 +138,21 @@
 {% endblock %}
 
 {% block announce %}
-  <strong>New:</strong> 165 hand-picked resources for
-  <a href="{{ 'ai/' | url }}">AI &amp; LLMs</a>, <a href="{{ 'python/' | url }}">Python</a>,
-  <a href="{{ 'web/' | url }}">Web</a> and <a href="{{ 'devops/' | url }}">DevOps</a>.
+  <strong>New:</strong> 17 sections including
+  <a href="{{ 'cloud/' | url }}">Cloud</a>, <a href="{{ 'data/' | url }}">Data</a>,
+  <a href="{{ 'cheatsheets/' | url }}">Cheat Sheets</a>, <a href="{{ 'templates/' | url }}">Templates</a> and
+  <a href="{{ 'espanol/' | url }}">Recursos en español</a>.
   Like it? <a href="https://github.com/andriksantos/keebox">⭐ Star KEEBOX on GitHub</a>
+{% endblock %}
+
+{#- Donation call to action at the end of every resource page; goal bar on donation pages -#}
+{% block content %}
+  {%- set kb_page = page.file.src_uri if page and page.file else '' -%}
+  {%- if kb_page in ['donate.md', 'transparency.md', 'sponsors.md', 'supporters.md'] -%}
+    {% include "partials/kb-goal.html" %}
+  {%- endif -%}
+  {{ super() }}
+  {%- if kb_page and not page.is_homepage and kb_page not in ['donate.md', 'transparency.md', 'sponsors.md', 'supporters.md', 'code-of-conduct.md', 'credits.md'] -%}
+    {% include "partials/kb-support.html" %}
+  {%- endif -%}
 {% endblock %}

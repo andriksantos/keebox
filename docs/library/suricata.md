@@ -1,0 +1,141 @@
+---
+title: "Suricata – Awesome List with 83 resources"
+description: "83 curated Suricata resources: Intrusion detection/prevention system and network security monitoring engine."
+---
+
+# Suricata
+
+Intrusion detection/prevention system and network security monitoring engine.
+
+!!! info "Source"
+    83 resources imported from [satta/awesome-suricata](https://github.com/satta/awesome-suricata), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+## Input Tools
+
+- [PacketStreamer](https://github.com/deepfence/PacketStreamer) - Distributed tcpdump for cloud native environments.
+
+## Output Tools
+
+- [suricata-kafka-output](https://github.com/Center-Sun/suricata-kafka-output) - Suricata Eve Kafka Output Plugin for Suricata 6.
+- [suricata-redis-output](https://github.com/jasonish/suricata-redis-output) - Suricata Eve Redis Output Plugin for Suricata 7.
+- [Meer](https://github.com/quadrantsec/meer) - A "spooler" for Suricata / Sagan.
+- [FEVER](https://github.com/DCSO/fever) - Fast, extensible, versatile event router for Suricata's EVE-JSON format.
+- [Suricata-Logstash-Templates](https://github.com/pevma/Suricata-Logstash-Templates) - Templates for Kibana/Logstash to use with Suricata IDPS.
+- [Lilith](https://github.com/VVelox/Lilith) - Reads EVE files into SQL as well as search stored data.
+
+## Operations, Monitoring and Troubleshooting
+
+- [slinkwatch](https://github.com/DCSO/slinkwatch) - Automatic enumeration and maintenance of Suricata monitoring interfaces.
+- [suri-stats](https://github.com/regit/suri-stats) - A tool to work on suricata `stats.log` file.
+- [Mauerspecht](https://github.com/DCSO/mauerspecht) - Simple Probing Tool for Corporate Walled Garden Networks.
+- [ansible-suricata](https://github.com/GitMirar/ansible-suricata) - Suricata Ansible role (slightly outdated).
+- [MassDeploySuricata](https://github.com/pevma/MassDeploySuricata) - Mass deploy and update Suricata IDPS using Ansible IT automation platform.
+- [docker-suricata](https://github.com/jasonish/docker-suricata) - Suricata Docker image.
+- [Suricata-Monitoring](https://github.com/VVelox/Suricata-Monitoring) - LibreNMS JSON / Nagios monitor for Suricata stats.
+- [Terraform Module for Suricata](https://github.com/onetwopunch/terraform-google-suricata) - Terraform module to setup Google Cloud packet mirroring and send packets to Suricata.
+- [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+- [suricata_exporter](https://github.com/corelight/suricata_exporter) - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
+- [TriageWall](https://github.com/aaronphifer/triagewall) - Local-first analyst workbench for triaging and investigating Suricata and Wazuh alerts with a tunable prefilter and Ollama classifier.
+
+## Programming Libraries and Toolkits
+
+- [rust-suricatax-rule-parser](https://github.com/jasonish/rust-suricatax-rule-parser) - Experimental Suricata Rule Parser in Rust.
+- [go-suricata](https://github.com/ks2211/go-suricata) - Go Client for Suricata (Interacting via Socket).
+- [gonids](https://github.com/google/gonids) - Go library to parse intrusion detection rules for engines like Snort and Suricata.
+- [surevego](https://github.com/rhaist/surevego) - Suricata EVE-JSON parser in Go.
+- [suricataparser](https://github.com/m-chrome/py-suricataparser) - Pure python parser for Snort/Suricata rules.
+- [py-idstools](https://github.com/jasonish/py-idstools) - Snort and Suricata Rule and Event Utilities in Python (Including a Rule Update Tool).
+
+## Dashboards and Templates
+
+- [KTS](https://github.com/StamusNetworks/KTS) - Kibana 4 Templates for Suricata IDPS Threat Hunting.
+- [KTS5](https://github.com/StamusNetworks/KTS5) - Kibana 5 Templates for Suricata IDPS Threat Hunting.
+- [KTS6](https://github.com/StamusNetworks/KTS6) - Kibana 6 Templates for Suricata IDPS Threat Hunting.
+- [KTS7](https://github.com/StamusNetworks/KTS7) - Kibana 7 Templates for Suricata IDPS Threat Hunting.
+
+## Development Tools
+
+- [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
+- [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) - Suricata IntelliSense Extension using the Suricata Language Server.
+- [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
+- [SublimeSuricata](https://github.com/ozuriexv/SublimeSuricata) - Basic Suricata syntax highlighter for Sublime Text.
+- [Suricata-Check](https://suricata-check.teuwen.net/readme.html) - A command-line utility to provide feedback on Suricata rules. It can detect issues such as covering syntax validity, interpretability, rule specificity, rule coverage, and efficiency.
+
+## Documentation and Guides
+
+- [SEPTun](https://github.com/pevma/SEPTun) - Suricata Extreme Performance Tuning guide.
+- [SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) - Suricata Extreme Performance Tuning guide - Mark II.
+- [suricata-4-analysts](https://github.com/StamusNetworks/suricata-4-analysts) - The Security Analyst's Guide to Suricata.
+- [Suricata Community Style Guide](https://github.com/sidallocation/suricata-style-guide) - A collaborative document to collect style guidelines from the community of rule writers.
+
+## Analysis Tools
+
+- [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) - Various resources that are useful when interacting with Suricata data.
+- [Malcolm](https://github.com/cisagov/Malcolm) - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+- [Evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
+
+## Rule Sets and Lists
+
+- [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
+- [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
+- [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) - Set of Suricata rules published by QuadrantSec.
+- [Cluster25/detection](https://github.com/Cluster25/detection) - Cluster25's detection rules.
+    - [NF IDS rules](https://networkforensic.dk/SNORT/NF-local.zip)
+    - [NF SCADA IDS Rules](https://networkforensic.dk/SNORT/NF-SCADA.zip)
+    - [NF Scanners IDS Rules](https://networkforensic.dk/SNORT/NF-Scanners.zip)
+- [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
+- [Hunting rules](https://github.com/travisbgreen/hunting-rules) - Suricata IDS alert rules for network anomaly detection from Travis Green.
+- [3CORESec NIDS - Lateral Movement](https://dtection.io/ruleset/3cs_lateral) - Suricata ruleset focusing on lateral movement techniques (paid).
+- [3CORESec NIDS - Sinkholes](https://dtection.io/ruleset/3cs_sinkholes) - Suricata ruleset focused on a curated list of public malware sinkholes (free).
+- [PAW Patrules](https://pawpatrules.fr) - Another free (CC BY-NC-SA) collection of rules for the Suricata engine.
+- [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
+- [Antiphishing](https://github.com/julioliraup/Antiphishing) - Suricata rules and datasets to detect phishing attacks.
+- [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) - OISF's curated, machine-readable list of sources used by Suricata-Update.
+- [EveBox Rules](https://rules.evebox.org) - Suricata Rule Browser, indexes many free rulesets, including rules from the Suricata Ruleset Index.
+- [Whatoblock Blocklists](https://whatoblock.com/) - Hourly IP blocklists built from honeypot observations, with a Suricata export (account required; a free sample feed is available).
+
+## Rule/Security Content Management and Handling
+
+- [sidallocation.org](https://sidallocation.org/) - Sid Allocation working group, list of SID ranges.
+- [Scirius](https://github.com/StamusNetworks/scirius) - Web application for Suricata ruleset management and threat hunting.
+- [IOCmite](https://github.com/sebdraven/IOCmite) - Tool to create dataset for suricata with indicators of MISP instances and add sightings in MISP if an indicator of dataset generates an alert.
+- [luaevilbit](https://github.com/regit/luaevilbit) - An Evil bit implementation in luajit for Suricata.
+- [Lawmaker](https://www.3coresec.com/solutions/lawmaker) - Suricata IDS rule and fleet management system.
+- [surify-cli](https://github.com/dgenzer/surify-cli) - Generate suricata-rules from collection of IOCs (JSON, CSV or flags) based on your suricata template.
+- [suricata-prettifier](https://github.com/theY4Kman/suricata-prettifier) - Command-line tool to format and syntax highlight Suricata rules.
+- [OTX-Suricata](https://github.com/AlienVault-OTX/OTX-Suricata) - Create rules and configuration for Suricata to alert on indicators from an OTX account.
+- [Aristotle](https://github.com/secureworks/aristotle) - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
+
+## Plugins and Extensions
+
+- [suricata-zabbix](https://github.com/catenacyber/suricata-zabbix) - Zabbix application layer plugin for Suricata.
+
+## Systems Using Suricata
+
+- [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
+- [Amsterdam](https://github.com/StamusNetworks/Amsterdam) - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
+- [pfSense](https://www.pfsense.org) - A free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
+- [OPNsense](https://opnsense.org) - An open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.
+- [Artica](https://github.com/dtouzeau/artica-suricata) - Suricata IDS integration for the [Artica](https://artica.systems) gateway appliance.
+- [Shovel](https://github.com/FCSC-FR/shovel) - Web interface to explore Suricata EVE outputs, with a primary focus on network analysis in CTF competitions.
+
+## Training
+
+- [Experimental Suricata Training Environment](https://github.com/jasonish/experimental-suricata-training) - Suricata Training Environment based on Docker(-Compose).
+- [CDMCS](https://github.com/ccdcoe/CDMCS/tree/master) - Cyber Defence Monitoring Course: Rule-based Threat Detection.
+
+## Simulation and Testing
+
+- [Leonidas](https://github.com/WithSecureLabs/leonidas) - Automated Attack Simulation in the Cloud, complete with detection use cases.
+- [speeve](https://github.com/satta/speeve) - Fast, probabilistic EVE-JSON generator for testing and benchmarking of EVE-consuming applications.
+- [Dalton](https://github.com/secureworks/dalton) - Suricata and Snort IDS rule and pcap testing system.
+
+## Data Sets
+
+- [suricata-sample-data](https://github.com/FrankHassanabad/suricata-sample-data) - Repository of creating different example suricata data sets.
+
+## Misc
+
+- [Suriwire](https://github.com/regit/suriwire) - Wireshark plugin to display Suricata analysis info.
+- [bash_cata](https://github.com/isMTv/bash_cata) - A simple script that processes the generated Suricata eve-log in real time and, based on alerts, adds an ip-address to the MikroTik Address Lists for a specified time for subsequent blocking.
+- [suriGUI](https://github.com/control-owl/suriGUI) - GUI for Suricata + Qubes OS.
+- [SuriGuard](https://github.com/SEc-123/SuriGuard1) - Web-based management system for Suricata IDS/IPS, featuring advanced analytics and visualization capabilities.

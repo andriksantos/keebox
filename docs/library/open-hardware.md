@@ -1,0 +1,170 @@
+---
+title: "Open Hardware – Awesome List with 114 resources"
+description: "114 curated Open Hardware resources: Open-source hardware projects."
+---
+
+# Open Hardware
+
+Open-source hardware projects.
+
+!!! info "Source"
+    114 resources imported from [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+## Projects
+
+### Automation, Manufacturing, and Robotics
+
+- [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
+- [Gearotons M17](https://github.com/tomrodinger/servomotor) - Integrated servomotor with the motor, driver, motion controller and encoder in one NEMA 17 body.
+- [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
+- [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
+- [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
+- [Millennium Machines](https://www.millennium-machines.com/) - A project dedicated to designing desktop CNC mills.
+- [Open Source Ecology](https://www.opensourceecology.org/) - Industrial machines made open.
+- [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
+- [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
+- [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
+- [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
+- [SO-ARM 102](https://github.com/roboninecom/SO-ARM-102) - 3D-printable leader-follower robotic arm with a parallel gripper, open CAD files, a bill of materials, and assembly instructions.
+- [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
+- [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
+
+### Consumer Devices
+
+- [freeDSP](https://freedsp.github.io) - A family of audio digital signal processors.
+- [Input Labs](https://inputlabs.io) - Video game controllers featuring gyroscopic sensors.
+- [Mutable Instruments](https://mutable-instruments.net/) - Eurorack classics.
+- [PiKVM](https://pikvm.org/) - Inexpensive DIY IP-KVM based on Raspberry Pi.
+- [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
+- [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
+- [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
+- [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+- [Tiny Film Camera](https://github.com/SuveenE/tiny-film-camera) - Raspberry Pi Zero 2 W digital camera with physical controls, three selectable image filters, and a 3D-printable enclosure.
+- [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
+
+### Development Boards
+
+- [Arduino](https://www.arduino.cc/) - Arduino is an electronics platform.
+- [iCEBreaker](https://codeberg.org/icebreaker-fpga/icebreaker) - Low-cost FPGA development board based around the Lattice iCE40.
+- [Icepi Zero](https://github.com/cheyao/icepi-zero) - A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.
+- [nRF52840 ProMicro](https://github.com/sasodoma/nrf52840-promicro) - A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.
+- [OpenMV](https://github.com/openmv/openmv) - Low-cost machine vision platform.
+- [pic0rick](https://github.com/kelu124/pic0rick/) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
+
+### Scientific Instruments
+
+- [Biohack Academy](https://assets.waag.org/biohackacademy) - Biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
+- [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Hardware projects for biology laboratories.
+- [HackRF Pro](https://github.com/greatscottgadgets/hackrf-pro) - Upgraded version of the [HackRF One](https://github.com/greatscottgadgets/hackrf), a low-cost software-defined radio.
+- [LibreVNA](https://github.com/jankae/LibreVNA) - A vector network analyzer capable of measurements up to 6 GHz.
+- [mesoSPIM](http://mesospim.org/) - Light-sheet microscopes for imaging in cleared tissue.
+- [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
+- [OpenBCI](https://openbci.com/) - Brain-computer interface.
+- [OpenFlexure](https://openflexure.org/) - 3D-printed microscope with a precise mechanical stage.
+- [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
+- [openUC2](https://github.com/openUC2/UC2-GIT) - Modular microscopy toolbox.
+- [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
+
+## Design Tools
+
+### Mechanical and Electrical
+
+- [Elmer](https://github.com/ElmerCSC/elmerfem) - A software suite for running finite element method simulations.
+- [FreeCAD](https://www.freecad.org/) - A mechanical computer-aided design program for designing 3D parametric parts.
+- [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+- [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
+- [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
+- [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
+
+### Integrated Circuit
+
+- [KLayout](https://www.klayout.de/) - A tool for viewing and editing integrated circuit layouts.
+- [LibreLane](https://fossi-foundation.org/librelane/) - An infrastructure library for creating integrated circuit design flows.
+- [Magic](https://opencircuitdesign.com/magic/) - A VLSI layout tool, primarily used for analog layout.
+- [OpenRAM](https://openram.org/) - A framework for creating SRAM netlists, layouts, and more.
+- [OpenROAD](https://theopenroadproject.org/) - An application that implements an RTL-to-GDSII flow.
+- [SkyWater PDK](https://github.com/google/skywater-pdk) - A process design kit for SkyWater's 130 nm process node.
+- [Surfer](https://surfer-project.org/) - An extensible and snappy waveform viewer.
+- [Verilator](https://www.veripool.org/verilator/) - A program for simulating HDL code.
+- [Yosys](https://yosyshq.net/yosys/) - A framework for RTL synthesis.
+
+## Talks
+
+- [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - TEDx talk by Nathan Seidle.
+- [Revolution of the open hardware](https://www.youtube.com/watch?v=t56bojFAnUg) - TEDx talk by Bram Geenen.
+- [Why do open hardware](https://www.youtube.com/watch?v=UYRhupdnUcY) - Talk by Limor Fried (ladyada).
+- [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - Tips by Ian of Dangerous Prototypes.
+- [Open Hardware Projects to Fight COVID-19](https://www.youtube.com/watch?v=c1pwbnDAub0) - Collection video from N-O-D-E.
+- [Designing Open Hardware for 21st century science](https://www.youtube.com/watch?v=Od_9yJqc098) - Presentation by Andre Maia Chagas.
+- [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) - Presentation by David Cuartielles.
+- [Open source and the future of hardware](https://www.youtube.com/watch?v=_EZT57dtWHM) - Talk by Neil Gershenfeld.
+- [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos.
+
+## Papers
+
+- [What is the “Source” of Open Source Hardware?](https://doi.org/10.5334/joh.7) - Paper by Jérémy Bonvoisin, Robert Mies, Jean-François Boujut, Rainer Stark.
+- [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) - Paper by Joshua M. Pearce.
+- [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - Paper by I. T. S. Heikkinen, H. Savin, J. Partanen, J. SeppäläJ, M. Pearce.
+- [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Paper by Ruben Heradio, Jesus Chacon, Hector Vargas, Daniel Galan, Jacobo Saenz, Luis De La Torre, Sebastian Dormido.
+- [Haves and have nots must find a better way: The case for open scientific hardware](https://doi.org/10.1371/journal.pbio.3000014) - Paper by Andre Maia Chagas
+- [Open Labware: 3-D Printing Your Own Lab Equipment](https://doi.org/10.1371/journal.pbio.1002086) - Paper by Tom Baden, Andre Maia Chagas, Greg Gage, Timothy Marzullo, Lucia L. Prieto-Godino, Thomas Euler
+
+## Conferences
+
+- [FOSDEM](https://fosdem.org) - Annual open source event in Brussels.
+- [Open Hardware Summit](https://oshwa.org/events/) - Annual conference on open hardware.
+- [Open Sauce](https://opensauce.com/) - Annual convention focused on science and technology on on 17-19 July
+- [Maker Faire](https://makerfaire.com/) - A celebration of the Maker Movement, locally organized.
+- [Hackaday Supercon](https://hackaday.io/superconference/) - Annual conference on hardware hacking and deep-dive technical workshops
+- [KiCon](https://kicon.kicad.org/) - Annual conferences about KiCad open source EDA organized in different regions
+- [RISC-V Summits](https://riscv.org/community/risc-v-summits/) - Annual summits organized by RISC-V International in different regions
+- [World RISC-V Days](https://riscv.org/world-risc-v-days/) - Synchronized global events voluntarily organized by RISC-V communities worldwide
+- [Latch-Up](https://fossi-foundation.org/latch-up) - A three-day conference dedicated to free and open source silicon. Hosted in North America every spring.
+- [ORConf](https://fossi-foundation.org/orconf) - Another three-day conference dedicated to free and open source silicon. Hosted in Europe every autumn.
+
+## Platforms
+
+- [Open Hardware Repository](https://ohwr.org/about) - For electronics designers at experimental physics facilities to collaborate on open hardware designs.
+- [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - Free blueprints for sustainable open hardware.
+- [Instructables](https://www.instructables.com/circuits/projects) - Instructables is a place that lets you explore, document, and share your creations.
+- [Hackaday.io](https://hackaday.io/) - Hackaday.io is the world's largest collaborative hardware development community.
+- [Hackster.io](https://www.hackster.io/about) - Connecting developers where exploring tomorrow starts today.
+- [Openhardware.io](https://www.openhardware.io/about) - Tracking amazing open hardware projects.
+- [Openhardware.science](https://openhardware.science/) - Make open science hardware ubiquitous by 2025.
+- [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
+- [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
+- [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects.
+- [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
+- [ICBOMS](https://icboms.com) - Open electronic component search engine, BOM management platform, and semiconductor distribution database.
+- [RoboPartPicker](https://robopartpicker.com) - Compiles bills of materials from open robotics projects and tracks parts sourcing, keeping unresolved and unpriced lines visible instead of dropping them.
+
+## Podcasts
+
+- [Road to Open Science](https://soundcloud.com/utrechtuniversity/r2os-a-closer-look-at-open-hardware-with-jose-urra-llanusa-and-santosh-ilamparuthi) - Episode on open hardware in the Netherlands.
+- [Physics Worlds](https://open.spotify.com/episode/4pjaUpl96YhjqBvjzV0K1H) - Episode on the global impact of open hardware.
+- [Command Line Heroes](https://open.spotify.com/episode/1yGuG9TKvS2lkH7wgRO8YF) - Episode Makers unite.
+- [A-podcast](https://www.youtube.com/watch?v=m6x03I9cDpw) - Open source hardware is the future.
+- [Amp hour](https://www.youtube.com/watch?v=nVVhPMAtDyk) - Open Hardware and The Creative Economy.
+- [Semiconductor Insiders](https://semiwiki.com/podcast/podcast-ep44-open-hardware-diversity-alliance/) - Open Hardware Diversity Alliance.
+- [Open source hardware podcast](https://www.programmingelectronics.com/category/radio-show/) - By the Programming Electronics Academy.
+
+## Books
+
+- [Building open source hardware](https://books.google.com/books?id=wg27BQAAQBAJ&pg=PP1) - Book by Alicia Gibb, on building open source hardware from 2014.
+- [Open-source Lab](https://books.google.com/books?id=0bOKAAAAQBAJ&pg=PP1) - Book by Josua M. Pearce, how to build your own hardware and reduce costs.
+- [Free to Make](https://books.google.com/books?id=jz1bCwAAQBAJ&pg=PP1) - Book by Dale Dougherty, how the maker movement is changing our schools, our jobs, and our minds.
+- [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
+- [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ&printsec=frontcover&dq=Hardware+hacker+bunnie+huang&hl=nl&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
+
+## Training Programs
+
+- [Open Hardware Makers](https://openhardware.space)
+- [Open Hardware Academy](https://openhardware.academy/)
+
+## Further Readings
+
+- [Open Source Guide](https://opensource.guide/) - A website created by GitHub to help people work on open source projects.
+- [Wikipedia](https://en.wikipedia.org/wiki/Open-source_hardware) - General information about open-source hardware.
+- [Open Collective](https://opencollective.com/) - Enables groups to quickly set up a collective, raise funds and manage them transparently.
+- [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
+- [OSHWA Certification](https://certification.oshwa.org/) - Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
+- [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open-access scientific hardware journal.

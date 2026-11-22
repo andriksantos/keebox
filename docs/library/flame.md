@@ -1,0 +1,221 @@
+---
+title: "Flame – Awesome List with 116 resources"
+description: "116 curated Flame resources: Game engine for Flutter."
+---
+
+# Flame
+
+Game engine for Flutter.
+
+!!! info "Source"
+    116 resources imported from [flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+## Articles & Tutorials
+
+### Tutorial by imaNNeo - Color Switch Game tutorial - (2023-10-06)
+
+- [0. Overview and Introduction of Flutter / Flame game tutorials 🔍](https://youtu.be/ubyoQGPnmmw?si=pt8t0Oi_7WYn0VGm)
+- [1. Flame Component System (FCM) & Event handling 🎊](https://youtu.be/eiZDbUBesqE)
+- [2. Camera and World components 🎥](https://youtu.be/nyUayMgZqDg)
+- [3. Sprite & Custom Components 🖼️](https://youtu.be/Xb5ySgetpmU)
+- [4. Collision detection 💥](https://youtu.be/w6hEuWPnXQc)
+- [5. Pause menu, Decorators and Overlays ⏸️](https://youtu.be/ISSty1nQ-uQ)
+- [6. Scoring and Flame Engine Particles ✨](https://youtu.be/QAk4YyNcvrA)
+- [7. Flame Audio and Sound Effects 🔊](https://youtu.be/uqkX_npgOWA)
+- [8-final. Polishing and Optimizing🌟](https://youtu.be/dxCTIaveunY)
+
+### Articles by Happy Makadiya at Simform Solutions
+
+- [Basics of Game Development using Flame](https://medium.com/simform-engineering/basics-of-game-development-using-flame-bee1b8cf7320)
+- [Build Collision-Based Game Using Flame in Flutter](https://medium.com/simform-engineering/build-collision-based-game-using-flame-in-flutter-ba1fc86702bd) - (2022-10-09).
+
+### Articles by [YayoCode][2]
+
+- [1. Getting started: Setting up the project](https://yayocode.com/post/XPECczhhAZgJDGcy69AO)
+- [2. The world, bodies, shapes, and fixtures](https://yayocode.com/post/pD63d2bqXJnaRU8Er80B)
+- [3. Body types: dynamic, static & kinematic](https://yayocode.com/post/7hp4dLXobT8GJ3NtzVOS)
+- [4. Friction, density & restitution](https://yayocode.com/post/Gt8E8u7W9ftte6nRp1fu)
+- [5. Forces, impulses & linear velocity](https://yayocode.com/post/yPFeIgyd6Jnz8Pgby6FU)
+- [6. Bodies and sprites](https://yayocode.com/post/91HWShtzuHkfaOj9gPP3)
+- [7. Collisions](https://yayocode.com/post/5eL4tEcqOwlVxrtJV1BD)
+- [8. Collisions with animated sprites](https://yayocode.com/post/ByfdSu012LCDKkAucB50) - (2022-12-02).
+
+### Tutorials by raywenderlich.com
+
+- [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) - By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev) - (2021-10-21).
+
+### Articles by wolfenra.in
+
+- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/) - (2020-07-13).
+
+### Other Articles & Tutorials
+
+- [Introduction to Flame with Flutter](https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker) - Build a Breakout game with Flutter state management integration. By [Brett Morgan](https://github.com/domesticmouse/)
+- [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
+- [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+- [Simple Platformer - Flame Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWPyd808sda2ydG-dhexNONV) - 2D platformer without using Forge2d. By [DevKage][1].
+- [Dino Run - Flutter Game Development Series with Flame](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage][1].
+- [Spacescape - Flutter Game Development Series with Flame](https://www.youtube.com/playlist?list=PLiZZKL9HLmWPL0URlq9WLng1A_g1LDuxx) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage][1].
+- [How to build a real-time multiplayer game with Flutter Flame](https://supabase.com/blog/flutter-real-time-multiplayer-game) - Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By [Tyler Shukert](https://twitter.com/dshukertjr).
+- [Publishing your Flutter Game on the Steam Deck!](https://dev.to/erickzanardo/publishing-your-flutter-game-in-the-steam-deck-oec) - A walkthrough on how to publish your Flutter/Flame game on the Steam Deck. By [Erick Zanardo](https://erick.gamedev.blue/)
+
+### Examples
+
+- [Maze generator](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
+
+## Plugins & Libraries
+
+- [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) - First-party plugins included in Flame's monorepo.
+- [bonfire](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+- [flame_texturepacker](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
+- [leap](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
+- [fuse](https://github.com/misha/flame_fuse) - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
+- [flame_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
+
+## Projects
+
+### Open Source
+
+#### Casual
+
+- [Antimine - Minesweeper](https://github.com/lucasnlm/antimine-flutter) - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
+- [Bob Box](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+- [Snaake!](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
+- [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+- [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
+- [Color Mixer](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
+- [Spacescape](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
+- [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
+- [Sober Driver](https://github.com/maurovanetti/guidi-tu) - An app with 10 mini games to designate a sober driver for a night out. Get it on [Google Play](https://play.google.com/store/apps/details?id=net.coopalice.guiditu), [App Store](https://apps.apple.com/it/app/guidi-tu/id6476491805). By [Mauro Vanetti](https://maurovanetti.info/).
+- [Square Shooter](https://github.com/namzug16/squareshooter_flame) - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
+
+#### Education
+
+- [Visual Graphs](https://mglsj.eu.org/visual_graphs/) - A graph (data structure) algoithims visualizer built with Flutter & Flame. By [mglsj](https://github.com/mglsj/visual_graphs)
+
+#### Endless Runner
+
+- [BGUG](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+- [Dino Run](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
+
+#### Platformer
+
+- [Flutters](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+- [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage][1].
+
+#### RPG
+
+- [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+
+#### Strategy
+
+- [Age of New Worlds](https://github.com/ernestwisniewski/aonw) - An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By [ernestwisniewski](https://github.com/ernestwisniewski).
+
+### App Releases
+
+#### Action
+
+- Vitayaja - [Android](https://play.google.com/store/apps/details?id=com.kevinomyonga.games.vitayaja) - A thrilling 2D versus fighting game built with precision, speed, and strategy in mind. Choose your fighter and battle against CPU opponents or friends. By [Kevin Omyonga](https://kevinomyonga.com)
+- Broadside - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.broadside) - Sail a wooden ship up a sea of big-eyed creatures while the cannons fire on their own, and sink a sea monster boss at the end of every voyage. By [Illumination Development](https://illuminationdevelopment.com)
+- Voideron - [Android](https://play.google.com/store/apps/details?id=com.teoktonos.voideron) - A twin-stick black-hole dungeon: clear all 10 levels. Offline, no ads. By [Teoktonos](https://voideron.teoktonos.com)
+
+#### Arcade
+
+- Air Hockey Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.airhockey), [iOS](https://apps.apple.com/us/app/air-hockey-classic/id1535374629) - Play the classic 'Air Hockey' arcade game now on your mobile device! By [Ignace Maes](https://ignacemaes.com/)
+- Oh Dash! - [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan)
+- Taco Rain - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.tacorain), [iOS](https://apps.apple.com/us/app/taco-rain-catch-the-tacos/id6802783584) - A family catching game: steer a basket to catch falling tacos and dodge the bombs, across 50 levels in five worlds, with a daily challenge and an endless mode. By [Illumination Development](https://illuminationdevelopment.com)
+- Pie Cannon - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.piecannon) - A carnival shooting gallery: fifty stalls down a world's fair midway, where you splat the ducks and spare the prizes, with a daily stall. By [Illumination Development](https://illuminationdevelopment.com)
+- Twinglide - [Android](https://play.google.com/store/apps/details?id=com.teoktonos.twinglide) - Steer two wingsuit flyers at once, one per thumb, through an endless procedural canyon that narrows as you speed up. By [Teoktonos](https://twinglide.teoktonos.com)
+- PaddleX - [Android](https://play.google.com/store/apps/details?id=com.grabow.paddlex) - A paddle duel across 300 levels and ten ways to play: power-ups, building, a second ball, marble runs, foosball, table ice hockey and a shooting gallery, with a champion at the end of every world and two players on one device. By [Grabow Commuter](https://paddlex.drawla.app)
+- Hungry Fish: Eat, Grow, Evolve - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.hungryfish) - A fish-eat-fish game: grow through 13 evolution stages across 11 ocean worlds and beat a giant boss in each. By [NewAgeDevs](https://newagedevs.com)
+- Egg Beat! - [Android](https://play.google.com/store/apps/details?id=com.luciosoft.eggbeat&hl=en), [iOS](https://apps.apple.com/app/id6833969842) - A physics-based rhythm arcade game where you balance a tray on your head to catch falling eggs, pack cartons, dodge bombs, and master themed worlds with unique hazards plus a Daily Doodle challenge. By [LucioSoft](https://github.com/adlucio87)
+
+#### Board
+
+- Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - Play the classic 'Four In A Row' board game! Will you be the first to connect 4 of your chips? Challenge the AI, or play against your friends and family. By [Ignace Maes](https://ignacemaes.com/)
+- Omnichess - [Web](https://www.omnichess.club), [Android](https://play.google.com/store/apps/details?id=club.omnichess) - Create and play your own Chess variants! 2-8 players. Online/AI. Square/Hexagonal tiled boards. By [Chirag Patel](https://github.com/orgs/Omnimind-Ltd)
+- [Chinese Checkers](https://www.dong.digital/chinesecheckers/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.chinesecheckers), [iOS](https://apps.apple.com/app/chinesecheckers/id1596651307) - Play Chinese Checkers (Sternhalma), a popular strategy board game, online with friends/strangers or offline with bots. By [Dong Digital][3].
+
+#### Cards
+
+- [Retro Spider](https://g4me.info/retro-spider) - The classic Solitaire Spider game, in pretty pixel art style for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
+
+#### Casual
+
+- KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
+- Dhoruba - [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
+- Toilet Racer - [Android](https://play.google.com/store/apps/details?id=dr.achim.toilet_racer) - Turn your bathroom into a magical sanctuary and become the toilet ninja! By [Philipp Mudra](https://github.com/PMudra), [Tim Wiechmann](https://github.com/drachim-dev)
+- Wormo - [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique.
+- Hyper Hexagon - [Android](https://play.google.com/store/apps/details?id=it.cocce.hyperhexagon), [Web](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
+- [Brick Mania](https://www.dong.digital/brickmania/) - [Android](https://play.google.com/store/apps/details?id=net.countrymania.brick) - A fantastic reinvention of the classic Brick Breaker game: relaxing and yet super satisfying. By [Dong Digital][3].
+- Tension Tunnel - [Android](https://play.google.com/store/apps/details?id=com.atomicinstinct.tensiontunnel), [iOS](https://apps.apple.com/app/tension-tunnel/id1608041401), [Web](https://tensiontunnel.com/play) - A casual, minimalist and challenging game that will put your reflexes to the test. Be careful, it's highly addictive! By [Atomic Instinct](https://atomicinstinct.com)
+- TTG - Through The Galaxies - [Android](https://play.google.com/store/apps/details?id=dev.app2pack.ttg), [iOS](https://apps.apple.com/app/ttg-through-the-galaxy/id6444870791?platform=iphone) - Control the rocket to go through the planets to gain higher and higher score. By [imaNNeo](https://github.com/imaNNeo)
+- BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps][4]
+- Jade Rapids - [Android](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game) - Swim with your pug up Jade Rapids collecting treats and dodging obstacles. By [Philip Lalonde](https://github.com/lalondeph)
+- Escaper: Run - [IOS](https://apps.apple.com/tr/app/escaper-run/id6450519372?platform=iphone) - Dodge the bombs. Test your reflexes! By [A. Can Algan](https://github.com/acalgan)
+- Cosmic Merge - [Android](https://play.google.com/store/apps/details?id=es.antonborri.merge_game), [iOS](https://apps.apple.com/app/cosmic-merge/id6471924647) - Merge Planets, Moons and more with the goal to reach galaxies far away or possibly even further? By [ABausG](https://twitter.com/abausg)
+- Save The Potato [source-code](https://github.com/imaNNeo/save_the_potato) - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
+- CircleCapture [Android](https://play.google.com/store/apps/details?id=com.marioiannotta.cc) [iOS](https://apps.apple.com/us/app/circlecapture/id6747576924) - Tap and drag to draw circles that capture floating particles. By [MarioIannotta](http://github.com/marioIannotta/)
+- [Brick Breaker - Hexa](https://hexaapps.net/apps/brick-breaker) - [Android](https://play.google.com/store/apps/details?id=com.hexaapps.hexa_brick_breaker), [iOS](https://apps.apple.com/tr/app/brick-breaker-hexa/id6744274476) - Guide your paddle with precision to keep the ball in play as you destroy increasingly challenging brick formations. By [Hexa Apps](https://hexaapps.net/).
+- Upverse: Endless Jump - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.upverse) - Bounce from a sunny meadow into space and beyond. How high can you go? By [xeinebiu](https://github.com/xeinebiu)
+- Pimbli: Super Adventures - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.mousworld1) - Run, jump and explore four worlds with Pimbli, a little hero on a big journey. By [xeinebiu](https://github.com/xeinebiu)
+- Peel Frenzy - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.peelfrenzy) - Peel a hundred fruits, each in one clean strip: trace the line, and a tension meter tears the peel if you yank. By [Illumination Development](https://illuminationdevelopment.com)
+
+#### Educational
+
+- [Sky Academy](https://www.dong.digital/skyacademy/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.skyacademy), [iOS](https://apps.apple.com/us/app/sky-academy/id1571488252) - Learn to recognize all the constellations and brightest stars from a gold medal winner of the International Astronomy Olympiad. By [Dong Digital][3].
+- [Mathonaut](https://mathonaut.skyost.eu/) - [Android](https://play.google.com/store/apps/details?id=fr.skyost.mathonaut), [iOS](https://apps.apple.com/app/id1673790210) - A platform game in which you play around math. By [Skyost](https://skyost.eu)
+- Japanese Fun - J64 - [Android](https://play.google.com/store/apps/details?id=com.space64.japanese), [iOS](https://apps.apple.com/us/app/japanese-fun-j64/id6737459351) - A set of interactive mini-games designed to help users learn and practice Japanese scripts. By [Space 64](https://space64.xyz/)
+
+#### Music
+
+- Relo Music Instrument - [Android](https://play.google.com/store/apps/details?id=ch.astrate.relo), [iOS](https://apps.apple.com/us/app/relo-music-instrument/id1547638708) - First ever RELATIVE music instrument, which is especially suitable for mobile devices and improvisation.
+
+#### Online Multiplayer
+
+- Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+
+#### Puzzle Games
+
+- Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
+- Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
+- [Sorting Puzzle](https://www.dong.digital/sortingpuzzle/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.sortingpuzzle), [iOS](https://apps.apple.com/app/sorting-puzzle/id1641001729) - Color sorting game reinvented: move and combine to solve puzzles. By [Dong Digital][3].
+- [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
+- [Mine Cart Operator](https://store.steampowered.com/app/3997420/Mine_Cart_Operator/) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
+- Jigsaw Puzzles - [Android](https://play.google.com/store/apps/details?id=jigsaw.puzzle.game), [iOS](https://apps.apple.com/us/app/jigsaw-puzzles-puzzle-play/id6469541260) - Relaxing jigsaw puzzle game with thousands of HD images, custom puzzles and daily challenges. By [Mikhail Smirnov](https://happyjigsaw.com)
+- [Bumble Maze](https://play.google.com/store/apps/details?id=com.midnightcommit.maze) - [Android](https://play.google.com/store/apps/details?id=com.midnightcommit.maze), [iOS](https://apps.apple.com/cz/app/bumble-maze/id6759364604) - A cozy puzzle adventure through procedurally generated garden mazes. By [LJ Digital](https://ljdigital.cz/)
+- [Pixelado](https://g4me.info/pixelado?utm_source=flame-awesome) - A Pixel art focused match-3 puzzle game for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
+- Arrow Duel - [Android](https://play.google.com/store/apps/details?id=com.binduintelligence.arrowduel) - An arrow-escape puzzle where every level is a turn-based duel against a computer rival: clear your arrows first without opening the way for theirs. 100 levels, bosses, a League and a Daily Challenge. By [jeshan-coder](https://github.com/jeshan-coder)
+- Arrow Rush: Untangle Puzzle - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.arrow_rush), [iOS](https://apps.apple.com/app/id6797708666) - Tap the arrows off the board in the right order. Every level is generated to be solvable, with a boss board every tenth level. By [NewAgeDevs](https://newagedevs.com)
+- Cars to Rockets: Parking Jam - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.carstorockets), [iOS](https://apps.apple.com/app/id6827221344) - A parking-jam puzzle with 1,600 solver-checked levels across eight worlds, from a city car park to the snowy peaks. By [NewAgeDevs](https://newagedevs.com)
+- Jelly Float: Merge & Evolve - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.jellyverse), [iOS](https://apps.apple.com/app/id6820272178) - Launch jellyfish, let them float up and merge into bigger ones, with a daily challenge. By [NewAgeDevs](https://newagedevs.com)
+
+#### Role Playing
+
+- Xeonjia: Ice Adventures - [Android](https://play.google.com/store/apps/details?id=xyz.deepdaikon.xeonjia), [Desktop](https://deepdaikon.itch.io/xeonjia), [GitLab](https://gitlab.com/deepdaikon/Xeonjia) - An adventure game set in a frozen world. By [DeepDaikon](https://deepdaikon.xyz/)
+- The Darkblade - [Desktop](https://store.steampowered.com/app/3731570/The_Darkblade/) - Souls-like 2D singleplayer RPG. By [Mikalyh](https://store.steampowered.com/curator/45619362)
+- Grid Lands - [Desktop](https://store.steampowered.com/app/4677750/Grid_Lands/) - Grid Lands is a real-time MMO minesweeper with PvP battles, territorial control, and cross-platform play. By [lig](https://fosstodon.org/@lig)
+
+#### Sports
+
+- Pool Ball Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.poolball), [iOS](https://apps.apple.com/us/app/pool-ball-classic/id1557034712) - Play 8 Ball Pool like you know and love on your mobile device featuring 3D graphics, realistic physics, and a challenging AI mode. By [Ignace Maes](https://ignacemaes.com/)
+- Cycling Escape - [GitHub](https://github.com/ikbendewilliam/CyclingEscape) - You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By [ikbendewilliam](https://github.com/ikbendewilliam)
+
+#### Tower Defense
+
+- Bubble Panic! - [Android](https://play.google.com/store/apps/details?id=jp.co.gohko.bubble_panic), [iOS](https://apps.apple.com/us/app/bubble-panic-tower-defense/id6584514075) - A casual tower defense game that offers long-lasting playability with automatic stage generation. By [Gohko Engineering G.K.](https://bp.gohko.co.jp/)
+- Stellar Bastion - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.stellar_bastion), [iOS](https://apps.apple.com/us/app/stellar-bastion/id6761073618), [Web](https://www.crazygames.com/game/stellar-bastion) - A 2D pixel-art tower defense game. Combo your towers together to defeat the onslaught! By [Coconut Island Apps][4]
+- Defend Your Flame - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.defend_your_flame), [iOS](https://apps.apple.com/us/app/defend-your-flame/id6763261764) - A 2D pixel-art base-defense game. Swipe your enemies away and into each other, upgrade your base, Defend Your Flame! By [Coconut Island Apps][4]
+
+#### Roguelike
+
+- Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
+- Mortigen - [Android](https://play.google.com/store/apps/details?id=com.ler.mortigen), [iOS](https://apps.apple.com/us/app/mortigen/id6761758806) - A top-down auto-fire survival shooter where Dr. Luisen survives a biopharma outbreak through procedural labs, escalating hordes, and upgrade-driven builds. By [Luis Enrique Ruiz](https://koldo92.github.io/mortigen/).
+- Grim Hand - [Android](https://play.google.com/store/apps/details?id=com.andreyrub.grim_hand), [iOS](https://apps.apple.com/us/app/grim-hand-roguelike-deck-rpg/id6791943856) - A turn-based dark fantasy roguelike deckbuilder where your cards come from your weapon and shield. By [HedgeCat Studios](https://hedgecatstudios.com/)
+
+#### Simulation
+
+- Random Race - [Android](https://play.google.com/store/apps/details?id=com.sopivasti.randomrace) - A racing simulation app with cute dinos to help you make decisions when you find yourself indecisive. By [Sopivasti](https://www.sopivasti.com/)
+
+#### Strategy
+
+- Sporehold - [iOS](https://apps.apple.com/us/app/sporehold-turn-based-strategy/id6815795120) - A pixel-art turn-based tactics game where enemies react before your attacks land. Command mushroom warriors, outsmart enemy defenses, and reclaim a kingdom consumed by the Purple Plague. By [Oleksandr Nikolaiev](https://github.com/AANikolaev).

@@ -1,6 +1,6 @@
 ---
 title: "KEEBOX LIST™ – Curated Developer Resources, Tools & Libraries"
-description: "KEEBOX LIST™ is a free, curated directory of 6,500+ hand-picked developer resources — tools, libraries, frameworks and guides for AI, Python, web, Node.js, npm, iOS, Swift, macOS, Electron and DevOps."
+description: "KEEBOX LIST™ is a free, curated directory of 7,000+ hand-picked developer resources — tools, libraries, frameworks and guides for AI, Python, web, Node.js, npm, iOS, Swift, macOS, Electron and DevOps."
 hide:
   - navigation
   - toc
@@ -10,7 +10,7 @@ hide:
 
 # Curated developer resources, all in one place { .kb-hero__title }
 
-KEEBOX LIST™ is a free, open-source directory of **6,500+ hand-picked tools, libraries, frameworks and guides** for software developers — so you spend less time searching and more time building.
+KEEBOX LIST™ is a free, open-source directory of **80,000+ developer resources** — 7,000+ hand-picked tools and guides plus a Library of 444 awesome lists — so you spend less time searching and more time building.
 { .kb-hero__lead }
 
 [Explore resources :material-arrow-right:](#browse-by-topic){ .md-button .md-button--primary }
@@ -20,112 +20,270 @@ KEEBOX LIST™ is a free, open-source directory of **6,500+ hand-picked tools, l
 
 <div class="kb-stats" markdown>
 
-<div markdown>**6,500+**<br><span>curated links</span></div>
-<div markdown>**12**<br><span>topic guides</span></div>
-<div markdown>**600+**<br><span>awesome lists</span></div>
+<div markdown>**80,000+**<br><span>resources</span></div>
+<div markdown>**35**<br><span>topic guides</span></div>
+<div markdown>**444**<br><span>lists in the Library</span></div>
 <div markdown>**100%**<br><span>free & open source</span></div>
 
 </div>
 
 ## Browse by topic
 
-<div class="grid cards" markdown>
+### KEEBOX Library
 
--   :material-robot-outline:{ .lg .middle } **AI & LLM Tools** <span class="kb-new">New</span>
+<div class="grid cards kb-topics" markdown>
 
-    ---
-
-    Local model runtimes, agents, MCP servers, RAG and vector databases.
-
-    [:octicons-arrow-right-24: Explore AI tools](ai.md)
-
--   :material-language-python:{ .lg .middle } **Python** <span class="kb-new">New</span>
+-   [:material-bookshelf:{ .lg .middle } **KEEBOX Library** <span class="kb-new">New</span>](library/index.md)
 
     ---
 
-    Modern tooling, web frameworks, data science and automation libraries.
+    444 public-domain awesome lists, 74,000+ resources, all searchable.
 
-    [:octicons-arrow-right-24: Explore Python](python.md)
+</div>
 
--   :material-web:{ .lg .middle } **Web Development** <span class="kb-new">New</span>
+### AI & Data
 
-    ---
+<div class="grid cards kb-topics" markdown>
 
-    React, Vue, Svelte, Next.js, Tailwind, testing and build tools.
-
-    [:octicons-arrow-right-24: Explore web dev](web.md)
-
--   :material-server-network:{ .lg .middle } **DevOps & Self-hosting** <span class="kb-new">New</span>
+-   [:material-robot-outline:{ .lg .middle } **AI & LLM Tools**](ai.md)
 
     ---
 
-    Containers, Kubernetes, infrastructure as code, CI/CD and monitoring.
+    Local models, agents, MCP servers, RAG.
 
-    [:octicons-arrow-right-24: Explore DevOps](devops.md)
-
--   :material-nodejs:{ .lg .middle } **Node.js**
+-   [:material-chart-box-outline:{ .lg .middle } **Data Engineering & Analytics** <span class="kb-new">New</span>](data.md)
 
     ---
 
-    Packages, frameworks, tutorials and tools for server-side JavaScript.
+    Airflow, dbt, Spark, Superset, Metabase.
 
-    [:octicons-arrow-right-24: Explore Node.js](nodejs.md)
-
--   :material-npm:{ .lg .middle } **npm**
+-   [:material-database-outline:{ .lg .middle } **Databases**](databases.md)
 
     ---
 
-    Articles, tools and tips for the npm package ecosystem.
+    SQL, NoSQL, search, Supabase, GUIs.
 
-    [:octicons-arrow-right-24: Explore npm](npm.md)
+</div>
 
--   :material-apple-ios:{ .lg .middle } **iOS**
+### Languages
 
-    ---
+<div class="grid cards kb-topics" markdown>
 
-    Courses, libraries, UI components and tools for iPhone and iPad apps.
-
-    [:octicons-arrow-right-24: Explore iOS](ios.md)
-
--   :material-language-swift:{ .lg .middle } **Swift**
+-   [:material-language-python:{ .lg .middle } **Python**](python.md)
 
     ---
 
-    Swift libraries, frameworks, guides and newsletters.
+    uv, FastAPI, Django, pandas, Polars.
 
-    [:octicons-arrow-right-24: Explore Swift](swift.md)
-
--   :material-apple:{ .lg .middle } **macOS**
+-   [:material-language-go:{ .lg .middle } **Go**](go.md)
 
     ---
 
-    The best apps and tools for developers and power users on the Mac.
+    Gin, Echo, Fiber, sqlc, Cobra.
 
-    [:octicons-arrow-right-24: Explore macOS](mac.md)
-
--   :material-application-outline:{ .lg .middle } **Electron**
+-   [:material-language-rust:{ .lg .middle } **Rust**](rust.md)
 
     ---
 
-    Apps, tools, boilerplates and components for desktop apps with web tech.
+    Tokio, Axum, Serde, Ratatui.
 
-    [:octicons-arrow-right-24: Explore Electron](electron.md)
-
--   :material-school-outline:{ .lg .middle } **Learning & Free Resources** <span class="kb-new">New</span>
+-   [:material-language-java:{ .lg .middle } **Java & Kotlin** <span class="kb-new">New</span>](java.md)
 
     ---
 
-    Roadmaps, free courses and books, public APIs and free tiers.
+    Spring Boot, Quarkus, Ktor, JUnit.
 
-    [:octicons-arrow-right-24: Start learning](learn.md)
-
--   :material-format-list-bulleted-square:{ .lg .middle } **Awesome Lists Directory**
+-   [:material-language-csharp:{ .lg .middle } **C# & .NET** <span class="kb-new">New</span>](dotnet.md)
 
     ---
 
-    600+ community-curated lists organized by topic.
+    ASP.NET Core, EF Core, MAUI, xUnit.
 
-    [:octicons-arrow-right-24: Browse the directory](lists.md)
+-   [:material-language-php:{ .lg .middle } **PHP** <span class="kb-new">New</span>](php.md)
+
+    ---
+
+    Laravel, Symfony, WordPress, Pest.
+
+-   [:material-nodejs:{ .lg .middle } **Node.js**](nodejs.md)
+
+    ---
+
+    Packages, frameworks and tutorials.
+
+-   [:material-npm:{ .lg .middle } **npm**](npm.md)
+
+    ---
+
+    Articles, tools and tips.
+
+-   [:material-language-swift:{ .lg .middle } **Swift**](swift.md)
+
+    ---
+
+    Libraries, guides and newsletters.
+
+</div>
+
+### Web & Mobile
+
+<div class="grid cards kb-topics" markdown>
+
+-   [:material-web:{ .lg .middle } **Web Development**](web.md)
+
+    ---
+
+    React, Vue, Svelte, Next.js, Tailwind.
+
+-   [:material-api:{ .lg .middle } **APIs** <span class="kb-new">New</span>](apis.md)
+
+    ---
+
+    REST, GraphQL, gRPC, OpenAPI, Bruno.
+
+-   [:material-cellphone:{ .lg .middle } **Mobile Development**](mobile.md)
+
+    ---
+
+    Flutter, React Native, Expo, Android.
+
+-   [:material-apple-ios:{ .lg .middle } **iOS**](ios.md)
+
+    ---
+
+    Courses, libraries and Xcode tools.
+
+-   [:material-application-outline:{ .lg .middle } **Electron**](electron.md)
+
+    ---
+
+    Desktop apps with web technologies.
+
+-   [:material-rocket-launch-outline:{ .lg .middle } **Templates & Starters** <span class="kb-new">New</span>](templates.md)
+
+    ---
+
+    Boilerplates, dashboards, landing pages.
+
+</div>
+
+### Infrastructure
+
+<div class="grid cards kb-topics" markdown>
+
+-   [:material-server-network:{ .lg .middle } **DevOps & Self-hosting**](devops.md)
+
+    ---
+
+    Docker, Kubernetes, Terraform, CI/CD.
+
+-   [:material-cloud-outline:{ .lg .middle } **Cloud & Free Tiers** <span class="kb-new">New</span>](cloud.md)
+
+    ---
+
+    AWS, Azure, Cloudflare, serverless.
+
+-   [:material-console:{ .lg .middle } **Linux & Terminal** <span class="kb-new">New</span>](linux.md)
+
+    ---
+
+    Shells, modern CLI tools, dotfiles.
+
+-   [:material-shield-lock-outline:{ .lg .middle } **Security**](security.md)
+
+    ---
+
+    Scanning, secrets, OWASP, auth.
+
+-   [:material-test-tube:{ .lg .middle } **Testing & QA** <span class="kb-new">New</span>](testing.md)
+
+    ---
+
+    E2E, unit, load testing and mocks.
+
+</div>
+
+### Creative & Hardware
+
+<div class="grid cards kb-topics" markdown>
+
+-   [:material-palette-outline:{ .lg .middle } **Design & UI Assets**](design.md)
+
+    ---
+
+    Icons, fonts, Penpot, animation.
+
+-   [:material-gamepad-variant-outline:{ .lg .middle } **Game Development** <span class="kb-new">New</span>](gamedev.md)
+
+    ---
+
+    Godot, Bevy, Phaser, Blender.
+
+-   [:material-chip:{ .lg .middle } **IoT & Hardware** <span class="kb-new">New</span>](iot.md)
+
+    ---
+
+    Arduino, ESP32, Home Assistant, MQTT.
+
+-   [:material-ethereum:{ .lg .middle } **Blockchain & Web3** <span class="kb-new">New</span>](web3.md)
+
+    ---
+
+    Foundry, Hardhat, viem, Slither.
+
+</div>
+
+### Tools & Learning
+
+<div class="grid cards kb-topics" markdown>
+
+-   [:material-school-outline:{ .lg .middle } **Learning & Free Resources**](learn.md)
+
+    ---
+
+    Roadmaps, free courses, public APIs.
+
+-   [:material-translate:{ .lg .middle } **Recursos en español** <span class="kb-new">New</span>](espanol.md)
+
+    ---
+
+    Libros, cursos y comunidades en español.
+
+-   [:material-file-document-outline:{ .lg .middle } **Cheat Sheets** <span class="kb-new">New</span>](cheatsheets.md)
+
+    ---
+
+    Git, Docker, regex, Python, Bash.
+
+-   [:material-tools:{ .lg .middle } **Free Online Tools** <span class="kb-new">New</span>](online-tools.md)
+
+    ---
+
+    IT-Tools, CyberChef, Squoosh, Mermaid.
+
+-   [:material-puzzle-outline:{ .lg .middle } **Editor & Browser Extensions** <span class="kb-new">New</span>](extensions.md)
+
+    ---
+
+    VS Code and browser extensions.
+
+-   [:material-podcast:{ .lg .middle } **Podcasts, Newsletters & Videos** <span class="kb-new">New</span>](media.md)
+
+    ---
+
+    Keep learning every week.
+
+-   [:material-apple:{ .lg .middle } **macOS**](mac.md)
+
+    ---
+
+    The best Mac apps for developers.
+
+-   [:material-format-list-bulleted-square:{ .lg .middle } **Awesome Lists Directory**](lists.md)
+
+    ---
+
+    600+ curated lists by topic.
 
 </div>
 
@@ -133,13 +291,13 @@ KEEBOX LIST™ is a free, open-source directory of **6,500+ hand-picked tools, l
 
 - **Curated, not scraped** — every resource is chosen by developers and grouped by what you are trying to build.
 - **Kept up to date** — links are checked automatically every month; renamed projects are updated and dead ones removed.
-- **Fast to search** — press <kbd>/</kbd> anywhere to search all 6,500+ resources instantly.
+- **Fast to search** — press <kbd>/</kbd> anywhere to search all 80,000+ resources instantly.
 - **Free and open source** — no sign-up, no paywall. Anyone can [contribute](contributing.md).
 
 ## Frequently asked questions
 
 ??? question "What is KEEBOX LIST™?"
-    KEEBOX LIST™ is a free, open-source directory of curated software development resources. It groups 6,500+ tools, libraries, frameworks, courses and guides by topic — AI & LLMs, Python, web development, Node.js, npm, iOS, Swift, macOS, Electron and DevOps — so developers can find reliable resources quickly.
+    KEEBOX LIST™ is a free, open-source directory of curated software development resources. It groups 7,000+ tools, libraries, frameworks, courses and guides by topic — AI, data, Python, Go, Rust, Java, .NET, PHP, web and mobile development, APIs, cloud, DevOps, security, testing, design, game development, IoT and more — plus a section in Spanish — so developers can find reliable resources quickly.
 
 ??? question "Is KEEBOX LIST™ free?"
     Yes. The site is completely free, has no sign-up and its source is published on [GitHub](https://github.com/andriksantos/keebox) under the MIT license.
@@ -155,11 +313,16 @@ KEEBOX LIST™ is a free, open-source directory of **6,500+ hand-picked tools, l
 
 <div class="kb-cta" markdown>
 
-### Found something useful?
+### Did KEEBOX save you time?
 
-Help other developers discover KEEBOX LIST™ — star the repository or share it with your team.
+KEEBOX LIST™ is free and ad-free. Your contribution keeps the site running.
 
-[:fontawesome-brands-github: Star on GitHub](https://github.com/andriksantos/keebox){ .md-button .md-button--primary }
-[:material-heart: Support the project](donate.md){ .md-button }
+[☕ Buy me a coffee](https://buymeacoffee.com/andriksantos){ .md-button .md-button--primary .kb-bmc }
+[PayPal $3](https://www.paypal.com/paypalme/AndrikSantosHN/3){ .md-button }
+[PayPal $5](https://www.paypal.com/paypalme/AndrikSantosHN/5){ .md-button }
+[PayPal $10](https://www.paypal.com/paypalme/AndrikSantosHN/10){ .md-button }
+[PayPal $50](https://www.paypal.com/paypalme/AndrikSantosHN/50){ .md-button }
+
+[:fontawesome-brands-github: Star on GitHub](https://github.com/andriksantos/keebox) · [Become a sponsor](sponsors.md) · [Our supporters](supporters.md)
 
 </div>
