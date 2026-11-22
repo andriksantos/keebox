@@ -1,3 +1,10 @@
+---
+title: "npm Resources, Tools & Tips"
+description: "Curated npm resources: articles, CLI tools, package search, security, publishing tips and best practices for the Node.js package manager."
+---
+
+# npm
+
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
 [npm](https://en.wikipedia.org/wiki/Npm_(software)) is a package manager for the JavaScript programming language and comes bundled in the [Node.js](https://en.wikipedia.org/wiki/Node.js) runtime.
@@ -16,7 +23,7 @@
 - [How to use npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Install npm packages globally without sudo on macOS and Linux](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
 - [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
-- [The Art of Node](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
+- [The Art of Node](https://github.com/max-mapper/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 - [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) - An introduction to npm scripts with common packages and scripts, as well as a boilerplate project.
 
 ## Tools
@@ -58,9 +65,9 @@
 
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
-- [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
+- [npm-release](https://github.com/tgvashworth/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+- [release-it](https://github.com/release-it/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
@@ -76,7 +83,7 @@
 - [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 - [nrm](https://github.com/Pana/nrm) - Registry manager.
-- [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+- [npm-register](https://github.com/jdx/npm-register) - Easy to set up and maintain npm registry and proxy.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 - [cloudsmith](https://cloudsmith.io/l/npm-registry/) - A fully managed package management SaaS with support for public and private npm registries (and many others).
 
@@ -87,15 +94,15 @@
 - [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 - [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
 - [npm-upgrade](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
-- [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
+- [npm-shrinkwrap](https://github.com/uber-archive/npm-shrinkwrap) - A consistent shrinkwrap tool.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
-- [pkg-up](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
-- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
+- [pkg-up](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
+- [read-pkg-up](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-- [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+- [pkg-conf](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
-- [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
+- [local-npm](https://github.com/local-npm/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 - [npe](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 - [engine-deps](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 - [enpeem-search](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.

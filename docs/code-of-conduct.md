@@ -1,3 +1,8 @@
+---
+title: "Code of Conduct"
+description: "The Contributor Covenant Code of Conduct for the KEEBOX LIST™ community."
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -75,4 +80,3 @@ available at [https://contributor-covenant.org/version/1/4][version]
 
 ---
 
-[let's go up](#contributor-covenant-code-of-conduct)

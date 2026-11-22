@@ -1,0 +1,145 @@
+{% extends "base.html" %}
+
+{#- Page title: full SEO title on the home page, "<Page> - KEEBOX LIST™" elsewhere -#}
+{% block htmltitle %}
+  {%- if page and page.meta and page.meta.title and page.is_homepage -%}
+    <title>{{ page.meta.title }}</title>
+  {%- elif page and page.meta and page.meta.title -%}
+    <title>{{ page.meta.title }} | {{ config.site_name }}</title>
+  {%- elif page and page.title and not page.is_homepage -%}
+    <title>{{ page.title | striptags }} | {{ config.site_name }}</title>
+  {%- else -%}
+    <title>{{ config.site_name }}</title>
+  {%- endif -%}
+{% endblock %}
+
+{% block extrahead %}
+  {%- set seo_title = (page.meta.title if page and page.meta and page.meta.title else (page.title | striptags if page and page.title else config.site_name)) -%}
+  {%- set seo_desc = (page.meta.description if page and page.meta and page.meta.description else config.site_description) -%}
+  {%- set seo_image = config.site_url ~ "assets/img/thumb.png" -%}
+  <meta name="author" content="{{ config.site_author }}">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+  <meta name="theme-color" content="#2e303e">
+  <link rel="apple-touch-icon" href="{{ 'assets/img/apple-touch-icon.png' | url }}">
+  {%- if config.extra.bing_verification %}
+  <meta name="msvalidate.01" content="{{ config.extra.bing_verification }}">
+  {%- endif %}
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ seo_title }}">
+  <meta property="og:description" content="{{ seo_desc }}">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:image" content="{{ seo_image }}">
+  <meta property="og:image:width" content="1341">
+  <meta property="og:image:height" content="632">
+  <meta property="og:image:alt" content="KEEBOX LIST™ – curated developer resources">
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ seo_title }}">
+  <meta name="twitter:description" content="{{ seo_desc }}">
+  <meta name="twitter:image" content="{{ seo_image }}">
+
+  <!-- Structured data (schema.org) for search engines and AI answer engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "{{ config.site_url }}#website",
+        "url": "{{ config.site_url }}",
+        "name": "{{ config.site_name }}",
+        "alternateName": "KEEBOX LIST",
+        "description": {{ config.site_description | tojson }},
+        "inLanguage": "en",
+        "publisher": { "@id": "{{ config.site_url }}#author" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": { "@type": "EntryPoint", "urlTemplate": "{{ config.site_url }}?q={search_term_string}" },
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Person",
+        "@id": "{{ config.site_url }}#author",
+        "name": "Andrik Santos",
+        "url": "https://andriksantos.com",
+        "sameAs": [
+          "https://github.com/andriksantos",
+          "https://www.linkedin.com/in/andriksantos/"
+        ]
+      },
+      {
+        "@type": "{{ 'WebPage' if page and page.is_homepage else 'CollectionPage' }}",
+        "@id": "{{ page.canonical_url }}#webpage",
+        "url": "{{ page.canonical_url }}",
+        "name": {{ seo_title | tojson }},
+        "description": {{ seo_desc | tojson }},
+        "isPartOf": { "@id": "{{ config.site_url }}#website" },
+        "primaryImageOfPage": { "@type": "ImageObject", "url": "{{ seo_image }}" },
+        "inLanguage": "en"
+        {%- if page and not page.is_homepage %},
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ config.site_url }}" },
+            { "@type": "ListItem", "position": 2, "name": {{ (page.title | striptags) | tojson }}, "item": "{{ page.canonical_url }}" }
+          ]
+        }
+        {%- endif %}
+      }
+      {%- if page and page.is_homepage %},
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          { "@type": "Question", "name": "What is KEEBOX LIST™?",
+            "acceptedAnswer": { "@type": "Answer", "text": "KEEBOX LIST™ is a free, open-source directory of curated software development resources. It groups 6,500+ tools, libraries, frameworks, courses and guides by topic — AI & LLMs, Python, web development, Node.js, npm, iOS, Swift, macOS, Electron and DevOps." } },
+          { "@type": "Question", "name": "Is KEEBOX LIST™ free?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes. The site is completely free, has no sign-up and its source is published on GitHub under the MIT license." } },
+          { "@type": "Question", "name": "How are resources selected and kept up to date?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Resources are curated by developers and reviewed through pull requests. An automated job checks every link monthly; projects that move are updated and projects that disappear are removed." } },
+          { "@type": "Question", "name": "How can I suggest a resource?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Open an issue or send a pull request on GitHub (github.com/andriksantos/keebox) following the contribution guide: one link per pull request, with a short description." } },
+          { "@type": "Question", "name": "Who maintains KEEBOX LIST™?",
+            "acceptedAnswer": { "@type": "Answer", "text": "KEEBOX LIST™ is created and maintained by Andrik Santos (andriksantos.com), with contributions from the developer community." } }
+        ]
+      }
+      {%- endif %}
+    ]
+  }
+  </script>
+
+  {%- if config.extra.gtm_id %}
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','{{ config.extra.gtm_id }}');</script>
+  {%- endif %}
+
+  {%- if config.extra.clarity_id %}
+  <!-- Microsoft Clarity -->
+  <script>
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "{{ config.extra.clarity_id }}");
+  </script>
+  {%- endif %}
+{% endblock %}
+
+{#- Google Tag Manager (noscript) right after <body> opens -#}
+{% block header %}
+  {%- if config.extra.gtm_id %}
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ config.extra.gtm_id }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  {%- endif %}
+  {{ super() }}
+{% endblock %}
+
+{% block announce %}
+  <strong>New:</strong> 165 hand-picked resources for
+  <a href="{{ 'ai/' | url }}">AI &amp; LLMs</a>, <a href="{{ 'python/' | url }}">Python</a>,
+  <a href="{{ 'web/' | url }}">Web</a> and <a href="{{ 'devops/' | url }}">DevOps</a>.
+  Like it? <a href="https://github.com/andriksantos/keebox">⭐ Star KEEBOX on GitHub</a>
+{% endblock %}

@@ -1,3 +1,8 @@
+---
+title: "Contribution Guidelines"
+description: "How to suggest new developer resources and contribute to KEEBOX LIST™ on GitHub."
+---
+
 # Contribution Guidelines
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
@@ -16,9 +21,3 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 * Send a Pull Request with the reason why the library is awesome.
-
-Copyright © 2030
-
----
-
-[let's go up](#contribution-guidelines)

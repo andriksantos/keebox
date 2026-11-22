@@ -1,0 +1,32 @@
+name: Check links
+
+on:
+  schedule:
+    - cron: "17 6 1 * *"   # monthly, day 1 at 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress --max-concurrency 8 --accept 200,201,204,206,301,302,403,429
+            --exclude-path site 'docs/**/*.md' readme.md
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Open issue with broken links
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links report
+          content-filepath: ./lychee/out.md
+          labels: report, automated

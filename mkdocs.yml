@@ -1,98 +1,148 @@
-# Project information
-site_name: KEEBOX LIST™, a carefully curated collection of essential resources for developers.
-site_url: https://andriksantos.github.io/keebox/
-site_author: Andrik Santos ™
-site_description: >-
-    Welcome to KEEBOX LIST™, a carefully curated collection of essential resources for developers. This site is designed to be your centralized reference point, helping you quickly find tools, libraries, and guides relevant to your work.
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-#Menu
-nav:
-    - Resources of programming: index.md
-    - Npm: npm.md
-    - Ios: ios.md
-    - Mac: mac.md
-    - Swift: Swift.md
-    - Node.js: nodejs.md
-    - Electron: electron.md
-    - Contributing: contributing.md
-    - Code of conduct: code-of-conduct.md
-    - Donate: donate.md
+# Project information
+site_name: KEEBOX LIST™
+site_url: https://andriksantos.com/keebox/
+site_author: Andrik Santos
+site_description: >-
+  KEEBOX LIST™ is a free, curated directory of 6,500+ hand-picked developer
+  resources: tools, libraries, frameworks and guides for AI, Python, web,
+  Node.js, npm, iOS, Swift, macOS, Electron and DevOps.
 
 # Repository
 repo_name: andriksantos/keebox
 repo_url: https://github.com/andriksantos/keebox
-edit_uri: ""
+edit_uri: edit/master/docs/
 
 # Copyright
-copyright: 'Copyright &copy; 2030 Andrik Santos ™'
+copyright: Copyright &copy; 2018 - 2026 Andrik Santos™
 
-#Configuration
-theme: 
+# Navigation
+nav:
+  - Home: index.md
+  - Resources:
+      - AI & LLM Tools: ai.md
+      - Python: python.md
+      - Web Development: web.md
+      - Node.js: nodejs.md
+      - npm: npm.md
+      - DevOps & Self-hosting: devops.md
+      - iOS: ios.md
+      - Swift: swift.md
+      - macOS: mac.md
+      - Electron: electron.md
+      - Learning & Free Resources: learn.md
+      - Awesome Lists Directory: lists.md
+  - Community:
+      - Contributing: contributing.md
+      - Code of conduct: code-of-conduct.md
+      - Donate: donate.md
+
+# Configuration
+theme:
   name: material
-
+  custom_dir: overrides
+  language: en
+  logo: assets/img/logo-isotipo-white.png
+  favicon: assets/img/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
   palette:
+    # Follow the operating system
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
-
+        name: Switch to system preference
   features:
-    #- navigation.tabs
-    - navigation.expand
+    - navigation.tabs
+    - navigation.sections
     - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - toc.follow
     - search.suggest
     - search.highlight
     - search.share
+    - content.action.edit
+    - content.code.copy
+    - content.tooltips
+    - announce.dismiss
+    - navigation.indexes
 
-favicon: assets/favicon.png
-icon:
-  logo: logo
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
 
 markdown_extensions:
-    - admonition
-    - abbr
-    - attr_list
-    - def_list
-    - footnotes
-    - meta
-    - md_in_html
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.keys
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-# Social Networks
+# Extra (a single block: duplicated "extra:" keys overwrite each other)
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://andriksantos.github.io/
-      name: Visit my portfolio
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/andriksantos/
-      name: Follow me on linkedin
-
-extra:
-  alternate:
-    - name: English
-      link: /en/ 
-      lang: en
-    - name: Spanish
-      link: /es/
-      lang: es
-    - name: Chinese (Traditional)
-      link: /zh-Hant/
-      lang: zh-Hant
-
-extra:
+  # Google Analytics 4 (with "Was this page helpful?" feedback widget)
   analytics:
     provider: google
     property: G-NS99JL93ZV
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks! Help us improve it by
+            <a href="https://github.com/andriksantos/keebox/issues/new" target="_blank" rel="noopener">opening an issue</a>.
+  # Google Tag Manager container ID. Empty = disabled.
+  gtm_id: GTM-5B3HBLJW
+  # Microsoft Clarity project ID (clarity.microsoft.com → Settings → Overview). Empty = disabled.
+  clarity_id: zfvhgxj5mr
+  # Bing Webmaster Tools verification code (optional). Empty = disabled.
+  bing_verification: ""
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/andriksantos
+      name: Andrik Santos on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/andriksantos/
+      name: Follow me on LinkedIn
+    - icon: fontawesome/solid/globe
+      link: https://andriksantos.com
+      name: andriksantos.com

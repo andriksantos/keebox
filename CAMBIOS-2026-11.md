@@ -1,0 +1,64 @@
+# Cambios — 21 de noviembre de 2026
+
+- 404 enlaces de GitHub actualizados a la nueva dirección de repos renombrados o movidos (342 repos).
+- 3 enlaces reemplazados por alternativas activas: cacheable-request → jaredwray/cacheable, Windows → 0PandaDEV/awesome-windows, Zig → zigcc/awesome-zig.
+- 58 entradas eliminadas porque el repositorio ya no existe (404):
+
+  - docs/Swift.md: * [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+  - docs/Swift.md: * [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON.
+  - docs/Swift.md: * [SwiftGif](https://github.com/swiftgif/SwiftGif) - A small UIImage extension with GIF support.
+  - docs/Swift.md: * [SwiftWebImage](https://github.com/geekaurora/SwiftWebImage) - 🚀SwiftUI Image downloader with perf
+  - docs/Swift.md: * [UIPheonix](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable U
+  - docs/Swift.md: * [Wallet](https://github.com/russ-stamant/Wallet) - A replica of the Apple's Wallet interface. Add,
+  - docs/Swift.md: * [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS
+  - docs/Swift.md: * [Validator](https://github.com/adamwaite/Validator) - Drop in user input validation for your iOS a
+  - docs/index.md: - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software lib
+  - docs/index.md: - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
+  - docs/index.md: - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leadi
+  - docs/ios.md: - [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS
+  - docs/ios.md: - [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+  - docs/ios.md: - [MGCacheManager](https://github.com/Mortgy/MGCacheManager) - A delightful iOS Networking Cache Man
+  - docs/ios.md: - [XJYChart](https://github.com/JunyiXie/XJYChart) - A Beautiful chart for iOS. Support animation, c
+  - docs/ios.md: - [Graphs](https://github.com/recruit-mtl/Graphs) - Light weight charts view generator for iOS.
+  - docs/ios.md: - [CoreDataStack](https://github.com/bignerdranch/CoreDataStack) - The Big Nerd Ranch Core Data Stac
+  - docs/ios.md: - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - A collaborative list of Pa
+  - docs/ios.md: - [PropertyKit](https://github.com/metasmile/PropertyKit) - Protocol-First, Type and Key-Safe Swift 
+  - docs/ios.md: - [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) - In-app design review tool to inspect 
+  - docs/ios.md: - [TGCameraViewController](https://github.com/tdginternet/TGCameraViewController) - Custom camera wi
+  - docs/ios.md: - [Compose](https://github.com/grupozap/Compose) - Compose is a library that helps you compose compl
+  - docs/ios.md: - [Strsync](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings
+  - docs/ios.md: - [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - The SRG Media Player library 
+  - docs/ios.md: - [SwiftGif](https://github.com/swiftgif/SwiftGif) - A small UIImage extension with gif support.
+  - docs/ios.md: - [SRGMediaPlayer-iOS](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - The SRG Media Player library 
+  - docs/ios.md: - [OctopusKit](https://github.com/icoco/OctopusKit) - A simplicity but graceful solution for invoke 
+  - docs/ios.md: - [agent](https://github.com/hallas/agent) - Minimalistic Swift HTTP request agent for iOS and macOS
+  - docs/ios.md: - [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift.
+  - docs/ios.md: - [NativeJSONMapper](https://github.com/DimaMishchenko/NativeJSONMapper) - Simple Swift 4 encoding &
+  - docs/ios.md: - [ReactiveArray](https://github.com/Wolox/ReactiveArray) - An array class implemented in Swift that
+  - docs/ios.md: - [Pinterest](https://github.com/pinterest/ios-pdk) - Pinterest iOS SDK.
+  - docs/ios.md: - [CloudRail SI](https://github.com/CloudRail/cloudrail-si-ios-sdk) - Abstraction layer / unified AP
+  - docs/ios.md: - [iOS-App-Security-Class](https://github.com/karek314/iOS-App-Security-Class) - Simple class to che
+  - docs/ios.md: - [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
+  - docs/ios.md: - [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - An Elegant crypto toolkit in Swift.
+  - docs/ios.md: - [Reductio](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift.
+  - docs/ios.md: - [Subliminal](https://github.com/inkling/Subliminal) - An understated approach to iOS integration t
+  - docs/ios.md: - [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is
+  - docs/ios.md: - [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) - A simple and cust
+  - docs/ios.md: - [AKVideoImageView](https://github.com/numen31337/AKVideoImageView) - UIImageView subclass which al
+  - docs/ios.md: - [JDropDownAlert](https://github.com/trilliwon/JDropDownAlert) - Multi dirction dropdown alert view
+  - docs/ios.md: - [SpicyButton](https://github.com/lukecrum/SpicyButton) - Full-featured IBDesignable UIButton class
+  - docs/ios.md: - [YALField](https://github.com/Yalantis/YALField) - Custom Field component with validation for crea
+  - docs/ios.md: - [MTLLinkLabel](https://github.com/recruit-mtl/MTLLinkLabel) - MTLLinkLabel is linkable UILabel. Wr
+  - docs/ios.md: - [BOZPongRefreshControl](https://github.com/boztalay/BOZPongRefreshControl) - A pull-down-to-refres
+  - docs/ios.md: * [ExtensionalSwift](https://github.com/4taras4/SwiftExtension) - Useful swift extensions in one pla
+  - docs/ios.md: - [SwiftyOnboardVC](https://github.com/chaser79/SwiftyOnboardVC) - Lightweight walkthrough controlle
+  - docs/ios.md: - [ai2app](https://github.com/metasmile/ai2appiconset) - Creating AppIcon sets from Adobe Illustrato
+  - docs/ios.md: - [git-xcp](https://github.com/metasmile/git-xcp) - A Git plugin for versioning workflow of real-wor
+  - docs/ios.md: - [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - An executable that ca
+  - docs/ios.md: * [xTextHandler](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension Toolset 
+  - docs/ios.md: - [dsnip](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode c
+  - docs/ios.md: - [Xcode Template Manager](https://github.com/Camji55/xtm) - Xcode Template Manager is a Swift comma
+  - docs/mac.md: * [ClashX](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash. [![Ope
+  - docs/nodejs.md: - [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
+  - docs/nodejs.md: - [stream-combiner2](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single s
+  - docs/nodejs.md: - [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs wit

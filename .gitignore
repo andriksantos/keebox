@@ -1,2 +1,5 @@
-\site
-/site
+/site/
+.cache/
+__pycache__/
+.venv/
+.DS_Store
