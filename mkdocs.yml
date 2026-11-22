@@ -51,6 +51,8 @@ theme:
   palette:
     # Follow the operating system
     - media: "(prefers-color-scheme)"
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
