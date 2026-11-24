@@ -92,6 +92,7 @@ Made with Electron.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
 - [VIR](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Community-built Windows companion for Codex Desktop that shows quota and reset details in an overlay.
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
 - [linked](https://github.com/lostdesign/linked) - Daily journal.
 
