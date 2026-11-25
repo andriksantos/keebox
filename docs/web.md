@@ -7,7 +7,7 @@ description: "Curated front-end and full-stack web development frameworks, build
 
 Curated front-end and full-stack web development frameworks, build tools, UI libraries, testing tools and learning resources.
 
-!!! tip "39 hand-picked resources"
+!!! tip "40 hand-picked resources"
     Every link on this page was checked in November 2026. Know a great project that is missing? [Suggest it on GitHub](https://github.com/andriksantos/keebox/issues/new) or read the [contribution guide](contributing.md).
 
 ## Frameworks
@@ -66,3 +66,4 @@ Curated front-end and full-stack web development frameworks, build tools, UI lib
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 - [Awesome React](https://github.com/enaqx/awesome-react) - Collection of awesome things regarding React.
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - Curated list of browser-side JavaScript libraries and resources.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
