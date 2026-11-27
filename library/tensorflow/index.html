@@ -1,0 +1,2920 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="166 curated TensorFlow resources: Library for machine intelligence.">
+      
+      
+        <meta name="author" content="Andrik Santos">
+      
+      
+        <link rel="canonical" href="https://andriksantos.com/keebox/library/tensorflow/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/img/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.2">
+    
+    <title>TensorFlow – Awesome List with 166 resources | KEEBOX LIST™</title>
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-NS99JL93ZV"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-NS99JL93ZV",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-NS99JL93ZV",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    <meta name="author" content="Andrik Santos">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+  <meta name="theme-color" content="#2e303e">
+  <link rel="apple-touch-icon" href="../../assets/img/apple-touch-icon.png">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="KEEBOX LIST™">
+  <meta property="og:title" content="TensorFlow – Awesome List with 166 resources">
+  <meta property="og:description" content="166 curated TensorFlow resources: Library for machine intelligence.">
+  <meta property="og:url" content="https://andriksantos.com/keebox/library/tensorflow/">
+  <meta property="og:image" content="https://andriksantos.com/keebox/assets/img/thumb.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="KEEBOX LIST™ – curated developer resources">
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="TensorFlow – Awesome List with 166 resources">
+  <meta name="twitter:description" content="166 curated TensorFlow resources: Library for machine intelligence.">
+  <meta name="twitter:image" content="https://andriksantos.com/keebox/assets/img/thumb.png">
+
+  <!-- Structured data (schema.org) for search engines and AI answer engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://andriksantos.com/keebox/#website",
+        "url": "https://andriksantos.com/keebox/",
+        "name": "KEEBOX LIST™",
+        "alternateName": "KEEBOX LIST",
+        "description": "KEEBOX LIST\u2122 is a free directory of 80,000+ developer resources: 7,000+ hand-picked tools and guides for AI, Python, Go, Rust, Java, .NET, PHP, web, mobile, cloud, data, DevOps, security and design, plus a Library of 444 public-domain awesome lists.",
+        "inLanguage": "en",
+        "publisher": { "@id": "https://andriksantos.com/keebox/#author" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": { "@type": "EntryPoint", "urlTemplate": "https://andriksantos.com/keebox/?q={search_term_string}" },
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://andriksantos.com/keebox/#author",
+        "name": "Andrik Santos",
+        "url": "https://andriksantos.com",
+        "sameAs": [
+          "https://github.com/andriksantos",
+          "https://www.linkedin.com/in/andriksantos/"
+        ]
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://andriksantos.com/keebox/library/tensorflow/#webpage",
+        "url": "https://andriksantos.com/keebox/library/tensorflow/",
+        "name": "TensorFlow \u2013 Awesome List with 166 resources",
+        "description": "166 curated TensorFlow resources: Library for machine intelligence.",
+        "isPartOf": { "@id": "https://andriksantos.com/keebox/#website" },
+        "primaryImageOfPage": { "@type": "ImageObject", "url": "https://andriksantos.com/keebox/assets/img/thumb.png" },
+        "inLanguage": "en",
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://andriksantos.com/keebox/" },
+            { "@type": "ListItem", "position": 2, "name": "TensorFlow \u2013 Awesome List with 166 resources", "item": "https://andriksantos.com/keebox/library/tensorflow/" }
+          ]
+        }
+      }
+    ]
+  }
+  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5B3HBLJW');</script>
+  <!-- Microsoft Clarity -->
+  <script>
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "zfvhgxj5mr");
+  </script>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#tensorflow" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+              <button class="md-banner__button md-icon" aria-label="Don't show this again">
+                
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+              </button>
+            
+            
+  <strong>New:</strong> 17 sections including
+  <a href="../../cloud/">Cloud</a>, <a href="../../data/">Data</a>,
+  <a href="../../cheatsheets/">Cheat Sheets</a>, <a href="../../templates/">Templates</a> and
+  <a href="../../espanol/">Recursos en español</a>.
+  Like it? <a href="https://github.com/andriksantos/keebox">⭐ Star KEEBOX on GitHub</a>
+
+          </div>
+          
+            <script>var el=document.querySelector("[data-md-component=announce]");if(el){var content=el.querySelector(".md-typeset");__md_hash(content.innerHTML)===__md_get("__announce")&&(el.hidden=!0)}</script>
+          
+        </aside>
+      
+    </div>
+    
+    
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5B3HBLJW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="KEEBOX LIST™" class="md-header__button md-logo" aria-label="KEEBOX LIST™" data-md-component="logo">
+      
+  <img src="../../assets/img/logo-isotipo-white.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            KEEBOX LIST™
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              TensorFlow – Awesome List with 166 resources
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12zm-9.15 3.96h2.3L12 9z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/andriksantos/keebox" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    andriksantos/keebox
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../ai/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Resources
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Library
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../contributing/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Community
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="KEEBOX LIST™" class="md-nav__button md-logo" aria-label="KEEBOX LIST™" data-md-component="logo">
+      
+  <img src="../../assets/img/logo-isotipo-white.png" alt="logo">
+
+    </a>
+    KEEBOX LIST™
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/andriksantos/keebox" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    andriksantos/keebox
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Resources
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Resources
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI & Data
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    AI & Data
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI & LLM Tools
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../data/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Data Engineering & Analytics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../databases/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Databases
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Languages
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Languages
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../python/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Python
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../go/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Go
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rust/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rust
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../java/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Java & Kotlin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dotnet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    C# & .NET
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../php/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    PHP
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nodejs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Node.js
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../npm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    npm
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../swift/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Swift
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Web & Mobile
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Web & Mobile
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Web Development
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    APIs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mobile/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mobile Development
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ios/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    iOS
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../electron/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Electron
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../templates/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Templates & Starters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Infrastructure
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Infrastructure
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    DevOps & Self-hosting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cloud & Free Tiers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../linux/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Linux & Terminal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../security/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Security
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../testing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Testing & QA
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Creative & Hardware
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Creative & Hardware
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design & UI Assets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gamedev/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Development
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    IoT & Hardware
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../web3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blockchain & Web3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tools & Learning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Tools & Learning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learn/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learning & Free Resources
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../espanol/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Recursos en español
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cheatsheets/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cheat Sheets
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../online-tools/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Free Online Tools
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../extensions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Editor & Browser Extensions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../media/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Podcasts, Newsletters & Videos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mac/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    macOS
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../lists/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Awesome Lists Directory
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Library
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Community
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Community
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contributing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../code-of-conduct/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Code of conduct
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../donate/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Donate
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sponsors/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sponsor KEEBOX
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../supporters/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Supporters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../transparency/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Transparency
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../credits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Credits & Licenses
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about-this-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        About this list
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="About this list">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-youll-find" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What you'll find
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tutorials" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tutorials
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modelsprojects" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Models/Projects
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#powered-by-tensorflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Powered by TensorFlow
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#libraries" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Libraries
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#toolsutilities" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tools/Utilities
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Videos
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Papers
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#official-announcements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Official announcements
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#blog-posts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Blog posts
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Community
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Books
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-lists" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Related lists
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+    <a href="https://github.com/andriksantos/keebox/edit/master/docs/library/tensorflow.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="tensorflow">TensorFlow<a class="headerlink" href="#tensorflow" title="Permanent link">&para;</a></h1>
+<p>Library for machine intelligence.</p>
+<div class="admonition info">
+<p class="admonition-title">Source</p>
+<p>166 resources imported from <a href="https://github.com/jtoy/awesome-tensorflow">jtoy/awesome-tensorflow</a>, dedicated to the public domain (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 / Unlicense</a>). Thanks to its maintainers and contributors. Part of the <a href="../">KEEBOX Library</a> · Category: <strong>Computer Science</strong>.</p>
+</div>
+<!-- kb-about:start -->
+
+<h2 id="about-this-list">About this list<a class="headerlink" href="#about-this-list" title="Permanent link">&para;</a></h2>
+<p><strong>TensorFlow</strong> — library for machine intelligence. This page brings together 166 links about TensorFlow, grouped into 11 sections. The largest sections are <strong>Models/Projects</strong>, <strong>Libraries</strong>, <strong>Tutorials</strong>, a good place to start if you are exploring the topic for the first time. It belongs to the <strong>Computer Science</strong> category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.</p>
+<h3 id="what-youll-find">What you'll find<a class="headerlink" href="#what-youll-find" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Tutorials</strong> — 19 links</li>
+<li><strong>Models/Projects</strong> — 60 links</li>
+<li><strong>Powered by TensorFlow</strong> — 3 links</li>
+<li><strong>Libraries</strong> — 26 links</li>
+<li><strong>Tools/Utilities</strong> — 4 links</li>
+<li><strong>Videos</strong> — 14 links</li>
+<li><strong>Papers</strong> — 8 links</li>
+<li><strong>Official announcements</strong> — 2 links</li>
+<li><strong>Blog posts</strong> — 16 links</li>
+<li><strong>Community</strong> — 4 links</li>
+<li><strong>Books</strong> — 10 links</li>
+</ul>
+<!-- kb-about:end -->
+
+<h2 id="tutorials">Tutorials<a class="headerlink" href="#tutorials" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/pkmital/tensorflow_tutorials">TensorFlow Tutorial 1</a> - From the basics to slightly more interesting applications of TensorFlow</li>
+<li><a href="https://github.com/nlintz/TensorFlow-Tutorials">TensorFlow Tutorial 2</a> - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano</li>
+<li><a href="https://github.com/Hvass-Labs/TensorFlow-Tutorials">TensorFlow Tutorial 3</a> - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.</li>
+<li><a href="https://github.com/aymericdamien/TensorFlow-Examples">TensorFlow Examples</a> - TensorFlow tutorials and code examples for beginners</li>
+<li><a href="https://github.com/sjchoi86/Tensorflow-101">Sungjoon's TensorFlow-101</a> - TensorFlow tutorials written in Python with Jupyter Notebook</li>
+<li><a href="https://github.com/terryum/TensorFlow_Exercises">Terry Um’s TensorFlow Exercises</a> - Re-create the codes from other TensorFlow examples</li>
+<li><a href="https://github.com/samjabrahams/tensorflow-on-raspberry-pi">Installing TensorFlow on Raspberry Pi 3</a> - TensorFlow compiled and running properly on the Raspberry Pi</li>
+<li><a href="https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition">Classification on time series</a> - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data</li>
+<li><a href="https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html">Getting Started with TensorFlow on Android</a> - Build your first TensorFlow Android app</li>
+<li><a href="https://github.com/guillaume-chevalier/seq2seq-signal-prediction">Predict time series</a> - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers</li>
+<li><a href="https://github.com/Mazecreator/TensorFlow-SIRDS">Single Image Random Dot Stereograms</a> - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.</li>
+<li><a href="http://web.stanford.edu/class/cs20si/syllabus.html">CS20 SI: TensorFlow for DeepLearning Research</a> - Stanford Course about Tensorflow from 2017 - <a href="http://web.stanford.edu/class/cs20si/syllabus.html">Syllabus</a> - <a href="https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs">Unofficial Videos</a></li>
+<li><a href="https://github.com/astorfi/TensorFlow-World">TensorFlow World</a> - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.</li>
+<li><a href="https://github.com/vahidk/EffectiveTensorflow">Effective Tensorflow</a> - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.</li>
+<li><a href="http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html">TensorLayer</a> - Modular implementation for TensorFlow's official tutorials. (<a href="https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html">CN</a>).</li>
+<li><a href="https://www.lighttag.io/blog/tensorflow-estimator-api/">Understanding The Tensorflow Estimator API</a> A conceptual overview of the Estimator API, when you'd use it and why.</li>
+<li><a href="https://www.coursera.org/learn/introduction-tensorflow">Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</a> - Introduction to Tensorflow offered by Coursera</li>
+<li><a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow">Convolutional Neural Networks in TensorFlow</a> - Convolutional Neural Networks in Tensorflow, offered by Coursera</li>
+<li><a href="https://tensorlayerx.readthedocs.io/en/latest/index.html#user-guide">TensorLayerX</a> - Using TensorFlow like PyTorch. (<a href="https://tensorlayerx.readthedocs.io/en/latest/index.html#">Api docs</a>)</li>
+</ul>
+<h2 id="modelsprojects">Models/Projects<a class="headerlink" href="#modelsprojects" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/Mrgemy95/Tensorflow-Project-Template">Tensorflow-Project-Template</a> - A simple and well-designed template for your tensorflow project.</li>
+<li><a href="https://github.com/yunjey/dtn-tensorflow">Domain Transfer Network</a> - Implementation of Unsupervised Cross-Domain Image Generation</li>
+<li><a href="https://github.com/yunjey/show_attend_and_tell">Show, Attend and Tell</a> - Attention Based Image Caption Generator</li>
+<li><a href="https://github.com/cysmith/neural-style-tf">Neural Style</a> Implementation of Neural Style</li>
+<li><a href="https://github.com/tensorlayer/srgan">SRGAN</a> - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network</li>
+<li><a href="https://github.com/google/prettytensor">Pretty Tensor</a> - Pretty Tensor provides a high level builder API</li>
+<li><a href="https://github.com/anishathalye/neural-style">Neural Style</a> - An implementation of neural style</li>
+<li><a href="https://github.com/denti/AlexNet3D">AlexNet3D</a> - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).</li>
+<li><a href="https://github.com/samjabrahams/tensorflow-white-paper-notes">TensorFlow White Paper Notes</a> - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation</li>
+<li><a href="https://github.com/ckmarkoh/neuralart_tensorflow">NeuralArt</a> - Implementation of A Neural Algorithm of Artistic Style</li>
+<li><a href="https://github.com/hardmaru/write-rnn-tensorflow">Generative Handwriting Demo using TensorFlow</a> - An attempt to implement the random handwriting generation portion of Alex Graves' paper</li>
+<li><a href="https://github.com/carpedm20/NTM-tensorflow">Neural Turing Machine in TensorFlow</a> - implementation of Neural Turing Machine</li>
+<li><a href="https://github.com/agermanidis/thingscoop">GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting</a> - Search, filter, and describe videos based on objects, places, and other things that appear in them</li>
+<li><a href="https://github.com/tokestermw/tensorflow-shakespeare">Neural machine translation between the writings of Shakespeare and modern English using TensorFlow</a> - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.</li>
+<li><a href="https://github.com/Conchylicultor/DeepQA">Chatbot</a> - Implementation of <a href="http://arxiv.org/abs/1506.05869">"A neural conversational model"</a></li>
+<li><a href="https://github.com/tensorlayer/seq2seq-chatbot">Seq2seq-Chatbot</a> - Chatbot in 200 lines of code</li>
+<li><a href="https://github.com/tensorlayer/dcgan">DCGAN</a> - Deep Convolutional Generative Adversarial Networks</li>
+<li><a href="https://github.com/zsdonghao/text-to-image">GAN-CLS</a> -Generative Adversarial Text to Image Synthesis</li>
+<li><a href="https://github.com/zsdonghao/Unsup-Im2Im">im2im</a> - Unsupervised Image to Image Translation with Generative Adversarial Networks</li>
+<li><a href="https://github.com/luoxier/CycleGAN_Tensorlayer">Improved CycleGAN</a> - Unpaired Image to Image Translation</li>
+<li><a href="https://github.com/nebulaV/DAGAN">DAGAN</a> - Fast Compressed Sensing MRI Reconstruction</li>
+<li><a href="https://github.com/pavelgonchar/colornet">Colornet - Neural Network to colorize grayscale images</a> - Neural Network to colorize grayscale images</li>
+<li><a href="https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow">Neural Caption Generator</a> - Implementation of <a href="http://arxiv.org/abs/1411.4555">"Show and Tell"</a></li>
+<li><a href="https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow">Neural Caption Generator with Attention</a> - Implementation of <a href="http://arxiv.org/abs/1502.03044">"Show, Attend and Tell"</a></li>
+<li><a href="https://github.com/jazzsaxmafia/Weakly_detector">Weakly_detector</a> - Implementation of <a href="http://cnnlocalization.csail.mit.edu/">"Learning Deep Features for Discriminative Localization"</a></li>
+<li><a href="https://github.com/jazzsaxmafia/dcn.tf">Dynamic Capacity Networks</a> - Implementation of <a href="http://arxiv.org/abs/1511.07838">"Dynamic Capacity Networks"</a></li>
+<li><a href="https://github.com/dwiel/tensorflow_hmm">HMM in TensorFlow</a> - Implementation of viterbi and forward/backward algorithms for HMM</li>
+<li><a href="https://github.com/trailbehind/DeepOSM">DeepOSM</a> - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.</li>
+<li><a href="https://github.com/devsisters/DQN-tensorflow">DQN-tensorflow</a> - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com</li>
+<li><a href="https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py">Policy Gradient</a> - For Playing Atari Ping Pong</li>
+<li><a href="https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py">Deep Q-Network</a> - For Playing Frozen Lake Game</li>
+<li><a href="https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py">AC</a> - Actor Critic for Playing Discrete Action space Game (Cartpole)</li>
+<li><a href="https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py">A3C</a> - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)</li>
+<li><a href="https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs">DAGGER</a> - For Playing <a href="https://github.com/ugo-nama-kun/gym_torcs">Gym Torcs</a></li>
+<li><a href="https://github.com/jjkke88/RL_toolbox">TRPO</a> - For Continuous and Discrete Action Space by</li>
+<li><a href="https://github.com/fomorians/highway-cnn">Highway Network</a> - TensorFlow implementation of <a href="http://arxiv.org/abs/1507.06228">"Training Very Deep Networks"</a> with a <a href="https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27">blog post</a></li>
+<li><a href="https://github.com/tqtg/hierarchical-attention-networks">Hierarchical Attention Networks</a> - TensorFlow implementation of <a href="https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf">"Hierarchical Attention Networks for Document Classification"</a></li>
+<li><a href="https://github.com/dennybritz/cnn-text-classification-tf">Sentence Classification with CNN</a> - TensorFlow implementation of <a href="http://arxiv.org/abs/1408.5882">"Convolutional Neural Networks for Sentence Classification"</a> with a <a href="http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/">blog post</a></li>
+<li><a href="https://github.com/domluna/memn2n">End-To-End Memory Networks</a> - Implementation of <a href="http://arxiv.org/abs/1503.08895">End-To-End Memory Networks</a></li>
+<li><a href="https://github.com/carpedm20/lstm-char-cnn-tensorflow">Character-Aware Neural Language Models</a> - TensorFlow implementation of <a href="http://arxiv.org/abs/1508.06615">Character-Aware Neural Language Models</a></li>
+<li><a href="https://github.com/thtrieu/yolotf">YOLO TensorFlow ++</a> - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.</li>
+<li><a href="https://github.com/ibab/tensorflow-wavenet">Wavenet</a> - This is a TensorFlow implementation of the <a href="https://deepmind.com/blog/wavenet-generative-model-raw-audio/">WaveNet generative neural network architecture</a> for audio generation.</li>
+<li><a href="https://github.com/trigeorgis/mdm">Mnemonic Descent Method</a> - Tensorflow implementation of <a href="http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf">"Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"</a></li>
+<li><a href="https://github.com/InFoCusp/tf_cnnvis">CNN visualization using Tensorflow</a> - Tensorflow implementation of <a href="https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf">"Visualizing and Understanding Convolutional Networks"</a></li>
+<li><a href="https://github.com/Singularity42/VGAN-Tensorflow">VGAN Tensorflow</a> - Tensorflow implementation for MIT <a href="http://carlvondrick.com/tinyvideo/">"Generating Videos with Scene Dynamics"</a> by Vondrick et al.</li>
+<li><a href="https://github.com/astorfi/3D-convolutional-speaker-recognition">3D Convolutional Neural Networks in TensorFlow</a> - Implementation of <a href="https://arxiv.org/abs/1705.09422">"3D Convolutional Neural Networks for Speaker Verification application"</a> in TensorFlow by Torfi et al.</li>
+<li><a href="https://github.com/zsdonghao/u-net-brain-tumor">U-Net</a> - For Brain Tumor Segmentation</li>
+<li><a href="https://github.com/zsdonghao/Spatial-Transformer-Nets">Spatial Transformer Networks</a> - Learn the Transformation Function</li>
+<li><a href="https://github.com/astorfi/lip-reading-deeplearning">Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow</a> - TensorFlow Implementation of <a href="https://arxiv.org/abs/1706.05739">"Cross Audio-Visual Recognition in the Wild Using Deep Learning"</a> by Torfi et al.</li>
+<li><a href="https://github.com/akosiorek/hart">Attentive Object Tracking</a> - Implementation of <a href="https://arxiv.org/abs/1706.09262">"Hierarchical Attentive Recurrent Tracking"</a></li>
+<li><a href="https://github.com/laxatives/TensorFlow-TransX">Holographic Embeddings for Graph Completion and Link Prediction</a> - Implementation of <a href="http://arxiv.org/abs/1510.04935">Holographic Embeddings of Knowledge Graphs</a></li>
+<li><a href="https://github.com/akosiorek/attend_infer_repeat">Unsupervised Object Counting</a> - Implementation of <a href="https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models">"Attend, Infer, Repeat"</a></li>
+<li><a href="https://github.com/apcode/tensorflow_fasttext">Tensorflow FastText</a> - A simple embedding based text classifier inspired by Facebook's fastText.</li>
+<li><a href="https://github.com/mlachmish/MusicGenreClassification">MusicGenreClassification</a> - Classify music genre from a 10 second sound stream using a Neural Network.</li>
+<li><a href="https://github.com/kubeflow/kubeflow">Kubeflow</a> - Framework for easily using Tensorflow with Kubernetes.</li>
+<li><a href="https://github.com/taehoonlee/tensornets">TensorNets</a> - 40+ Popular Computer Vision Models With Pre-trained Weights.</li>
+<li><a href="https://github.com/divamgupta/ladder_network_keras">Ladder Network</a> - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow</li>
+<li><a href="https://github.com/juniorxsound/TF-Unet">TF-Unet</a> - General purpose U-Network implemented in Keras for image segmentation</li>
+<li><a href="https://github.com/sarus-tech/tf2-published-models">Sarus TF2 Models</a> - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).</li>
+<li><a href="https://www.tensorflow.org/lite/guide/model_maker">Model Maker</a> - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.; <a href="https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker">API reference</a>).</li>
+</ul>
+<h2 id="powered-by-tensorflow">Powered by TensorFlow<a class="headerlink" href="#powered-by-tensorflow" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/gliese581gg/YOLO_tensorflow">YOLO TensorFlow</a> - Implementation of 'YOLO : Real-Time Object Detection'</li>
+<li><a href="https://github.com/natanielruiz/android-yolo">android-yolo</a> - Real-time object detection on Android using the YOLO network, powered by TensorFlow.</li>
+<li><a href="https://github.com/tensorflow/magenta">Magenta</a> - Research project to advance the state of the art in machine intelligence for music and art generation</li>
+</ul>
+<h2 id="libraries">Libraries<a class="headerlink" href="#libraries" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://www.tensorflow.org/guide/estimators">TensorFlow Estimators</a> - high-level TensorFlow API that greatly simplifies machine learning programming (originally <a href="https://github.com/tensorflow/skflow">tensorflow/skflow</a>)</li>
+<li><a href="https://tensorflow.rstudio.com/">R Interface to TensorFlow</a> - R interface to TensorFlow APIs, including Estimators, Keras, Datasets, etc.</li>
+<li><a href="https://github.com/tensorflow/lattice">Lattice</a> - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow</li>
+<li><a href="https://github.com/somaticio/tensorflow.rb">tensorflow.rb</a> - TensorFlow native interface for ruby using SWIG</li>
+<li><a href="https://github.com/tflearn/tflearn">tflearn</a> - Deep learning library featuring a higher-level API</li>
+<li><a href="https://github.com/tensorlayer/tensorlayer">TensorLayer</a> - Deep learning and reinforcement learning library for researchers and engineers</li>
+<li><a href="https://github.com/tensorflow/models/tree/master/inception/inception/slim">TensorFlow-Slim</a> - High-level library for defining models</li>
+<li><a href="https://github.com/tjhunter/tensorframes">TensorFrames</a> - TensorFlow binding for Apache Spark</li>
+<li><a href="https://github.com/reinforceio/tensorforce">TensorForce</a> - TensorForce: A TensorFlow library for applied reinforcement learning</li>
+<li><a href="https://github.com/yahoo/TensorFlowOnSpark">TensorFlowOnSpark</a> - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.</li>
+<li><a href="https://github.com/ethereon/caffe-tensorflow">caffe-tensorflow</a> - Convert Caffe models to TensorFlow format</li>
+<li><a href="http://keras.io">keras</a> - Minimal, modular deep learning library for TensorFlow and Theano</li>
+<li><a href="https://github.com/tensorflow/models/tree/master/syntaxnet">SyntaxNet: Neural Models of Syntax</a> - A TensorFlow implementation of the models described in <a href="http://arxiv.org/pdf/1603.06042.pdf">Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)</a></li>
+<li><a href="https://github.com/transcranial/keras-js">keras-js</a> - Run Keras models (tensorflow backend) in the browser, with GPU support</li>
+<li><a href="https://github.com/welschma/NNFlow">NNFlow</a> - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.</li>
+<li><a href="https://github.com/deepmind/sonnet">Sonnet</a> - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.</li>
+<li><a href="https://github.com/ppwwyyxx/tensorpack">tensorpack</a> - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.</li>
+<li><a href="https://github.com/mortendahl/tf-encrypted">tf-encrypted</a> - Layer on top of TensorFlow for doing machine learning on encrypted data</li>
+<li><a href="https://github.com/nerox8664/pytorch2keras">pytorch2keras</a> - Convert PyTorch models to Keras (with TensorFlow backend) format</li>
+<li><a href="https://github.com/stjordanis/gluon2keras">gluon2keras</a> - Convert Gluon models to Keras (with TensorFlow backend) format</li>
+<li><a href="https://doc-ai.github.io/tensorio/">TensorIO</a> - Lightweight, cross-platform library for deploying TensorFlow Lite models to mobile devices.</li>
+<li><a href="https://github.com/stellargraph/stellargraph">StellarGraph</a> - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.</li>
+<li><a href="https://github.com/ElPapi42/DeepBay">DeepBay</a> - High-Level Keras Complement for implement common architectures stacks, served as easy to use plug-n-play modules</li>
+<li><a href="https://www.tensorflow.org/probability">Tensorflow-Probability</a> - Probabilistic programming built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.</li>
+<li><a href="https://github.com/tensorlayer/TensorLayerX">TensorLayerX</a> - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.</li>
+<li><a href="https://github.com/rdabra/txeo">Txeo</a> - A modern C++ wrapper for TensorFlow.</li>
+</ul>
+<h2 id="toolsutilities">Tools/Utilities<a class="headerlink" href="#toolsutilities" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster">Speedster</a> - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.</li>
+<li><a href="https://guild.ai">Guild AI</a> - Task runner and package manager for TensorFlow</li>
+<li><a href="https://github.com/ml-tooling/ml-workspace">ML Workspace</a> - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.</li>
+<li><a href="https://github.com/radi-cho/create-tf-app">create-tf-app</a> - Project builder command line tool for Tensorflow covering environment management, linting, and logging.</li>
+</ul>
+<h2 id="videos">Videos<a class="headerlink" href="#videos" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://bit.ly/1OX8s8Y">TensorFlow Guide 1</a> - A guide to installation and use</li>
+<li><a href="http://bit.ly/1R27Ki9">TensorFlow Guide 2</a> - Continuation of first video</li>
+<li><a href="http://bit.ly/1TCNmEY">TensorFlow Basic Usage</a> - A guide going over basic usage</li>
+<li><a href="http://bit.ly/1L9IfJx">TensorFlow Deep MNIST for Experts</a> - Goes over Deep MNIST</li>
+<li><a href="https://www.youtube.com/watch?v=ReaxoSIM5XQ">TensorFlow Udacity Deep Learning</a> - Basic steps to install TensorFlow for free on the Cloud 9 online service with 1Gb of data</li>
+<li><a href="http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips">Why Google wants everyone to have access to TensorFlow</a></li>
+<li><a href="http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html">Videos from TensorFlow Silicon Valley Meet Up 1/19/2016</a></li>
+<li><a href="http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html">Videos from TensorFlow Silicon Valley Meet Up 1/21/2016</a></li>
+<li><a href="https://www.youtube.com/watch?v=L8Y2_Cq2X5s&amp;index=7&amp;list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam">Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016</a> - CS224d Deep Learning for Natural Language Processing by Richard Socher</li>
+<li><a href="https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W">Diving into Machine Learning through TensorFlow</a> - Pycon 2016 Portland Oregon, <a href="https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf">Slide</a> &amp; <a href="https://github.com/amygdala/tensorflow-workshop">Code</a> by Julia Ferraioli, Amy Unruh, Eli Bixby</li>
+<li><a href="https://youtu.be/XYwIDn00PAo">Large Scale Deep Learning with TensorFlow</a> - Spark Summit 2016 Keynote by Jeff Dean</li>
+<li><a href="https://www.youtube.com/watch?v=vq2nnJ4g6N0">Tensorflow and deep learning - without at PhD</a> -  by Martin Görner</li>
+<li><a href="https://www.youtube.com/watch?v=fTUwdXUFfI8">Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)</a> -  by Martin Görner</li>
+<li><a href="https://youtu.be/P8MZ1Z2LHrw">Image recognition in Go using TensorFlow</a> -  by Alex Pliutau</li>
+</ul>
+<h2 id="papers">Papers<a class="headerlink" href="#papers" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://download.tensorflow.org/paper/whitepaper2015.pdf">TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems</a> - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google</li>
+<li><a href="https://arxiv.org/pdf/1708.02637.pdf">TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks</a></li>
+<li><a href="https://arxiv.org/abs/1612.04251">TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning</a></li>
+<li><a href="http://arxiv.org/abs/1511.06435">Comparative Study of Deep Learning Software Frameworks</a> - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings</li>
+<li><a href="http://arxiv.org/abs/1603.02339">Distributed TensorFlow with MPI</a> - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI)</li>
+<li><a href="http://arxiv.org/abs/1603.06042">Globally Normalized Transition-Based Neural Networks</a> - This paper describes the models behind <a href="https://github.com/tensorflow/models/tree/master/syntaxnet">SyntaxNet</a>.</li>
+<li><a href="https://arxiv.org/abs/1605.08695">TensorFlow: A system for large-scale machine learning</a> - This paper describes the TensorFlow dataflow model in contrast to existing systems and demonstrate the compelling performance</li>
+<li><a href="https://arxiv.org/abs/1707.08551">TensorLayer: A Versatile Library for Efficient Deep Learning Development</a> - This paper describes a versatile Python library that aims at helping researchers and engineers efficiently develop deep learning systems. (Winner of The Best Open Source Software Award of ACM MM 2017)</li>
+</ul>
+<h2 id="official-announcements">Official announcements<a class="headerlink" href="#official-announcements" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html">TensorFlow: smarter machine learning, for everyone</a> - An introduction to TensorFlow</li>
+<li><a href="http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html">Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source</a> - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.</li>
+</ul>
+<h2 id="blog-posts">Blog posts<a class="headerlink" href="#blog-posts" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://blog.tensorflow.org/">Official Tensorflow Blog</a></li>
+<li><a href="https://archive.fo/o9asj">Why TensorFlow will change the Game for AI</a></li>
+<li><a href="http://petewarden.com/2016/02/28/tensorflow-for-poets">TensorFlow for Poets</a> - Goes over the implementation of TensorFlow</li>
+<li><a href="http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/">Introduction to Scikit Flow - Simplified Interface to TensorFlow</a> - Key Features Illustrated</li>
+<li><a href="http://terrytangyuan.github.io/2016/07/08/understand-and-build-tensorflow-estimator/">Building Machine Learning Estimator in TensorFlow</a> - Understanding the Internals of TensorFlow Learn Estimators</li>
+<li><a href="http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/">TensorFlow - Not Just For Deep Learning</a></li>
+<li><a href="https://indico.io/blog/indico-tensorflow">The indico Machine Learning Team's take on TensorFlow</a></li>
+<li><a href="https://indico.io/blog/the-good-bad-ugly-of-tensorflow/">The Good, Bad, &amp; Ugly of TensorFlow</a> - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016</li>
+<li><a href="http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/">Fizz Buzz in TensorFlow</a> - A joke by Joel Grus</li>
+<li><a href="http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/">RNNs In TensorFlow, A Practical Guide And Undocumented Features</a> - Step-by-step guide with full code examples on GitHub.</li>
+<li><a href="http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html">Using TensorBoard to Visualize Image Classification Retraining in TensorFlow</a></li>
+<li><a href="http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/">TFRecords Guide</a> semantic segmentation and handling the TFRecord file format.</li>
+<li><a href="https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc">TensorFlow Android Guide</a> - Android TensorFlow Machine Learning Example.</li>
+<li><a href="https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture">TensorFlow Optimizations on Modern Intel® Architecture</a> - Introduces TensorFlow optimizations on Intel® Xeon® and Intel® Xeon Phi™ processor-based platforms based on an Intel/Google collaboration.</li>
+<li><a href="https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html">Coca-Cola's Image Recognition App</a> Coca-Cola's product code image recognizing neural network with user input feedback loop.</li>
+<li><a href="https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html">How Does The TensorFlow Work</a> How Does The Machine Learning Library TensorFlow Work?</li>
+</ul>
+<h2 id="community">Community<a class="headerlink" href="#community" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="http://stackoverflow.com/questions/tagged/tensorflow">Stack Overflow</a></li>
+<li><a href="https://twitter.com/tensorflow">@TensorFlow on Twitter</a></li>
+<li><a href="https://www.reddit.com/r/tensorflow">Reddit</a></li>
+<li><a href="https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss">Mailing List</a></li>
+</ul>
+<h2 id="books">Books<a class="headerlink" href="#books" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/jtoy/awesome-tensorflow/blob/HEAD/[http://tensorflowbook.com](https://github.com/chrismattmann/MLwithTensorFlow2ed)">Machine Learning with TensorFlow 2nd edition</a> by <a href="http://github.com/chrismattmann/">Dr. Chris A. Mattmann</a>, Chief Data and Artificial Intelligence Officer at UCLA and author also of <a href="https://www.manning.com/books/tika-in-action">Tika in Action</a>. This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.</li>
+<li><a href="http://www.jorditorres.org/first-contact-with-tensorflow/">First Contact with TensorFlow</a> by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center</li>
+<li><a href="https://machinelearningmastery.com/deep-learning-with-python/">Deep Learning with Python</a> - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee</li>
+<li><a href="https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/">TensorFlow for Machine Intelligence</a> - Complete guide to use TensorFlow from the basics of graph computing, to deep learning models to using it in production environments - Bleeding Edge Press</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow">Getting Started with TensorFlow</a> - Get up and running with the latest numerical computing library by Google and dive deeper into your data, by Giancarlo Zaccone</li>
+<li><a href="http://shop.oreilly.com/product/0636920052289.do">Hands-On Machine Learning with Scikit-Learn and TensorFlow</a> – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow">Building Machine Learning Projects with Tensorflow</a> – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.</li>
+<li><a href="http://www.broadview.com.cn/book/5059">Deep Learning using TensorLayer</a> - by Hao Dong et al. This book covers both deep learning and the implementation by using TensorFlow and TensorLayer.</li>
+<li><a href="https://www.manning.com/books/tensorflow-in-action">TensorFlow 2.0 in Action</a> - by Thushan Ganegedara. This practical guide to building deep learning models with the new features of TensorFlow 2.0 is filled with engaging projects, simple language, and coverage of the latest algorithms.</li>
+<li><a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers">Probabilistic Programming and Bayesian Methods for Hackers</a> - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).</li>
+</ul>
+<!-- kb-related:start -->
+
+<h2 id="related-lists">Related lists<a class="headerlink" href="#related-lists" title="Permanent link">&para;</a></h2>
+<p>More lists in the <strong>Computer Science</strong> category of the <a href="../">KEEBOX Library</a>:</p>
+<ul>
+<li><a href="../tensorflow-js/">TensorFlow.js</a></li>
+<li><a href="../theoretical-computer-science/">Theoretical Computer Science</a></li>
+<li><a href="../tutorials/">Tutorials</a></li>
+<li><a href="../tutorials-2/">Tutorials</a></li>
+<li><a href="../quantum-computing/">Quantum Computing</a></li>
+<li><a href="../question-answering/">Question Answering</a></li>
+<li><a href="../software-engineering-for-machine-learning/">Software Engineering for Machine Learning</a></li>
+<li><a href="../spanish/">Spanish</a></li>
+</ul>
+<!-- kb-related:end -->
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        Was this page helpful?
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 12a8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8m2 0a10 10 0 0 1-10 10A10 10 0 0 1 2 12 10 10 0 0 1 12 2a10 10 0 0 1 10 10M10 9.5c0 .8-.7 1.5-1.5 1.5S7 10.3 7 9.5 7.7 8 8.5 8s1.5.7 1.5 1.5m7 0c0 .8-.7 1.5-1.5 1.5S14 10.3 14 9.5 14.7 8 15.5 8s1.5.7 1.5 1.5m-5 7.73c-1.75 0-3.29-.73-4.19-1.81L9.23 14c.45.72 1.52 1.23 2.77 1.23s2.32-.51 2.77-1.23l1.42 1.42c-.9 1.08-2.44 1.81-4.19 1.81"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 12a8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8m2 0a10 10 0 0 1-10 10A10 10 0 0 1 2 12 10 10 0 0 1 12 2a10 10 0 0 1 10 10m-6.5-4c.8 0 1.5.7 1.5 1.5s-.7 1.5-1.5 1.5-1.5-.7-1.5-1.5.7-1.5 1.5-1.5M10 9.5c0 .8-.7 1.5-1.5 1.5S7 10.3 7 9.5 7.7 8 8.5 8s1.5.7 1.5 1.5m2 4.5c1.75 0 3.29.72 4.19 1.81l-1.42 1.42C14.32 16.5 13.25 16 12 16s-2.32.5-2.77 1.23l-1.42-1.42C8.71 14.72 10.25 14 12 14"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              Thanks! If KEEBOX saved you time, a small contribution keeps it running: <a href="https://buymeacoffee.com/andriksantos" target="_blank" rel="noopener">buy me a coffee ☕</a> or <a href="https://www.paypal.com/paypalme/AndrikSantosHN/5" target="_blank" rel="noopener">donate $5 with PayPal</a>.
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              Thanks! Help us improve it by <a href="https://github.com/andriksantos/keebox/issues/new" target="_blank" rel="noopener">opening an issue</a>.
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+                <aside class="kb-support" aria-label="Support KEEBOX LIST">
+  <p class="kb-support__title">💙 Did this page save you time?</p>
+  <p>KEEBOX LIST™ is free and ad-free. Your contribution keeps the site running.</p>
+  <div class="kb-donate-buttons">
+  <a class="md-button md-button--primary kb-bmc" href="https://buymeacoffee.com/andriksantos" target="_blank" rel="noopener">☕ Buy me a coffee</a>
+  <a class="md-button kb-amount" href="https://www.paypal.com/paypalme/AndrikSantosHN/3" target="_blank" rel="noopener">PayPal $3</a>
+  <a class="md-button kb-amount" href="https://www.paypal.com/paypalme/AndrikSantosHN/5" target="_blank" rel="noopener">PayPal $5</a>
+  <a class="md-button kb-amount" href="https://www.paypal.com/paypalme/AndrikSantosHN/10" target="_blank" rel="noopener">PayPal $10</a>
+  <a class="md-button kb-amount" href="https://www.paypal.com/paypalme/AndrikSantosHN/50" target="_blank" rel="noopener">PayPal $50</a>
+</div>
+  <p class="kb-support__more"><a href="../../sponsors/">Company? Become a sponsor</a> · <a href="../../supporters/">See our supporters</a></p>
+</aside>
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2018 - 2026 Andrik Santos™
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://github.com/andriksantos" target="_blank" rel="noopener" title="Andrik Santos on GitHub" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.linkedin.com/in/andriksantos/" target="_blank" rel="noopener" title="Follow me on LinkedIn" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://andriksantos.com" target="_blank" rel="noopener" title="andriksantos.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.footer", "navigation.instant", "navigation.instant.progress", "navigation.tracking", "toc.follow", "search.suggest", "search.highlight", "search.share", "content.action.edit", "content.code.copy", "content.tooltips", "announce.dismiss", "navigation.indexes"], "search": "../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.a5f9d56c.min.js"></script>
+      
+    
+  </body>
+</html>

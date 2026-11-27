@@ -1,0 +1,53 @@
+# KEEBOX LIST™
+
+> KEEBOX LIST™ (https://andriksantos.com/keebox/) is a free, open-source directory of 7,000+ hand-picked software development resources — tools, libraries, frameworks, courses and guides — organized by topic. It is created and maintained by Andrik Santos (https://andriksantos.com) and the developer community; source on GitHub: https://github.com/andriksantos/keebox (MIT license). Links are checked automatically every month.
+
+## Topic guides
+
+- [AI & LLM Tools](https://andriksantos.com/keebox/ai/): local model runtimes (Ollama, llama.cpp, vLLM), LLM frameworks and SDKs, agents and Model Context Protocol (MCP) servers, coding assistants, vector databases and AI courses.
+- [Python](https://andriksantos.com/keebox/python/): modern tooling (uv, Ruff), web frameworks (FastAPI, Django, Flask), data science (pandas, Polars, DuckDB) and popular libraries.
+- [Web Development](https://andriksantos.com/keebox/web/): React, Vue, Svelte, Angular, Next.js, Astro, Vite, TypeScript, Tailwind CSS, state management and testing.
+- [Go](https://andriksantos.com/keebox/go/): Go web frameworks (Gin, Echo, Fiber, chi), libraries, tooling and learning resources.
+- [Rust](https://andriksantos.com/keebox/rust/): Tokio, Axum, Actix Web, popular crates, Rust-built tools and learning resources.
+- [Mobile Development](https://andriksantos.com/keebox/mobile/): Flutter, React Native, Expo, Kotlin/Compose Multiplatform, Android libraries and mobile testing.
+- [Databases](https://andriksantos.com/keebox/databases/): PostgreSQL, MySQL, MongoDB, Redis, ClickHouse, search engines, Supabase/Appwrite and database GUIs.
+- [Security](https://andriksantos.com/keebox/security/): code, dependency and secret scanning, web security testing, identity/auth and OWASP resources.
+- [Design & UI Assets](https://andriksantos.com/keebox/design/): free icons, fonts, design tools (Penpot, Excalidraw), animation and chart libraries.
+- [Java & Kotlin](https://andriksantos.com/keebox/java/): Spring Boot, Quarkus, Micronaut, Ktor, Hibernate and JVM testing tools.
+- [C# & .NET](https://andriksantos.com/keebox/dotnet/): ASP.NET Core, EF Core, .NET MAUI, Avalonia and .NET libraries.
+- [PHP](https://andriksantos.com/keebox/php/): Laravel, Symfony, WordPress, WooCommerce, Composer and PHP testing tools.
+- [Linux & Terminal](https://andriksantos.com/keebox/linux/): shells, prompts, modern CLI tools and dotfiles.
+- [Cloud & Free Tiers](https://andriksantos.com/keebox/cloud/): free-tier lists, AWS/Azure/Cloudflare/Vercel CLIs and serverless frameworks.
+- [Data Engineering & Analytics](https://andriksantos.com/keebox/data/): Airflow, Dagster, dbt, Spark, Kafka, Superset and Metabase.
+- [Testing & QA](https://andriksantos.com/keebox/testing/): Playwright, Cypress, Jest, k6, Locust and API mocking.
+- [APIs](https://andriksantos.com/keebox/apis/): API clients (Bruno, Hoppscotch), OpenAPI tooling, GraphQL and gRPC.
+- [Game Development](https://andriksantos.com/keebox/gamedev/): Godot, Bevy, Phaser, raylib, Blender and game dev resources.
+- [Blockchain & Web3](https://andriksantos.com/keebox/web3/): Foundry, Hardhat, OpenZeppelin, viem and smart contract security.
+- [IoT & Hardware](https://andriksantos.com/keebox/iot/): Arduino, ESP32, MicroPython, Home Assistant, ESPHome and MQTT.
+- [Cheat Sheets](https://andriksantos.com/keebox/cheatsheets/): Git, Docker, Kubernetes, regex, Python, Bash and Vim cheat sheets.
+- [Editor & Browser Extensions](https://andriksantos.com/keebox/extensions/): VS Code extensions, editors and browser extensions for developers.
+- [Podcasts, Newsletters & Videos](https://andriksantos.com/keebox/media/): curated lists of developer podcasts, newsletters, YouTube channels and talks.
+- [Free Online Tools](https://andriksantos.com/keebox/online-tools/): IT-Tools, CyberChef, Squoosh, Mermaid, Excalidraw and more.
+- [Templates & Starters](https://andriksantos.com/keebox/templates/): full-stack starters, admin dashboards and landing page templates.
+- [Recursos en español](https://andriksantos.com/keebox/espanol/): free programming books, courses, challenges and communities in Spanish.
+- [Node.js](https://andriksantos.com/keebox/nodejs/): packages, frameworks, databases, testing, CLI tools and tutorials for server-side JavaScript.
+- [npm](https://andriksantos.com/keebox/npm/): articles, tools and tips for the npm package ecosystem.
+- [DevOps & Self-hosting](https://andriksantos.com/keebox/devops/): Docker, Kubernetes, Terraform/OpenTofu, Ansible, CI/CD, reverse proxies and monitoring.
+- [iOS](https://andriksantos.com/keebox/ios/): courses, Swift and Objective-C libraries, UI components and Xcode tools.
+- [Swift](https://andriksantos.com/keebox/swift/): Swift libraries, frameworks, guides and newsletters.
+- [macOS](https://andriksantos.com/keebox/mac/): apps and tools for developers and power users on the Mac.
+- [Electron](https://andriksantos.com/keebox/electron/): apps, boilerplates, tools and components for desktop apps built with web technologies.
+- [Learning & Free Resources](https://andriksantos.com/keebox/learn/): developer roadmaps, free courses and books, public APIs and services with free tiers.
+- [Awesome Lists Directory](https://andriksantos.com/keebox/lists/): 600+ community-curated "awesome" lists organized by topic.
+
+## Library
+
+- [KEEBOX Library](https://andriksantos.com/keebox/library/): 444 public-domain (CC0/Unlicense) awesome lists imported with 74,000+ resources, each page credits its source repository.
+- [Credits & Licenses](https://andriksantos.com/keebox/credits/): attribution-licensed lists that are credited and linked rather than copied.
+
+## About
+
+- [Contribution guide](https://andriksantos.com/keebox/contributing/): how to suggest a resource (one link per pull request, with a short description).
+- [Support the project](https://andriksantos.com/keebox/donate/)
+- [Sponsor KEEBOX](https://andriksantos.com/keebox/sponsors/)
+- [Transparency](https://andriksantos.com/keebox/transparency/)

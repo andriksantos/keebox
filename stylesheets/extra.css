@@ -1,0 +1,78 @@
+/* KEEBOX LIST™ brand — colors taken from the logo */
+:root {
+  --kb-ink: #2e303e;      /* charcoal (deer, wordmark) */
+  --kb-indigo: #3f51b5;   /* antlers */
+  --kb-indigo-light: #7986cb;
+  --md-primary-fg-color: var(--kb-ink);
+  --md-primary-fg-color--light: #4a4c5c;
+  --md-primary-fg-color--dark: #1f2029;
+  --md-accent-fg-color: var(--kb-indigo);
+  --md-accent-fg-color--transparent: rgba(63, 81, 181, .1);
+}
+[data-md-color-scheme="default"] {
+  --md-typeset-a-color: var(--kb-indigo);
+}
+[data-md-color-scheme="slate"] {
+  --md-hue: 232;
+  --md-default-bg-color: #1c1d26;
+  --md-typeset-a-color: var(--kb-indigo-light);
+  --md-accent-fg-color: var(--kb-indigo-light);
+}
+
+/* Header logo */
+.md-header__button.md-logo img { height: 1.9rem; width: auto; }
+.md-header__topic:first-child { font-weight: 700; letter-spacing: .02em; }
+
+/* Hero */
+.kb-hero { text-align: center; padding: 2.5rem 0 1.5rem; }
+.md-typeset .kb-hero__title {
+  font-size: 2.4rem; font-weight: 800; line-height: 1.15; margin: 0 auto .8rem;
+  max-width: 20ch; color: var(--md-default-fg-color);
+}
+.kb-hero__lead { font-size: 1.05rem; max-width: 46rem; margin: 0 auto 1.6rem !important; opacity: .85; }
+.kb-hero .md-button { margin: .3rem; }
+.md-typeset .md-button--primary { background: var(--kb-indigo); border-color: var(--kb-indigo); color: #fff; }
+.md-typeset .md-button--primary:hover { background: #303f9f; border-color: #303f9f; color: #fff; }
+@media screen and (max-width: 44.9375em) { .md-typeset .kb-hero__title { font-size: 1.8rem; } }
+
+/* Stats */
+.kb-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: .8rem; margin: 1rem 0 2.5rem; text-align: center; }
+.kb-stats > div { border: 1px solid var(--md-default-fg-color--lightest); border-radius: .6rem; padding: .9rem .4rem; }
+.kb-stats strong { font-size: 1.5rem; color: var(--md-typeset-a-color); }
+.kb-stats span { font-size: .75rem; opacity: .75; }
+@media screen and (max-width: 44.9375em) { .kb-stats { grid-template-columns: repeat(2, 1fr); } }
+
+/* Cards */
+.md-typeset .grid.cards > ul > li { border-radius: .6rem; transition: transform .15s, box-shadow .15s, border-color .15s; }
+.md-typeset .grid.cards > ul > li:hover { transform: translateY(-2px); border-color: var(--kb-indigo); }
+.kb-new {
+  display: inline-block; font-size: .6rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em;
+  background: var(--kb-indigo); color: #fff; border-radius: 1rem; padding: .05rem .5rem; vertical-align: middle; margin-left: .3rem;
+}
+
+/* Final call to action */
+.kb-cta { text-align: center; margin: 3rem 0 1rem; padding: 2rem 1rem; border-radius: .8rem; background: var(--md-accent-fg-color--transparent); }
+.kb-cta h3 { margin-top: 0 !important; }
+
+/* Compact, fully clickable topic cards */
+.md-typeset .grid.cards.kb-topics > ul { grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); }
+.md-typeset .grid.cards.kb-topics > ul > li { padding: .7rem .9rem; }
+.md-typeset .grid.cards.kb-topics > ul > li > p:first-child a { color: var(--md-default-fg-color); }
+.md-typeset .grid.cards.kb-topics > ul > li > hr { margin: .4rem 0; }
+.md-typeset .grid.cards.kb-topics > ul > li > p:last-child { font-size: .72rem; opacity: .8; margin: 0; }
+
+/* Donations */
+.kb-donate-buttons { display: flex; flex-wrap: wrap; gap: .5rem; margin: .8rem 0; }
+.md-typeset .kb-donate-buttons .md-button { margin: 0; padding: .45em 1.1em; }
+.md-typeset .kb-bmc { background: #ffdd00; border-color: #ffdd00; color: #1f2029; }
+.md-typeset .kb-bmc:hover { background: #f5d000; border-color: #f5d000; color: #1f2029; }
+.kb-support { margin: 3rem 0 1rem; padding: 1.2rem 1.4rem; border-radius: .8rem; border: 1px solid var(--md-default-fg-color--lightest); background: var(--md-accent-fg-color--transparent); }
+.kb-support p { margin: .3rem 0; }
+.kb-support__title { font-weight: 700; font-size: .95rem; }
+.kb-support__more { font-size: .75rem; opacity: .85; }
+.kb-goal { margin: 0 0 1.5rem; padding: 1rem 1.2rem; border-radius: .8rem; border: 1px solid var(--md-default-fg-color--lightest); }
+.kb-goal__head { display: flex; justify-content: space-between; font-size: .8rem; margin-bottom: .5rem; }
+.kb-goal__bar { height: .6rem; border-radius: 1rem; background: var(--md-default-fg-color--lightest); overflow: hidden; }
+.kb-goal__fill { height: 100%; border-radius: 1rem; background: linear-gradient(90deg, var(--kb-indigo), var(--kb-indigo-light)); }
+.kb-goal__note { font-size: .72rem; opacity: .8; margin: .5rem 0 0; }
+.kb-tiers td:first-child { white-space: nowrap; font-weight: 700; }
