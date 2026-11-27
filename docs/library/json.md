@@ -9,6 +9,31 @@ Text based data interchange format.
 
 !!! info "Source"
     288 resources imported from [burningtree/awesome-json](https://github.com/burningtree/awesome-json), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**JSON** — text based data interchange format. This page brings together 288 links about JSON, grouped into 29 sections. The largest sections are **Libraries**, **Online tools**, **Command-line tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Applications** — 4 links
+- **Binary Serialization** — 6 links
+- **Browser Extensions** — 8 links
+- **Command-line tools** — 26 links
+- **Databases** — 11 links
+- **Datasets** — 5 links
+- **Data modeling** — 1 link
+- **Data generation** — 2 links
+- **Differencing** — 6 links
+- **Editors** — 4 links
+- **Format Extensions** — 19 links
+- **Frontend components** — 9 links
+- …and 17 more sections
+
+<!-- kb-about:end -->
+
 ## Applications
 
 - [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
@@ -383,3 +408,20 @@ Text based data interchange format.
 - [jsonschema](https://github.com/python-jsonschema/jsonschema) - Python implementation of jsonschema.
 - [JSON Schema Toolkit](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 - [Ruby JSON Schema Validator](https://github.com/voxpupuli/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Jupyter](jupyter.md)
+- [Katas](katas.md)
+- [Ledger](ledger.md)
+- [Markdown](markdown.md)
+- [Homematic](homematic.md)
+- [HPC](hpc.md)
+- [inspectIT](inspectit.md)
+- [IRC](irc.md)
+
+<!-- kb-related:end -->

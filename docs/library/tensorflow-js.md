@@ -9,6 +9,23 @@ WebGL-accelerated machine learning JavaScript library for training and deploying
 
 !!! info "Source"
     56 resources imported from [aaronhma/awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+TensorFlow.js runs and trains machine learning models directly in JavaScript, in the browser using WebGL or WebGPU, or in Node.js. It lets you add features like image classification, pose detection or text analysis without sending user data to a server.
+
+This list gathers tutorials, pre-trained models, tools and community projects. Start with **Learn** to load a ready-made model, then move to **Tools** when you need to convert a Python model or train your own.
+
+### What you'll find
+
+- **Learn** — 32 links
+- **Tools** — 12 links
+- **Community** — 12 links
+
+<!-- kb-about:end -->
+
 ## 📖 Learn
 
 ### 📃 Documentation
@@ -106,3 +123,20 @@ WebGL-accelerated machine learning JavaScript library for training and deploying
 - [Sandeep Gupta](https://twitter.com/TheSandeepGupta) - Product Manager for TensorFlow.
 - [Jason Mayes](https://twitter.com/jason_mayes) - Developer advocate for TensorFlow.js.
 - [Gant Laborde](https://twitter.com/GantLaborde) - Web & Machine Learning GDE.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Theoretical Computer Science](theoretical-computer-science.md)
+- [Tutorials](tutorials.md)
+- [Tutorials](tutorials-2.md)
+- [XAI](xai.md)
+- [Question Answering](question-answering.md)
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md)
+- [Spanish](spanish.md)
+- [TensorFlow](tensorflow.md)
+
+<!-- kb-related:end -->

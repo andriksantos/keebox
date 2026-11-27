@@ -9,6 +9,31 @@ Modern programming language designed for large, long-lived apps where reliabilit
 
 !!! info "Source"
     435 resources imported from [ohenley/awesome-ada](https://github.com/ohenley/awesome-ada), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ada/SPARK** — modern programming language designed for large, long-lived apps where reliability and efficiency are essential. This page brings together 435 links about Ada/SPARK, grouped into 13 sections. The largest sections are **Libraries**, **Frameworks**, **Applications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Education** — 22 links
+- **Community** — 19 links
+- **Compilers** — 14 links
+- **Edit** — 12 links
+- **Deployment** — 13 links
+- **Runtimes** — 6 links
+- **OS and Kernels** — 12 links
+- **Games** — 17 links
+- **Frameworks** — 61 links
+- **Tools** — 19 links
+- **Libraries** — 170 links
+- **Hardware and Embedded** — 29 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Education
 
 ### Entry Point
@@ -702,3 +727,20 @@ Modern programming language designed for large, long-lived apps where reliabilit
 - [whitakers-words](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 - [ada-chess](https://github.com/adachess/AdaChess) - Chess engine written in Ada.
 - [adage](https://github.com/atalii/adage) - An Ada/SPARK alternative to sudo and doas.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [AVA](ava.md)
+- [CircuitPython](circuitpython.md)
+- [ClojureScript](clojurescript.md)
+- [ColdFusion](coldfusion.md)
+- [Typing](typing.md)
+- [V](v.md)
+- [Vala](vala.md)
+- [ActionScript 3](actionscript-3.md)
+
+<!-- kb-related:end -->

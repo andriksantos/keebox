@@ -9,6 +9,28 @@ For community-based and non-institutional scientists.
 
 !!! info "Source"
     141 resources imported from [dylanrees/citizen-science](https://github.com/dylanrees/citizen-science), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Citizen Science** — for community-based and non-institutional scientists. This page brings together 140 links about Citizen Science, grouped into 10 sections. The largest sections are **Tools and Equipment**, **Software**, **Citizen Science Spaces and Projects**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Software** — 29 links
+- **Educational** — 8 links
+- **Tools and Equipment** — 32 links
+- **Publishing and Doing Research** — 9 links
+- **Literature** — 15 links
+- **Citizen Science Spaces and Projects** — 17 links
+- **Art and Science Spaces** — 6 links
+- **Funding and Support** — 13 links
+- **Conferences and Events** — 4 links
+- **Other Resources** — 7 links
+
+<!-- kb-about:end -->
+
 ## Software
 
 ### Lab Equipment Software
@@ -225,3 +247,20 @@ For community-based and non-institutional scientists.
 ## How do I contribute to this list?
 
 - **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Code Points](code-points.md)
+- [Colorful](colorful.md)
+- [Computational Biology](computational-biology.md)
+- [Computational Geometry](computational-geometry.md)
+- [Calculators](calculators.md)
+- [ChatGPT](chatgpt.md)
+- [ChatOps](chatops.md)
+- [Cheminformatics](cheminformatics.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,28 @@ Linter.
 
 !!! info "Source"
     232 resources imported from [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ESLint** — linter. This page brings together 231 links about ESLint, grouped into 10 sections. The largest sections are **Plugins**, **Configs**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Configs** — 21 links
+- **Preconfigured Configs with ESLint Set up** — 6 links
+- **Plugins** — 163 links
+- **Parsers** — 4 links
+- **Formatters** — 8 links
+- **Globals** — 4 links
+- **Tools** — 18 links
+- **Developing for ESLint** — 2 links
+- **Tutorials** — 4 links
+- **Installation and Setup** — 1 link
+
+<!-- kb-about:end -->
+
 ## Configs
 
 ### Configs by Well-Known Companies/Organizations
@@ -322,3 +344,20 @@ Linter.
 ## Installation and Setup
 
 - [Lintier](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Esolangs](esolangs.md)
+- [F#](f.md)
+- [Functional Programming](functional-programming.md)
+- [Imba](imba.md)
+- [Coq](coq.md)
+- [Dart](dart.md)
+- [Data Science](data-science.md)
+- [Elm](elm.md)
+
+<!-- kb-related:end -->

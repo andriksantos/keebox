@@ -9,6 +9,31 @@ Open source technology for farming and gardening.
 
 !!! info "Source"
     127 resources imported from [brycejohnston/awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Agriculture** — open source technology for farming and gardening. This page brings together 127 links about Agriculture, grouped into 13 sections. The largest sections are **Data Standardization, Interoperability and APIs**, **Datasets**, **Automation and Robotics**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Automation and Robotics** — 12 links
+- **Calculators** — 6 links
+- **Climate, Environment and Weather** — 10 links
+- **Crop Modeling, Phenotyping, and Pathology** — 9 links
+- **Datasets** — 18 links
+- **Data Standardization, Interoperability and APIs** — 20 links
+- **Farm Management Systems and Record Keeping** — 11 links
+- **Geospatial and GIS** — 5 links
+- **IoT, Hardware** — 12 links
+- **Knowledgebases and Learning Resources** — 2 links
+- **Machine Learning and AI** — 7 links
+- **Markets and Food Systems** — 8 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Automation and Robotics
 
 - [Acorn Rover](https://github.com/Twisted-Fields) - precision farming rover, Odrive, Python.
@@ -195,3 +220,20 @@ Open source technology for farming and gardening.
 - [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
 - [sentinel-crop-pipeline](https://github.com/muend/sentinel-crop-pipeline) - Reproducible Sentinel-2 L2A data preparation for crop-classification models: scene discovery, cloud masking, patches, spatially blocked splits and label masks, with an optional Gemini or Claude scene filter.
 - [WebODM](https://github.com/WebODM/WebODM) - Web interface for processing and sharing OpenDroneMap drone surveys.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [AMA](ama.md)
+- [Amazon Sellers](amazon-sellers.md)
+- [Ansible](ansible.md)
+- [Astrophotography](astrophotography.md)
+- [Whisper](whisper.md)
+- [WP-CLI](wp-cli.md)
+- [Ad-Free](ad-free.md)
+- [Advertising](advertising.md)
+
+<!-- kb-related:end -->

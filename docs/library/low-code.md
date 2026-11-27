@@ -9,6 +9,26 @@ Allowing business professionals to address their needs on their own with little 
 
 !!! info "Source"
     93 resources imported from [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Low Code** — allowing business professionals to address their needs on their own with little to no coding skills. This page brings together 93 links about Low Code, grouped into 8 sections. The largest sections are **Platforms**, **Samples, Templates and Solutions**, **Community**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Platforms** — 57 links
+- **Tools, Extensions and Frameworks** — 5 links
+- **Reference Resources** — 3 links
+- **Learning Resources** — 4 links
+- **Samples, Templates and Solutions** — 11 links
+- **Community** — 7 links
+- **Blogs** — 4 links
+- **Other Lists** — 2 links
+
+<!-- kb-about:end -->
+
 ## Platforms
 
 ### Citizen Automation and Development Platform
@@ -174,3 +194,20 @@ Allowing business professionals to address their needs on their own with little 
 
 - [Awesome Microsoft Power Platform](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 - [Awesome No Code Low Code](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [.NET](net.md)
+- [Nix](nix.md)
+- [Node.js](node-js.md)
+- [Node-RED](node-red.md)
+- [Integration](integration.md)
+- [IPFS](ipfs.md)
+- [JVM](jvm.md)
+- [KDE](kde.md)
+
+<!-- kb-related:end -->

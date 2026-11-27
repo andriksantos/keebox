@@ -9,6 +9,27 @@ Projects on GitHub related to food.
 
 !!! info "Source"
     82 resources imported from [jzarca01/awesome-food](https://github.com/jzarca01/awesome-food), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Food** — projects on GitHub related to food. This page brings together 82 links about Food, grouped into 9 sections. The largest sections are **Food-related projects**, **Cookbooks**, **API for Food services**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Food-related projects** — 23 links
+- **Cookbooks** — 18 links
+- **Plant-Based** — 4 links
+- **Addresses** — 3 links
+- **API for Food services** — 14 links
+- **Sport nutrition** — 2 links
+- **Things to read** — 9 links
+- **Courses and MOOCs** — 3 links
+- **Videos** — 6 links
+
+<!-- kb-about:end -->
+
 ## Food-related projects
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
@@ -133,3 +154,20 @@ Projects on GitHub related to food.
 - [Avant-Garde Vegan](https://www.youtube.com/c/avantgardevegan) - Creative and visually stunning plant-based recipes by Gaz Oakley
 - [Pick Up Limes](https://www.youtube.com/c/PickUpLimes) - Nutritious plant-based recipes with a focus on balanced eating and meal prep
 - [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife) - Flavorful vegan recipes inspired by global cuisines
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [For Girls](for-girls.md)
+- [Framer](framer.md)
+- [Free Software](free-software.md)
+- [Funny Markov Chains](funny-markov-chains.md)
+- [Discounts for Student Developers](discounts-for-student-developers.md)
+- [DTrace](dtrace.md)
+- [Event-Driven Architecture](event-driven-architecture.md)
+- [Falsehood](falsehood.md)
+
+<!-- kb-related:end -->

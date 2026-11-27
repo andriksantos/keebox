@@ -9,6 +9,22 @@ Offensive research of systems and processes related to developing and deploying 
 
 !!! info "Source"
     89 resources imported from [TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**CI/CD Attacks** — offensive research of systems and processes related to developing and deploying code. This page brings together 89 links about CI/CD Attacks, grouped into 4 sections. The largest sections are **Techniques**, **Tools**, **Similar Projects**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Techniques** — 67 links
+- **Tools** — 15 links
+- **Case Studies** — 3 links
+- **Similar Projects** — 4 links
+
+<!-- kb-about:end -->
+
 ## Techniques
 
 ### Publicly Exposed Sensitive Data
@@ -120,3 +136,20 @@ Offensive research of systems and processes related to developing and deploying 
 - [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)
 - [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/#/attack-tree)
 - [SDLC Infrastructure Threat Framework (SITF)](https://github.com/wiz-sec-public/SITF) - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [CTF](ctf.md)
+- [Cyber Security University](cyber-security-university.md)
+- [Detection Engineering](detection-engineering.md)
+- [DevSecOps](devsecops.md)
+- [Security Card Games](security-card-games.md)
+- [Suricata](suricata.md)
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md)
+- [Web Security](web-security.md)
+
+<!-- kb-related:end -->

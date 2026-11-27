@@ -9,6 +9,31 @@ Library for building web components with a declarative template system.
 
 !!! info "Source"
     214 resources imported from [web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**lit** — library for building web components with a declarative template system. This page brings together 214 links about lit, grouped into 20 sections. The largest sections are **Component Libraries**, **Tools**, **Extensions**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General resources** — 4 links
+- **Community** — 6 links
+- **Overview** — 3 links
+- **Starter Templates** — 16 links
+- **Codelabs** — 6 links
+- **Tutorials** — 17 links
+- **Examples** — 6 links
+- **Lit Labs** — 7 links
+- **Extensions** — 19 links
+- **Design Systems** — 16 links
+- **Component Libraries** — 30 links
+- **Standalone Components** — 19 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## General resources
 
 - [Documentation](https://lit.dev/docs/)
@@ -296,3 +321,20 @@ Library for building web components with a declarative template system.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Marionette.js](marionette-js.md)
+- [Master CSS](master-css.md)
+- [Material-UI](material-ui.md)
+- [MDBootstrap](mdbootstrap.md)
+- [Inspiration](inspiration.md)
+- [Ionic Framework](ionic-framework.md)
+- [jQuery](jquery.md)
+- [Less](less.md)
+
+<!-- kb-related:end -->

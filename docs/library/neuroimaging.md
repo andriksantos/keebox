@@ -9,6 +9,27 @@ Software for analyzing brain data from living subjects.
 
 !!! info "Source"
     92 resources imported from [NPACore/awesome-neuroimaging](https://github.com/NPACore/awesome-neuroimaging), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Neuroimaging** — software for analyzing brain data from living subjects. This page brings together 90 links about Neuroimaging, grouped into 9 sections. The largest sections are **Imaging Tools**, **Resources**, **Pipelines**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Viewers** — 8 links
+- **Acquisition** — 10 links
+- **Quality Assurance and Checking** — 3 links
+- **Pipelines** — 15 links
+- **Raw Data** — 8 links
+- **Provenance and Automation** — 4 links
+- **Imaging Tools** — 22 links
+- **Libraries** — 4 links
+- **Resources** — 16 links
+
+<!-- kb-about:end -->
+
 ## Viewers
 
 - [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/afniandafni/gui_guide/main_toc.html) - Volumetric viewer from the AFNI suit. GUI's aesthetic defined by the '90s era Motif toolkit.
@@ -192,3 +213,20 @@ Software for analyzing brain data from living subjects.
 - [NCANDA](http://www.ncanda.org/) - National Consortium on Alcohol and Neurodevelopment in Adolescence (4000+ MR visits).
 - [PNC](https://www.med.upenn.edu/bbl/philadelphianeurodevelopmentalcohort.html) -  A population-based sample of over 9500 individuals from the greater Philadelphia area, ages 8-21 years who received medical care at the CHOP network.
 - [ENIGMA](https://enigma.ini.usc.edu/) - The Enhancing Neuro Imaging Genetics through Meta Analysis Consortium contains 50 working group's imaging and genomics data.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Neuroscience](neuroscience.md)
+- [Transgender](transgender.md)
+- [Biomedical Information Extraction](biomedical-information-extraction.md)
+- [Computational Neuroscience](computational-neuroscience.md)
+- [Diversity](diversity.md)
+- [Empathy in Engineering](empathy-in-engineering.md)
+- [Lucid Dreams](lucid-dreams.md)
+- [Mental Health](mental-health.md)
+
+<!-- kb-related:end -->

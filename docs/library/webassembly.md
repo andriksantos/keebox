@@ -9,6 +9,21 @@ A portable binary format for running code efficiently across platforms.
 
 !!! info "Source"
     49 resources imported from [idematos/awesome-webassembly](https://github.com/idematos/awesome-webassembly), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**WebAssembly** — a portable binary format for running code efficiently across platforms. This page brings together 49 links about WebAssembly, grouped into 3 sections. The largest sections are **Projects**, **Resources**, **Communities**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 21 links
+- **Projects** — 25 links
+- **Communities** — 3 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Basics
@@ -91,3 +106,20 @@ A portable binary format for running code efficiently across platforms.
 - [WebAssembly GitHub Organization](https://github.com/WebAssembly)
 - [W3C WebAssembly Group](https://www.w3.org/wasm/)
 - [WebAssembly Subreddit](https://www.reddit.com/r/webassembly/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [WebGL](webgl.md)
+- [WebGPU](webgpu.md)
+- [WordPress-Gatsby](wordpress-gatsby.md)
+- [Yew](yew.md)
+- [Web Audio](web-audio.md)
+- [Web Components](web-components.md)
+- [Web Performance Budget](web-performance-budget.md)
+- [Web Typography](web-typography.md)
+
+<!-- kb-related:end -->

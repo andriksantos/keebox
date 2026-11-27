@@ -9,6 +9,23 @@ Tech-related events in the Netherlands.
 
 !!! info "Source"
     22 resources imported from [awkward/awesome-netherlands-events](https://github.com/awkward/awesome-netherlands-events), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Events**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Events in the Netherlands** — tech-related events in the Netherlands. This page brings together 22 links about Events in the Netherlands, grouped into 5 sections. The largest sections are **Amsterdam**, **Rotterdam**, **Everywhere**, a good place to start if you are exploring the topic for the first time. It belongs to the **Events** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Rotterdam** — 4 links
+- **Amsterdam** — 11 links
+- **Utrecht** — 2 links
+- **Everywhere** — 3 links
+- **Other** — 2 links
+
+<!-- kb-about:end -->
+
 ## Rotterdam
 
 - [Makersclub](http://makersclubrdam.com/) - Bimonthly casual drinkup without an agenda.
@@ -45,3 +62,14 @@ Tech-related events in the Netherlands.
 
 - [Lanyrd](http://lanyrd.com/places/netherlands/) - Directory of conferences and events.
 - [Meetup](https://www.meetup.com/find/?allMeetups=false&keywords=tech&radius=100&userFreeform=netherlands&gcResults=Netherlands%3ANL%3Anull%3Anull%3Anull%3Anull%3Anull%3A52.132633%3A5.2912659999999505&change=yes&sort=member_count) - Directory of meetups.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Events** category of the [KEEBOX Library](index.md):
+
+- [Creative Tech Events](creative-tech-events.md)
+- [Events in Italy](events-in-italy.md)
+
+<!-- kb-related:end -->

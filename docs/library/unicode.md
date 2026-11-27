@@ -9,6 +9,21 @@ Standards, quirks, packages and resources for Unicode.
 
 !!! info "Source"
     38 resources imported from [jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Unicode** — standards, quirks, packages and resources for Unicode. This page brings together 37 links about Unicode, grouped into 3 sections. The largest sections are **Recursive HTML Tag Renaming Script**, **collision Lowercase Transformation Collisions**, **Unicode Blocks**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **collision Lowercase Transformation Collisions** — 11 links
+- **Recursive HTML Tag Renaming Script** — 15 links
+- **Unicode Blocks** — 11 links
+
+<!-- kb-about:end -->
+
 ## Special Characters
 
 ## :collision: Lowercase Transformation Collisions
@@ -60,3 +75,20 @@ Standards, quirks, packages and resources for Unicode.
 - [Version 5.1.0](http://www.unicode.org/versions/Unicode5.1.0/)
 - [Version 4.0.1](http://www.unicode.org/versions/Unicode4.0.1/)
 - [Version 4.0.0](http://www.unicode.org/versions/corrigendum5.html)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Urban & Regional Planning](urban-regional-planning.md)
+- [Userscripts](userscripts.md)
+- [Veganism](veganism.md)
+- [Web Archiving](web-archiving.md)
+- [Theravada](theravada.md)
+- [Transit](transit.md)
+- [Translations](translations.md)
+- [Uncopyright](uncopyright.md)
+
+<!-- kb-related:end -->

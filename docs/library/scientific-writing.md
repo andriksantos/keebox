@@ -9,6 +9,26 @@ Distraction-free scientific writing with Markdown, reStructuredText and Jupyter 
 
 !!! info "Source"
     64 resources imported from [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Scientific Writing** — distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks. This page brings together 64 links about Scientific Writing, grouped into 8 sections. The largest sections are **Spell Checking and Linting**, **Converters and Filters**, **Word Processors**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Word Processors** — 12 links
+- **Bibliography** — 8 links
+- **Illustrations** — 5 links
+- **Converters and Filters** — 13 links
+- **Spell Checking and Linting** — 14 links
+- **Templates** — 3 links
+- **Tutorials** — 5 links
+- **Other Lists** — 4 links
+
+<!-- kb-about:end -->
+
 ## Word Processors
 
 - [Marktext](https://github.com/marktext/marktext) - Markdown text editor.
@@ -101,3 +121,20 @@ Distraction-free scientific writing with Markdown, reStructuredText and Jupyter 
 - [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
 - [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
 - [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Scriptable](scriptable.md)
+- [Site Reliability Engineering](site-reliability-engineering.md)
+- [Software Architecture](software-architecture.md)
+- [Stacks](stacks-2.md)
+- [Research Tools](research-tools.md)
+- [REST](rest.md)
+- [SAP Commerce](sap-commerce.md)
+- [Scientific Computing](scientific-computing.md)
+
+<!-- kb-related:end -->

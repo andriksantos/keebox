@@ -9,6 +9,24 @@ Curated Learning resources.
 
 !!! info "Source"
     140 resources imported from [iamericfletcher/awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Learning**. This page brings together 140 links about Learning, grouped into 6 sections. The largest sections are **Topic Areas**, **Books**, **YouTube**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Topic Areas** — 57 links
+- **Blogs** — 15 links
+- **Books** — 40 links
+- **Communities of Practice** — 2 links
+- **Podcasts** — 2 links
+- **YouTube** — 24 links
+
+<!-- kb-about:end -->
+
 ## Topic Areas
 
 ### Comprehensive R Tutorials
@@ -198,3 +216,20 @@ Curated Learning resources.
 - [StatistikinDD](https://www.youtube.com/c/StatistikinDD/featured) - Playlists on Efficient R Programming (e. g. running R code in parallel), Visualization, Regression Analyses.
 - [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx) - The Statistics and Machine Learning in R playlist deals with principal component analysis, random forest, regression, ROC and AUC, and ridge, lasso and elastic-net.
 - [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ) - TidyX is a screen cast where the hosts select code from the TidyTuesday project and go through their code line-by-line, explaining what they did and how the functions they used work. They also break down the visualizations they create and talk about how to apply similar approaches to other data sets. The objective is to help more people learn R and get involved in the TidyTuesday community.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Lua](lua.md)
+- [Mad Science npm Packages](mad-science-npm-packages.md)
+- [MicroPython](micropython.md)
+- [Move](move.md)
+- [Imba](imba.md)
+- [J2ME](j2me.md)
+- [JavaScript](javascript.md)
+- [Learning](learning.md)
+
+<!-- kb-related:end -->

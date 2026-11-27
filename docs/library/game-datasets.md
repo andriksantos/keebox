@@ -9,6 +9,23 @@ Materials and datasets for Artificial Intelligence in games.
 
 !!! info "Source"
     169 resources imported from [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Game Datasets** — materials and datasets for Artificial Intelligence in games. This page brings together 169 links about Game Datasets, grouped into 5 sections. The largest sections are **Dataset**, **Artificial Intelligence**, **API**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **API** — 25 links
+- **Artificial Intelligence** — 41 links
+- **Dataset** — 81 links
+- **Market Research** — 5 links
+- **Miscellaneous** — 17 links
+
+<!-- kb-about:end -->
+
 ## API
 
 - [Battle.net](https://develop.battle.net/) - Collection of games developed by [Blizzard](https://www.blizzard.com).
@@ -198,3 +215,20 @@ Materials and datasets for Artificial Intelligence in games.
 - [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - Open-source games (PT-BR).
 - [PlayerSells Open Data](https://github.com/playersells/open-data/) - Measured streaming and creator datasets: Kick and Twitch viewing by category, simulcasting, and follower and engagement benchmarks (CC BY 4.0).
 - [UCI](https://archive.ics.uci.edu/) - Datasets.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Game Engine Development](game-engine-development.md)
+- [Game Production](game-production.md)
+- [Game Remakes](game-remakes.md)
+- [GameMaker](gamemaker.md)
+- [CHIP-8](chip-8.md)
+- [Construct 2](construct-2.md)
+- [Esports](esports.md)
+- [Flame](flame.md)
+
+<!-- kb-related:end -->

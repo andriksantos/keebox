@@ -9,6 +9,31 @@ App framework.
 
 !!! info "Source"
     2,044 resources imported from [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Angular** — app framework. This page brings together 2,044 links about Angular, grouped into 14 sections. The largest sections are **Third Party Components**, **Development Utilities**, **Angular**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Angular** — 102 links
+- **Angular Pulse** — 36 links
+- **Learning Resources** — 100 links
+- **Architecture and Advanced Topics** — 97 links
+- **Development Utilities** — 297 links
+- **Security and Authentication** — 64 links
+- **State Management** — 72 links
+- **Testing** — 58 links
+- **Site Templates** — 60 links
+- **Third Party Components** — 1003 links
+- **Underlying Technologies** — 36 links
+- **Framework Interoperability** — 85 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Angular
 
 ### Official Resources
@@ -2394,3 +2419,20 @@ App framework.
 - [awesome-angular](https://github.com/DaanDeSmedt/awesome-angular)
 - [Angular Enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 - [framework.dev](https://angular.framework.dev/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Backbone](backbone.md)
+- [Blazor](blazor.md)
+- [Browserify](browserify.md)
+- [Building Blocks for Web Apps](building-blocks-for-web-apps.md)
+- [WebGL](webgl.md)
+- [WebGPU](webgpu.md)
+- [WordPress-Gatsby](wordpress-gatsby.md)
+- [Yew](yew.md)
+
+<!-- kb-related:end -->

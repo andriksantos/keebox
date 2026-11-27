@@ -9,6 +9,27 @@ Photography of astronomical objects, celestial events, or areas of the night sky
 
 !!! info "Source"
     112 resources imported from [lunohodov/awesome-astrophotography](https://github.com/lunohodov/awesome-astrophotography), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Astrophotography** — photography of astronomical objects, celestial events, or areas of the night sky. This page brings together 112 links about Astrophotography, grouped into 9 sections. The largest sections are **Software**, **Articles**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 22 links
+- **Books** — 5 links
+- **Tutorials** — 16 links
+- **Presentations** — 4 links
+- **Software** — 38 links
+- **YouTube Channels** — 6 links
+- **Reference** — 15 links
+- **Astronomy as a Service (AaaS)** — 3 links
+- **Community** — 3 links
+
+<!-- kb-about:end -->
+
 ## Articles
 
 - [An Astrophotographer's Gentle Introduction To Noise](https://skyandtelescope.org/astronomy-blogs/imaging-foundations-richard-wright/astrophotography-gentle-introduction-noise/) - An easy to understand introduction to various sources of noise in astrophotography and how to eliminate them.
@@ -164,3 +185,20 @@ Photography of astronomical objects, celestial events, or areas of the night sky
 - [Astrobin](https://www.astrobin.com) - Social image hosting dedicated to astrophotography.
 - [Cloudy Nights](https://www.cloudynights.com) - Arguably the largest community forums.
 - [Stargazers Lounge](https://stargazerslounge.com) - Small but active UK community forums.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Awesome](awesome.md)
+- [Beginner-Friendly Projects](beginner-friendly-projects.md)
+- [Biological Image Analysis](biological-image-analysis.md)
+- [Biological Visualizations](biological-visualizations.md)
+- [Agriculture](agriculture.md)
+- [AMA](ama.md)
+- [Amazon Sellers](amazon-sellers.md)
+- [Ansible](ansible.md)
+
+<!-- kb-related:end -->

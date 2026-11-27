@@ -9,6 +9,26 @@ Curated Education resources.
 
 !!! info "Source"
     135 resources imported from [guillaume-chevalier/awesome-deep-learning-resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Education**. This page brings together 134 links about Education, grouped into 8 sections. The largest sections are **Papers**, **Posts and Articles**, **Practical Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Online Classes** — 7 links
+- **Books** — 6 links
+- **Posts and Articles** — 25 links
+- **Practical Resources** — 23 links
+- **Other Math Theory** — 20 links
+- **Papers** — 39 links
+- **YouTube and Videos** — 9 links
+- **Misc. Hubs & Links** — 5 links
+
+<!-- kb-about:end -->
+
 ## Online Classes
 
 - **[DL&RNN Course](https://www.dl-rnn-course.neuraxio.com/start?utm_source=github_awesome) - I created this richely dense course on Deep Learning and Recurrent Neural Networks.**
@@ -188,3 +208,20 @@ Curated Education resources.
 - [Naver](http://www.naver.com/) - This is a Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search.
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - arXiv browser with TF/IDF features.
 - [Awesome Neuraxle](https://github.com/Neuraxio/Awesome-Neuraxle) - An awesome list for Neuraxle, a ML Framework for coding clean production-level ML pipelines.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Empirical Software Engineering](empirical-software-engineering.md)
+- [Generative AI](generative-ai.md)
+- [H2O](h2o.md)
+- [Information Retrieval](information-retrieval.md)
+- [AI in Finance](ai-in-finance.md)
+- [Computer Vision](computer-vision.md)
+- [Conversational AI](conversational-ai.md)
+- [Cryptography](cryptography.md)
+
+<!-- kb-related:end -->

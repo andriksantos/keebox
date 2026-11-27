@@ -9,6 +9,25 @@ Package manager.
 
 !!! info "Source"
     101 resources imported from [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**npm** — package manager. This page brings together 101 links about npm, grouped into 7 sections. The largest sections are **Packages**, **Tools**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 12 links
+- **Tools** — 17 links
+- **Packages** — 52 links
+- **Clients** — 3 links
+- **FAQ** — 5 links
+- **Community** — 5 links
+- **Documentation** — 7 links
+
+<!-- kb-about:end -->
+
 ## Articles
 
 - [Small focused modules](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
@@ -152,3 +171,20 @@ Package manager.
 - [package.json](https://docs.npmjs.com/files/package.json)
 - [npm run script](https://docs.npmjs.com/cli/run-script)
 - [Stats API](https://github.com/npm/download-counts)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [npm scripts](npm-scripts.md)
+- [Observables](observables.md)
+- [Pascal](pascal.md)
+- [Pest](pest.md)
+- [MicroPython](micropython.md)
+- [Move](move.md)
+- [Must Watch Talks](must-watch-talks.md)
+- [Network Layer](network-layer.md)
+
+<!-- kb-related:end -->

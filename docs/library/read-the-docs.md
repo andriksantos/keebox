@@ -9,6 +9,22 @@ Example documentation projects to inspire and help bootstrap new documentation p
 
 !!! info "Source"
     27 resources imported from [readthedocs-examples/awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Read the Docs** — example documentation projects to inspire and help bootstrap new documentation projects. This page brings together 27 links about Read the Docs, grouped into 4 sections. The largest sections are **Science projects**, **Sphinx projects**, **MkDocs projects**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Sphinx projects** — 10 links
+- **MkDocs projects** — 5 links
+- **API Reference** — 1 link
+- **Science projects** — 11 links
+
+<!-- kb-about:end -->
+
 ## Sphinx projects
 
 - [CrateDB](https://crate.io/docs/crate/) - Crate.io has integrated their documentation experience into their general website. There's a total of 15 documentation projects nested. They use a custom theme, [crate-docs-theme](https://github.com/crate/crate-docs-theme) to orchestrate the projects and align them. **#sphinx** **#custom-theme**.
@@ -47,3 +63,20 @@ Example documentation projects to inspire and help bootstrap new documentation p
 - [SunPy](https://docs.sunpy.org/) - A large documentation project for an open-source package for solar physics. Embeds the main website's menu and uses a custom theme. Extensive changelog and release notes. **#custom-theme**, **sphinx**, **#apidocs**.
 - [TorchIO](https://torchio.readthedocs.io/) - An open-source Python library targeting 3D medical images in deep learning. Combines API documentation with usage examples, uses "single version" for a singular "rolling release" documentation. [Screenshots in this Twitter thread](https://twitter.com/readthedocs/status/1570339818806120450). **#themes**, **sphinx**.
 - [TomoBank](https://tomobank.readthedocs.io/) - A big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx**.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Readme](readme.md)
+- [Research Tools](research-tools.md)
+- [REST](rest.md)
+- [SAP Commerce](sap-commerce.md)
+- [Product Design](product-design.md)
+- [Prometheus](prometheus.md)
+- [QR Code](qr-code.md)
+- [Quarto](quarto.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ Curated .NET resources.
 
 !!! info "Source"
     688 resources imported from [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**.NET**. This page brings together 688 links about .NET, grouped into 108 sections. The largest sections are **Misc**, **Testing**, **GUI**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Algorithms and Data structures** — 4 links
+- **API** — 11 links
+- **Application Frameworks** — 16 links
+- **Application Templates** — 8 links
+- **Artificial Intelligence** — 2 links
+- **Assembly Manipulation** — 3 links
+- **Assets** — 1 link
+- **Authentication and Authorization** — 11 links
+- **Background Processing** — 1 link
+- **Blazor** — 6 links
+- **Blockchain** — 1 link
+- **Build Automation** — 9 links
+- …and 96 more sections
+
+<!-- kb-about:end -->
+
 ## Algorithms and Data structures
 
 - [OneOf](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile time matching.
@@ -1028,3 +1053,20 @@ Curated .NET resources.
 - [NuGet Trends](https://nugettrends.com) - Check out NuGet packages adoption and what's trending on NuGet.
 - [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
 - [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core) - A complete guide to become a ASP.NET Developer.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Nix](nix.md)
+- [Node.js](node-js.md)
+- [Node-RED](node-red.md)
+- [Omarchy](omarchy.md)
+- [IPFS](ipfs.md)
+- [JVM](jvm.md)
+- [KDE](kde.md)
+- [Low Code](low-code.md)
+
+<!-- kb-related:end -->

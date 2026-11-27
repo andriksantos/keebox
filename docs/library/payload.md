@@ -9,6 +9,23 @@ Next.js native and open source headless CMS.
 
 !!! info "Source"
     38 resources imported from [DanailMinchev/awesome-payload](https://github.com/DanailMinchev/awesome-payload), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Payload** — next.js native and open source headless CMS. This page brings together 38 links about Payload, grouped into 5 sections. The largest sections are **Education**, **Plugins**, **Official**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 7 links
+- **Education** — 16 links
+- **Components** — 1 link
+- **Templates** — 2 links
+- **Plugins** — 12 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [GitHub](https://github.com/payloadcms/payload) - Official GitHub repository of the Payload framework.
@@ -72,3 +89,20 @@ Next.js native and open source headless CMS.
 - [Crayonan / payload-plugin-ai-localization](https://github.com/Crayonan/payload-plugin-ai-localization) - Adds an AI-powered "Translate" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.
 - [s1awek / payload-ecommerce-tpay](https://github.com/s1awek/payload-ecommerce-tpay) - Tpay payment adapter for the official ecommerce plugin: BLIK, bank transfers and cards for shops selling to Polish customers.
 - [relative23 / payload-live-preview](https://github.com/relative23/payload-live-preview) - Astro-first live preview for Payload: patches the DOM in the admin iframe as you edit, for any SSR or static frontend (Astro, SvelteKit, Nuxt, Next.js, plain HTML).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Plone](plone.md)
+- [Refinery CMS](refinery-cms.md)
+- [Silverstripe CMS](silverstripe-cms.md)
+- [Sitecore](sitecore.md)
+- [Wagtail](wagtail.md)
+- [Craft CMS](craft-cms.md)
+- [Directus](directus.md)
+- [Drupal](drupal.md)
+
+<!-- kb-related:end -->

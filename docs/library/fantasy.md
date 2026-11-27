@@ -9,6 +9,20 @@ Curated Fantasy resources.
 
 !!! info "Source"
     181 resources imported from [RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Entertainment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Fantasy**. This page brings together 181 links about Fantasy, grouped into 2 sections. The largest sections are **Novels**, **Movies**, a good place to start if you are exploring the topic for the first time. It belongs to the **Entertainment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Novels** — 178 links
+- **Movies** — 3 links
+
+<!-- kb-about:end -->
+
 ## Novels
 
 ### Epic Fantasy
@@ -305,3 +319,13 @@ Curated Fantasy resources.
 - [Return of the King](http://www.imdb.com/title/tt0167260/) [8.9] :star2:
 
 ## TV Series
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Entertainment** category of the [KEEBOX Library](index.md):
+
+- [Science Fiction](science-fiction.md)
+
+<!-- kb-related:end -->

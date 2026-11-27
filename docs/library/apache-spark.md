@@ -9,6 +9,20 @@ Unified engine for large-scale data processing.
 
 !!! info "Source"
     78 resources imported from [awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Big Data**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Apache Spark** — unified engine for large-scale data processing. This page brings together 78 links about Apache Spark, grouped into 2 sections. The largest sections are **Packages**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Big Data** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Packages** — 57 links
+- **Resources** — 21 links
+
+<!-- kb-about:end -->
+
 ## Packages
 
 ### Language Bindings
@@ -168,3 +182,15 @@ Unified engine for large-scale data processing.
 
 - [Spark with Scala Gitter channel](https://gitter.im/spark-scala/Lobby) - "_A place to discuss and ask questions about using Scala for Spark programming_" started by [@deanwampler](https://github.com/deanwampler).
 - [Apache Spark User List](http://apache-spark-user-list.1001560.n3.nabble.com/) and [Apache Spark Developers List](http://apache-spark-developers-list.1001551.n3.nabble.com/) - Mailing lists dedicated to usage questions and development topics respectively.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Big Data** category of the [KEEBOX Library](index.md):
+
+- [Data Engineering](data-engineering.md)
+- [Qlik](qlik.md)
+- [Splunk](splunk.md)
+
+<!-- kb-related:end -->

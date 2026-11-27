@@ -9,6 +9,15 @@ Style guide and linter.
 
 !!! info "Source"
     56 resources imported from [standard/awesome-standard](https://github.com/standard/awesome-standard), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Standard Style** — style guide and linter. This page brings together 0 links about Standard Style, grouped into 0 sections. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## standard
 
 - **[standard](https://www.npmjs.com/package/standard)** - JavaScript Standard Style. One Style to Rule Them All!
@@ -91,3 +100,20 @@ Style guide and linter.
 - **[standard-own](https://npmjs.com/package/standard-own)** - standard but with more customization and individual rules.
 - **[standard-focus](https://www.npmjs.com/package/standard-focus)** - Focus on one error at a time.
 - **[standa](https://www.npmjs.com/package/standa)** standard without JSX rules.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Swift](swift.md)
+- [Typing](typing.md)
+- [V](v.md)
+- [Vala](vala.md)
+- [PureScript](purescript.md)
+- [Q#](q.md)
+- [Rust](rust.md)
+- [RxJava](rxjava.md)
+
+<!-- kb-related:end -->

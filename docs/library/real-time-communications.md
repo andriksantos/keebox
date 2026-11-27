@@ -9,6 +9,25 @@ Network protocols for near simultaneous exchange of media and data.
 
 !!! info "Source"
     95 resources imported from [rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Networking**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Real-Time Communications** — network protocols for near simultaneous exchange of media and data. This page brings together 95 links about Real-Time Communications, grouped into 7 sections. The largest sections are **Developer Resources**, **Operations**, **Server Software**, a good place to start if you are exploring the topic for the first time. It belongs to the **Networking** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Server Software** — 22 links
+- **Clients** — 2 links
+- **Operations** — 23 links
+- **Developer Resources** — 35 links
+- **Blogs** — 3 links
+- **Discussion** — 2 links
+- **Events and Talks** — 8 links
+
+<!-- kb-about:end -->
+
 ## Server Software
 
 ### General Purpose
@@ -175,3 +194,15 @@ Network protocols for near simultaneous exchange of media and data.
 - [FOSDEM](https://fosdem.org) - Free event for software developers, with a RTC component, held every year in Europe.
 - [JanusCon](https://www.januscon.it/2024/) - Conference proceedings and technical talks for Janus and WebRTC developers.
 - [TADHack](https://blog.tadhack.com/) - Telecom application hackathons, demos and event announcements.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Networking** category of the [KEEBOX Library](index.md):
+
+- [SNMP](snmp.md)
+- [Cilium](cilium.md)
+- [PCAPTools](pcaptools.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ Interactive visualization of biological data on the web.
 
 !!! info "Source"
     73 resources imported from [keller-mark/awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Biological Visualizations** — interactive visualization of biological data on the web. This page brings together 73 links about Biological Visualizations, grouped into 14 sections. The largest sections are **(Non-spatial) Transcriptomics**, **Genomics**, **Cancer**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Cancer** — 10 links
+- **Genomics** — 11 links
+- **3D Genomics** — 5 links
+- **Metagenomics** — 2 links
+- **Epigenomics** — 5 links
+- **Proteomics** — 5 links
+- **Spatial transcriptomics** — 6 links
+- **(Non-spatial) Transcriptomics** — 16 links
+- **Microscopy** — 2 links
+- **Connectomics** — 3 links
+- **Metabolomics** — 1 link
+- **Mass Spectrometry** — 1 link
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Cancer
 
 - [COSMIC Cancer Browser](https://cancer.sanger.ac.uk/cosmic/browse/tissue) - Browse COSMIC data by tissue type and histology.
@@ -126,3 +151,20 @@ Interactive visualization of biological data on the web.
 
 - [Snake Oil Supplements](http://informationisbeautiful.net/visualizations/snake-oil-scientific-evidence-for-nutritional-supplements-vizsweet/) - Scientific evidence for popular health supplements.
 - [SieveSifter](http://sieve.fredhutch.org/viz/index.html?study=VTN503&protein=gag&reference=MRK_B_Ad5) - Tool for visualizing the sieve analyses of HIV-1 vaccine efficacy trials.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Boilerplate Projects](boilerplate-projects.md)
+- [Bots](bots.md)
+- [Calculators](calculators.md)
+- [ChatGPT](chatgpt.md)
+- [Astrophotography](astrophotography.md)
+- [Awesome](awesome.md)
+- [Beginner-Friendly Projects](beginner-friendly-projects.md)
+- [Biological Image Analysis](biological-image-analysis.md)
+
+<!-- kb-related:end -->

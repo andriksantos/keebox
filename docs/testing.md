@@ -45,3 +45,35 @@ Curated testing and quality assurance tools: unit, end-to-end, API, load and vis
 - [JavaScript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - Comprehensive testing best practices guide.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - Curated resources for software testers.
 - [Awesome Test Automation](https://github.com/atinfo/awesome-test-automation) - Curated list of test automation frameworks and tools.
+
+<!-- kb-guide:start -->
+
+## Building a testing strategy
+
+A useful way to plan tests is the testing pyramid: many fast unit tests, fewer integration and API tests, and a small set of end-to-end tests that cover the flows that make you money.
+
+1. **Unit tests** (Jest, Vitest, pytest, JUnit) check functions and components in milliseconds. Run them on every save and every commit.
+2. **API and contract tests** catch breaking changes between services before they reach users. Mock external services so tests stay reliable.
+3. **End-to-end tests** (Playwright, Cypress) simulate a real user in a browser. Keep them focused on critical paths such as sign-up, checkout and login.
+4. **Load tests** (k6, Locust) show how your system behaves under traffic before a launch or a marketing campaign.
+5. **Visual tests** compare screenshots to catch layout bugs that functional tests miss.
+
+Run everything in continuous integration, and treat flaky tests as bugs: a test suite nobody trusts is worse than a smaller one that always tells the truth.
+
+## Frequently asked questions
+
+??? question "Playwright or Cypress?"
+    Both are excellent. Playwright supports Chromium, Firefox and WebKit, multiple tabs and several languages (JavaScript, Python, Java, .NET). Cypress has a very friendly interactive runner and is popular in JavaScript front-end teams. For new projects, Playwright is the more flexible default.
+
+??? question "How much test coverage do I need?"
+    There is no universal number. Aim for high coverage of business logic and critical flows, and do not chase 100% on simple glue code. A rising coverage trend matters more than a fixed target.
+
+??? question "What should I test first in a project with no tests?"
+    Start with an end-to-end test of the most important user flow, then add unit tests every time you fix a bug, so the same bug cannot return.
+
+## Keep exploring
+
+- [Testing resources in the Library](library/testing.md) · [Playwright](library/playwright.md) · [Selenium](library/selenium.md) · [k6 load testing](library/k6.md)
+- [DevOps](devops.md) · [Security](security.md)
+
+<!-- kb-guide:end -->

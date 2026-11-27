@@ -9,6 +9,31 @@ An iOS app for automation in JavaScript.
 
 !!! info "Source"
     61 resources imported from [dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Scriptable** — an iOS app for automation in JavaScript. This page brings together 61 links about Scriptable, grouped into 16 sections. The largest sections are **Tools**, **Cars**, **Sports**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Art** — 1 link
+- **Cars** — 7 links
+- **Calendar** — 6 links
+- **Finance** — 3 links
+- **Food** — 1 link
+- **Gaming** — 2 links
+- **Health** — 4 links
+- **Mobile** — 3 links
+- **Music** — 2 links
+- **Reading** — 4 links
+- **Social** — 3 links
+- **Shopping** — 2 links
+- …and 4 more sections
+
+<!-- kb-about:end -->
+
 ## Art
 
 - [Random-Canvas](https://github.com/RiccStella/Random-Canvas) - Generates random images.
@@ -117,3 +142,20 @@ An iOS app for automation in JavaScript.
 - [citi_bike.js](https://gist.github.com/coughski/43c7a4da3829a3ffe394d6eeb6a8c90a) - Shows availabilities for NYC's bicycle sharing program.
 - [location-location-location](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 - [Toronto Bike Share](https://github.com/alexboden/toronto-bike-share-status/blob/main/compact-widget.js) - Show availabilites of the Toronto Bike Share.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Site Reliability Engineering](site-reliability-engineering.md)
+- [Software Architecture](software-architecture.md)
+- [Stacks](stacks-2.md)
+- [Standards](standards.md)
+- [REST](rest.md)
+- [SAP Commerce](sap-commerce.md)
+- [Scientific Computing](scientific-computing.md)
+- [Scientific Writing](scientific-writing.md)
+
+<!-- kb-related:end -->

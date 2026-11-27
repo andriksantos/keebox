@@ -9,6 +9,31 @@ Data analysis and machine learning.
 
 !!! info "Source"
     380 resources imported from [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Data Science** — data analysis and machine learning. This page brings together 380 links about Data Science, grouped into 30 sections. The largest sections are **Machine Learning**, **Data Manipulation**, **Deep Learning**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Machine Learning** — 39 links
+- **Deep Learning** — 30 links
+- **Automated Machine Learning** — 6 links
+- **Natural Language Processing** — 10 links
+- **Computer Audition** — 9 links
+- **Computer Vision** — 12 links
+- **Time Series** — 16 links
+- **Reinforcement Learning** — 24 links
+- **Graph Machine Learning** — 18 links
+- **Graph Manipulation** — 4 links
+- **Learning-to-Rank & Recommender Systems** — 7 links
+- **Probabilistic Graphical Models** — 3 links
+- …and 18 more sections
+
+<!-- kb-about:end -->
+
 ## Machine Learning
 
 ### General Purpose Machine Learning
@@ -536,3 +561,20 @@ Data analysis and machine learning.
 - [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 - [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 - [treelite](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Elm](elm.md)
+- [ESLint](eslint.md)
+- [Esolangs](esolangs.md)
+- [F#](f.md)
+- [ColdFusion](coldfusion.md)
+- [Composer](composer.md)
+- [Coq](coq.md)
+- [Dart](dart.md)
+
+<!-- kb-related:end -->

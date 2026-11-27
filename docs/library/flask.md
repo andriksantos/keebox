@@ -9,6 +9,22 @@ Python framework.
 
 !!! info "Source"
     166 resources imported from [mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Flask** — python framework. This page brings together 166 links about Flask, grouped into 4 sections. The largest sections are **Third-Party Extensions**, **Resources**, **Projects**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Third-Party Extensions** — 83 links
+- **Resources** — 45 links
+- **Hosting** — 16 links
+- **Projects** — 22 links
+
+<!-- kb-about:end -->
+
 ## Third-Party Extensions
 
 ### Admin
@@ -310,3 +326,20 @@ Python framework.
 - [SimpleLogin](https://github.com/simple-login/app) - Protect your online identity with email alias.
 - [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) - Git hosting service (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well).
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [IAM](iam.md)
+- [Kustomize](kustomize.md)
+- [Lumen](lumen.md)
+- [nginx](nginx.md)
+- [Dash](dash.md)
+- [Dropwizard](dropwizard.md)
+- [Education](education.md)
+- [FastAPI](fastapi.md)
+
+<!-- kb-related:end -->

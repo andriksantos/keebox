@@ -9,6 +9,31 @@ A dream where one becomes aware they are dreaming.
 
 !!! info "Source"
     110 resources imported from [IAmCoder/awesome-lucid-dreams](https://github.com/IAmCoder/awesome-lucid-dreams), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Lucid Dreams** — a dream where one becomes aware they are dreaming. This page brings together 110 links about Lucid Dreams, grouped into 17 sections. The largest sections are **Research Studies**, **Apps**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Research Studies** — 29 links
+- **Research Labs** — 5 links
+- **Datasets** — 3 links
+- **Books** — 13 links
+- **Apps** — 14 links
+- **Lucid Dreaming Devices** — 2 links
+- **Open-Source Projects** — 9 links
+- **Mindfulness Exercises** — 4 links
+- **Audio Programs** — 2 links
+- **Forums** — 5 links
+- **Discord Servers** — 5 links
+- **YouTube Channels** — 4 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Techniques
 
 ## Research Studies
@@ -176,3 +201,20 @@ A dream where one becomes aware they are dreaming.
 - [Paprika](https://www.imdb.com/title/tt0851578/) - Animated film about a device that lets therapists enter their patients' dreams, and what happens when it is stolen.
 - [Inception](https://www.imdb.com/title/tt1375666/) - A thief who enters people's dreams is hired to plant an idea in a target's mind.
 - [Lucid Dream](https://www.imdb.com/title/tt6830780/) - A journalist uses lucid dreaming to search his memories for clues to his son's kidnapping.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Mental Health](mental-health.md)
+- [Neuroimaging](neuroimaging.md)
+- [Neuroscience](neuroscience.md)
+- [Transgender](transgender.md)
+- [Computational Neuroscience](computational-neuroscience.md)
+- [Digital Humanities](digital-humanities.md)
+- [Diversity](diversity.md)
+- [Empathy in Engineering](empathy-in-engineering.md)
+
+<!-- kb-related:end -->

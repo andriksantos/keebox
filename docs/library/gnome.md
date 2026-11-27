@@ -9,6 +9,23 @@ Simple and distraction-free desktop environment for Linux.
 
 !!! info "Source"
     205 resources imported from [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**GNOME** — simple and distraction-free desktop environment for Linux. This page brings together 205 links about GNOME, grouped into 5 sections. The largest sections are **Applications**, **Extensions**, **Look and Feel**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Applications** — 133 links
+- **Extensions** — 25 links
+- **Look and Feel** — 19 links
+- **Community** — 17 links
+- **Developer Resources** — 11 links
+
+<!-- kb-about:end -->
+
 ## Applications
 
 ### Internet and Networking
@@ -327,3 +344,20 @@ Simple and distraction-free desktop environment for Linux.
 - [GJS Documentation](https://gjs-docs.gnome.org) - Documentation for the JavaScript GTK bindings.
 - [GJS Guide](https://gjs.guide) - Guide for GJS.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest) - Introduction to writing GTK+ 3 applications in Python.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [IBM Cloud](ibm-cloud.md)
+- [Integration](integration.md)
+- [IPFS](ipfs.md)
+- [JVM](jvm.md)
+- [Firebase](firebase.md)
+- [Firebase Genkit](firebase-genkit.md)
+- [Flutter](flutter.md)
+- [Fuse](fuse.md)
+
+<!-- kb-related:end -->

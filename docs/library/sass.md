@@ -9,6 +9,30 @@ CSS preprocessor.
 
 !!! info "Source"
     113 resources imported from [Famolus/awesome-sass](https://github.com/Famolus/awesome-sass), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Sass is a CSS preprocessor that adds variables, nesting, mixins, functions and modules to CSS. It is still widely used in design systems and frameworks such as Bootstrap, even as native CSS adds features like custom properties and nesting.
+
+This list explains the difference between Sass and SCSS syntax and collects frameworks, mixin libraries, style guides, articles, tools and books. If you are starting a new project, check which features you really need before adding a build step.
+
+### What you'll find
+
+- **Getting Started** — 6 links
+- **Sass vs SCSS** — 3 links
+- **Frameworks** — 13 links
+- **Libraries and Mixins** — 45 links
+- **Style Guides** — 4 links
+- **Articles** — 15 links
+- **Tools** — 15 links
+- **Books** — 4 links
+- **Videos** — 5 links
+- **Community** — 3 links
+
+<!-- kb-about:end -->
+
 ## Getting Started
 
 - [Official Sass and SCSS Guide](http://sass-lang.com/guide) - Official Sass and SCSS guide.
@@ -168,3 +192,20 @@ CSS preprocessor.
 - [Reddit](https://www.reddit.com/r/Sass/)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/sass)
 - [@SassCSS on Twitter](https://twitter.com/SassCSS)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Seed](seed.md)
+- [Service Workers](service-workers.md)
+- [Static Website Services](static-website-services.md)
+- [Storybook](storybook.md)
+- [Protips](protips.md)
+- [React Hooks](react-hooks.md)
+- [Redux](redux.md)
+- [Relay](relay.md)
+
+<!-- kb-related:end -->

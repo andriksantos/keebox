@@ -9,6 +9,31 @@ High Performance Computing.
 
 !!! info "Source"
     115 resources imported from [dstdev/awesome-hpc](https://github.com/dstdev/awesome-hpc), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**HPC** — high Performance Computing. This page brings together 115 links about HPC, grouped into 23 sections. The largest sections are **Conferences**, **Workload Managers**, **Benchmarking**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Provisioning** — 8 links
+- **Workload Managers** — 10 links
+- **Pipelines** — 3 links
+- **Applications** — 2 links
+- **Compilers** — 6 links
+- **MPI** — 4 links
+- **Parallel Computing** — 2 links
+- **Benchmarking** — 9 links
+- **Miscellaneous** — 7 links
+- **Performance** — 5 links
+- **Parallel Shells** — 2 links
+- **Containers** — 8 links
+- …and 11 more sections
+
+<!-- kb-about:end -->
+
 ## Provisioning
 
 - [Grendel](https://grendel.readthedocs.io/) - Bare Metal Provisioning system for HPC Linux clusters ([Source Code](https://github.com`ubccr/grendel)) `GPL-3`.
@@ -194,3 +219,20 @@ High Performance Computing.
 
 - [MVAPICH](https://mug.mvapich.cse.ohio-state.edu/) - The MUG conference provides an open forum for all attendees (users, system administrators, researchers, engineers, and students) to discuss and share their knowledge on using MVAPICH libraries.
 - [Slurm](https://slurm.schedmd.com/slurm_ug_agenda.html) - The annual Slurm user group meeting.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [inspectIT](inspectit.md)
+- [IRC](irc.md)
+- [JSON](json.md)
+- [Jupyter](jupyter.md)
+- [GitHub Wiki](github-wiki.md)
+- [GraphQL](graphql.md)
+- [Gulp](gulp.md)
+- [Homematic](homematic.md)
+
+<!-- kb-related:end -->

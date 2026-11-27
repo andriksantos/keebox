@@ -9,6 +9,28 @@ Building an organization primarily focused on social impact that is at least par
 
 !!! info "Source"
     97 resources imported from [RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Business**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Social Enterprise** — building an organization primarily focused on social impact that is at least partially self-funded. This page brings together 90 links about Social Enterprise, grouped into 10 sections. The largest sections are **Communities**, **People**, **What to Read**, a good place to start if you are exploring the topic for the first time. It belongs to the **Business** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **What to Read** — 14 links
+- **Podcasts** — 1 link
+- **Courses** — 6 links
+- **Fellowships** — 11 links
+- **Institutions** — 9 links
+- **Tools** — 3 links
+- **What to Watch** — 4 links
+- **Communities** — 21 links
+- **People** — 18 links
+- **Miscellaneous** — 3 links
+
+<!-- kb-about:end -->
+
 ## What to Read
 
 ### Wikipedia Links 🔗
@@ -175,3 +197,18 @@ Building an organization primarily focused on social impact that is at least par
 - [WorldShapers](https://worldshapers.net/) - An abundance of resources related to social entrepreneurship education.
 - [Benefit Corporation](https://en.wikipedia.org/wiki/Benefit_corporation) - A type of for-profit corporate entity, authorized by 35 U.S. states.
 - [B Corp Certification](https://en.wikipedia.org/wiki/B_Corporation_(certification)) - Certificate issued for existing for profit organizations demonstrating social responsibility.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Business** category of the [KEEBOX Library](index.md):
+
+- [Wardley Maps](wardley-maps.md)
+- [Billing](billing.md)
+- [Clean Tech](clean-tech.md)
+- [Engineering Strategy](engineering-strategy.md)
+- [Engineering Team Management](engineering-team-management.md)
+- [OKR Methodology](okr-methodology.md)
+
+<!-- kb-related:end -->

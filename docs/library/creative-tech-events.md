@@ -9,6 +9,25 @@ Events around the globe for creative coding, tech, design, music, arts and cool 
 
 !!! info "Source"
     33 resources imported from [danvoyce/awesome-creative-tech-events](https://github.com/danvoyce/awesome-creative-tech-events), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Events**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Creative technology sits between code, art, design and music: generative visuals, installations, live coding, interactive media and new tools for creators. This list collects festivals, conferences and meetups around the world where that community meets.
+
+Events are grouped by region, including Central and South America. Dates and formats change every year, so confirm on each official site before planning a trip or submitting a talk.
+
+### What you'll find
+
+- **Europe** — 25 links
+- **North America** — 5 links
+- **Central America** — 1 link
+- **South America** — 1 link
+- **Asia** — 1 link
+
+<!-- kb-about:end -->
+
 ## Europe
 
 ### UK
@@ -153,3 +172,14 @@ Events around the globe for creative coding, tech, design, music, arts and cool 
 #### Tokyo
 
 - [Mutek Tokyo](https://mutek.jp/) - Electronic music and the digital arts festival. **(December)**
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Events** category of the [KEEBOX Library](index.md):
+
+- [Events in Italy](events-in-italy.md)
+- [Events in the Netherlands](events-in-the-netherlands.md)
+
+<!-- kb-related:end -->

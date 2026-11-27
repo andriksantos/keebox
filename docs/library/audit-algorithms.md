@@ -9,6 +9,15 @@ Algorithmic audits of algorithms.
 
 !!! info "Source"
     91 resources imported from [erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Theory**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Audit Algorithms** — algorithmic audits of algorithms. This page brings together 91 links about Audit Algorithms, grouped into 1 sections. The largest sections are **Papers**, a good place to start if you are exploring the topic for the first time. It belongs to the **Theory** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## Papers
 
 ### 2026
@@ -152,3 +161,19 @@ Algorithmic audits of algorithms.
 ### 2005
 
 - [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *Reverse engineering of remote linear classifiers, using membership queries.*
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Theory** category of the [KEEBOX Library](index.md):
+
+- [Complex Systems](complex-systems.md)
+- [Education](education-3.md)
+- [Math](math.md)
+- [Recursion Schemes](recursion-schemes.md)
+- [Talks](talks.md)
+- [VLM Architectures](vlm-architectures.md)
+- [AGI & CoCoSci](agi-cocosci.md)
+
+<!-- kb-related:end -->

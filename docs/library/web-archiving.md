@@ -9,6 +9,24 @@ An effort to preserve the Web for future generations.
 
 !!! info "Source"
     189 resources imported from [iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Archiving** — an effort to preserve the Web for future generations. This page brings together 187 links about Web Archiving, grouped into 6 sections. The largest sections are **Tools & Software**, **Community Resources**, **Training/Documentation**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Training/Documentation** — 16 links
+- **Resources for Web Publishers** — 1 link
+- **Tools & Software** — 130 links
+- **Community Resources** — 25 links
+- **Web Archiving Service Providers** — 8 links
+- **Public Data** — 7 links
+
+<!-- kb-about:end -->
+
 ## Training/Documentation
 
 ### Introductions to Web Archiving Concepts
@@ -272,3 +290,20 @@ An effort to preserve the Web for future generations.
 - [Internet Archive Wayback](https://web.archive.org/web/) - Base URL for IA's Wayback Machine.
 - [Webrecorder US GovArchive](https://govarchive.us/) - High-fidelity replay.
 - [UK Government Web Archive](https://www.nationalarchives.gov.uk/webarchive/) - Main page for the UKGWA.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Web Design](web-design.md)
+- [Web Monetization](web-monetization.md)
+- [WebXR](webxr.md)
+- [Whisper](whisper.md)
+- [Unicode](unicode.md)
+- [Urban & Regional Planning](urban-regional-planning.md)
+- [Userscripts](userscripts.md)
+- [Veganism](veganism.md)
+
+<!-- kb-related:end -->

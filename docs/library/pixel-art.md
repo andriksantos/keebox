@@ -9,6 +9,23 @@ Pixel-level digital art.
 
 !!! info "Source"
     52 resources imported from [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Pixel Art** — pixel-level digital art. This page brings together 52 links about Pixel Art, grouped into 5 sections. The largest sections are **Inspiration**, **Tools**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Tutorials** — 11 links
+- **Books** — 2 links
+- **Inspiration** — 15 links
+- **Community** — 10 links
+- **Tools** — 14 links
+
+<!-- kb-about:end -->
+
 ## Tutorials
 
 ### Basics
@@ -101,3 +118,20 @@ Pixel-level digital art.
 - [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Small character generator, including basic animation.
 - [PixelArtChallenge](https://pixelartchallenge.net) - Pixel art recreation challenges, practice solo or compete in real-time 1v1 matches.
 - [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Free and works in the browser. Pull a sprite's exact palette, export .gpl, Lospec .hex, CSS or JSON.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Stock Resources](stock-resources.md)
+- [VLC](vlc.md)
+- [Audio Over IP](audio-over-ip.md)
+- [Audio Visualization](audio-visualization.md)
+- [Fonts](fonts.md)
+- [GIF](gif.md)
+- [Icons](icons.md)
+- [Music](music.md)
+
+<!-- kb-related:end -->

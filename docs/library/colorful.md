@@ -9,6 +9,21 @@ Choose your next color scheme.
 
 !!! info "Source"
     104 resources imported from [Siddharth11/Colorful](https://github.com/Siddharth11/Colorful), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Colorful** — choose your next color scheme. This page brings together 104 links about Colorful, grouped into 3 sections. The largest sections are **Tools**, **Articles**, **Color Palettes**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Tools** — 54 links
+- **Color Palettes** — 23 links
+- **Articles** — 27 links
+
+<!-- kb-about:end -->
+
 ## Tools
 
 #### Libraries
@@ -126,3 +141,20 @@ Choose your next color scheme.
 - [A Guide to Color and Conversion Rates](https://uxplanet.org/a-guide-to-color-and-conversion-rates-f3a28e8e32bb)
 - [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 - [A colour scheme for the display of astronomical intensity images](http://adsabs.harvard.edu/abs/2011BASI...39..289G)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Computational Biology](computational-biology.md)
+- [Computational Geometry](computational-geometry.md)
+- [Copilot Agents](copilot-agents.md)
+- [Creative Coding](creative-coding.md)
+- [ChatOps](chatops.md)
+- [Cheminformatics](cheminformatics.md)
+- [Citizen Science](citizen-science.md)
+- [Code Points](code-points.md)
+
+<!-- kb-related:end -->

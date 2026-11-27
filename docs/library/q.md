@@ -9,6 +9,27 @@ Domain-specific programming language used for expressing quantum algorithms.
 
 !!! info "Source"
     57 resources imported from [ebraminio/awesome-qsharp](https://github.com/ebraminio/awesome-qsharp), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Q#** — domain-specific programming language used for expressing quantum algorithms. This page brings together 54 links about Q#, grouped into 9 sections. The largest sections are **Coding Contests and Solutions**, **Blogs**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 6 links
+- **Tutorials** — 7 links
+- **Books** — 4 links
+- **Videos** — 5 links
+- **Q/A** — 2 links
+- **Coding Contests and Solutions** — 9 links
+- **IDE Integration** — 6 links
+- **Demos, Samples, and Additional Libraries** — 6 links
+- **Blogs** — 9 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
@@ -97,3 +118,20 @@ Domain-specific programming language used for expressing quantum algorithms.
 - [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 - [El Bruno's blog posts](https://elbruno.com/tag/q/)
 - [Q# Community](https://qsharp.community)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Rust](rust.md)
+- [RxJava](rxjava.md)
+- [Standard Style](standard-style.md)
+- [Swift](swift.md)
+- [Pest](pest.md)
+- [Ponyfills](ponyfills.md)
+- [Promises](promises.md)
+- [PureScript](purescript.md)
+
+<!-- kb-related:end -->

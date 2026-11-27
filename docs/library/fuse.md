@@ -9,6 +9,24 @@ Mobile development tools.
 
 !!! info "Source"
     85 resources imported from [fuse-compound/awesome-fuse](https://github.com/fuse-compound/awesome-fuse), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Fuse** — mobile development tools. This page brings together 85 links about Fuse, grouped into 6 sections. The largest sections are **Applications**, **Open Source**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Applications** — 31 links
+- **Articles** — 11 links
+- **Community** — 7 links
+- **Development** — 7 links
+- **Open Source** — 21 links
+- **Plugins** — 8 links
+
+<!-- kb-about:end -->
+
 ## Applications
 
 - [20,000 Leagues Under The Sea](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369) - Interactive book [(​iOS)](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369).
@@ -111,3 +129,20 @@ Mobile development tools.
 - [Visual Studio Code](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 - [Fuse-Log](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [GNOME](gnome.md)
+- [IBM Cloud](ibm-cloud.md)
+- [Integration](integration.md)
+- [IPFS](ipfs.md)
+- [ESP](esp.md)
+- [Firebase](firebase.md)
+- [Firebase Genkit](firebase-genkit.md)
+- [Flutter](flutter.md)
+
+<!-- kb-related:end -->

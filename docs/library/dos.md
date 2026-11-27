@@ -9,6 +9,24 @@ Operating system for x86-based personal computers that was popular during the 19
 
 !!! info "Source"
     136 resources imported from [balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**DOS** — operating system for x86-based personal computers that was popular during the 1980s and early 1990s. This page brings together 129 links about DOS, grouped into 6 sections. The largest sections are **Source code**, **Tutorials and programming resources**, **Development tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Development tools** — 22 links
+- **Tutorials and programming resources** — 36 links
+- **Books** — 6 links
+- **Videos** — 10 links
+- **Source code** — 53 links
+- **Drivers and emulators** — 2 links
+
+<!-- kb-about:end -->
+
 ## Development tools
 
 - [bcc - Bruce's C Compiler](https://gitlab.com/FreeDOS/devel/bcc) - Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small memory models.
@@ -235,3 +253,20 @@ Operating system for x86-based personal computers that was popular during the 19
 
 - [SBEMU](https://github.com/crazii/SBEMU) - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
 - [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Electron](electron.md)
+- [ESP](esp.md)
+- [Firebase](firebase.md)
+- [Firebase Genkit](firebase-genkit.md)
+- [Core](core.md)
+- [Cross-Platform](cross-platform.md)
+- [Deno](deno.md)
+- [DigitalOcean](digitalocean.md)
+
+<!-- kb-related:end -->

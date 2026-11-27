@@ -9,6 +9,26 @@ AI and machine-learning projects built on Blockchain.
 
 !!! info "Source"
     46 resources imported from [steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Blockchain AI** — aI and machine-learning projects built on Blockchain. This page brings together 46 links about Blockchain AI, grouped into 8 sections. The largest sections are **Blockchains for AI algorithms**, **Academic Research**, **Recommended reading**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Recommended reading** — 8 links
+- **Blockchains for AI algorithms** — 14 links
+- **Blockchains for data** — 1 link
+- **Blockchains for computation** — 4 links
+- **Blockchains for AI in finance** — 3 links
+- **Blockchains for AI in medicine** — 2 links
+- **Blockchains for autonomous agents** — 2 links
+- **Academic Research** — 12 links
+
+<!-- kb-about:end -->
+
 ## Recommended reading
 
 ### Wikipedia
@@ -86,3 +106,20 @@ AI and machine-learning projects built on Blockchain.
 - [Hyperparameter Optimization](https://doi.org/10.3389/fbloc.2020.00023) - Mittal, A., & Aggarwal, S. (2020). Hyperparameter optimization using sustainable proof of work in blockchain. *Frontiers in Blockchain*, 3, 23.
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773) - Qu, X., Wang, S., Hu, Q., & Cheng, X. (2021). Proof of federated learning: A novel energy-recycling consensus algorithm. *IEEE Transactions on Parallel and Distributed Systems*, 32(8), 2074-2085.
 - [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Corda](corda.md)
+- [Cosmos SDK](cosmos-sdk.md)
+- [EOSIO](eosio.md)
+- [Ethereum](ethereum.md)
+- [Waves](waves.md)
+- [Algorand](algorand.md)
+- [ATProto](atproto.md)
+- [Bitcoin](bitcoin.md)
+
+<!-- kb-related:end -->

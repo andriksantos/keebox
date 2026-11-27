@@ -9,6 +9,22 @@ Utility-first CSS framework for rapid UI development.
 
 !!! info "Source"
     73 resources imported from [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Tailwind CSS is a utility-first CSS framework: instead of writing custom classes, you compose designs with small single-purpose classes directly in your HTML or components. It has become one of the most used styling tools in React, Vue, Svelte and Laravel projects.
+
+This list collects useful links, editor extensions, tools, plugins and component libraries. If you want to move faster, browse **UI libraries, components & templates** before building every interface element yourself.
+
+### What you'll find
+
+- **Useful links** — 1 link
+- **IDE extensions** — 2 links
+
+<!-- kb-about:end -->
+
 ## Useful links
 
 - 💙 [Website](https://tailwindcss.com) - Official Tailwind CSS website.
@@ -96,3 +112,20 @@ Utility-first CSS framework for rapid UI development.
 - 💼 [tw-fade](https://github.com/petekp/tw-fade) - Adds `fade-t`/`-b`/`-x`/`-y` utilities that enable scroll-aware edge fading.
 - 💼🧩 [Fluid](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
 - 🧩 [Debug screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Text Editing](text-editing.md)
+- [Tiny JS](tiny-js.md)
+- [Tips](tips.md)
+- [Web Animation](web-animation.md)
+- [Static Website Services](static-website-services.md)
+- [Storybook](storybook.md)
+- [Svelte](svelte.md)
+- [SVG](svg.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,23 @@ Server-side development in Swift.
 
 !!! info "Source"
     69 resources imported from [vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Vapor is the most popular web framework for server-side Swift. It lets iOS and macOS developers build APIs, websites and real-time services in the same language they already use, with async/await, an ORM called Fluent and Leaf templates.
+
+This list collects libraries, tools, hosting services, courses and open-source projects built with Vapor. Start with **Education** if you are new to the backend, then look at **Open-source Projects** to see how real apps are structured.
+
+### What you'll find
+
+- **Tools** — 5 links
+- **Services** — 2 links
+- **Education** — 1 link
+
+<!-- kb-about:end -->
+
 ## Libraries
 
 -  [API Error Middleware](https://github.com/skelpo/APIErrorMiddleware) – Vapor middleware for converting thrown errors to JSON responses.
@@ -103,3 +120,20 @@ Server-side development in Swift.
 
 -  [SteamPress](https://github.com/brokenhandsio/SteamPress) – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
 -  [User Manager Service](https://github.com/skelpo/UserManager) – A small, useful user manager made for production application setups.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Apache Wicket](apache-wicket.md)
+- [CDK](cdk.md)
+- [Dash](dash.md)
+- [Dropwizard](dropwizard.md)
+- [Slim](slim.md)
+- [Symfony](symfony.md)
+- [Terraform](terraform.md)
+- [Vagrant](vagrant.md)
+
+<!-- kb-related:end -->

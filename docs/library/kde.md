@@ -9,6 +9,23 @@ A free software community dedicated to creating an open and user-friendly comput
 
 !!! info "Source"
     155 resources imported from [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**KDE** — a free software community dedicated to creating an open and user-friendly computing experience. This page brings together 155 links about KDE, grouped into 5 sections. The largest sections are **Applications**, **Customization**, **Documentation and Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Applications** — 78 links
+- **Customization** — 62 links
+- **Documentation and Resources** — 6 links
+- **Articles** — 6 links
+- **Communities** — 3 links
+
+<!-- kb-about:end -->
+
 ## Applications
 
 ### Internet & Networking
@@ -229,3 +246,20 @@ A free software community dedicated to creating an open and user-friendly comput
 - [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
 - [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations 📌.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) - Questions tagged with `kde`.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Low Code](low-code.md)
+- [.NET](net.md)
+- [Nix](nix.md)
+- [Node.js](node-js.md)
+- [IBM Cloud](ibm-cloud.md)
+- [Integration](integration.md)
+- [IPFS](ipfs.md)
+- [JVM](jvm.md)
+
+<!-- kb-related:end -->

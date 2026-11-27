@@ -9,6 +9,25 @@ Someone whose gender identity differs from their assigned birth sex.
 
 !!! info "Source"
     67 resources imported from [cvyl/awesome-transgender](https://github.com/cvyl/awesome-transgender), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Transgender** — someone whose gender identity differs from their assigned birth sex. This page brings together 66 links about Transgender, grouped into 7 sections. The largest sections are **Organizations**, **Communities**, **General Websites**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General Websites** — 11 links
+- **Communities** — 17 links
+- **Voice Training** — 3 links
+- **DIY HRT** — 8 links
+- **Organizations** — 21 links
+- **Scientific Research** — 4 links
+- **Clothing** — 2 links
+
+<!-- kb-about:end -->
+
 ## General Websites
 
 - [That's Gender Dysphoria, FYI](https://genderdysphoria.fyi/en/) - An informative guide on recognizing and understanding gender dysphoria.
@@ -125,3 +144,20 @@ Someone whose gender identity differs from their assigned birth sex.
 ### Binders
 
 - [Underworks](https://www.underworks.com/) - Binders for safe chest compression.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Biomedical Information Extraction](biomedical-information-extraction.md)
+- [Computational Neuroscience](computational-neuroscience.md)
+- [Digital Humanities](digital-humanities.md)
+- [Diversity](diversity.md)
+- [Lucid Dreams](lucid-dreams.md)
+- [Mental Health](mental-health.md)
+- [Neuroimaging](neuroimaging.md)
+- [Neuroscience](neuroscience.md)
+
+<!-- kb-related:end -->

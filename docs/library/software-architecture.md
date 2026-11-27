@@ -9,6 +9,27 @@ The discipline of designing and building software.
 
 !!! info "Source"
     58 resources imported from [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Software Architecture** — the discipline of designing and building software. This page brings together 58 links about Software Architecture, grouped into 9 sections. The largest sections are **Frameworks**, **Design Patterns**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Principles** — 2 links
+- **Design Patterns** — 12 links
+- **Methodology** — 5 links
+- **Documentation** — 3 links
+- **Workshop formats** — 6 links
+- **Modeling** — 2 links
+- **Tools** — 10 links
+- **Frameworks** — 16 links
+- **Bonus** — 2 links
+
+<!-- kb-about:end -->
+
 ## Principles
 
 - [Flexibility](https://medium.com/faun/flexibility-a-software-architecture-principle-6eafe045a1d4) - Able to adapt to changes in both environment and usability requirements without encompassing structural changes.
@@ -107,3 +128,20 @@ The discipline of designing and building software.
 
 - [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - Additional things helpful to learn to get a firm understanding of software architecture.
 - [Software Architect Roadmap](https://roadmap.sh/software-architect) - A complete and structured guide to become a Software Architect.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Stacks](stacks-2.md)
+- [Standards](standards.md)
+- [Steam](steam-2.md)
+- [Steam Deck](steam-deck.md)
+- [Scientific Computing](scientific-computing.md)
+- [Scientific Writing](scientific-writing.md)
+- [Scriptable](scriptable.md)
+- [Site Reliability Engineering](site-reliability-engineering.md)
+
+<!-- kb-related:end -->

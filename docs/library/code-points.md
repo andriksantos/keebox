@@ -9,6 +9,23 @@ Curated Code Points resources.
 
 !!! info "Source"
     41 resources imported from [Codepoints/awesome-codepoints](https://github.com/Codepoints/awesome-codepoints), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Code Points**. This page brings together 40 links about Code Points, grouped into 5 sections. The largest sections are **For Funsies**, **Record Holders and Extremes**, **Code Points that Affect Others**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Standalone Code Points** — 6 links
+- **Code Points that Affect Others** — 8 links
+- **Record Holders and Extremes** — 9 links
+- **For Funsies** — 16 links
+- **Other Lists of Code Points** — 1 link
+
+<!-- kb-about:end -->
+
 ## Standalone Code Points
 
 - [U+2E2E](https://codepoints.net/U+2E2E) REVERSED QUESTION MARK - the “irony
@@ -70,3 +87,20 @@ Curated Code Points resources.
 ## Other Lists of Code Points
 
 - [Cross-platform terminal characters](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Colorful](colorful.md)
+- [Computational Biology](computational-biology.md)
+- [Computational Geometry](computational-geometry.md)
+- [Copilot Agents](copilot-agents.md)
+- [ChatGPT](chatgpt.md)
+- [ChatOps](chatops.md)
+- [Cheminformatics](cheminformatics.md)
+- [Citizen Science](citizen-science.md)
+
+<!-- kb-related:end -->

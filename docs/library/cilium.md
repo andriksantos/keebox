@@ -9,6 +9,24 @@ Provides networking and security capabilities for containerized apps, microservi
 
 !!! info "Source"
     72 resources imported from [seifrajhi/awesome-cilium](https://github.com/seifrajhi/awesome-cilium), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Networking**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Cilium** — provides networking and security capabilities for containerized apps, microservices, and virtual machines. This page brings together 72 links about Cilium, grouped into 6 sections. The largest sections are **Cilium related projects**, **Articles and Presentations**, **Hands on Contents**, a good place to start if you are exploring the topic for the first time. It belongs to the **Networking** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Reference Documentation** — 4 links
+- **Cilium related projects** — 28 links
+- **Articles and Presentations** — 25 links
+- **Community Events** — 3 links
+- **Community and Contributing** — 4 links
+- **Hands on Contents** — 8 links
+
+<!-- kb-about:end -->
+
 ## Reference Documentation
 
 - [Website](https://cilium.io) - Official website of Cilium, originally created by [Isovalent](https://isovalent.com/).
@@ -98,3 +116,15 @@ Provides networking and security capabilities for containerized apps, microservi
 - [Cilium and SPIRE integration](https://github.com/accuknox/cilium-spire-tutorials) - Tutorials about Cilium and SPIRE integration.
 - [Cilium Network policies Library](https://github.com/kubearmor/policy-templates/tree/main) - Community curated list of system and network policy templates for KubeArmor and Cilium.
 - [Kyverno policies for Cilium Network Policies](https://github.com/adobeSlash/cilium-kyverno) - Examples of Kyverno policies for controlling the creation of Cilium network policies.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Networking** category of the [KEEBOX Library](index.md):
+
+- [PCAPTools](pcaptools.md)
+- [Real-Time Communications](real-time-communications.md)
+- [SNMP](snmp.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,25 @@ Learning, implementing, and applying Machine Learning using Ruby.
 
 !!! info "Source"
     119 resources imported from [arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ML with Ruby** — learning, implementing, and applying Machine Learning using Ruby. This page brings together 86 links about ML with Ruby, grouped into 7 sections. The largest sections are **Machine Learning Libraries**, **sparkles Tutorials**, **Community**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **sparkles Tutorials** — 10 links
+- **Machine Learning Libraries** — 57 links
+- **Applications of machine learning** — 1 link
+- **Projects and Code Examples** — 3 links
+- **Heroku buildpacks** — 3 links
+- **Books, Blogs, Channels** — 2 links
+- **Community** — 10 links
+
+<!-- kb-about:end -->
+
 ## :sparkles: Tutorials
 
 - [Ruby neural networks](https://www.honeybadger.io/blog/ruby-neural-networks/)
@@ -186,3 +205,20 @@ Learning, implementing, and applying Machine Learning using Ruby.
 - [Ruby AI Builders Discord](https://discord.gg/zDyFJFBTGB)
 - [X Ruby AI group](https://twitter.com/i/communities/1709211359039078677)
 - [Mastodon Ruby AI and Data group](https://ruby.social/@Ruby_AI_and_Data@chirp.social)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Natural Language Generation](natural-language-generation.md)
+- [NLP with Ruby](nlp-with-ruby.md)
+- [Papers](papers.md)
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md)
+- [H2O](h2o.md)
+- [Information Retrieval](information-retrieval.md)
+- [JAX](jax.md)
+- [Linguistics](linguistics.md)
+
+<!-- kb-related:end -->

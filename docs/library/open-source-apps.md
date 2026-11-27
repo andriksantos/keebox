@@ -9,6 +9,15 @@ Curated Open Source Apps resources.
 
 !!! info "Source"
     1,422 resources imported from [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Open Source Apps**. This page brings together 1,422 links about Open Source Apps, grouped into 1 sections. The largest sections are **Applications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## Applications
 
 ### 🎵 Audio (72)
@@ -1579,3 +1588,20 @@ Curated Open Source Apps resources.
 - [WindowCycle](https://github.com/WhiteMinds/window-cycle) - A focused macOS current-app window switcher with a visible panel.
 - [WindowHop](https://github.com/martonpaulo/windowhop) - Window switcher that gives every open window its own tile and switches to the exact one you pick, across Spaces and displays.
 - [Yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [PowerToys Run Plugins](powertoys-run-plugins.md)
+- [Raspberry Pi](raspberry-pi.md)
+- [Roslyn](roslyn.md)
+- [Salesforce](salesforce.md)
+- [Nix](nix.md)
+- [Node.js](node-js.md)
+- [Node-RED](node-red.md)
+- [Omarchy](omarchy.md)
+
+<!-- kb-related:end -->

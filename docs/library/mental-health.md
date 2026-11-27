@@ -9,6 +9,26 @@ Awareness and self-care in the software industry.
 
 !!! info "Source"
     132 resources imported from [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Mental Health** — awareness and self-care in the software industry. This page brings together 132 links about Mental Health, grouped into 8 sections. The largest sections are **Articles**, **Talks**, **Applications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Applications** — 19 links
+- **Articles** — 42 links
+- **Books** — 12 links
+- **Conferences** — 4 links
+- **Meetups** — 3 links
+- **Organizations** — 13 links
+- **Podcasts** — 5 links
+- **Talks** — 34 links
+
+<!-- kb-about:end -->
+
 ## Applications
 
 - [Calm](https://www.calm.com) – Provides guided meditations, sleep stories, and breathing exercises to help reduce anxiety and improve sleep quality.
@@ -164,3 +184,20 @@ Awareness and self-care in the software industry.
 - [UX Of Wearables In Clinical Treatment For PTSD - AnxietyTech 2018](https://www.youtube.com/watch?v=Ru58976R0Gw) - By Ada Ng.
 - [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
 - [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Neuroimaging](neuroimaging.md)
+- [Neuroscience](neuroscience.md)
+- [Transgender](transgender.md)
+- [Biomedical Information Extraction](biomedical-information-extraction.md)
+- [Digital Humanities](digital-humanities.md)
+- [Diversity](diversity.md)
+- [Empathy in Engineering](empathy-in-engineering.md)
+- [Lucid Dreams](lucid-dreams.md)
+
+<!-- kb-related:end -->

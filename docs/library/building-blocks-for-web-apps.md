@@ -9,6 +9,31 @@ Standalone features to be integrated into web apps.
 
 !!! info "Source"
     90 resources imported from [componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Building Blocks for Web Apps** — standalone features to be integrated into web apps. This page brings together 90 links about Building Blocks for Web Apps, grouped into 20 sections. The largest sections are **Consent Management**, **UI Elements**, **Booking**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **UI Elements** — 13 links
+- **Exit Intent Popup** — 4 links
+- **Auth** — 7 links
+- **Booking** — 12 links
+- **Notification** — 5 links
+- **Social** — 2 links
+- **Chat Bot** — 2 links
+- **Chat** — 1 link
+- **Monitoring** — 4 links
+- **Content Management** — 1 link
+- **Consent Management** — 15 links
+- **Media** — 2 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## UI Elements
 
 - [Tailwind UI](https://tailwindui.com/) - UI components, by the creators of Tailwind CSS.
@@ -158,3 +183,20 @@ Standalone features to be integrated into web apps.
 
 - [JustReview](https://justreview.co/) - Collect reviews from e-commerce, social media and review service providers and embed on a website.
 - [ReviewsOnMyWebsite](https://reviewsonmywebsite.com/) - Collect, monitor and display customer reviews.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Chrome DevTools](chrome-devtools.md)
+- [CSS](css.md)
+- [Cycle.js](cycle-js.md)
+- [D3](d3.md)
+- [Angular](angular.md)
+- [Backbone](backbone.md)
+- [Blazor](blazor.md)
+- [Browserify](browserify.md)
+
+<!-- kb-related:end -->

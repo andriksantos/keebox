@@ -9,6 +9,24 @@ Curated Communities resources.
 
 !!! info "Source"
     46 resources imported from [filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Work**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Communities**. This page brings together 46 links about Communities, grouped into 6 sections. The largest sections are **Development**, **Misc**, **Regional**, a good place to start if you are exploring the topic for the first time. It belongs to the **Work** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Development** — 14 links
+- **Regional** — 11 links
+- **Design** — 3 links
+- **Misc** — 12 links
+- **DevOps** — 5 links
+- **Looking for more lists like that** — 1 link
+
+<!-- kb-about:end -->
+
 ## Development
 
 - [Ember](https://ember-community-slackin.herokuapp.com/)
@@ -72,3 +90,13 @@ Curated Communities resources.
 ## Looking for more lists like that
 
 - [Awesome Community](https://github.com/phpearth/awesome-community)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Work** category of the [KEEBOX Library](index.md):
+
+- [Productivity](productivity.md)
+
+<!-- kb-related:end -->

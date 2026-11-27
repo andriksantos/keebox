@@ -9,6 +9,22 @@ Task runner.
 
 !!! info "Source"
     161 resources imported from [alferov/awesome-gulp](https://github.com/alferov/awesome-gulp), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Gulp** — task runner. This page brings together 161 links about Gulp, grouped into 4 sections. The largest sections are **Plugins**, **Resources**, **Scaffolding**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 40 links
+- **Plugins** — 96 links
+- **Scaffolding** — 21 links
+- **Miscellaneous** — 4 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### General Resources
@@ -267,3 +283,20 @@ Task runner.
 - [gulp-app](https://github.com/sindresorhus/gulp-app) - Gulp as an app (OS X).
 - [lmn-gulp-tasks](https://github.com/Lostmyname/lmn-gulp-tasks) - Example of gulp tasks unit testing.
 - [gulp-chef](http://gulp-cookery.github.io/gulp-chef/) - An elegant, intuitive way to reuse gulp tasks.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Homematic](homematic.md)
+- [HPC](hpc.md)
+- [inspectIT](inspectit.md)
+- [IRC](irc.md)
+- [Geocaching](geocaching.md)
+- [GeoJSON](geojson.md)
+- [GitHub Wiki](github-wiki.md)
+- [GraphQL](graphql.md)
+
+<!-- kb-related:end -->

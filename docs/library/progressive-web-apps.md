@@ -9,6 +9,25 @@ Curated Progressive Web Apps resources.
 
 !!! info "Source"
     43 resources imported from [TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Progressive Web Apps**. This page brings together 43 links about Progressive Web Apps, grouped into 7 sections. The largest sections are **Specific Technologies**, **Case Studies**, **Awesome Performance**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Must Reads** — 2 links
+- **Learning Resources** — 3 links
+- **Browser Support** — 2 links
+- **Videos** — 5 links
+- **Case Studies** — 6 links
+- **Specific Technologies** — 19 links
+- **Awesome Performance** — 6 links
+
+<!-- kb-about:end -->
+
 ## Must Reads
 
 - [Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) - A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more.
@@ -95,3 +114,20 @@ Curated Progressive Web Apps resources.
 - [Browser Rendering Optimization](https://udacity.com/ud860) - A free Udacity course helping you create web apps that maintain jank-free 60fps performance.
 - [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) - A new pattern for structuring and serving Progressive Web Apps, with an emphasis on performance.
 - [Browser Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Understand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Protips](protips.md)
+- [React Hooks](react-hooks.md)
+- [Redux](redux.md)
+- [Relay](relay.md)
+- [Offline-First](offline-first.md)
+- [PageSpeed Metrics](pagespeed-metrics.md)
+- [Polymer](polymer.md)
+- [Progressive Enhancement](progressive-enhancement.md)
+
+<!-- kb-related:end -->

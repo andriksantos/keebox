@@ -9,6 +9,25 @@ Curated Inspiration resources.
 
 !!! info "Source"
     74 resources imported from [NoahBuscher/Inspire](https://github.com/NoahBuscher/Inspire), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Inspiration**. This page brings together 74 links about Inspiration, grouped into 7 sections. The largest sections are **Creation**, **Concept**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Concept** — 15 links
+- **Creation** — 18 links
+- **Tools** — 14 links
+- **Collaborate** — 5 links
+- **Backends** — 5 links
+- **Testing** — 9 links
+- **Good Reads** — 8 links
+
+<!-- kb-about:end -->
+
 ## Concept
 
 #### These sites are good to get a general idea of possible layouts and style paths to take.
@@ -117,3 +136,20 @@ Curated Inspiration resources.
 - [Insert HTML](http://www.inserthtml.com) - A blog covering current and upcoming techniques and technologies for web developers.
 - [Mentor](http://www.mentor.so/) - Get random advice from other designers and developers.
 - [Smashing Magazine](http://www.smashingmagazine.com) - A magazine for all things digital design.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Ionic Framework](ionic-framework.md)
+- [jQuery](jquery.md)
+- [Less](less.md)
+- [lit](lit.md)
+- [Frameworks](frameworks.md)
+- [Frontend GIS](frontend-gis.md)
+- [Hydrogen](hydrogen.md)
+- [Inertia.js](inertia-js.md)
+
+<!-- kb-related:end -->

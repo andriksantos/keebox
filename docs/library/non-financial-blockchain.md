@@ -9,6 +9,23 @@ Applications of Blockchain beyond finance.
 
 !!! info "Source"
     39 resources imported from [machinomy/awesome-non-financial-blockchain](https://github.com/machinomy/awesome-non-financial-blockchain), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Non-Financial Blockchain** — applications of Blockchain beyond finance. This page brings together 39 links about Non-Financial Blockchain, grouped into 5 sections. The largest sections are **Identity Applications**, **Energy Applications**, **Internet of Things Applications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Identity Applications** — 14 links
+- **Internet of Things Applications** — 6 links
+- **Energy Applications** — 11 links
+- **Media and Journalism** — 3 links
+- **Talks and Books** — 5 links
+
+<!-- kb-about:end -->
+
 ## Identity Applications
 
 ### Public Blockchain Identity
@@ -73,3 +90,20 @@ Applications of Blockchain beyond finance.
 - [EventHorizon](http://eventhorizon2017.com) - First global summit on blockchain technology in Energy Sector.
 - [How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) - TED Talk from the author of "Blockchain Revolution" book on what is blockchain and its applications.
 - [Non Financial Uses of Blockchain Technology](https://www.youtube.com/watch?v=GGCHaphRjoM) - Presentation of non-financial uses of blockchain at Fintech Week 2016.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Ripple](ripple.md)
+- [Stacks](stacks.md)
+- [Substrate](substrate.md)
+- [Tor](tor.md)
+- [EOSIO](eosio.md)
+- [Ethereum](ethereum.md)
+- [Golem](golem.md)
+- [Mastodon](mastodon.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,27 @@ An open-source, proof of stake Blockchain and smart contract computing platform.
 
 !!! info "Source"
     219 resources imported from [aorumbayev/awesome-algorand](https://github.com/aorumbayev/awesome-algorand), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Algorand** — an open-source, proof of stake Blockchain and smart contract computing platform. This page brings together 219 links about Algorand, grouped into 9 sections. The largest sections are **Development & Tools**, **Learning Resources**, **Core Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Core Resources** — 24 links
+- **Learning Resources** — 57 links
+- **Development & Tools** — 65 links
+- **Wallets & Asset Interaction** — 18 links
+- **Infrastructure & Ecosystem Services** — 22 links
+- **SSI, DID and Verifiable Credentials** — 1 link
+- **AI and Machine Learning** — 10 links
+- **Application Platforms & Examples** — 17 links
+- **Standards** — 5 links
+
+<!-- kb-about:end -->
+
 ## Core Resources
 
 ### Official Resources
@@ -388,3 +409,20 @@ An open-source, proof of stake Blockchain and smart contract computing platform.
 - [ARC4](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md) - Application Binary Interface.
 - [ARC56](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0056.md) - Extended and improved Application Specification.
 - [ARC69](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md) - One of several Algorand Standard Asset Parameters Conventions.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [ATProto](atproto.md)
+- [Bitcoin](bitcoin.md)
+- [Blockchain AI](blockchain-ai.md)
+- [Corda](corda.md)
+- [Stacks](stacks.md)
+- [Substrate](substrate.md)
+- [Tor](tor.md)
+- [Waves](waves.md)
+
+<!-- kb-related:end -->

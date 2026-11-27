@@ -9,6 +9,26 @@ Design a product from the initial concept to production.
 
 !!! info "Source"
     145 resources imported from [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Product Design** — design a product from the initial concept to production. This page brings together 145 links about Product Design, grouped into 8 sections. The largest sections are **Research**, **Visual**, **UX**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Research** — 40 links
+- **UX** — 25 links
+- **UI** — 16 links
+- **Visual** — 31 links
+- **Prototype** — 14 links
+- **Accessibility** — 8 links
+- **Writing** — 6 links
+- **Data** — 5 links
+
+<!-- kb-about:end -->
+
 ## Research
 
 #### Decision Making
@@ -264,3 +284,20 @@ Design a product from the initial concept to production.
 - [Data.Gov](https://data.gov.uk/) - Find data published by government departments and agencies, public bodies and local authorities.
 - [The Tate Collection](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 - [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Prometheus](prometheus.md)
+- [QR Code](qr-code.md)
+- [Quarto](quarto.md)
+- [Read the Docs](read-the-docs.md)
+- [OpenStreetMap](openstreetmap.md)
+- [Permacomputing](permacomputing.md)
+- [Pokémon](pok-mon.md)
+- [Prisma](prisma.md)
+
+<!-- kb-related:end -->

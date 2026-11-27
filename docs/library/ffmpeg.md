@@ -9,6 +9,26 @@ Cross-platform solution to record, convert and stream audio and video.
 
 !!! info "Source"
     32 resources imported from [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+FFmpeg is the command-line toolkit behind much of the world's video and audio processing. It records, converts, cuts, compresses and streams almost any media format, and powers tools like VLC, OBS and many streaming services.
+
+This list gathers documentation, JavaScript and native bindings, mobile builds, tutorials and community resources. If the command syntax feels difficult, begin with **Tutorials**, which explain the most common recipes step by step.
+
+### What you'll find
+
+- **Docs** — 5 links
+- **JavaScript** — 15 links
+- **Native** — 1 link
+- **Mobile** — 2 links
+- **Tutorials** — 6 links
+- **Community** — 3 links
+
+<!-- kb-about:end -->
+
 ## Docs
 
 - [FFmpeg.org](http://ffmpeg.org) - Where it all starts.
@@ -58,3 +78,20 @@ Cross-platform solution to record, convert and stream audio and video.
 - [Stack Overflow](https://superuser.com/questions/tagged/ffmpeg)
 - [Mailing Lists](https://www.ffmpeg.org/contact.html#MailingLists)
 - [IRC](https://www.ffmpeg.org/contact.html#IRCChannels)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Fonts](fonts.md)
+- [GIF](gif.md)
+- [Icons](icons.md)
+- [Music](music.md)
+- [Audio Over IP](audio-over-ip.md)
+- [Audio Visualization](audio-visualization.md)
+- [Audiovisual](audiovisual.md)
+- [Broadcasting](broadcasting.md)
+
+<!-- kb-related:end -->

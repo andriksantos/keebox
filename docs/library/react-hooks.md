@@ -9,6 +9,23 @@ Lets you use state and other React features without writing a class.
 
 !!! info "Source"
     64 resources imported from [glauberfc/awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**React Hooks** — lets you use state and other React features without writing a class. This page brings together 64 links about React Hooks, grouped into 5 sections. The largest sections are **Tutorials/Articles/Workshops**, **Extensions/Libraries**, **Examples**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Hooks** — 8 links
+- **Tutorials/Articles/Workshops** — 23 links
+- **Discussions** — 3 links
+- **Examples** — 13 links
+- **Extensions/Libraries** — 17 links
+
+<!-- kb-about:end -->
+
 ## Hooks
 
 - [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
@@ -87,3 +104,20 @@ Lets you use state and other React features without writing a class.
 - [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
 - [storeon](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
 - [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Redux](redux.md)
+- [Relay](relay.md)
+- [Sass](sass.md)
+- [Seed](seed.md)
+- [Polymer](polymer.md)
+- [Progressive Enhancement](progressive-enhancement.md)
+- [Progressive Web Apps](progressive-web-apps.md)
+- [Protips](protips.md)
+
+<!-- kb-related:end -->

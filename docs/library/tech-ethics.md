@@ -9,6 +9,24 @@ Mitigating and avoiding the potential negative effects of technology on society.
 
 !!! info "Source"
     40 resources imported from [sampart/awesome-tech-ethics](https://github.com/sampart/awesome-tech-ethics), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Tech Ethics** — mitigating and avoiding the potential negative effects of technology on society. This page brings together 39 links about Tech Ethics, grouped into 6 sections. The largest sections are **Toolkits**, **Organisations**, **See also**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Toolkits** — 12 links
+- **Media** — 4 links
+- **Education** — 1 link
+- **Organisations** — 12 links
+- **Company-specific** — 3 links
+- **See also** — 7 links
+
+<!-- kb-about:end -->
+
 ## Toolkits
 
 - [Children & AI Design Code](https://5rightsfoundation.com/resource/children-ai-design-code/) - a process to identify, evaluate, and mitigate the known risks of AI to children and prepare for the known unknowns. The 5rights Foundation have also published [Tick to Agree – Age appropriate presentation of published terms](https://5rightsfoundation.com/resource/tick-to-agree-age-appropriate-presentation-of-published-terms/).
@@ -66,3 +84,20 @@ Mitigating and avoiding the potential negative effects of technology on society.
 - [Deceptive Patterns](https://www.deceptive.design) - Cataloging and exposing tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something.
 - The ["Digital Rights & Ethics" section of the Green Web Syllabus](https://www.zotero.org/groups/4399301/green-web-syllabus/collections/TFLY9RC3/items/YXMPV7WI/collection)
 - [Organize.fyi](https://organize.fyi/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Theravada](theravada.md)
+- [Transit](transit.md)
+- [Translations](translations.md)
+- [Uncopyright](uncopyright.md)
+- [Stacks](stacks-2.md)
+- [Standards](standards.md)
+- [Steam](steam-2.md)
+- [Steam Deck](steam-deck.md)
+
+<!-- kb-related:end -->

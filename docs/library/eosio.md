@@ -9,6 +9,26 @@ A decentralized operating system supporting industrial-scale apps.
 
 !!! info "Source"
     194 resources imported from [DanailMinchev/awesome-eosio](https://github.com/DanailMinchev/awesome-eosio), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**EOSIO** — a decentralized operating system supporting industrial-scale apps. This page brings together 194 links about EOSIO, grouped into 8 sections. The largest sections are **Developers**, **Tools**, **Community**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 5 links
+- **Learn** — 18 links
+- **Tools** — 30 links
+- **Block Producers** — 3 links
+- **Developers** — 95 links
+- **Community** — 27 links
+- **EOSIO Ecosystem** — 3 links
+- **DApps** — 13 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [EOS Network Foundation](https://eosnetwork.com/)
@@ -309,3 +329,20 @@ A decentralized operating system supporting industrial-scale apps.
 - [EveripediaNetwork/Everipedia](https://github.com/EveripediaNetwork/Everipedia) - The Everipedia Network protocol.
 - [eosfilestore](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 - [kesar/decentwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter on EOS.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Ethereum](ethereum.md)
+- [Golem](golem.md)
+- [Mastodon](mastodon.md)
+- [Non-Financial Blockchain](non-financial-blockchain.md)
+- [Bitcoin](bitcoin.md)
+- [Blockchain AI](blockchain-ai.md)
+- [Corda](corda.md)
+- [Cosmos SDK](cosmos-sdk.md)
+
+<!-- kb-related:end -->

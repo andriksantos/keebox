@@ -9,6 +9,28 @@ Automatically generates a wide range of unique content in text, image, and audio
 
 !!! info "Source"
     353 resources imported from [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Generative AI** — automatically generates a wide range of unique content in text, image, and audio format. This page brings together 353 links about Generative AI, grouped into 10 sections. The largest sections are **Text**, **Coding**, **Image**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Recommended reading** — 15 links
+- **Text** — 99 links
+- **Coding** — 75 links
+- **Agents** — 30 links
+- **Image** — 46 links
+- **Video** — 18 links
+- **Audio** — 23 links
+- **Other** — 13 links
+- **Learning resources** — 15 links
+- **More lists** — 19 links
+
+<!-- kb-about:end -->
+
 ## Recommended reading
 
 - [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
@@ -479,3 +501,20 @@ Automatically generates a wide range of unique content in text, image, and audio
 - [FlowGPT](https://flowgpt.com/) - Amplify your workflow with the best prompts.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of useful data science prompts for ChatGPT.
 - [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - Another awesome list for ChatGPT.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [H2O](h2o.md)
+- [Information Retrieval](information-retrieval.md)
+- [JAX](jax.md)
+- [Linguistics](linguistics.md)
+- [Conversational AI](conversational-ai.md)
+- [Cryptography](cryptography.md)
+- [Education](education-2.md)
+- [Empirical Software Engineering](empirical-software-engineering.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,26 @@ Collection of reusable components, guided by rules that ensure consistency and s
 
 !!! info "Source"
     102 resources imported from [klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Design systems** — collection of reusable components, guided by rules that ensure consistency and speed. This page brings together 102 links about Design systems, grouped into 8 sections. The largest sections are **Pattern library**, **Design systems**, **Design tokens**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Design systems** — 19 links
+- **UI Design tools** — 13 links
+- **Design tokens** — 19 links
+- **Pattern library** — 29 links
+- **AI and design systems** — 5 links
+- **Testing** — 3 links
+- **Books** — 7 links
+- **Talks** — 7 links
+
+<!-- kb-about:end -->
+
 ## Design systems
 
 ### Design systems of some "known" companies
@@ -181,3 +201,20 @@ Collection of reusable components, guided by rules that ensure consistency and s
 - [Introducing Design Systems Into Chaos](https://youtu.be/FZSi1bK-BRM) - Shares practical examples on where to begin to set up a design system, what to prioritize, and how to make a big impact to customers and colleagues, to help you introduce systems that bring order to chaos by Diana Mounter (Design Systems Lead at GitHub).
 - [Jina Anne - Designing a Design System](https://youtu.be/7hYOLLO2gc4) - Will share strategies for how to approach, design and build an effective design system; how to successfully maintain the system to ensure ongoing usefulness by Jina (Lead Designer on the Design Systems team at Salesforce UX).
 - [Level up your Design System with styled-system](https://youtu.be/K8MF3aDg-bM?t=7280) - Women of React conf by [Taley'a Mirza](https://x.com/TaleyaMirza).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Dojo Toolkit](dojo-toolkit.md)
+- [Emails](emails.md)
+- [Ember](ember.md)
+- [Frameworks](frameworks.md)
+- [Chrome DevTools](chrome-devtools.md)
+- [CSS](css.md)
+- [Cycle.js](cycle-js.md)
+- [D3](d3.md)
+
+<!-- kb-related:end -->

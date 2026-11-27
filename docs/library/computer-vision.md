@@ -9,6 +9,29 @@ Curated Computer Vision resources.
 
 !!! info "Source"
     514 resources imported from [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Computer Vision**. This page brings together 513 links about Computer Vision, grouped into 11 sections. The largest sections are **Software**, **Datasets**, **Tutorials and talks**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Awesome Lists** — 54 links
+- **Books** — 25 links
+- **Courses** — 47 links
+- **Papers** — 10 links
+- **Tutorials and talks** — 59 links
+- **Software** — 203 links
+- **Datasets** — 66 links
+- **Resources for students** — 33 links
+- **Blogs** — 7 links
+- **Links** — 6 links
+- **Songs** — 3 links
+
+<!-- kb-about:end -->
+
 ## Awesome Lists
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -800,3 +823,20 @@ Curated Computer Vision resources.
 - [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 - [The RANSAC Song](http://danielwedge.com/ransac/)
 - [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Conversational AI](conversational-ai.md)
+- [Cryptography](cryptography.md)
+- [Education](education-2.md)
+- [Empirical Software Engineering](empirical-software-engineering.md)
+- [Tutorials](tutorials.md)
+- [Tutorials](tutorials-2.md)
+- [XAI](xai.md)
+- [AI in Finance](ai-in-finance.md)
+
+<!-- kb-related:end -->

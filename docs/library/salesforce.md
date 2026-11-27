@@ -9,6 +9,26 @@ Curated Salesforce resources.
 
 !!! info "Source"
     72 resources imported from [mailtoharshit/awesome-salesforce](https://github.com/mailtoharshit/awesome-salesforce), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Salesforce**. This page brings together 68 links about Salesforce, grouped into 8 sections. The largest sections are **Troubleshooting and queries**, **Javascript Libraries for Salesforce**, **UX Libraries for Salesforce**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **The Fiery Meter of AWSome** — 4 links
+- **Javascript Libraries for Salesforce** — 9 links
+- **UX Libraries for Salesforce** — 6 links
+- **ETL Tools** — 6 links
+- **Salesforce Lightning** — 1 link
+- **Salesforce Browser Extensions** — 1 link
+- **Mobile Development with Salesforce** — 3 links
+- **Troubleshooting and queries** — 38 links
+
+<!-- kb-about:end -->
+
 ## The Fiery Meter of AWSome
 
     - [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
@@ -124,3 +144,20 @@ Curated Salesforce resources.
 - [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 - [Salesforce Posse](https://salesforceposse.com) - The Salesforce Posse podcast was created to tell the world about Salesforce development and architecture best practice and news from the Salesforce eco-system.
 - [Code Coverage](https://www.codecoverage.org/) - Code Coverage is a podcast for developers on the force.com platform, in each episode we talk to a developer about how they got involved with the platform, what they’re working on, technologies they like and what they consider to be their most ‘creative’ solution.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Smart TV](smart-tv.md)
+- [Uno Platform](uno-platform.md)
+- [watchOS](watchos.md)
+- [WebExtensions](webextensions.md)
+- [Open Source Apps](open-source-apps.md)
+- [PowerToys Run Plugins](powertoys-run-plugins.md)
+- [Raspberry Pi](raspberry-pi.md)
+- [Roslyn](roslyn.md)
+
+<!-- kb-related:end -->

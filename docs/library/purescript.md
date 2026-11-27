@@ -9,6 +9,31 @@ Curated PureScript resources.
 
 !!! info "Source"
     74 resources imported from [passy/awesome-purescript](https://github.com/passy/awesome-purescript), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**PureScript**. This page brings together 74 links about PureScript, grouped into 14 sections. The largest sections are **UI Libraries**, **Build Tooling**, **Learning Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Build Tooling** — 8 links
+- **Preludes** — 2 links
+- **UI Libraries** — 21 links
+- **URL Routers** — 5 links
+- **Components** — 5 links
+- **Asynchronicity and Parallelism** — 5 links
+- **Effect Management** — 2 links
+- **Json Serialization** — 2 links
+- **Binary Serialization** — 5 links
+- **Testing** — 4 links
+- **Learning Resources** — 8 links
+- **Discovery** — 2 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Build Tooling
 
 - [pulp](https://github.com/bodil/pulp)
@@ -124,3 +149,20 @@ Curated PureScript resources.
 ## More Resources
 
 - [Purescript Ecosystem](https://github.com/xgrommx/purescript-ecosystem) - Ranked list of popular libraries.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Q#](q.md)
+- [Rust](rust.md)
+- [RxJava](rxjava.md)
+- [Standard Style](standard-style.md)
+- [Pascal](pascal.md)
+- [Pest](pest.md)
+- [Ponyfills](ponyfills.md)
+- [Promises](promises.md)
+
+<!-- kb-related:end -->

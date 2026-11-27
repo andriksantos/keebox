@@ -9,6 +9,27 @@ Cloud computing platform designed for developers.
 
 !!! info "Source"
     49 resources imported from [jonleibowitz/awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**DigitalOcean** — cloud computing platform designed for developers. This page brings together 49 links about DigitalOcean, grouped into 9 sections. The largest sections are **Community OSS projects**, **Community**, **Developer documentation**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Community** — 6 links
+- **Configuration management** — 5 links
+- **Developer documentation** — 6 links
+- **Open source projects** — 5 links
+- **Commercial integrations** — 5 links
+- **Community OSS projects** — 11 links
+- **Clients** — 5 links
+- **Video tutorials** — 1 link
+- **Other** — 5 links
+
+<!-- kb-about:end -->
+
 ## Community
 
 - [Tutorial Search and Index](https://www.digitalocean.com/community/tutorials)
@@ -84,3 +105,20 @@ Cloud computing platform designed for developers.
 - [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
 - [User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [DOS](dos.md)
+- [Electron](electron.md)
+- [ESP](esp.md)
+- [Firebase](firebase.md)
+- [Cloudflare](cloudflare.md)
+- [Core](core.md)
+- [Cross-Platform](cross-platform.md)
+- [Deno](deno.md)
+
+<!-- kb-related:end -->

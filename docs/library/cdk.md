@@ -9,6 +9,27 @@ Open-source software development framework for defining cloud infrastructure in 
 
 !!! info "Source"
     110 resources imported from [kolomied/awesome-cdk](https://github.com/kolomied/awesome-cdk), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**CDK** — open-source software development framework for defining cloud infrastructure in code. This page brings together 110 links about CDK, grouped into 9 sections. The largest sections are **Construct Libraries**, **Blog Posts & Talks**, **Training Materials and Sample Code**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Construct Libraries** — 36 links
+- **High-Level Frameworks** — 6 links
+- **Scaffolding** — 4 links
+- **Language Support** — 4 links
+- **Library Publishing** — 2 links
+- **Tools** — 1 link
+- **Training Materials and Sample Code** — 19 links
+- **Blog Posts & Talks** — 36 links
+- **Tips & Tricks** — 2 links
+
+<!-- kb-about:end -->
+
 ## Construct Libraries
 
 ### APIs
@@ -174,3 +195,20 @@ Open-source software development framework for defining cloud infrastructure in 
 
 - [Reflect on the CDK Type System](https://gist.github.com/eladb/68a009cf9c953b04a637bac5c40afdbc) - Explore the CDK's type system.
 - [Testing Your Construct Library CodeBuild Configuration Locally](https://github.com/aws/aws-codebuild-docker-images/tree/master/local_builds) - With the `jsii/superchain:latest` Docker Image.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Dash](dash.md)
+- [Dropwizard](dropwizard.md)
+- [Education](education.md)
+- [FastAPI](fastapi.md)
+- [Terraform](terraform.md)
+- [Vagrant](vagrant.md)
+- [Vapor](vapor.md)
+- [Apache Wicket](apache-wicket.md)
+
+<!-- kb-related:end -->

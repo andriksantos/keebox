@@ -9,6 +9,31 @@ JavaScript API for rendering and compute on GPUs.
 
 !!! info "Source"
     154 resources imported from [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**WebGPU** — javaScript API for rendering and compute on GPUs. This page brings together 154 links about WebGPU, grouped into 14 sections. The largest sections are **Libraries**, **Demos**, **Historical resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Websites** — 15 links
+- **Browser support** — 9 links
+- **Articles** — 16 links
+- **Tutorials** — 8 links
+- **Books** — 1 link
+- **Libraries** — 36 links
+- **AI libraries** — 3 links
+- **Debuggers and Profilers** — 4 links
+- **Gists** — 1 link
+- **Demos** — 31 links
+- **Videos** — 5 links
+- **Community** — 3 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Websites
 
 ### Official websites
@@ -227,3 +252,20 @@ JavaScript API for rendering and compute on GPUs.
 - [Next-Generation 3D Graphics on the Web (Google I/O 2019)](https://www.youtube.com/watch?v=K2JzIUIHIhc)
 - [Building WebGPU with Rust](https://archive.fosdem.org/2020/schedule/event/rust_webgpu/) - By Dzmitry Malyshau from Mozilla.
 - [YC Point of WebGPU on native](https://news.ycombinator.com/item?id=23079200) - Discussion regarding this article.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [WordPress-Gatsby](wordpress-gatsby.md)
+- [Yew](yew.md)
+- [Angular](angular.md)
+- [Backbone](backbone.md)
+- [Web Performance Budget](web-performance-budget.md)
+- [Web Typography](web-typography.md)
+- [WebAssembly](webassembly.md)
+- [WebGL](webgl.md)
+
+<!-- kb-related:end -->

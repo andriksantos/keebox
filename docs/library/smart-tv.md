@@ -9,6 +9,26 @@ Create apps for different TV platforms.
 
 !!! info "Source"
     67 resources imported from [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Smart TV** — create apps for different TV platforms. This page brings together 67 links about Smart TV, grouped into 8 sections. The largest sections are **Platforms**, **Cross-platform frameworks**, **Remote control protocols**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Platforms** — 44 links
+- **Cross-platform frameworks** — 8 links
+- **Remote control protocols** — 4 links
+- **Cross-platform tools** — 2 links
+- **Testing** — 3 links
+- **Misc** — 2 links
+- **Community** — 2 links
+- **Other Lists** — 2 links
+
+<!-- kb-about:end -->
+
 ## Platforms
 
 ### Samsung Tizen
@@ -141,3 +161,20 @@ Create apps for different TV platforms.
 
 - [awesome-webos](https://github.com/tolgakurtuluss/awesome-webos)   - A curated list of resources for webOS.
 - [awesome-smarttv](https://github.com/linuxenko/awesome-smarttv)   - Another list of Smart TV resources. Discovered after this one was already done :roll_eyes:.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Uno Platform](uno-platform.md)
+- [watchOS](watchos.md)
+- [WebExtensions](webextensions.md)
+- [Windows](windows.md)
+- [PowerToys Run Plugins](powertoys-run-plugins.md)
+- [Raspberry Pi](raspberry-pi.md)
+- [Roslyn](roslyn.md)
+- [Salesforce](salesforce.md)
+
+<!-- kb-related:end -->

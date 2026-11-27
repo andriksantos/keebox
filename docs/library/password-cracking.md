@@ -9,6 +9,30 @@ The process of recovering passwords from data that has been stored in or transmi
 
 !!! info "Source"
     190 resources imported from [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Password Cracking** — the process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form. This page brings together 163 links about Password Cracking, grouped into 12 sections. The largest sections are **Research**, **Hashcat**, **Wordlist tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 1 link
+- **Cloud** — 7 links
+- **Conversion** — 10 links
+- **Hashcat** — 33 links
+- **John the Ripper** — 2 links
+- **Misc** — 4 links
+- **Websites** — 9 links
+- **Wordlist tools** — 31 links
+- **Wordlists** — 8 links
+- **Specific file formats** — 4 links
+- **Machine Learning / AI** — 6 links
+- **Research** — 48 links
+
+<!-- kb-about:end -->
+
 ## Books
 
 - [Hash Crack: Password Cracking Manual (v3)](https://www.amazon.com/-/en/Joshua-Picolet/dp/1793458618) - Password Cracking Manual v3 is an expanded reference guide for password recovery (cracking) methods, tools, and analysis techniques.
@@ -283,3 +307,20 @@ The process of recovering passwords from data that has been stored in or transmi
 - [USENIX Security '23 - Improving Real-World Password Guessing Attacks via Bi-Directional Transformers](https://www.youtube.com/watch?v=kE7dEUcPtU0)
 - [USENIX Security '21 - Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries](https://www.youtube.com/watch?v=Jvp3UTdCeag)
 - [USENIX Security '16 - Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.youtube.com/watch?v=GgaZ_LxsL_8)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Prompt Injection](prompt-injection.md)
+- [Security Card Games](security-card-games.md)
+- [Suricata](suricata.md)
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md)
+- [Fuzzing](fuzzing.md)
+- [GDPR](gdpr.md)
+- [Malware Persistence](malware-persistence.md)
+- [OpenID Connect](openid-connect.md)
+
+<!-- kb-related:end -->

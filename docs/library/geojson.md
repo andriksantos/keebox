@@ -9,6 +9,15 @@ Curated GeoJSON resources.
 
 !!! info "Source"
     125 resources imported from [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**GeoJSON**. This page brings together 0 links about GeoJSON, grouped into 0 sections. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ### operations
 
 - [CoGran](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
@@ -157,3 +166,20 @@ Curated GeoJSON resources.
 - [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 - [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
 - [geojson-invalid-geometry](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [GitHub Wiki](github-wiki.md)
+- [GraphQL](graphql.md)
+- [Gulp](gulp.md)
+- [Homematic](homematic.md)
+- [Free Software](free-software.md)
+- [Funny Markov Chains](funny-markov-chains.md)
+- [Gemini CLI](gemini-cli.md)
+- [Geocaching](geocaching.md)
+
+<!-- kb-related:end -->

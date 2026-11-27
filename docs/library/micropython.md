@@ -9,6 +9,26 @@ A lean and efficient implementation of Python 3 for microcontrollers.
 
 !!! info "Source"
     892 resources imported from [mcauser/awesome-micropython](https://github.com/mcauser/awesome-micropython), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**MicroPython** — a lean and efficient implementation of Python 3 for microcontrollers. This page brings together 892 links about MicroPython, grouped into 8 sections. The largest sections are **Libraries**, **Development**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Libraries** — 798 links
+- **Community** — 7 links
+- **Tutorials** — 10 links
+- **Books** — 11 links
+- **Frameworks** — 7 links
+- **Resources** — 8 links
+- **Development** — 49 links
+- **Miscellaneous** — 2 links
+
+<!-- kb-about:end -->
+
 ## Libraries
 
 - [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython) - This filter shows just the MicroPython libraries on PyPi. Note: You cannot `pip install` MicroPython libraries. See the [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html) for more information on managing packages with MicroPython.
@@ -1336,3 +1356,20 @@ A lean and efficient implementation of Python 3 for microcontrollers.
 
 - [MicroPython Kickstarter](https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers) - 1,931 backers pledged £97,803 to help bring this project to life.
 - [MicroPython on the ESP8266 Kickstarter](https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot) - 1,399 backers pledged £28,534 to help bring this project to life.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Move](move.md)
+- [Must Watch Talks](must-watch-talks.md)
+- [Network Layer](network-layer.md)
+- [npm](npm.md)
+- [Learning](learning.md)
+- [Learning](learning-2.md)
+- [Lua](lua.md)
+- [Mad Science npm Packages](mad-science-npm-packages.md)
+
+<!-- kb-related:end -->

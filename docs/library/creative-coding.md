@@ -9,6 +9,31 @@ Programming something expressive instead of something functional.
 
 !!! info "Source"
     394 resources imported from [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Creative Coding** — programming something expressive instead of something functional. This page brings together 394 links about Creative Coding, grouped into 13 sections. The largest sections are **Tools**, **Learning Resources**, **Math**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 21 links
+- **Online Books** — 19 links
+- **Courses** — 17 links
+- **Tools** — 122 links
+- **Learning Resources** — 108 links
+- **Communities** — 14 links
+- **Math** — 35 links
+- **Machine Learning  Computer Vision  AI** — 13 links
+- **Inspiration** — 13 links
+- **Events** — 8 links
+- **Museums  Galleries** — 6 links
+- **Schools  Workshops** — 5 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Books
 
 - [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Practical guide using Processing.
@@ -497,3 +522,20 @@ Programming something expressive instead of something functional.
 - [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
 - [jsdo.it-archives](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js).
 - [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Credit Modeling](credit-modeling.md)
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md)
+- [CSV](csv.md)
+- [Design Principles](design-principles.md)
+- [Colorful](colorful.md)
+- [Computational Biology](computational-biology.md)
+- [Computational Geometry](computational-geometry.md)
+- [Copilot Agents](copilot-agents.md)
+
+<!-- kb-related:end -->

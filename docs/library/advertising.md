@@ -9,6 +9,28 @@ Programmatic media and ad tech for websites.
 
 !!! info "Source"
     29 resources imported from [cenoura/awesome-ads](https://github.com/cenoura/awesome-ads), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Advertising** — programmatic media and ad tech for websites. This page brings together 27 links about Advertising, grouped into 10 sections. The largest sections are **Google Ad Manager**, **Ad Managers / Ad Servers / Platforms**, **Prebid**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Concepts and Fundamentals** — 2 links
+- **Best Practices** — 1 link
+- **Ad Managers / Ad Servers / Platforms** — 5 links
+- **Google Ad Manager** — 6 links
+- **Facebook / Instagram** — 1 link
+- **Programmatic** — 1 link
+- **Header Bidding (HB)** — 2 links
+- **Prebid** — 5 links
+- **Prebid Libraries / Tools** — 1 link
+- **Newsletters** — 3 links
+
+<!-- kb-about:end -->
+
 ## Concepts and Fundamentals
 
 - [What does an Ad Server does and how can you benefit from it?](https://www.thinkwithgoogle.com/intl/en-145/perspectives/local-articles/what-does-ad-server-do-and-how-can-you-benefit-it/) - Explain what an Ad Server do and how it can benefit your business.
@@ -70,3 +92,20 @@ Programmatic media and ad tech for websites.
 - [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - This week in ad tech - one email per week, 5 min read.
 - [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
 - [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Agriculture](agriculture.md)
+- [AMA](ama.md)
+- [Amazon Sellers](amazon-sellers.md)
+- [Ansible](ansible.md)
+- [WebXR](webxr.md)
+- [Whisper](whisper.md)
+- [WP-CLI](wp-cli.md)
+- [Ad-Free](ad-free.md)
+
+<!-- kb-related:end -->

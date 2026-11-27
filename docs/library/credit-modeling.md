@@ -9,6 +9,25 @@ Methods for classifying credit applicants into risk classes.
 
 !!! info "Source"
     39 resources imported from [mourarthur/awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Credit Modeling** — methods for classifying credit applicants into risk classes. This page brings together 39 links about Credit Modeling, grouped into 7 sections. The largest sections are **Credit Scoring**, **Introduction**, **Institutional Credit Risk**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Introduction** — 6 links
+- **Credit Scoring** — 17 links
+- **Institutional Credit Risk** — 6 links
+- **Peer-to-Peer Lending** — 1 link
+- **Sample Selection** — 3 links
+- **Feature Selection** — 3 links
+- **Model Explainability** — 3 links
+
+<!-- kb-about:end -->
+
 ## Introduction
 
 - [Statistical Classification Methods in Consumer Credit Scoring: A Review](https://www.jstor.org/stable/2983268) - Classic introduction and review of the subject of credit scoring.
@@ -68,3 +87,20 @@ Methods for classifying credit applicants into risk classes.
 - [Explainable Machine learning in Credit Risk Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3506274) - Proposes an explainable AI model that can be used in credit risk management and, in particular, in measuring the risks that arise when credit is borrowed employing credit scoring platforms.
 - [Machine learning explainability in finance: an application to default risk analysis](https://www.bankofengland.co.uk/working-paper/2019/machine-learning-explainability-in-finance-an-application-to-default-risk-analysis) - This Staff Working Paper from the Bank of England proposes a framework for addressing the ‘black box’ problem present in some Machine Learning (ML) applications.
 - [Regulatory learning: How to supervise machine learning models? An application to credit scoring](https://www.sciencedirect.com/science/article/pii/S2405918817300648) - The arrival of Big Data strategies is threatening the latest trends in financial regulation related to the simplification of models and the enhancement of the comparability of approaches chosen by financial institutions. Indeed, the intrinsic dynamic philosophy of Big Data strategies is almost incompatible with the current legal and regulatory framework as illustrated in this paper. Besides, the model selection may also evolve dynamically forcing both practitioners and regulators to develop libraries of models, strategies allowing to switch from one to the other as well as supervising approaches allowing financial institutions to innovate in a risk mitigated environment.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md)
+- [CSV](csv.md)
+- [Design Principles](design-principles.md)
+- [Dev Fun](dev-fun.md)
+- [Computational Biology](computational-biology.md)
+- [Computational Geometry](computational-geometry.md)
+- [Copilot Agents](copilot-agents.md)
+- [Creative Coding](creative-coding.md)
+
+<!-- kb-related:end -->

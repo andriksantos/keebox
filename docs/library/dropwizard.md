@@ -9,6 +9,24 @@ Java framework.
 
 !!! info "Source"
     69 resources imported from [stve/awesome-dropwizard](https://github.com/stve/awesome-dropwizard), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Dropwizard** — java framework. This page brings together 69 links about Dropwizard, grouped into 6 sections. The largest sections are **Open Source**, **Guides**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Editor Support** — 1 link
+- **Open Source** — 47 links
+- **Tutorials** — 4 links
+- **Guides** — 13 links
+- **Community** — 3 links
+- **Videos** — 1 link
+
+<!-- kb-about:end -->
+
 ## Editor Support
 
 ### Eclipse
@@ -124,3 +142,20 @@ Java framework.
 ## Videos
 
 - [Instant-ish Real Service Architecture](https://vimeo.com/37930578)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Education](education.md)
+- [FastAPI](fastapi.md)
+- [Flask](flask.md)
+- [IAM](iam.md)
+- [Vapor](vapor.md)
+- [Apache Wicket](apache-wicket.md)
+- [CDK](cdk.md)
+- [Dash](dash.md)
+
+<!-- kb-related:end -->

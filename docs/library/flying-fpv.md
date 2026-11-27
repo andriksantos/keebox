@@ -9,6 +9,31 @@ Open hardware and software related to drones / UAVs.
 
 !!! info "Source"
     269 resources imported from [Matthias84/awesome-flying-fpv](https://github.com/Matthias84/awesome-flying-fpv), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Flying FPV** — open hardware and software related to drones / UAVs. This page brings together 266 links about Flying FPV, grouped into 20 sections. The largest sections are **Airframes**, **Communities**, **Security & Safety**, a good place to start if you are exploring the topic for the first time. It belongs to the **Hardware** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Airframes** — 51 links
+- **Batteries & Power Control** — 7 links
+- **Motor Control** — 6 links
+- **Flight Control** — 16 links
+- **RC Transmitters & Handcontroller** — 22 links
+- **VTX** — 11 links
+- **Camera & Gimbals** — 7 links
+- **GPS** — 3 links
+- **Sensors** — 2 links
+- **Video Receivers** — 4 links
+- **Antennas and Trackers** — 9 links
+- **Telemetry & Logs** — 15 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## Airframes
 
 ### Multicopters 🚁
@@ -376,3 +401,19 @@ Open hardware and software related to drones / UAVs.
 - [Livyu FPV](https://www.youtube.com/c/LivyuFPV/videos) - Flight footage and repair videos for DIY drone electronics.
 - [Adam G does FPV](https://www.youtube.com/c/AdamGdoesFPV) - Builds, mods and basics.
 - [BLuefish](https://www.youtube.com/channel/UCmULLc8W-knTqiFqJgw3-FA) - Builds, INAV, longrange.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Hardware** category of the [KEEBOX Library](index.md):
+
+- [LIDAR](lidar.md)
+- [Open Hardware](open-hardware.md)
+- [Plotters](plotters.md)
+- [Robotic Tooling](robotic-tooling.md)
+- [ADS-B](ads-b.md)
+- [Bluetooth Beacons](bluetooth-beacons.md)
+- [Electronics](electronics.md)
+
+<!-- kb-related:end -->

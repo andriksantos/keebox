@@ -9,6 +9,24 @@ Business intelligence platform for data visualization, analytics, and reporting 
 
 !!! info "Source"
     30 resources imported from [ambster-public/awesome-qlik](https://github.com/ambster-public/awesome-qlik), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Big Data**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Qlik is a business intelligence platform for dashboards, data exploration and reporting, with products such as Qlik Sense and QlikView and an associative engine that makes it easy to explore relationships between data.
+
+This list collects official documentation, community blogs, books and extensions. It is useful for analysts building dashboards and for developers integrating Qlik into other applications through its APIs and mashups.
+
+### What you'll find
+
+- **Official Resources and Documentation** — 2 links
+- **Community Resources and Blogs** — 10 links
+- **Books** — 15 links
+- **Extensions** — 3 links
+
+<!-- kb-about:end -->
+
 ## Official Resources and Documentation
 
 - [Qlik Blog](https://blog.qlik.com)
@@ -55,3 +73,15 @@ Business intelligence platform for data visualization, analytics, and reporting 
 - [AnyChart](https://qlik.anychart.com)
 - [trueChart](https://www.truechart.com)
 - [VizLib](https://www.vizlib.com)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Big Data** category of the [KEEBOX Library](index.md):
+
+- [Splunk](splunk.md)
+- [Apache Spark](apache-spark.md)
+- [Data Engineering](data-engineering.md)
+
+<!-- kb-related:end -->

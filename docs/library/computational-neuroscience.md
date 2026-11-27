@@ -9,6 +9,20 @@ A multidisciplinary science which uses computational approaches to study the ner
 
 !!! info "Source"
     53 resources imported from [eselkin/awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Computational Neuroscience** — a multidisciplinary science which uses computational approaches to study the nervous system. This page brings together 52 links about Computational Neuroscience, grouped into 2 sections. The largest sections are **North America**, **Europe**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Europe** — 7 links
+- **North America** — 45 links
+
+<!-- kb-about:end -->
+
 ## Europe
 
 ### Germany
@@ -164,3 +178,20 @@ A multidisciplinary science which uses computational approaches to study the ner
 
 - [Brain + Cognitive Sciences, GRE Institution(3514),](https://bcs.mit.edu/academic-program/graduate/graduate-admissions)
 - [Center for Brains, Minds and Machines](https://cbmm.mit.edu/about)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Digital Humanities](digital-humanities.md)
+- [Diversity](diversity.md)
+- [Empathy in Engineering](empathy-in-engineering.md)
+- [Lucid Dreams](lucid-dreams.md)
+- [Neuroimaging](neuroimaging.md)
+- [Neuroscience](neuroscience.md)
+- [Transgender](transgender.md)
+- [Biomedical Information Extraction](biomedical-information-extraction.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,26 @@ Open source Blockchain platform and development toolset for Web 3.0 apps and dec
 
 !!! info "Source"
     122 resources imported from [msmolyakov/awesome-waves](https://github.com/msmolyakov/awesome-waves), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Waves** — open source Blockchain platform and development toolset for Web 3.0 apps and decentralized solutions. This page brings together 122 links about Waves, grouped into 8 sections. The largest sections are **Frameworks and tools**, **Community**, **Built on Waves**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 4 links
+- **Learn** — 4 links
+- **Articles** — 15 links
+- **Products** — 17 links
+- **Playground** — 10 links
+- **Frameworks and tools** — 32 links
+- **Built on Waves** — 19 links
+- **Community** — 21 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [Official website](https://wavesprotocol.org/)
@@ -250,3 +270,20 @@ Open source Blockchain platform and development toolset for Web 3.0 apps and dec
 ### Turkish
 
 - [Telegram](https://t.me/wavesdappstu) - Yazılım geliştiriciler için Telegram sohbet.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Algorand](algorand.md)
+- [ATProto](atproto.md)
+- [Bitcoin](bitcoin.md)
+- [Blockchain AI](blockchain-ai.md)
+- [Ripple](ripple.md)
+- [Stacks](stacks.md)
+- [Substrate](substrate.md)
+- [Tor](tor.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,24 @@ Open-source platform for building Internal Developer Portals that unify tools an
 
 !!! info "Source"
     78 resources imported from [shano/awesome-backstage](https://github.com/shano/awesome-backstage), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Backstage** — open-source platform for building Internal Developer Portals that unify tools and workflows. This page brings together 78 links about Backstage, grouped into 6 sections. The largest sections are **Plugins**, **Articles and Presentations**, **Tools and Integrations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 5 links
+- **Plugins** — 31 links
+- **Tutorials and Guides** — 8 links
+- **Tools and Integrations** — 9 links
+- **Community and Contributions** — 6 links
+- **Articles and Presentations** — 19 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [GitHub Repository](https://github.com/backstage/backstage)
@@ -114,3 +132,20 @@ Open-source platform for building Internal Developer Portals that unify tools an
 - [Actions Registry + MCP Integration (v1.40.0)](https://backstage.io/docs/releases/v1.40.0) - Actions Registry services and MCP server integration notes.
 - [MCP Actions Backend Plugin Docs](https://backstage.io/api/stable/modules/_backstage_plugin-mcp-actions-backend.html) - Expose Backstage actions as MCP tools for AI clients.
 - [RFCs on GitHub](https://github.com/backstage/backstage/labels/RFC) - Track active proposals and community feedback.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Bluetooth Low Energy](bluetooth-low-energy.md)
+- [Cloudflare](cloudflare.md)
+- [Core](core.md)
+- [Cross-Platform](cross-platform.md)
+- [AppImage](appimage.md)
+- [Apps](apps.md)
+- [ArcGIS Developer](arcgis-developer.md)
+- [Arch-based Projects](arch-based-projects.md)
+
+<!-- kb-related:end -->

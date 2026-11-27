@@ -9,6 +9,29 @@ Library for machine intelligence.
 
 !!! info "Source"
     166 resources imported from [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**TensorFlow** — library for machine intelligence. This page brings together 166 links about TensorFlow, grouped into 11 sections. The largest sections are **Models/Projects**, **Libraries**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Tutorials** — 19 links
+- **Models/Projects** — 60 links
+- **Powered by TensorFlow** — 3 links
+- **Libraries** — 26 links
+- **Tools/Utilities** — 4 links
+- **Videos** — 14 links
+- **Papers** — 8 links
+- **Official announcements** — 2 links
+- **Blog posts** — 16 links
+- **Community** — 4 links
+- **Books** — 10 links
+
+<!-- kb-about:end -->
+
 ## Tutorials
 
 - [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of TensorFlow
@@ -207,3 +230,20 @@ Library for machine intelligence.
 - [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implementation by using TensorFlow and TensorLayer.
 - [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara. This practical guide to building deep learning models with the new features of TensorFlow 2.0 is filled with engaging projects, simple language, and coverage of the latest algorithms.
 - [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [TensorFlow.js](tensorflow-js.md)
+- [Theoretical Computer Science](theoretical-computer-science.md)
+- [Tutorials](tutorials.md)
+- [Tutorials](tutorials-2.md)
+- [Quantum Computing](quantum-computing.md)
+- [Question Answering](question-answering.md)
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md)
+- [Spanish](spanish.md)
+
+<!-- kb-related:end -->

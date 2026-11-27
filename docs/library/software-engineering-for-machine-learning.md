@@ -9,6 +9,25 @@ From experiment to production-level machine learning.
 
 !!! info "Source"
     84 resources imported from [SE-ML/awesome-seml](https://github.com/SE-ML/awesome-seml), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Software Engineering for Machine Learning** — from experiment to production-level machine learning. This page brings together 84 links about Software Engineering for Machine Learning, grouped into 7 sections. The largest sections are **Tooling**, **Deployment and Operation**, **Model Training**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Broad Overviews** — 6 links
+- **Data Management** — 8 links
+- **Model Training** — 15 links
+- **Deployment and Operation** — 16 links
+- **Social Aspects** — 4 links
+- **Governance** — 8 links
+- **Tooling** — 27 links
+
+<!-- kb-about:end -->
+
 ## Broad Overviews
 
 - [AI Engineering: 11 Foundational Practices](https://resources.sei.cmu.edu/asset_files/WhitePaper/2019_019_001_634648.pdf) ⭐
@@ -113,3 +132,20 @@ From experiment to production-level machine learning.
 - [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
 - [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
 - [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Spanish](spanish.md)
+- [TensorFlow](tensorflow.md)
+- [TensorFlow.js](tensorflow-js.md)
+- [Theoretical Computer Science](theoretical-computer-science.md)
+- [Papers](papers.md)
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md)
+- [Quantum Computing](quantum-computing.md)
+- [Question Answering](question-answering.md)
+
+<!-- kb-related:end -->

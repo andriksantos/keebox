@@ -9,6 +9,22 @@ NoSQL database.
 
 !!! info "Source"
     190 resources imported from [ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**MongoDB** — noSQL database. This page brings together 190 links about MongoDB, grouped into 4 sections. The largest sections are **Tools**, **Libraries**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 26 links
+- **Libraries** — 73 links
+- **Tools** — 77 links
+- **Applications** — 14 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Documentation
@@ -327,3 +343,20 @@ NoSQL database.
 - [Unchained Engine](https://github.com/unchainedshop/unchained) - Headless GraphQL e-commerce framework for Node.js
 - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
 - [WildDuck Mail Server](https://github.com/nodemailer/wildduck) - Scalable high availability email server that uses MongoDB for email storage
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [Neon](neon.md)
+- [NoSQL Guides](nosql-guides.md)
+- [PocketBase](pocketbase.md)
+- [PostgreSQL](postgresql.md)
+- [TypeDB](typedb.md)
+- [Database Tools](database-tools.md)
+- [HBase](hbase.md)
+- [InfluxDB](influxdb.md)
+
+<!-- kb-related:end -->

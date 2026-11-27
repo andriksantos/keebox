@@ -9,6 +9,21 @@ Curated Network Layer resources.
 
 !!! info "Source"
     58 resources imported from [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Network Layer**. This page brings together 58 links about Network Layer, grouped into 3 sections. The largest sections are **High level**, **Modules**, **Protocols**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **High level** — 20 links
+- **Modules** — 20 links
+- **Protocols** — 18 links
+
+<!-- kb-about:end -->
+
 ## High level
 
 - [airpaste](https://github.com/mafintosh/airpaste) – 1-1 network pipe that auto discovers other peers using mdns.
@@ -75,3 +90,20 @@ Curated Network Layer resources.
 - [polo](https://github.com/mafintosh/polo) – A zero configuration service discovery module.
 - [rtsp-server](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 - [utp-native](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [npm](npm.md)
+- [npm scripts](npm-scripts.md)
+- [Observables](observables.md)
+- [Pascal](pascal.md)
+- [Mad Science npm Packages](mad-science-npm-packages.md)
+- [MicroPython](micropython.md)
+- [Move](move.md)
+- [Must Watch Talks](must-watch-talks.md)
+
+<!-- kb-related:end -->

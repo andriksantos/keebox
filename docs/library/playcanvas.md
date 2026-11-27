@@ -9,6 +9,31 @@ Game engine.
 
 !!! info "Source"
     226 resources imported from [playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**PlayCanvas** — game engine. This page brings together 226 links about PlayCanvas, grouped into 14 sections. The largest sections are **Games**, **3D Gaussian Splatting**, **Interactive Experiences**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **PlayCanvas Products** — 7 links
+- **Community** — 7 links
+- **Documentation** — 2 links
+- **Tutorials** — 10 links
+- **Extensions and Utilities** — 15 links
+- **Technical Demos** — 8 links
+- **Interactive Experiences** — 18 links
+- **Games** — 73 links
+- **Automotive** — 15 links
+- **Product Configurators** — 15 links
+- **3D Gaussian Splatting** — 44 links
+- **AR/VR/XR** — 7 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## PlayCanvas Products
 
 - [PlayCanvas Engine](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
@@ -287,3 +312,20 @@ Game engine.
 - [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
 - [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 - [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Roblox](roblox.md)
+- [Babylon.js](babylon-js.md)
+- [CHIP-8](chip-8.md)
+- [Construct 2](construct-2.md)
+- [Learn Gamedev](learn-gamedev.md)
+- [libGDX](libgdx.md)
+- [Minecraft](minecraft.md)
+- [Open Source Games](open-source-games.md)
+
+<!-- kb-related:end -->

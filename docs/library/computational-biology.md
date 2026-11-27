@@ -9,6 +9,23 @@ Computational approaches applied to problems in biology.
 
 !!! info "Source"
     400 resources imported from [inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Computational Biology** — computational approaches applied to problems in biology. This page brings together 397 links about Computational Biology, grouped into 5 sections. The largest sections are **Machine Learning Tasks and Models**, **Databases**, **Benchmarks & Datasets**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Databases** — 93 links
+- **Benchmarks & Datasets** — 65 links
+- **API** — 8 links
+- **Preprocessing Tools** — 36 links
+- **Machine Learning Tasks and Models** — 195 links
+
+<!-- kb-about:end -->
+
 ## Databases
 
 ### scRNA
@@ -575,3 +592,20 @@ Computational approaches applied to problems in biology.
 
 - Data schema reference: [`docs/data/SCHEMA.md`](https://github.com/inoue0426/awesome-computational-biology/blob/HEAD/docs/data/SCHEMA.md).
 - Contribution guide: [`contributing.md`](https://github.com/inoue0426/awesome-computational-biology/blob/HEAD/contributing.md).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Computational Geometry](computational-geometry.md)
+- [Copilot Agents](copilot-agents.md)
+- [Creative Coding](creative-coding.md)
+- [Credit Modeling](credit-modeling.md)
+- [Cheminformatics](cheminformatics.md)
+- [Citizen Science](citizen-science.md)
+- [Code Points](code-points.md)
+- [Colorful](colorful.md)
+
+<!-- kb-related:end -->

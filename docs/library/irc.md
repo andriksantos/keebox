@@ -9,6 +9,31 @@ Open source messaging protocol.
 
 !!! info "Source"
     107 resources imported from [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**IRC** — open source messaging protocol. This page brings together 107 links about IRC, grouped into 13 sections. The largest sections are **Clients**, **Frameworks**, **Bots**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Clients** — 24 links
+- **Bouncers** — 12 links
+- **Daemons** — 7 links
+- **Services** — 2 links
+- **Bots** — 18 links
+- **Encryption** — 3 links
+- **Frameworks** — 21 links
+- **Channels** — 3 links
+- **Networks** — 5 links
+- **Articles** — 3 links
+- **Guides** — 1 link
+- **Protocol** — 6 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Clients
 
 - [ Textual](https://www.textualapp.com/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source](https://github.com/Codeux-Software/Textual)) `macOS`
@@ -167,3 +192,20 @@ Open source messaging protocol.
 
 - [superseriousstats](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
 - [img2irc](https://github.com/waveplate/img2irc) - Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. `Rust`
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [JSON](json.md)
+- [Jupyter](jupyter.md)
+- [Katas](katas.md)
+- [Ledger](ledger.md)
+- [Gulp](gulp.md)
+- [Homematic](homematic.md)
+- [HPC](hpc.md)
+- [inspectIT](inspectit.md)
+
+<!-- kb-related:end -->

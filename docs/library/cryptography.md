@@ -9,6 +9,22 @@ Curated Cryptography resources.
 
 !!! info "Source"
     270 resources imported from [sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Cryptography**. This page brings together 270 links about Cryptography, grouped into 4 sections. The largest sections are **Frameworks and Libs**, **Theory**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Theory** — 44 links
+- **Tools** — 14 links
+- **Frameworks and Libs** — 185 links
+- **Resources** — 27 links
+
+<!-- kb-about:end -->
+
 ## Theory
 
 ### Algorithms
@@ -410,3 +426,20 @@ Curated Cryptography resources.
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
 - [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - A collection of block diagrams of common cryptographic functions drawn in TikZ to be used in research papers and presentations written in LaTeX.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Education](education-2.md)
+- [Empirical Software Engineering](empirical-software-engineering.md)
+- [Generative AI](generative-ai.md)
+- [H2O](h2o.md)
+- [XAI](xai.md)
+- [AI in Finance](ai-in-finance.md)
+- [Computer Vision](computer-vision.md)
+- [Conversational AI](conversational-ai.md)
+
+<!-- kb-related:end -->

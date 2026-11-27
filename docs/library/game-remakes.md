@@ -9,6 +9,28 @@ Actively maintained open-source game remakes.
 
 !!! info "Source"
     455 resources imported from [radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Game Remakes** — actively maintained open-source game remakes. This page brings together 455 links about Game Remakes, grouped into 10 sections. The largest sections are **Strategy**, **FPS**, **RPG**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Action** — 38 links
+- **Adventure** — 14 links
+- **Arcade** — 30 links
+- **FPS** — 93 links
+- **Online** — 17 links
+- **RPG** — 47 links
+- **Platformer** — 19 links
+- **Racing** — 35 links
+- **Simulator** — 32 links
+- **Strategy** — 130 links
+
+<!-- kb-about:end -->
+
 ## Action
 
 - [Airborn Ranger](https://github.com/xor2003/airborn-ranger) - Airborn Ranger recomp to Windows, Linux, and Android.
@@ -493,3 +515,20 @@ Actively maintained open-source game remakes.
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
 - [Zero Hour Reforged](https://github.com/olcayseygan/CnCGeneralsZH-Reforged) - Command & Conquer: Generals - Zero Hour source port: 64-bit, Direct3D 11, VS2022/CMake, original bugs fixed and a skirmish AI that builds a base. Uses the data files from a retail copy.
 - [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - Open source RTS game running on the Spring/Recoil engine
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [GameMaker](gamemaker.md)
+- [Games of Coding](games-of-coding.md)
+- [Haxe Game Development](haxe-game-development.md)
+- [LÖVE](l-ve.md)
+- [Flame](flame.md)
+- [Game Datasets](game-datasets.md)
+- [Game Engine Development](game-engine-development.md)
+- [Game Production](game-production.md)
+
+<!-- kb-related:end -->

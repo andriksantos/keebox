@@ -9,6 +9,21 @@ Command-line interface for WordPress.
 
 !!! info "Source"
     23 resources imported from [schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**WP-CLI** — command-line interface for WordPress. This page brings together 23 links about WP-CLI, grouped into 3 sections. The largest sections are **Official links**, **Third-party packages**, **Tutorials & guides**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official links** — 12 links
+- **Third-party packages** — 6 links
+- **Tutorials & guides** — 5 links
+
+<!-- kb-about:end -->
+
 ## Official links
 
 - [wp-cli.org](https://wp-cli.org/) - Homepage of the WP-CLI project.
@@ -45,3 +60,20 @@ Command-line interface for WordPress.
 - [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 - [Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier](https://www.youtube.com/watch?v=DlxbRYpZdQg) - Practical examples on how you can improve your workflows with WP-CLI.
 - [CaptainCore Cookbook](https://captaincore.io/cookbook/) - Collection of WP-CLI commands and bash scripts for automating WordPress maintenance.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Ad-Free](ad-free.md)
+- [Advertising](advertising.md)
+- [Agriculture](agriculture.md)
+- [AMA](ama.md)
+- [Web Design](web-design.md)
+- [Web Monetization](web-monetization.md)
+- [WebXR](webxr.md)
+- [Whisper](whisper.md)
+
+<!-- kb-related:end -->

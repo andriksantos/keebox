@@ -9,6 +9,27 @@ An open-source alternative to Firebase.
 
 !!! info "Source"
     61 resources imported from [lyqht/awesome-supabase](https://github.com/lyqht/awesome-supabase), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Supabase** — an open-source alternative to Firebase. This page brings together 61 links about Supabase, grouped into 9 sections. The largest sections are **Official Starters**, **Community Tools**, **Community Starters**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Starters** — 15 links
+- **Community Starters** — 8 links
+- **Data Migration Tools** — 5 links
+- **Supabase DX Tools** — 3 links
+- **Community Tools** — 10 links
+- **Online Courses** — 3 links
+- **Videos, Podcasts, Livestreams, Talks** — 6 links
+- **Integration Guides** — 6 links
+- **Other interesting articles** — 5 links
+
+<!-- kb-about:end -->
+
 ## Official Starters
 
 - [Angular](https://github.com/supabase/supabase/tree/master/examples/user-management/angular-user-management) -
@@ -96,3 +117,20 @@ An open-source alternative to Firebase.
 - [Ultimate guide to testing on Supabase using pgTAP](https://usebasejump.com/blog/testing-on-supabase-with-pgtap) - How to test RLS policies and requests to Supabase.
 - [Migrating from Firebase to Supabase: Lessons Learned](https://emergence-engineering.com/blog/firestore-supabase-migration) - A detailed walkthrough of the migration workflow in terms of the various aspects of the BaaS, and their differences in terms of realtime subscriptions and data types.
 - [Supabase vs Firebase: Choosing the Right Backend for Your Project](https://www.jakeprins.com/blog/supabase-vs-firebase-2024) - A detailed comparison between Supabase and Firebase. Discover the key differences between the two platforms and the advantages of choosing Supabase over Firebase.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [TinkerPop](tinkerpop.md)
+- [TypeDB](typedb.md)
+- [Database Tools](database-tools.md)
+- [HBase](hbase.md)
+- [Neon](neon.md)
+- [NoSQL Guides](nosql-guides.md)
+- [PocketBase](pocketbase.md)
+- [PostgreSQL](postgresql.md)
+
+<!-- kb-related:end -->

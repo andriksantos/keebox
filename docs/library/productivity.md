@@ -9,6 +9,21 @@ Curated Productivity resources.
 
 !!! info "Source"
     82 resources imported from [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Work**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Productivity**. This page brings together 82 links about Productivity, grouped into 3 sections. The largest sections are **Tools and Apps**, **Websites**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Work** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Websites** — 11 links
+- **Books** — 3 links
+- **Tools and Apps** — 68 links
+
+<!-- kb-about:end -->
+
 ## Websites
 
 - [12+ Tips and Tricks to Work Faster in Microsoft Outlook](https://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - Tame your Outlook with these tips in order to get a little bit closer to the awesome _Inbox Zero_.
@@ -122,3 +137,13 @@ Curated Productivity resources.
 - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 - [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 - [CleanShot](https://cleanshot.com/) - A premium tool for screen capturing and recording on MacOS, with built-in annotation and text recognition.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Work** category of the [KEEBOX Library](index.md):
+
+- [Communities](communities.md)
+
+<!-- kb-related:end -->

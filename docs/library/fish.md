@@ -9,6 +9,23 @@ User-friendly shell.
 
 !!! info "Source"
     33 resources imported from [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Fish** — user-friendly shell. This page brings together 33 links about Fish, grouped into 5 sections. The largest sections are **Plugins**, **Community Resources**, **Prompts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 2 links
+- **Community Resources** — 4 links
+- **Prompts** — 3 links
+- **Plugins** — 22 links
+- **Docker** — 2 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Official Site](https://fishshell.com)
@@ -56,3 +73,20 @@ User-friendly shell.
 
 - [Alpine Image](https://hub.docker.com/r/purefish/docker-fish)
 - [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [Git Hooks](git-hooks.md)
+- [GitHub](github.md)
+- [GitHub Actions](github-actions.md)
+- [Hyper](hyper.md)
+- [Shell](shell.md)
+- [SSH](ssh.md)
+- [Terminals Are Sexy](terminals-are-sexy.md)
+- [WezTerm](wezterm.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,27 @@ Curated REST resources.
 
 !!! info "Source"
     180 resources imported from [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**REST**. This page brings together 180 links about REST, grouped into 9 sections. The largest sections are **Servers**, **Testing**, **Clients**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Design** — 17 links
+- **Standards** — 9 links
+- **Clients** — 25 links
+- **Servers** — 59 links
+- **Testing** — 34 links
+- **Documentation** — 10 links
+- **API Gateway** — 8 links
+- **SaaS Tools** — 13 links
+- **Miscellaneous** — 5 links
+
+<!-- kb-about:end -->
+
 ## Design
 
 - [Architectural Styles and the Design of Network-based Software Architectures](https://roy.gbiv.com/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
@@ -284,3 +305,20 @@ Curated REST resources.
 - [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 - [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 - [Linx](https://linx.software) - Low-code API platform. Build, debug and host REST APIs
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [SAP Commerce](sap-commerce.md)
+- [Scientific Computing](scientific-computing.md)
+- [Scientific Writing](scientific-writing.md)
+- [Scriptable](scriptable.md)
+- [Quarto](quarto.md)
+- [Read the Docs](read-the-docs.md)
+- [Readme](readme.md)
+- [Research Tools](research-tools.md)
+
+<!-- kb-related:end -->

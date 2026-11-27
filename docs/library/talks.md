@@ -9,6 +9,15 @@ Curated Talks resources.
 
 !!! info "Source"
     143 resources imported from [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Theory**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Talks**. This page brings together 0 links about Talks, grouped into 0 sections. It belongs to the **Theory** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ### Categories
 
 #### Software Development
@@ -192,3 +201,19 @@ Curated Talks resources.
 - [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** (YouTube/RSA 2010) [10:47]
 - [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** (Strange Loop 2015) [21:22]
 - [Grokking the Brain: What AI Reveals About How You Really Learn](https://www.youtube.com/watch?v=vD7fLhkU0lc) by **Barbara Oakly** (GOTO Copenhagen 2026) [49:55]
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Theory** category of the [KEEBOX Library](index.md):
+
+- [VLM Architectures](vlm-architectures.md)
+- [AGI & CoCoSci](agi-cocosci.md)
+- [Audit Algorithms](audit-algorithms.md)
+- [Complex Systems](complex-systems.md)
+- [Education](education-3.md)
+- [Math](math.md)
+- [Recursion Schemes](recursion-schemes.md)
+
+<!-- kb-related:end -->

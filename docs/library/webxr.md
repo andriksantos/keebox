@@ -9,6 +9,31 @@ Enables immersive virtual reality and augmented reality content on the web.
 
 !!! info "Source"
     92 resources imported from [msub2/awesome-webxr](https://github.com/msub2/awesome-webxr), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**WebXR** — enables immersive virtual reality and augmented reality content on the web. This page brings together 92 links about WebXR, grouped into 13 sections. The largest sections are **Development**, **Communities**, **Standout Projects**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Standout Projects** — 11 links
+- **Art** — 3 links
+- **Audio** — 2 links
+- **Avatars** — 2 links
+- **Communities** — 17 links
+- **Companies and Cooperatives** — 7 links
+- **Content Hubs** — 4 links
+- **Development** — 32 links
+- **Learning Resources** — 2 links
+- **Monetization** — 1 link
+- **Social Spaces** — 4 links
+- **Web3XR** — 2 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Standout Projects
 
 - [Hello WebXR](https://msub2.github.io/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
@@ -166,3 +191,20 @@ Enables immersive virtual reality and augmented reality content on the web.
 - [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
 - [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
 - [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Official Wonderland Engine channel.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Whisper](whisper.md)
+- [WP-CLI](wp-cli.md)
+- [Ad-Free](ad-free.md)
+- [Advertising](advertising.md)
+- [Veganism](veganism.md)
+- [Web Archiving](web-archiving.md)
+- [Web Design](web-design.md)
+- [Web Monetization](web-monetization.md)
+
+<!-- kb-related:end -->

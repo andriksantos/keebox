@@ -9,6 +9,31 @@ Frontend libraries that fit into 2 kB with dependencies.
 
 !!! info "Source"
     79 resources imported from [thoughtspile/awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Tiny JS** — frontend libraries that fit into 2 kB with dependencies. This page brings together 79 links about Tiny JS, grouped into 13 sections. The largest sections are **Text Search**, **State Managers**, **UI Frameworks**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **UI Frameworks** — 8 links
+- **Event Emitters** — 3 links
+- **State Managers** — 12 links
+- **Routers and URL Utils** — 6 links
+- **API Layer** — 4 links
+- **I18N** — 4 links
+- **Dates and Time** — 8 links
+- **Generic Utilities** — 4 links
+- **Validation** — 5 links
+- **Unique ID Generation** — 4 links
+- **Colors** — 4 links
+- **Touch Gestures** — 4 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## UI Frameworks
 
 - [preact](https://github.com/preactjs/preact) - React-like API (pre-hooks). Cool ecosystem of similarly tiny tools and components. Highly recommended.
@@ -135,3 +160,20 @@ Frontend libraries that fit into 2 kB with dependencies.
 - [liquidmetal](https://github.com/rmm5t/liquidmetal) - Quicksilver algorithm, prioritizes matches at start of word for command abbreviations (e.g. `gp` -> `git push`). One string at a time.
 - [quick-score](https://github.com/fwextensions/quick-score) - Another quicksilver-based lib, tweaked for long strings. Built-in list filtering and sorting,  or 1.2 kB for single-string scoring.
 - [fuzzyset](https://github.com/Glench/fuzzyset.js) - Find misspellings, e.g. missipissi -> Missisipi,  Commercial usage costs $42.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Tips](tips.md)
+- [Web Animation](web-animation.md)
+- [Web Audio](web-audio.md)
+- [Web Components](web-components.md)
+- [Svelte](svelte.md)
+- [SVG](svg.md)
+- [Tailwind CSS](tailwind-css.md)
+- [Text Editing](text-editing.md)
+
+<!-- kb-related:end -->

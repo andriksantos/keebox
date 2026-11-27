@@ -9,6 +9,24 @@ Curated Observables resources.
 
 !!! info "Source"
     17 resources imported from [sindresorhus/awesome-observables](https://github.com/sindresorhus/awesome-observables), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Observables**. This page brings together 17 links about Observables, grouped into 6 sections. The largest sections are **Packages**, **Articles**, **Documentation**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Documentation** — 2 links
+- **Implementations** — 2 links
+- **Packages** — 8 links
+- **Libraries** — 1 link
+- **Articles** — 3 links
+- **Videos** — 1 link
+
+<!-- kb-about:end -->
+
 ## Documentation
 
 - [Overview](https://github.com/tc39/proposal-observable)
@@ -43,3 +61,20 @@ Curated Observables resources.
 ## Videos
 
 - [Introducing the Observable](https://egghead.io/lessons/javascript-introducing-the-observable) - Egghead.io lesson.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Pascal](pascal.md)
+- [Pest](pest.md)
+- [Ponyfills](ponyfills.md)
+- [Promises](promises.md)
+- [Must Watch Talks](must-watch-talks.md)
+- [Network Layer](network-layer.md)
+- [npm](npm.md)
+- [npm scripts](npm-scripts.md)
+
+<!-- kb-related:end -->

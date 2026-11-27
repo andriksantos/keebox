@@ -9,6 +9,28 @@ Cloud platform for developers and companies.
 
 !!! info "Source"
     262 resources imported from [victorshinya/awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**IBM Cloud** — cloud platform for developers and companies. This page brings together 262 links about IBM Cloud, grouped into 10 sections. The largest sections are **Meetups**, **Data & AI**, **Platform**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Carbon Design System** — 26 links
+- **Command Line Tools** — 6 links
+- **Infrastructure** — 6 links
+- **Platform** — 37 links
+- **Serverless** — 3 links
+- **Data & AI** — 62 links
+- **Resources** — 15 links
+- **YouTube Channels** — 5 links
+- **Twitter Accounts** — 27 links
+- **Meetups** — 75 links
+
+<!-- kb-about:end -->
+
 ## Carbon Design System
 
 - [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM.
@@ -300,3 +322,20 @@ Cloud platform for developers and companies.
 - [Toronto, ON - IBM Cloud - Toronto](https://www.meetup.com/IBM-Cloud-Toronto/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
 - [Wellington, New Zealand - IBM Cloud - Wellington](https://www.meetup.com/IBM-Cloud-Wellington/) - The Wellington 👁️🐝☁️meetup is the place for developers, engineers, architects, designers and everyone between to geek-out and talk all things tech. Covering topics such as Cloud, Application Modernisation, Internet of Things, Blockchain, Artificial Intelligence, Machine Learning, Data Analytics, Open Source and more.
 - [Zürich, Switzerland - Quantum Computing Switzerland - Qool Stuff](https://www.meetup.com/Quantum-Computing-Switzerland-Qool-Stuff/) - In Switzerland there many things to discover: Mountains, Chocolate, Cheese Fondue, Quantum Computers, Trains, ... Wait Quantum? Yes! Join this MeetUp Group to hear and exchange about the latest and greatest news regarding Quantum Computers, Developer Platforms, Qiskit, Quantum Use Cases and many more Qool Stuff.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Integration](integration.md)
+- [IPFS](ipfs.md)
+- [JVM](jvm.md)
+- [KDE](kde.md)
+- [Firebase Genkit](firebase-genkit.md)
+- [Flutter](flutter.md)
+- [Fuse](fuse.md)
+- [GNOME](gnome.md)
+
+<!-- kb-related:end -->

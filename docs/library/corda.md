@@ -9,6 +9,29 @@ Open source Blockchain platform designed for business.
 
 !!! info "Source"
     47 resources imported from [chainstack/awesome-corda](https://github.com/chainstack/awesome-corda), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Corda** — open source Blockchain platform designed for business. This page brings together 47 links about Corda, grouped into 11 sections. The largest sections are **Tools**, **CorDapps**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Documentation** — 2 links
+- **Programming** — 2 links
+- **Tools** — 21 links
+- **Tutorials** — 4 links
+- **Learning and online courses** — 3 links
+- **Videos** — 1 link
+- **CorDapps** — 5 links
+- **Networks** — 4 links
+- **Community** — 3 links
+- **Misc** — 1 link
+- **Official** — 1 link
+
+<!-- kb-about:end -->
+
 ## Documentation
 
 - [Documentation](https://docs.corda.net/) - Corda documentation. The go-to place for all things.
@@ -88,3 +111,20 @@ Open source Blockchain platform designed for business.
 ## Official
 
 - [Corda website](https://www.corda.net/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Cosmos SDK](cosmos-sdk.md)
+- [EOSIO](eosio.md)
+- [Ethereum](ethereum.md)
+- [Golem](golem.md)
+- [Algorand](algorand.md)
+- [ATProto](atproto.md)
+- [Bitcoin](bitcoin.md)
+- [Blockchain AI](blockchain-ai.md)
+
+<!-- kb-related:end -->

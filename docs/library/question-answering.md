@@ -9,6 +9,27 @@ The science of asking and answering in natural language with a machine.
 
 !!! info "Source"
     108 resources imported from [seriousran/awesome-qa](https://github.com/seriousran/awesome-qa), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Question Answering** — the science of asking and answering in natural language with a machine. This page brings together 107 links about Question Answering, grouped into 9 sections. The largest sections are **Datasets**, **Recent Trends**, **Codes**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Recent Trends** — 37 links
+- **Systems** — 3 links
+- **Publications** — 8 links
+- **Codes** — 10 links
+- **Lectures** — 1 link
+- **Slides** — 2 links
+- **Dataset Collections** — 2 links
+- **Datasets** — 41 links
+- **Links** — 3 links
+
+<!-- kb-about:end -->
+
 ## Recent Trends
 
 ### Recent Language Models
@@ -179,3 +200,20 @@ The science of asking and answering in natural language with a machine.
 - [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 - [Qeustion Answering with Tensorflow By Steven Hewitt, O'REILLY, 2017](https://www.oreilly.com/ideas/question-answering-with-tensorflow)
 - [Why question answering is hard](http://nicklothian.com/blog/2014/09/25/why-question-answering-is-hard/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md)
+- [Spanish](spanish.md)
+- [TensorFlow](tensorflow.md)
+- [TensorFlow.js](tensorflow-js.md)
+- [NLP with Ruby](nlp-with-ruby.md)
+- [Papers](papers.md)
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md)
+- [Quantum Computing](quantum-computing.md)
+
+<!-- kb-related:end -->

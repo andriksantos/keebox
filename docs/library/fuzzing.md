@@ -9,6 +9,22 @@ Automated software testing technique that involves feeding pseudo-randomly gener
 
 !!! info "Source"
     405 resources imported from [cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Fuzzing** — automated software testing technique that involves feeding pseudo-randomly generated input data. This page brings together 405 links about Fuzzing, grouped into 4 sections. The largest sections are **Papers**, **Tools**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 7 links
+- **Talks** — 4 links
+- **Papers** — 316 links
+- **Tools** — 78 links
+
+<!-- kb-about:end -->
+
 ## Books
 
 - [Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU](https://a.co/d/0bXISQgZ) (2023)
@@ -480,3 +496,20 @@ Automated software testing technique that involves feeding pseudo-randomly gener
 - [BuzzBee](https://github.com/OMH4ck/BuzzBee) (2024) - A DBMS fuzzer that uses semantic abstraction, context-sensitive constraints, and dependency-guided mutations to generate database queries.
 - [SQLRight](https://github.com/PSU-Security-Universe/sqlright) (2022) - A DBMS fuzzer that combines coverage feedback, validity-oriented query mutations, and result-checking oracles to detect logical bugs.
 - [Squirrel](https://github.com/s3team/Squirrel) - A fuzzer for database management systems (DBMSs).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [GDPR](gdpr.md)
+- [Malware Persistence](malware-persistence.md)
+- [OpenID Connect](openid-connect.md)
+- [Password Cracking](password-cracking.md)
+- [DevSecOps](devsecops.md)
+- [Embedded and IoT Security](embedded-and-iot-security.md)
+- [EVM Security](evm-security.md)
+- [Executable Packing](executable-packing.md)
+
+<!-- kb-related:end -->

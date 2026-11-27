@@ -9,6 +9,31 @@ Cross-platform open-source text editor.
 
 !!! info "Source"
     88 resources imported from [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Editors**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Visual Studio Code** — cross-platform open-source text editor. This page brings together 87 links about Visual Studio Code, grouped into 24 sections. The largest sections are **PHP**, **Syntax**, **JavaScript**, a good place to start if you are exploring the topic for the first time. It belongs to the **Editors** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **1C** — 1 link
+- **C++** — 4 links
+- **C#, ASP .NET and .NET Core** — 5 links
+- **CSS** — 4 links
+- **Go** — 1 link
+- **Groovy** — 1 link
+- **Haskell** — 1 link
+- **HLSL** — 1 link
+- **Shell** — 1 link
+- **Java** — 4 links
+- **JavaScript** — 12 links
+- **PHP** — 17 links
+- …and 12 more sections
+
+<!-- kb-about:end -->
+
 ## 1C
 
 - [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
@@ -222,3 +247,14 @@ Cross-platform open-source text editor.
 
 - [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
 - [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Editors** category of the [KEEBOX Library](index.md):
+
+- [Neovim](neovim.md)
+- [Vim](vim.md)
+
+<!-- kb-related:end -->

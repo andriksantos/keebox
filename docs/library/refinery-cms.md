@@ -9,6 +9,23 @@ Ruby on Rails CMS.
 
 !!! info "Source"
     31 resources imported from [refinerycms-contrib/awesome-refinerycms](https://github.com/refinerycms-contrib/awesome-refinerycms), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Refinery CMS** — ruby on Rails CMS. This page brings together 31 links about Refinery CMS, grouped into 5 sections. The largest sections are **Refinery team extensions**, **Frontoffice extensions**, **Backoffice extensions**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Frontoffice extensions** — 9 links
+- **Backoffice extensions** — 6 links
+- **Solidus e-commerce + Refinery extensions** — 1 link
+- **Spree e-commerce + Refinery extensions** — 2 links
+- **Refinery team extensions** — 13 links
+
+<!-- kb-about:end -->
+
 ## Frontoffice extensions
 
 - [refinerycms-copywriting](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite
@@ -65,3 +82,20 @@ Ruby on Rails CMS.
 ### Developer tools
 
 - [Forms](https://github.com/refinery/refinerycms-forms)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Silverstripe CMS](silverstripe-cms.md)
+- [Sitecore](sitecore.md)
+- [Wagtail](wagtail.md)
+- [Craft CMS](craft-cms.md)
+- [Directus](directus.md)
+- [Drupal](drupal.md)
+- [Payload](payload.md)
+- [Plone](plone.md)
+
+<!-- kb-related:end -->

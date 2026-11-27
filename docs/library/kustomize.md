@@ -9,6 +9,21 @@ Kubernetes native declarative configuration management tool.
 
 !!! info "Source"
     26 resources imported from [DevOpsHiveHQ/awesome-kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Kustomize** — kubernetes native declarative configuration management tool. This page brings together 11 links about Kustomize, grouped into 3 sections. The largest sections are **Plugins**, **Snippets**, **Misc**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Plugins** — 9 links
+- **Snippets** — 1 link
+- **Misc** — 1 link
+
+<!-- kb-about:end -->
+
 ## Plugins
 
 ### Generators
@@ -65,3 +80,20 @@ Kubernetes native declarative configuration management tool.
 ## Misc
 
 - [Asdf-kustomize](https://github.com/Banno/asdf-kustomize) - Kustomize plugin for asdf version manager.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Lumen](lumen.md)
+- [nginx](nginx.md)
+- [OpenTofu](opentofu.md)
+- [Play1 Framework](play1-framework.md)
+- [Education](education.md)
+- [FastAPI](fastapi.md)
+- [Flask](flask.md)
+- [IAM](iam.md)
+
+<!-- kb-related:end -->

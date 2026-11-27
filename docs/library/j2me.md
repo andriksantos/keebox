@@ -9,6 +9,26 @@ Java specification designed for old keypad phones and PDAs..
 
 !!! info "Source"
     76 resources imported from [hstsethi/awesome-j2me](https://github.com/hstsethi/awesome-j2me), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**J2ME** — java specification designed for old keypad phones and PDAs. This page brings together 76 links about J2ME, grouped into 8 sections. The largest sections are **Native Software**, **Tutorials**, **Development**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Communities** — 4 links
+- **Development** — 17 links
+- **Emulators** — 8 links
+- **Finance** — 2 links
+- **Hardware** — 1 link
+- **Native Software** — 19 links
+- **Reverse Engineering** — 7 links
+- **Tutorials** — 18 links
+
+<!-- kb-about:end -->
+
 ## Communities
 
 - [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub. Features Awesome J2ME in it's resources section.
@@ -125,3 +145,20 @@ Java specification designed for old keypad phones and PDAs..
 - [Experiences of Implementing BitTorrent on Java ME Platform](https://ieeexplore.ieee.org/abstract/document/4446557) - Detailed writeup on implementing BitTorrent client on Nokia S40. Includes methodology and results.
 - [Networked J2ME Applications](https://www.mooreds.com/midp/midp.html) - Paper exploring various facets of building networked MIDP 1.0 applications.
 - [JSR 184: M3G Specification](https://jcp.org/en/jsr/detail?id=184) - Specification for Mobile Graphics 3D Graphics API(M3G), which is a file format and API for 3D graphics capabilities to J2ME devices. It has two mode: immediate and retained. The former is compatible with OpenGL ES.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [JavaScript](javascript.md)
+- [Learning](learning.md)
+- [Learning](learning-2.md)
+- [Lua](lua.md)
+- [Esolangs](esolangs.md)
+- [F#](f.md)
+- [Functional Programming](functional-programming.md)
+- [Imba](imba.md)
+
+<!-- kb-related:end -->

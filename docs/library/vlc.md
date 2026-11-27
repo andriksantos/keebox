@@ -9,6 +9,26 @@ Cross-platform media player software and streaming server.
 
 !!! info "Source"
     49 resources imported from [mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**VLC** — cross-platform media player software and streaming server. This page brings together 49 links about VLC, grouped into 8 sections. The largest sections are **Bindings**, **Community**, **VLC native plugins**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Docs** — 5 links
+- **VLC native plugins** — 7 links
+- **VLC web & lua extensions** — 7 links
+- **Apps** — 4 links
+- **Bindings** — 13 links
+- **Tutorials** — 4 links
+- **Ebook** — 1 link
+- **Community** — 8 links
+
+<!-- kb-about:end -->
+
 ## Docs
 
 - [videolan.org](https://www.videolan.org/) - Where it all starts.
@@ -81,3 +101,20 @@ Cross-platform media player software and streaming server.
 - [LibVLC Discord](https://discord.gg/3h3K3JF) - The official LibVLC Community Discord Server.
 - [Twitter](https://twitter.com/videolan) - The official VideoLAN Twitter account.
 - [Reddit](https://www.reddit.com/r/vlc) - Unofficial VLC community on Reddit.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Audio Over IP](audio-over-ip.md)
+- [Audio Visualization](audio-visualization.md)
+- [Audiovisual](audiovisual.md)
+- [Broadcasting](broadcasting.md)
+- [Icons](icons.md)
+- [Music](music.md)
+- [Pixel Art](pixel-art.md)
+- [Stock Resources](stock-resources.md)
+
+<!-- kb-related:end -->

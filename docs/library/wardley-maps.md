@@ -9,6 +9,31 @@ Provides high situational awareness to help improve strategic planning and decis
 
 !!! info "Source"
     181 resources imported from [wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Business**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Wardley Maps** — provides high situational awareness to help improve strategic planning and decision making. This page brings together 179 links about Wardley Maps, grouped into 14 sections. The largest sections are **Maps in the Wild**, **Tools & Scripts**, **Apps**, a good place to start if you are exploring the topic for the first time. It belongs to the **Business** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Quick Start** — 4 links
+- **Community** — 6 links
+- **Reading** — 13 links
+- **Videos** — 4 links
+- **Courses** — 8 links
+- **Certifications** — 1 link
+- **Maps in the Wild** — 78 links
+- **Research Papers** — 2 links
+- **Apps** — 15 links
+- **Tools & Scripts** — 18 links
+- **Templates** — 10 links
+- **Events** — 3 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Quick Start
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
@@ -247,3 +272,18 @@ Provides high situational awareness to help improve strategic planning and decis
         - [Basel](https://www.meetup.com/de-DE/Wardley-Mapping-Group-Switzerland/)
         - [London](https://www.meetup.com/Wardley-Maps-London/)
             - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Business** category of the [KEEBOX Library](index.md):
+
+- [Billing](billing.md)
+- [Clean Tech](clean-tech.md)
+- [Engineering Strategy](engineering-strategy.md)
+- [Engineering Team Management](engineering-team-management.md)
+- [OKR Methodology](okr-methodology.md)
+- [Social Enterprise](social-enterprise.md)
+
+<!-- kb-related:end -->

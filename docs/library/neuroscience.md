@@ -9,6 +9,22 @@ Study of the nervous system and brain.
 
 !!! info "Source"
     63 resources imported from [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+This collection connects programming with the study of the brain and nervous system: software for analysing neural recordings and imaging, simulation tools, open datasets, courses and reading material.
+
+It is aimed at researchers and students who code, and at developers curious about computational neuroscience. The **Programming** section lists the main Python and MATLAB toolkits; **Resources** points to courses, books and communities to learn the theory behind them.
+
+### What you'll find
+
+- **Programming** — 35 links
+- **Resources** — 28 links
+
+<!-- kb-about:end -->
+
 ## Programming
 
 ### Python
@@ -108,3 +124,20 @@ Study of the nervous system and brain.
 - [SORTED](https://github.com/PTDZ/SORTED) - SORTED: a list of interesting science ideas and links (cognitive/neuro & data science)
 - [BIDS](https://bids.neuroimaging.io/) - Brain Imaging Data Structure: community standard for organizing neuroimaging and behavioral data, supported by most modern neuroimaging tools.
 - [OpenNeuro](https://openneuro.org/) - Free and open platform for sharing and analyzing neuroimaging data (MRI, MEG, EEG, iEEG, ECoG, ASL, PET).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Transgender](transgender.md)
+- [Biomedical Information Extraction](biomedical-information-extraction.md)
+- [Computational Neuroscience](computational-neuroscience.md)
+- [Digital Humanities](digital-humanities.md)
+- [Empathy in Engineering](empathy-in-engineering.md)
+- [Lucid Dreams](lucid-dreams.md)
+- [Mental Health](mental-health.md)
+- [Neuroimaging](neuroimaging.md)
+
+<!-- kb-related:end -->

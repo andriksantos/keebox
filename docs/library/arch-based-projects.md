@@ -9,6 +9,25 @@ Linux distributions and projects based on Arch Linux.
 
 !!! info "Source"
     87 resources imported from [PandaFoss/Awesome-Arch](https://github.com/PandaFoss/Awesome-Arch), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Arch-based Projects** — linux distributions and projects based on Arch Linux. This page brings together 85 links about Arch-based Projects, grouped into 7 sections. The largest sections are **AUR Helpers**, **Arch-based distros**, **Other projects**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Arch-based projects** — 5 links
+- **Arch-based distros** — 29 links
+- **Pacman-based Linux distros** — 1 link
+- **SystemD-free Arch-based distros** — 5 links
+- **Arch Linux Installers** — 2 links
+- **AUR Helpers** — 36 links
+- **Other projects** — 7 links
+
+<!-- kb-about:end -->
+
 ## Arch-based projects
 
 ### Linux
@@ -146,3 +165,20 @@ Linux distributions and projects based on Arch Linux.
 
 - **Chakra GNU/Linux** - A user-friendly and powerful distribution and live CD originally forked from Arch Linux. ([discontinued](https://twitter.com/chakralinux/status/1475111596640727045))
 - **Anarchy** - A simple and intuitive Arch Linux installer. ([discontinued](https://gitlab.com/anarchyinstaller/installer#deprecated-project))
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Backstage](backstage.md)
+- [Bluetooth Low Energy](bluetooth-low-energy.md)
+- [Cloudflare](cloudflare.md)
+- [Core](core.md)
+- [Android](android.md)
+- [AppImage](appimage.md)
+- [Apps](apps.md)
+- [ArcGIS Developer](arcgis-developer.md)
+
+<!-- kb-related:end -->

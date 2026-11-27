@@ -9,6 +9,31 @@ Framework for building data-driven React apps.
 
 !!! info "Source"
     63 resources imported from [expede/awesome-relay](https://github.com/expede/awesome-relay), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Relay** — framework for building data-driven React apps. This page brings together 62 links about Relay, grouped into 14 sections. The largest sections are **Libraries & Packages**, **Overviews**, **Starter Kits**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Documentation** — 1 link
+- **FAQs** — 1 link
+- **Tutorials** — 6 links
+- **Overviews** — 12 links
+- **Example Implementations** — 4 links
+- **Lists of Lists** — 1 link
+- **Libraries & Packages** — 16 links
+- **Tooling** — 4 links
+- **Starter Kits** — 7 links
+- **Go** — 2 links
+- **JavaScript** — 1 link
+- **Python** — 1 link
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Documentation
 
 - [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content) - Official Relay documentation.
@@ -116,3 +141,20 @@ Framework for building data-driven React apps.
 
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 - [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Sass](sass.md)
+- [Seed](seed.md)
+- [Service Workers](service-workers.md)
+- [Static Website Services](static-website-services.md)
+- [Progressive Web Apps](progressive-web-apps.md)
+- [Protips](protips.md)
+- [React Hooks](react-hooks.md)
+- [Redux](redux.md)
+
+<!-- kb-related:end -->

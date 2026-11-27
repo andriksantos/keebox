@@ -9,6 +9,28 @@ Curated Motion UI Design resources.
 
 !!! info "Source"
     119 resources imported from [fliptheweb/motion-ui-design](https://github.com/fliptheweb/motion-ui-design), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Motion UI Design**. This page brings together 119 links about Motion UI Design, grouped into 10 sections. The largest sections are **Libraries**, **Software**, **Resources for inspiration**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources for inspiration** — 20 links
+- **Articles** — 12 links
+- **Software** — 26 links
+- **Helpers** — 3 links
+- **Libraries** — 33 links
+- **Web animation performance** — 3 links
+- **Speeches, presentations, videos** — 13 links
+- **Newsletters, podcasts, screencasts** — 3 links
+- **Guidelines** — 3 links
+- **Books** — 3 links
+
+<!-- kb-about:end -->
+
 ## Resources for inspiration
 
 ### Sites
@@ -182,3 +204,20 @@ Curated Motion UI Design resources.
 - [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm).
 - [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin.
 - [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Offline-First](offline-first.md)
+- [PageSpeed Metrics](pagespeed-metrics.md)
+- [Polymer](polymer.md)
+- [Progressive Enhancement](progressive-enhancement.md)
+- [Master CSS](master-css.md)
+- [Material-UI](material-ui.md)
+- [MDBootstrap](mdbootstrap.md)
+- [Mobile Web Development](mobile-web-development.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,27 @@ Solving complex scientific problems using computers.
 
 !!! info "Source"
     91 resources imported from [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Scientific Computing** — solving complex scientific problems using computers. This page brings together 91 links about Scientific Computing, grouped into 9 sections. The largest sections are **Meshing**, **Other libraries and tools**, **Finite Elements**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Basic linear algebra** — 7 links
+- **Multi-purpose toolkits** — 5 links
+- **Finite Elements** — 11 links
+- **Meshing** — 21 links
+- **Data formats** — 4 links
+- **Sparse linear solvers** — 3 links
+- **Visualization** — 10 links
+- **Other libraries and tools** — 21 links
+- **Community** — 9 links
+
+<!-- kb-about:end -->
+
 ## Basic linear algebra
 
 - [BLAS](https://netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
@@ -134,3 +155,20 @@ Solving complex scientific problems using computers.
 - [NA Digest](https://netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 - [Gabriel Peyré on Bluesky](https://bsky.app/profile/gabrielpeyre.bsky.social) - One post a day on computational mathematics.
 - [Discord: Numerical Software](https://discord.com/invite/hnTJ5MRX2Y) - Discord messaging server on numerical software.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Scientific Writing](scientific-writing.md)
+- [Scriptable](scriptable.md)
+- [Site Reliability Engineering](site-reliability-engineering.md)
+- [Software Architecture](software-architecture.md)
+- [Readme](readme.md)
+- [Research Tools](research-tools.md)
+- [REST](rest.md)
+- [SAP Commerce](sap-commerce.md)
+
+<!-- kb-related:end -->

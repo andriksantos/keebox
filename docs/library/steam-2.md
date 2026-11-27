@@ -9,6 +9,22 @@ Digital distribution platform.
 
 !!! info "Source"
     93 resources imported from [scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Steam is Valve's game distribution platform and also an ecosystem with public APIs, Steamworks for developers, workshop content and a large modding and tools community.
+
+This list focuses on packages and resources for developers: libraries to query the Steam Web API, integrate Steamworks features, read game data and build bots or companion tools. Check each package's maintenance status, since Steam's APIs change over time.
+
+### What you'll find
+
+- **Packages** — 68 links
+- **Resources** — 25 links
+
+<!-- kb-about:end -->
+
 ## Packages
 
 ### Node.js
@@ -183,3 +199,20 @@ Digital distribution platform.
 - [/r/nodesteam](https://www.reddit.com/r/nodesteam)
 - [DoctorMcKay's Dev Forum](https://dev.doctormckay.com/)
 - [node-steam-forum](https://github.com/steam-forward/node-steam-forum)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Steam Deck](steam-deck.md)
+- [Tech Ethics](tech-ethics.md)
+- [Theravada](theravada.md)
+- [Transit](transit.md)
+- [Site Reliability Engineering](site-reliability-engineering.md)
+- [Software Architecture](software-architecture.md)
+- [Stacks](stacks-2.md)
+- [Standards](standards.md)
+
+<!-- kb-related:end -->

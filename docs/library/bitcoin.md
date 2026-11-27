@@ -9,6 +9,31 @@ Services and tools for Bitcoin software developers.
 
 !!! info "Source"
     159 resources imported from [igorbarinov/awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Bitcoin** — services and tools for Bitcoin software developers. This page brings together 159 links about Bitcoin, grouped into 25 sections. The largest sections are **Utilities**, **Blockchain API and Web services**, **Additional Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Utilities** — 22 links
+- **Blockchain API and Web services** — 19 links
+- **Market Data API** — 5 links
+- **Wallets API** — 4 links
+- **Open Source Wallets** — 8 links
+- **Privacy projects** — 2 links
+- **Blockchain Explorers** — 9 links
+- **C Libraries** — 2 links
+- **C++ Libraries** — 3 links
+- **JavaScript Libraries** — 12 links
+- **PHP Libraries** — 2 links
+- **Ruby Libraries** — 4 links
+- …and 13 more sections
+
+<!-- kb-about:end -->
+
 ## Utilities
 
 - [Nigiri](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
@@ -242,3 +267,20 @@ Services and tools for Bitcoin software developers.
 - [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 - [LearnBitcoin.com](https://www.learnbitcoin.com/) - Bitcoin-only education: a guided six-chapter journey, 17 long-form rabbit holes, and a ~470-entry glossary, CC-BY-SA with no ads or affiliates.
 - [Bitcoin Institute](https://bitcoin-institute.pages.dev) - Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Blockchain AI](blockchain-ai.md)
+- [Corda](corda.md)
+- [Cosmos SDK](cosmos-sdk.md)
+- [EOSIO](eosio.md)
+- [Tor](tor.md)
+- [Waves](waves.md)
+- [Algorand](algorand.md)
+- [ATProto](atproto.md)
+
+<!-- kb-related:end -->

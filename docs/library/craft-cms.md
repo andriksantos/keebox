@@ -9,6 +9,22 @@ Content-first CMS.
 
 !!! info "Source"
     297 resources imported from [craftcms/awesome](https://github.com/craftcms/awesome), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Craft CMS** — content-first CMS. This page brings together 284 links about Craft CMS, grouped into 4 sections. The largest sections are **Resources**, **Showcase**, **Community**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Community** — 11 links
+- **Plugins** — 4 links
+- **Resources** — 204 links
+- **Showcase** — 65 links
+
+<!-- kb-about:end -->
+
 ## Official Links
 
 - **Website** - [craftcms.com](https://craftcms.com)
@@ -451,3 +467,20 @@ Content-first CMS.
 - [Visit Victoria: Corporate](https://corporate.visitvictoria.com)
 - [Wildbit](https://wildbit.com)
 - [Yale Environment 360](http://e360.yale.edu)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Directus](directus.md)
+- [Drupal](drupal.md)
+- [Payload](payload.md)
+- [Plone](plone.md)
+- [Refinery CMS](refinery-cms.md)
+- [Silverstripe CMS](silverstripe-cms.md)
+- [Sitecore](sitecore.md)
+- [Wagtail](wagtail.md)
+
+<!-- kb-related:end -->

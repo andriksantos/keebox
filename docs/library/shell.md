@@ -9,6 +9,29 @@ Curated Shell resources.
 
 !!! info "Source"
     363 resources imported from [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Shell**. This page brings together 363 links about Shell, grouped into 11 sections. The largest sections are **Command-Line Productivity**, **Shell Script Development**, **Applications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Shells** — 20 links
+- **Command-Line Productivity** — 103 links
+- **Customization** — 22 links
+- **For Developers** — 34 links
+- **System Utilities** — 31 links
+- **Downloading and Serving** — 16 links
+- **Multimedia and File Formats** — 23 links
+- **Applications** — 39 links
+- **Games** — 8 links
+- **Shell Package Management** — 12 links
+- **Shell Script Development** — 55 links
+
+<!-- kb-about:end -->
+
 ## Shells
 
 - [bash](https://www.gnu.org/software/bash/) - GNU Project's shell (Bourne Again SHell)
@@ -410,3 +433,20 @@ Curated Shell resources.
 
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [SSH](ssh.md)
+- [Terminals Are Sexy](terminals-are-sexy.md)
+- [WezTerm](wezterm.md)
+- [Fish](fish.md)
+- [GitHub](github.md)
+- [GitHub Actions](github-actions.md)
+- [Hyper](hyper.md)
+- [Pinned Gists](pinned-gists.md)
+
+<!-- kb-related:end -->

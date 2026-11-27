@@ -9,6 +9,21 @@ Curated Promises resources.
 
 !!! info "Source"
     81 resources imported from [wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Promises**. This page brings together 81 links about Promises, grouped into 3 sections. The largest sections are **Convenience Utilities**, **Resources, Blogs, and Books**, **Promises/A+ Implementations (ES6/ES2015 compatible)**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources, Blogs, and Books** — 22 links
+- **Promises/A+ Implementations (ES6/ES2015 compatible)** — 13 links
+- **Convenience Utilities** — 46 links
+
+<!-- kb-about:end -->
+
 ## Resources, Blogs, and Books
 
 ### For beginners
@@ -119,3 +134,20 @@ Curated Promises resources.
 - [promise-do-whilst](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise.
 - [promise-semaphore](https://github.com/samccone/promise-semaphore) - Push a set of work to be done in a configurable serial fashion
 - [promise-nodeify](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [PureScript](purescript.md)
+- [Q#](q.md)
+- [Rust](rust.md)
+- [RxJava](rxjava.md)
+- [Observables](observables.md)
+- [Pascal](pascal.md)
+- [Pest](pest.md)
+- [Ponyfills](ponyfills.md)
+
+<!-- kb-related:end -->

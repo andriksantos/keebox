@@ -9,6 +9,33 @@ Vim-fork focused on extensibility and usability.
 
 !!! info "Source"
     1,511 resources imported from [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Editors**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Neovim is a modern fork of Vim with built-in LSP, Lua configuration, Tree-sitter syntax and an asynchronous plugin system. It has become one of the favourite editors for developers who want a fast, keyboard-driven environment they can shape themselves.
+
+With more than 1,500 entries, this is the largest list in the Library. Organise your setup in order: a **Plugin Manager**, then **LSP** and **Completion**, then language support and the rest. Pre-built distributions are a good shortcut if you don't want to configure everything from zero.
+
+### What you'll find
+
+- **Plugin Manager** — 14 links
+- **LSP** — 80 links
+- **Completion** — 32 links
+- **AI** — 58 links
+- **Programming Languages Support** — 113 links
+- **Language** — 11 links
+- **Syntax** — 16 links
+- **Snippet** — 11 links
+- **Register** — 7 links
+- **Marks** — 23 links
+- **Search** — 22 links
+- **Fuzzy Finder** — 19 links
+- …and 38 more sections
+
+<!-- kb-about:end -->
+
 ## Plugin Manager
 
 - [alyxshang/nuwa.nvim](https://github.com/alyxshang/nuwa.nvim) - A light package manager.
@@ -1737,3 +1764,14 @@ Vim-fork focused on extensibility and usability.
 - [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 - [nvim-edu](https://s3onghyun.github.io/nvim-edu/) - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
 - [editortheme/editorthemes.com](https://editorthemes.com/editors/neovim) - Directory for various colorschemes, with live previews and install snippets.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Editors** category of the [KEEBOX Library](index.md):
+
+- [Vim](vim.md)
+- [Visual Studio Code](visual-studio-code.md)
+
+<!-- kb-related:end -->

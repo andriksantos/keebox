@@ -9,6 +9,15 @@ Theory on quantum cryptography that utilizes special relativistic constraints to
 
 !!! info "Source"
     101 resources imported from [Renaller/awesome-position-based-quantum-cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Position-Based Quantum Cryptography** — theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions. This page brings together 0 links about Position-Based Quantum Cryptography, grouped into 0 sections. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## Classical Impossibility
 
 - N. Chandran, V. Goyal, R. Moriarty, and R. Ostrovsky: [Position-based cryptography (2009)](https://doi.org/10.1007/978-3-642-03356-8_23) - Establishes classical impossibility of position-based cryptography in the vanilla model. Explores possibility in the bounded-storage model.
@@ -175,3 +184,20 @@ Theory on quantum cryptography that utilizes special relativistic constraints to
 - G.-J. Fan-Yuan, Y.-G. Shan, C. Zhang, Y.-L. Wang, Y.-X. Fan, W.-X. Xie, D.-Y. He, S. Wang, Z.-Q. Yin, W. Chen, S.-N. Fu, G.-C. Guo, and Z.-F. Han: [Relativistic position verification with coherent states (2026)](https://doi.org/10.1038/s41567-026-03439-5) -  Experimental implementation of the $f$-measure protocol using phase-randomized weak coherent states
 - G. A. Kavuri, Y. Zhang, A. R. Gookin, S. Patra, J. C. Bienfang, H. Fu, Y. Alnawakhtha, D. V. Reddy, M. D. Mazurek, C. Abellán, W. Amaya, M. W. Mitchell, S. W. Nam, C. A. Miller, R. P. Mirin, M. J. Stevens, S. Glancy, E. Knill, L. K. Shalm: [Quantum Position Verification with Remote Untrusted Devices (2026)](https://doi.org/10.48550/arXiv.2601.16892) - Introduces and proves device-independent security of a Bell-test based QPV protocol which resembles $f$-measure, implements the protocol in an experiment
 - W. Y. Kon, N. Bigagli, A. Conrad, T. Shields, F. Kaleoglu, I. W. Primaatmaja, A. Craddock, RJ Pisani, M. Flament, J. Seeber, O. Amer, C. Lim, X. Ling, R. Otter, K. Chakraborty, and M. Namazi: [Loss-Tolerant Quantum Position Verification for Metropolitan Area Networks (2026)](https://doi.org/10.48550/arXiv.2609.23234) - Introduces a QPV protocol that is fully loss-tolerant as long as all information travels at the speed of light and that has the prover prepare the quantum state. The protocol is secure in the random oracle model. It is demonstrated experimentally with off-the-shelf hardware.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Quantum Computing](quantum-computing.md)
+- [Question Answering](question-answering.md)
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md)
+- [Spanish](spanish.md)
+- [ML with Ruby](ml-with-ruby.md)
+- [Natural Language Generation](natural-language-generation.md)
+- [NLP with Ruby](nlp-with-ruby.md)
+- [Papers](papers.md)
+
+<!-- kb-related:end -->

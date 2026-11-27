@@ -9,6 +9,26 @@ Turn your database into a GraphQL API.
 
 !!! info "Source"
     80 resources imported from [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Prisma** — turn your database into a GraphQL API. This page brings together 80 links about Prisma, grouped into 8 sections. The largest sections are **safety_vest Community Prisma Tools**, **trophy Tutorials**, **space_invader Projects Using Prisma**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **books Docs** — 2 links
+- **studio_microphone Events** — 3 links
+- **safety_vest Community Prisma Tools** — 42 links
+- **thinking How Tos** — 2 links
+- **bird Twitter** — 2 links
+- **trophy Tutorials** — 13 links
+- **family_man_woman_girl_boy Community** — 6 links
+- **space_invader Projects Using Prisma** — 10 links
+
+<!-- kb-about:end -->
+
 ## :books: Docs
 
 - [Prisma Docs](https://www.prisma.io/docs/)
@@ -124,3 +144,20 @@ Turn your database into a GraphQL API.
 - [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 - [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 - [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Product Design](product-design.md)
+- [Prometheus](prometheus.md)
+- [QR Code](qr-code.md)
+- [Quarto](quarto.md)
+- [Open Source Supporters](open-source-supporters.md)
+- [OpenStreetMap](openstreetmap.md)
+- [Permacomputing](permacomputing.md)
+- [Pokémon](pok-mon.md)
+
+<!-- kb-related:end -->

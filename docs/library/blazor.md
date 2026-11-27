@@ -9,6 +9,31 @@ description: "375 curated Blazor resources: .NET web framework using C#/Razor an
 
 !!! info "Source"
     375 resources imported from [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Blazor** — .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly. This page brings together 375 links about Blazor, grouped into 17 sections. The largest sections are **Libraries & Extensions**, **Sample Projects**, **Videos**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General** — 14 links
+- **Templates** — 4 links
+- **Sample Projects** — 77 links
+- **Tutorials** — 3 links
+- **Libraries & Extensions** — 166 links
+- **Source generators** — 3 links
+- **Real-World applications** — 2 links
+- **Videos** — 15 links
+- **Articles** — 12 links
+- **Podcasts** — 12 links
+- **Presentations slides** — 2 links
+- **Tooling** — 15 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Introduction
 
 ## General
@@ -527,3 +552,20 @@ description: "375 curated Blazor resources: .NET web framework using C#/Razor an
 - [Playlist - Programando en Blazor](https://www.youtube.com/playlist?list=PL0kIvpOlieSNdIPZbn-mO15YIjRHY2wI9) - [Spanish] Series of videos about Blazor.
 - [Insights from the oracle](http://blog.ppedv.de/?tag=Blazor) - [German] Blog about Blazor.
 - [ASP.NET Core Blazor 5.0: Blazor WebAssembly und Blazor Server: Moderne Single-Page-Web-Applications mit .NET, C# und Visual Studio](https://www.amazon.de/exec/obidos/ASIN/393427935X/itvisions-21) - German book on Blazor (Published September 15, 2020 with montly Updates).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Browserify](browserify.md)
+- [Building Blocks for Web Apps](building-blocks-for-web-apps.md)
+- [Chrome DevTools](chrome-devtools.md)
+- [CSS](css.md)
+- [WordPress-Gatsby](wordpress-gatsby.md)
+- [Yew](yew.md)
+- [Angular](angular.md)
+- [Backbone](backbone.md)
+
+<!-- kb-related:end -->

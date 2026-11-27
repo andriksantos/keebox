@@ -9,6 +9,27 @@ Curated Audio Visualization resources.
 
 !!! info "Source"
     198 resources imported from [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Audio Visualization**. This page brings together 197 links about Audio Visualization, grouped into 9 sections. The largest sections are **Experiments**, **Libraries Visualization**, **Libraries Audio**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 1 link
+- **Downloads** — 14 links
+- **Experiments** — 67 links
+- **Experiments on Codepen** — 17 links
+- **Libraries Audio** — 21 links
+- **Libraries Visualization** — 22 links
+- **People to Follow** — 13 links
+- **Tutorials** — 21 links
+- **Videos** — 21 links
+
+<!-- kb-about:end -->
+
 ## Books
 
 - [Web Audio API by Boris Smus](https://webaudioapi.com/book/)
@@ -233,3 +254,20 @@ Curated Audio Visualization resources.
 - [Mathieu 'p01' Henri: Making Realtime Audio-Visuals - JSConf.Asia 2015](https://www.youtube.com/watch?v=16oLi1kvLHs)
 - [Paul Adenot: Elements of Dance Music - JSConf.Asia 2015](https://www.youtube.com/watch?v=Ww0jTafmd_w)
 - [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Audiovisual](audiovisual.md)
+- [Broadcasting](broadcasting.md)
+- [FFmpeg](ffmpeg.md)
+- [Fonts](fonts.md)
+- [Pixel Art](pixel-art.md)
+- [Stock Resources](stock-resources.md)
+- [VLC](vlc.md)
+- [Audio Over IP](audio-over-ip.md)
+
+<!-- kb-related:end -->

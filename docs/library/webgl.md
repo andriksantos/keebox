@@ -9,6 +9,23 @@ JavaScript API for rendering 3D graphics.
 
 !!! info "Source"
     142 resources imported from [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**WebGL** — javaScript API for rendering 3D graphics. This page brings together 142 links about WebGL, grouped into 5 sections. The largest sections are **WebGL**, **Libraries**, **WebGL 2**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **WebGL** — 63 links
+- **WebGL 2** — 17 links
+- **WebXR / WebVR** — 9 links
+- **Libraries** — 41 links
+- **Community** — 12 links
+
+<!-- kb-about:end -->
+
 ## WebGL
 
 ### Articles
@@ -248,3 +265,20 @@ JavaScript API for rendering 3D graphics.
     - [Mountain View, CA](https://www.meetup.com/silicon-valley-html5-webgl-meetup/)
     - [London, United Kingdom](https://www.meetup.com/webgl-workshop-london/)
     - [New York, NY](https://www.meetup.com/nyc-webgl-developers/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [WebGPU](webgpu.md)
+- [WordPress-Gatsby](wordpress-gatsby.md)
+- [Yew](yew.md)
+- [Angular](angular.md)
+- [Web Components](web-components.md)
+- [Web Performance Budget](web-performance-budget.md)
+- [Web Typography](web-typography.md)
+- [WebAssembly](webassembly.md)
+
+<!-- kb-related:end -->

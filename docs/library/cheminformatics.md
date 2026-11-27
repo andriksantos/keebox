@@ -9,6 +9,23 @@ Informatics techniques applied to problems in chemistry.
 
 !!! info "Source"
     105 resources imported from [hsiaoyi0504/awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Cheminformatics** — informatics techniques applied to problems in chemistry. This page brings together 104 links about Cheminformatics, grouped into 5 sections. The largest sections are **Libraries**, **Resources**, **Applications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Applications** — 14 links
+- **Libraries** — 57 links
+- **Journals** — 2 links
+- **Resources** — 26 links
+- **See Also** — 5 links
+
+<!-- kb-about:end -->
+
 ## Applications
 
 ### Visualization
@@ -176,3 +193,20 @@ Informatics techniques applied to problems in chemistry.
 - [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) - A list of papers, data sets, and other resources for machine learning for small-molecule drug discovery.
 - [awesome-molecular-docking](https://github.com/yangnianzu0515/awesome-molecular-docking) - A curated list of molecular docking software, datasets, and other closely related resources.
 - [MolSSI Molecular Software Database](https://molssi.org/software-search/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Citizen Science](citizen-science.md)
+- [Code Points](code-points.md)
+- [Colorful](colorful.md)
+- [Computational Biology](computational-biology.md)
+- [Bots](bots.md)
+- [Calculators](calculators.md)
+- [ChatGPT](chatgpt.md)
+- [ChatOps](chatops.md)
+
+<!-- kb-related:end -->

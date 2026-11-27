@@ -9,6 +9,26 @@ Task runner.
 
 !!! info "Source"
     40 resources imported from [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**npm scripts** — task runner. This page brings together 40 links about npm scripts, grouped into 8 sections. The largest sections are **Cross-platform Utilities**, **Other Utilities**, **Miscellaneous**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 5 links
+- **Videos/Talks** — 2 links
+- **Task Runners** — 3 links
+- **File Watchers** — 2 links
+- **Dev Servers** — 2 links
+- **Cross-platform Utilities** — 14 links
+- **Other Utilities** — 6 links
+- **Miscellaneous** — 6 links
+
+<!-- kb-about:end -->
+
 ## Articles
 
 - [Why we should stop using Grunt & Gulp](https://www.keithcirkel.co.uk/why-we-should-stop-using-grunt/) - Blog post by Keith Cirkel.
@@ -75,3 +95,20 @@ Task runner.
 - [npm-quick-run](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
 - [edit-script](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping.
 - [ntl](https://github.com/ruyadorno/ntl) - Interactive cli menu to list and run npm scripts.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Observables](observables.md)
+- [Pascal](pascal.md)
+- [Pest](pest.md)
+- [Ponyfills](ponyfills.md)
+- [Move](move.md)
+- [Must Watch Talks](must-watch-talks.md)
+- [Network Layer](network-layer.md)
+- [npm](npm.md)
+
+<!-- kb-related:end -->

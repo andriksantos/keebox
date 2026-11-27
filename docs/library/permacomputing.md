@@ -9,6 +9,21 @@ Resilient and regenerative computing practices inspired by permaculture.
 
 !!! info "Source"
     121 resources imported from [idematos/awesome-permacomputing](https://github.com/idematos/awesome-permacomputing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Permacomputing** — resilient and regenerative computing practices inspired by permaculture. This page brings together 121 links about Permacomputing, grouped into 3 sections. The largest sections are **Projects**, **Resources**, **Communities**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 44 links
+- **Projects** — 53 links
+- **Communities** — 24 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Websites
@@ -213,3 +228,20 @@ Resilient and regenerative computing practices inspired by permaculture.
 - [Permacomputing on the SDF Chatter Lemmy instance](https://lemmy.sdf.org/c/permacomputing)
 - [Permacomputing on the Disroot XMPP chat server](https://github.com/idematos/awesome-permacomputing/blob/HEAD/xmpp:lowtech@chat.disroot.org?join)
 - [Lobsters](https://lobste.rs/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Pokémon](pok-mon.md)
+- [Prisma](prisma.md)
+- [Product Design](product-design.md)
+- [Prometheus](prometheus.md)
+- [MQTT](mqtt.md)
+- [Naming](naming.md)
+- [Open Source Supporters](open-source-supporters.md)
+- [OpenStreetMap](openstreetmap.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,20 @@ An e-commerce platform built with Java, Spring MVC, and Angular.
 
 !!! info "Source"
     142 resources imported from [eminyagiz42/awesome-sap-commerce](https://github.com/eminyagiz42/awesome-sap-commerce), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**SAP Commerce** — an e-commerce platform built with Java, Spring MVC, and Angular. This page brings together 142 links about SAP Commerce, grouped into 2 sections. The largest sections are **SAP Commerce Resources**, **Turkish Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **SAP Commerce Resources** — 136 links
+- **Turkish Resources** — 6 links
+
+<!-- kb-about:end -->
+
 ## SAP Commerce Resources
 
 ### Official Sites
@@ -200,3 +214,20 @@ An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Mdp Group Blog](https://mdpgroup.com/blog/sap-spartacus-nedir/) - A Blog by Hybris developer.
 - [Gorkem Acisu Medium](https://medium.com/@gorkem-acisu) - Articles by Senior Software Engineer.
 - [Zeynep Uygun Medium](https://zeynepuygun.medium.com/) - Articles by SAP CX Developer.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Scientific Computing](scientific-computing.md)
+- [Scientific Writing](scientific-writing.md)
+- [Scriptable](scriptable.md)
+- [Site Reliability Engineering](site-reliability-engineering.md)
+- [Read the Docs](read-the-docs.md)
+- [Readme](readme.md)
+- [Research Tools](research-tools.md)
+- [REST](rest.md)
+
+<!-- kb-related:end -->

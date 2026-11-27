@@ -9,6 +9,25 @@ Open source distributed machine learning platform written in Java with APIs in R
 
 !!! info "Source"
     94 resources imported from [h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**H2O** — open source distributed machine learning platform written in Java with APIs in R, Python, and Scala. This page brings together 94 links about H2O, grouped into 7 sections. The largest sections are **Research Papers**, **Blog Posts & Tutorials**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Blog Posts & Tutorials** — 21 links
+- **Books** — 10 links
+- **Research Papers** — 44 links
+- **Benchmarks** — 3 links
+- **Presentations** — 2 links
+- **Courses** — 6 links
+- **Software** — 8 links
+
+<!-- kb-about:end -->
+
 ## Blog Posts & Tutorials
 
 - [Using H2O AutoML to simplify training process (and also predict wine quality)](https://enjoymachinelearning.com/posts/h2o-auto-machine-learning/) Aug 4, 2020
@@ -123,3 +142,20 @@ Open source distributed machine learning platform written in Java with APIs in R
 - [Forecast the US demand for electricity](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
 - [h2o3-pam](https://github.com/navdeep-G/h2o3-pam): Partition Around Mediods (PAM) clustering algorithm in H2O-3
 - [h2o3-gapstat](https://github.com/navdeep-G/h2o3-gapstat): Gap Statistic algorithm in H2O-3
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Information Retrieval](information-retrieval.md)
+- [JAX](jax.md)
+- [Linguistics](linguistics.md)
+- [ML with Ruby](ml-with-ruby.md)
+- [Cryptography](cryptography.md)
+- [Education](education-2.md)
+- [Empirical Software Engineering](empirical-software-engineering.md)
+- [Generative AI](generative-ai.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,27 @@ Creating a more inclusive and diverse tech community.
 
 !!! info "Source"
     203 resources imported from [folkswhocode/awesome-diversity](https://github.com/folkswhocode/awesome-diversity), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Diversity** — creating a more inclusive and diverse tech community. This page brings together 203 links about Diversity, grouped into 9 sections. The largest sections are **Organizations**, **Posts**, **Actionable Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Organizations** — 78 links
+- **Events** — 6 links
+- **Ally Resources** — 4 links
+- **Actionable Resources** — 19 links
+- **Projects** — 9 links
+- **Posts** — 73 links
+- **Talks** — 12 links
+- **Advocates** — 1 link
+- **Books** — 1 link
+
+<!-- kb-about:end -->
+
 ## Organizations
 
 - [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses.
@@ -238,3 +259,20 @@ Creating a more inclusive and diverse tech community.
 ## Books
 
 - [Technically Wrong: Sexist Apps, Biased Algorithms, And Other Threats Of Toxic Tech](http://www.sarawb.com/technically-wrong/) - An unflinching look at the values, processes, and assumptions that lead to oversights, biases, and ethical nightmares.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Empathy in Engineering](empathy-in-engineering.md)
+- [Lucid Dreams](lucid-dreams.md)
+- [Mental Health](mental-health.md)
+- [Neuroimaging](neuroimaging.md)
+- [Transgender](transgender.md)
+- [Biomedical Information Extraction](biomedical-information-extraction.md)
+- [Computational Neuroscience](computational-neuroscience.md)
+- [Digital Humanities](digital-humanities.md)
+
+<!-- kb-related:end -->

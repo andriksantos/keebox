@@ -9,6 +9,25 @@ Java web app framework.
 
 !!! info "Source"
     101 resources imported from [PhantomYdn/awesome-wicket](https://github.com/PhantomYdn/awesome-wicket), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Apache Wicket is a component-based Java web framework where pages are built from plain HTML templates and reusable Java components, with state handled on the server. It is popular in enterprise and government applications that value type safety and long-term stability.
+
+This list collects documentation, component libraries, integrations and IDE tools. Start with **Generic Info** for guides and books, then look at **Libraries** for ready-made components such as tables, charts and Bootstrap themes.
+
+### What you'll find
+
+- **Generic Info** — 8 links
+- **Libraries** — 75 links
+- **Web Frameworks** — 8 links
+- **Solutions** — 8 links
+- **IDE Plugins and Tools** — 2 links
+
+<!-- kb-about:end -->
+
 ## Generic Info
 
 - [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
@@ -127,3 +146,20 @@ Java web app framework.
 
 - [qwickie](https://marketplace.eclipse.org/content/qwickie) - [Eclipse](http://www.eclipse.org/) plugin for the Java Webframework Wicket
 - [WicketForge](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [CDK](cdk.md)
+- [Dash](dash.md)
+- [Dropwizard](dropwizard.md)
+- [Education](education.md)
+- [Symfony](symfony.md)
+- [Terraform](terraform.md)
+- [Vagrant](vagrant.md)
+- [Vapor](vapor.md)
+
+<!-- kb-related:end -->

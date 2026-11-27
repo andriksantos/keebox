@@ -9,6 +9,31 @@ Automation virtual machine environment.
 
 !!! info "Source"
     58 resources imported from [iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Vagrant, by HashiCorp, creates reproducible development environments: one configuration file describes a virtual machine, and every developer on the team gets the same setup with a single `vagrant up`. It works with VirtualBox, VMware, Hyper-V, Docker and cloud providers.
+
+Here you will find base boxes, provisioning options, popular plugins and helper tools. Today many teams use containers or Dev Containers for the same job; Vagrant is still a solid choice when you need a full virtual machine with its own kernel.
+
+### What you'll find
+
+- **Official resources** — 2 links
+- **Boxes** — 6 links
+- **Provisioning** — 2 links
+- **Notable plugins** — 10 links
+- **Helpers / Tools** — 5 links
+- **Desktop tools** — 1 link
+- **Web services** — 4 links
+- **Proxy services** — 7 links
+- **Tutorials** — 6 links
+- **Books** — 5 links
+- **Popular readymade environments** — 10 links
+
+<!-- kb-about:end -->
+
 ## Official resources
 
 - [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
@@ -99,3 +124,20 @@ Automation virtual machine environment.
 - [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
 - [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 16.04 LTS, PHP 7, Nginx, and multiple database platforms.
 - [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Vapor](vapor.md)
+- [Apache Wicket](apache-wicket.md)
+- [CDK](cdk.md)
+- [Dash](dash.md)
+- [Reflex](reflex.md)
+- [Slim](slim.md)
+- [Symfony](symfony.md)
+- [Terraform](terraform.md)
+
+<!-- kb-related:end -->

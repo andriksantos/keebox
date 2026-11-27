@@ -9,6 +9,15 @@ Theory basics for using cryptography by non-cryptographers.
 
 !!! info "Source"
     101 resources imported from [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Papers** — theory basics for using cryptography by non-cryptographers. This page brings together 101 links about Papers, grouped into 1 sections. The largest sections are **The list**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## The list
 
 ### Introducing people to data security and cryptography
@@ -160,3 +169,20 @@ Theory basics for using cryptography by non-cryptographers.
 - [Cryptopals crypto challenges](https://cryptopals.com/).
 - [id0-rsa crypto challenges](https://id0-rsa.pub/).
 - [MTC3](https://www.mysterytwisterc3.org/en/) - xipher contest with more than 200 challenges of different levels, a moderated forum, and a hall-of-fame.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md)
+- [Quantum Computing](quantum-computing.md)
+- [Question Answering](question-answering.md)
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md)
+- [Linguistics](linguistics.md)
+- [ML with Ruby](ml-with-ruby.md)
+- [Natural Language Generation](natural-language-generation.md)
+- [NLP with Ruby](nlp-with-ruby.md)
+
+<!-- kb-related:end -->

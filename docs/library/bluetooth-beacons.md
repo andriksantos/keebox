@@ -9,6 +9,33 @@ Curated Bluetooth Beacons resources.
 
 !!! info "Source"
     115 resources imported from [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Bluetooth Low Energy beacons are small transmitters that let phones detect proximity, used for indoor navigation, retail promotions, asset tracking and attendance. The two main formats are Apple's iBeacon and Google's Eddystone.
+
+This list covers both standards, the Physical Web, installation and radio planning, configuration tools and scanner apps. If you are planning a deployment, read **Installation & Radio Planning** first: placement and interference matter more than the hardware brand.
+
+### What you'll find
+
+- **Eddystone by Google** — 9 links
+- **Physical Web** — 8 links
+- **Proximity Beacon API by Google** — 4 links
+- **iBeacon Resources by Apple** — 6 links
+- **iBeacon for Developers** — 17 links
+- **Beacon Discovery & Configuration Tools** — 1 link
+- **Beacon Scanner Apps** — 1 link
+- **Swift** — 8 links
+- **Objective-C** — 3 links
+- **Stackoverflow Q&A** — 12 links
+- **Beacon Development** — 9 links
+- **Beacon Scanner Apps** — 4 links
+- …and 6 more sections
+
+<!-- kb-about:end -->
+
 ## Eddystone by Google
 
 - [Google Developers Beacons Portal](https://developers.google.com/beacons/)
@@ -180,3 +207,19 @@ Curated Bluetooth Beacons resources.
 
 - [BeaconCtrl](https://github.com/upnext/BeaconCtrl) Setup and manage large beacon deployments with BeaconCtrl Open Source platform
 - [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Hardware** category of the [KEEBOX Library](index.md):
+
+- [Electronics](electronics.md)
+- [Flying FPV](flying-fpv.md)
+- [LIDAR](lidar.md)
+- [Open Hardware](open-hardware.md)
+- [Plotters](plotters.md)
+- [Robotic Tooling](robotic-tooling.md)
+- [ADS-B](ads-b.md)
+
+<!-- kb-related:end -->

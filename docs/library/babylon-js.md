@@ -9,6 +9,28 @@ Game engine for cross-platform web and native game development.
 
 !!! info "Source"
     304 resources imported from [Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Babylon.js** — game engine for cross-platform web and native game development. This page brings together 304 links about Babylon.js, grouped into 10 sections. The largest sections are **Playground**, **Demos**, **Projects**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official links** — 19 links
+- **Books** — 2 links
+- **Playground** — 109 links
+- **Demos** — 57 links
+- **Scenes** — 3 links
+- **Games** — 21 links
+- **Projects** — 57 links
+- **Examples** — 12 links
+- **Links** — 21 links
+- **Forum** — 3 links
+
+<!-- kb-about:end -->
+
 ## Official links
 
 - [Babylon.js Documentation](https://doc.babylonjs.com/)
@@ -342,3 +364,20 @@ Game engine for cross-platform web and native game development.
 - [Demo Ammo Physics Scene](https://forum.babylonjs.com/t/demo-ammo-physics-scene/32827) - Explains the Mustang Demo developed with the Babylon.js Unity Exporter.
 - [Observablehq.com + BabylonJS StarterKit](https://forum.babylonjs.com/t/observablehq-com-babylonjs-starterkit/24791) - Explains how to use Babylon.js on ObservableHQ, the JavaScript equivalent Jupyter Notebooks.
 - [Yuka Game AI + Babylon.js Examples](https://forum.babylonjs.com/t/yuka-game-ai-babylon-js-examples-the-1st-release/27690) - A complete list of all the Yuka Babylon.js links.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [CHIP-8](chip-8.md)
+- [Construct 2](construct-2.md)
+- [Esports](esports.md)
+- [Flame](flame.md)
+- [Minecraft](minecraft.md)
+- [Open Source Games](open-source-games.md)
+- [PlayCanvas](playcanvas.md)
+- [Roblox](roblox.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ Curated Elm resources.
 
 !!! info "Source"
     245 resources imported from [sporto/awesome-elm](https://github.com/sporto/awesome-elm), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Elm**. This page brings together 245 links about Elm, grouped into 24 sections. The largest sections are **Learning Guides**, **Examples**, **Conference Videos**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Learning Guides** — 40 links
+- **Articles** — 16 links
+- **Conference Videos** — 20 links
+- **News** — 6 links
+- **Podcasts** — 11 links
+- **Testing** — 3 links
+- **Code generators** — 14 links
+- **Package managers** — 1 link
+- **Libraries** — 3 links
+- **Boilerplates** — 15 links
+- **Frameworks** — 3 links
+- **Static analysis** — 2 links
+- …and 12 more sections
+
+<!-- kb-about:end -->
+
 ## Learning Guides
 
 - [Official tutorial](https://elm-lang.org/docs) — General information and in-depth guide with examples.
@@ -376,3 +401,20 @@ Curated Elm resources.
 
 - [awesome](https://github.com/sindresorhus/awesome) by [**@sindresorhus**](https://github.com/sindresorhus)
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) by [**@bayandin**](https://github.com/bayandin)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [ESLint](eslint.md)
+- [Esolangs](esolangs.md)
+- [F#](f.md)
+- [Functional Programming](functional-programming.md)
+- [Composer](composer.md)
+- [Coq](coq.md)
+- [Dart](dart.md)
+- [Data Science](data-science.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ Security of web apps & services.
 
 !!! info "Source"
     388 resources imported from [qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Security** — security of web apps & services. This page brings together 388 links about Web Security, grouped into 15 sections. The largest sections are **Tools**, **Introduction**, **Tricks**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Digests** — 8 links
+- **Forums** — 6 links
+- **Introduction** — 82 links
+- **Evasions** — 14 links
+- **Tricks** — 60 links
+- **Browser Exploitation** — 15 links
+- **PoCs** — 6 links
+- **Cheetsheets** — 2 links
+- **Tools** — 126 links
+- **Social Engineering Database** — 2 links
+- **Blogs** — 10 links
+- **Twitter Users** — 9 links
+- …and 3 more sections
+
+<!-- kb-about:end -->
+
 ## Digests
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Written by [Trail of Bits](https://www.trailofbits.com/).
@@ -672,3 +697,20 @@ Security of web apps & services.
 - [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Hands-on introduction to web application security fundamentals by Malcolm McDonald (Manning).
 - [htb-writeups](https://github.com/momenbasel/htb-writeups) - Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel).
 - [From DNS Evidence to a Finding: DNS and Mail Security Methodology](https://admintoolkit.io/guides/dns-mail-security-methodology/) - How DNSSEC, DANE, SPF/DKIM/DMARC and SMTP transport evidence becomes a finding, with the decision logic for each, the `dig` invocations to reproduce it independently, and the false positives to expect.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [CI/CD Attacks](ci-cd-attacks.md)
+- [CTF](ctf.md)
+- [Cyber Security University](cyber-security-university.md)
+- [Detection Engineering](detection-engineering.md)
+- [Prompt Injection](prompt-injection.md)
+- [Security Card Games](security-card-games.md)
+- [Suricata](suricata.md)
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,24 @@ Dynamic tracing framework.
 
 !!! info "Source"
     94 resources imported from [xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**DTrace** — dynamic tracing framework. This page brings together 94 links about DTrace, grouped into 6 sections. The largest sections are **Videos**, **Software**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Learn** — 10 links
+- **Articles** — 13 links
+- **Videos** — 48 links
+- **Software** — 14 links
+- **Tools** — 5 links
+- **Community** — 4 links
+
+<!-- kb-about:end -->
+
 ## Learn
 
 ### Books
@@ -173,3 +191,20 @@ Dynamic tracing framework.
 - [Mailing list](http://dtrace.org/blogs/mailing-list/) - DTrace community mailing list.
 - [FreeBSD DTrace mailing list](https://lists.freebsd.org/mailman/listinfo/freebsd-dtrace) - FreeBSD DTrace community mailing list.
 - [China DTrace](http://chinadtrace.org/) - A Chinese DTrace site.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Event-Driven Architecture](event-driven-architecture.md)
+- [Falsehood](falsehood.md)
+- [Food](food.md)
+- [For Girls](for-girls.md)
+- [CSV](csv.md)
+- [Design Principles](design-principles.md)
+- [Dev Fun](dev-fun.md)
+- [Discounts for Student Developers](discounts-for-student-developers.md)
+
+<!-- kb-related:end -->

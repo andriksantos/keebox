@@ -9,6 +9,22 @@ Identity standard and authentication protocol built on OAuth 2.0 for user identi
 
 !!! info "Source"
     177 resources imported from [cerberauth/awesome-openid-connect](https://github.com/cerberauth/awesome-openid-connect), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**OpenID Connect** — identity standard and authentication protocol built on OAuth 2.0 for user identity assertion. This page brings together 177 links about OpenID Connect, grouped into 4 sections. The largest sections are **Resources**, **OpenID Providers (OP)**, **Relying Parties (RP) Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **OpenID Providers (OP)** — 46 links
+- **Relying Parties (RP) Libraries** — 30 links
+- **Relying Parties (RP) Software Plugins** — 8 links
+- **Resources** — 93 links
+
+<!-- kb-about:end -->
+
 ## OpenID Providers (OP)
 
 - [Auth0](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) - OpenID Connect and OAuth 2.0 service that is available on the cloud as a SaaS.
@@ -257,3 +273,20 @@ Identity standard and authentication protocol built on OAuth 2.0 for user identi
 - [2020 - The Little Book of OAuth 2.0 RFCs by Aaron Parecki](https://www.amazon.com/Little-Book-OAuth-2-0-RFCs/dp/B084DFYJS1/)
 - [2021 - Keycloak - Identity and Access Management for Modern Applications: Harness the power of Keycloak, OpenID Connect, and OAuth 2.0 protocols to secure applications by Stian Thorgersen and Pedro Igor Silva](https://www.amazon.com/Keycloak-Management-Applications-protocols-applications-ebook/dp/B092KP135B/)
 - [2022 - Solving Identity Management in Modern Applications: Demystifying OAuth 2, OpenID Connect, and SAML 2 by Yvonne Wilson](https://www.amazon.com/Solving-Identity-Management-Modern-Applications-ebook/dp/B0BMQHF83G/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Password Cracking](password-cracking.md)
+- [Prompt Injection](prompt-injection.md)
+- [Security Card Games](security-card-games.md)
+- [Suricata](suricata.md)
+- [Executable Packing](executable-packing.md)
+- [Fuzzing](fuzzing.md)
+- [GDPR](gdpr.md)
+- [Malware Persistence](malware-persistence.md)
+
+<!-- kb-related:end -->

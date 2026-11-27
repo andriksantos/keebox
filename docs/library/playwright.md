@@ -9,6 +9,26 @@ Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 !!! info "Source"
     101 resources imported from [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Testing**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Playwright** — node.js library to automate Chromium, Firefox and WebKit with a single API. This page brings together 101 links about Playwright, grouped into 8 sections. The largest sections are **Utils**, **Reporters**, **Integrations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Testing** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Integrations** — 16 links
+- **Language Support** — 9 links
+- **Utils** — 30 links
+- **Scraping & Automation** — 10 links
+- **AI & Agents** — 8 links
+- **Reporters** — 17 links
+- **Showcases** — 5 links
+- **Guides** — 6 links
+
+<!-- kb-about:end -->
+
 ## Integrations
 
 - [@appetize/Playwright](https://docs.appetize.io/testing) - Mobile tests for web or native apps on [Appetize](https://www.appetize.io)'s virtual devices using Playwright Test Runner.
@@ -133,3 +153,20 @@ Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [playwrightsolutions.com](https://playwrightsolutions.com) - Curated Selection of Playwright Automated Test Problems and Solutions.
 - [serenity-js.org](https://serenity-js.org/handbook/web-testing/your-first-web-scenario/) - Learn how to write acceptance tests in business language using Playwright and the Serenity/JS Screenplay Pattern.
 - [Testing 3D applications with Playwright on GPU](https://blog.promaton.com/testing-3d-applications-with-playwright-on-gpu-1e9cfc8b54a9) - Recipe to enable hardware acceleration for Playwright tests on CI.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Testing** category of the [KEEBOX Library](index.md):
+
+- [Selenium](selenium.md)
+- [TAP](tap.md)
+- [Testing](testing.md)
+- [Appium](appium.md)
+- [CodeRabbit](coderabbit.md)
+- [Gatling](gatling.md)
+- [JMeter](jmeter.md)
+- [k6](k6.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ Curated Static Website Services resources.
 
 !!! info "Source"
     142 resources imported from [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Static Website Services**. This page brings together 142 links about Static Website Services, grouped into 17 sections. The largest sections are **Community**, **Search**, **Functions as a Service**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Audio** — 3 links
+- **Books** — 2 links
+- **Calendar and Scheduling** — 3 links
+- **Images** — 2 links
+- **Maps** — 3 links
+- **Presentations** — 4 links
+- **Video** — 10 links
+- **Functions as a Service** — 14 links
+- **GraphQL** — 1 link
+- **Community** — 67 links
+- **E-Commerce** — 8 links
+- **Payments** — 2 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Audio
 
 - [SoundCloud](https://soundcloud.com/) - Audio hosting with an embeddable player. Up to 3 hours of content is free.
@@ -229,3 +254,20 @@ Curated Static Website Services resources.
 ## Other
 
 - [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Storybook](storybook.md)
+- [Svelte](svelte.md)
+- [SVG](svg.md)
+- [Tailwind CSS](tailwind-css.md)
+- [Relay](relay.md)
+- [Sass](sass.md)
+- [Seed](seed.md)
+- [Service Workers](service-workers.md)
+
+<!-- kb-related:end -->

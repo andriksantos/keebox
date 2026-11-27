@@ -9,6 +9,23 @@ Mobile operating system developed by Google.
 
 !!! info "Source"
     161 resources imported from [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Android** — mobile operating system developed by Google. This page brings together 161 links about Android, grouped into 5 sections. The largest sections are **Libraries**, **Resources**, **Development Alternatives**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Emulators** — 2 links
+- **Libraries** — 114 links
+- **Resources** — 26 links
+- **Development Alternatives** — 15 links
+- **Build & Performance** — 4 links
+
+<!-- kb-about:end -->
+
 ## Emulators
 
 - [Android Emulator](https://developer.android.com/studio/run/emulator) - Official Android emulator integrated into Android Studio.
@@ -272,3 +289,20 @@ Mobile operating system developed by Google.
 - [ProGuard](https://www.guardsquare.com/proguard) - Open-source Java bytecode optimizer and shrinker for Android apps.
 - [ProGuard Playground](https://playground.proguard.com/) - Interactive online tool for visualizing and testing ProGuard and R8 keep rules.
 - [Booster](https://github.com/didi/booster) - An optimization toolkit for Android applications.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [AppImage](appimage.md)
+- [Apps](apps.md)
+- [ArcGIS Developer](arcgis-developer.md)
+- [Arch-based Projects](arch-based-projects.md)
+- [WebExtensions](webextensions.md)
+- [Windows](windows.md)
+- [Actions on Google](actions-on-google.md)
+- [Adafruit IO](adafruit-io.md)
+
+<!-- kb-related:end -->

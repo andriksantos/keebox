@@ -9,6 +9,20 @@ Tools for every platform.
 
 !!! info "Source"
     51 resources imported from [xxczaki/awesome-calculators](https://github.com/xxczaki/awesome-calculators), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Calculators** — tools for every platform. This page brings together 51 links about Calculators, grouped into 2 sections. The largest sections are **Calculator apps**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Calculator apps** — 39 links
+- **Resources** — 12 links
+
+<!-- kb-about:end -->
+
 ## Calculator apps:
 
 ### Android
@@ -90,3 +104,20 @@ Tools for every platform.
 - [Scott Flansburg, the human calculator](https://www.youtube.com/watch?v=WhtvLpi8Z1M)
 - [15 Year Old Yaashwin Sarawanan is a human calculator | Asia's Got Talent 2019](https://www.youtube.com/watch?v=kvymoFdjuHw)
 - [3Blue1Brown Lockdown math series (11 episodes)](https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [ChatGPT](chatgpt.md)
+- [ChatOps](chatops.md)
+- [Cheminformatics](cheminformatics.md)
+- [Citizen Science](citizen-science.md)
+- [Biological Image Analysis](biological-image-analysis.md)
+- [Biological Visualizations](biological-visualizations.md)
+- [Boilerplate Projects](boilerplate-projects.md)
+- [Bots](bots.md)
+
+<!-- kb-related:end -->

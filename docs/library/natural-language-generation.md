@@ -9,6 +9,30 @@ Generation of text used in data-to-text, conversational agents, and narrative ge
 
 !!! info "Source"
     74 resources imported from [accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Natural Language Generation** — generation of text used in data-to-text, conversational agents, and narrative generation applications. This page brings together 74 links about Natural Language Generation, grouped into 12 sections. The largest sections are **Papers and Articles**, **Neural Natural Language Generation**, **Datasets**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Datasets** — 10 links
+- **Dialog** — 5 links
+- **Evaluation** — 5 links
+- **Grammar** — 5 links
+- **Libraries** — 3 links
+- **Narrative Generation** — 2 links
+- **Neural Natural Language Generation** — 12 links
+- **Papers and Articles** — 16 links
+- **Products** — 3 links
+- **Realizers** — 5 links
+- **Templating Languages** — 3 links
+- **Videos** — 5 links
+
+<!-- kb-about:end -->
+
 ## Datasets
 
 - [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) - A dataset for NLG in dialogue systems in the public transport information domain.
@@ -118,3 +142,20 @@ Generation of text used in data-to-text, conversational agents, and narrative ge
 - [Natural Language Generation (Introduction)](https://www.youtube.com/watch?v=4fjM72lbJaw)
 - [Strata Data Conference | The future of natural language generation: 2017-2027](https://www.youtube.com/watch?v=Ls7elVbN8bI)
 - [The Quest for Automated Story Generation - Mark Riedl](https://www.youtube.com/watch?v=wgcDUX_BPpk)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [NLP with Ruby](nlp-with-ruby.md)
+- [Papers](papers.md)
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md)
+- [Quantum Computing](quantum-computing.md)
+- [Information Retrieval](information-retrieval.md)
+- [JAX](jax.md)
+- [Linguistics](linguistics.md)
+- [ML with Ruby](ml-with-ruby.md)
+
+<!-- kb-related:end -->

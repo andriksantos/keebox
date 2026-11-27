@@ -9,6 +9,21 @@ Create better and more consistent designs and experiences.
 
 !!! info "Source"
     25 resources imported from [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Design Principles** — create better and more consistent designs and experiences. This page brings together 25 links about Design Principles, grouped into 3 sections. The largest sections are **Principles within bigger Design Systems**, **Other Resources**, **Articles about Design Principles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Principles within bigger Design Systems** — 15 links
+- **Articles about Design Principles** — 4 links
+- **Other Resources** — 6 links
+
+<!-- kb-about:end -->
+
 ## Principles within bigger Design Systems
 
 - [Alibaba Ant Design Principles](https://ant.design/docs/spec/proximity)
@@ -42,3 +57,20 @@ Create better and more consistent designs and experiences.
 - [principles.adactio.com](https://principles.adactio.com/) - Huge list with various types of more traditional design principles.
 - [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - Long list with well explained principles by Joshua Porter
 - [Principles of Product Design](http://bokardo.com/principles-of-product-design/) - Long list with well explained principles by Joshua Porter
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Dev Fun](dev-fun.md)
+- [Discounts for Student Developers](discounts-for-student-developers.md)
+- [DTrace](dtrace.md)
+- [Event-Driven Architecture](event-driven-architecture.md)
+- [Creative Coding](creative-coding.md)
+- [Credit Modeling](credit-modeling.md)
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md)
+- [CSV](csv.md)
+
+<!-- kb-related:end -->

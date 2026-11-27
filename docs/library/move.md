@@ -9,6 +9,31 @@ Domain-specific programming language for writing safe smart contracts.
 
 !!! info "Source"
     145 resources imported from [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Move** — domain-specific programming language for writing safe smart contracts. This page brings together 145 links about Move, grouped into 17 sections. The largest sections are **Code**, **Wallets**, **SDKs**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Overview** — 2 links
+- **Move-Powered Blockchains** — 8 links
+- **Books** — 4 links
+- **Tutorials** — 4 links
+- **Community** — 6 links
+- **Code** — 66 links
+- **Tools** — 5 links
+- **IDEs** — 6 links
+- **Package Managers** — 1 link
+- **Wallets** — 12 links
+- **SDKs** — 10 links
+- **Papers** — 8 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Overview
 
 - [Installation](https://github.com/move-language/move/tree/main/language/tools/move-cli#installation)
@@ -255,3 +280,20 @@ Domain-specific programming language for writing safe smart contracts.
 ## Security
 
 - [Aptos-movevm Denial of Service Vulnerability](https://medium.com/numen-cyber-labs/analysis-of-the-first-critical-0-day-vulnerability-of-aptos-move-vm-8c1fd6c2b98e)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Must Watch Talks](must-watch-talks.md)
+- [Network Layer](network-layer.md)
+- [npm](npm.md)
+- [npm scripts](npm-scripts.md)
+- [Learning](learning-2.md)
+- [Lua](lua.md)
+- [Mad Science npm Packages](mad-science-npm-packages.md)
+- [MicroPython](micropython.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,23 @@ Curated Amazon Sellers resources.
 
 !!! info "Source"
     84 resources imported from [ScaleLeap/awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Amazon Sellers**. This page brings together 84 links about Amazon Sellers, grouped into 5 sections. The largest sections are **Software and Tools**, **Blogs**, **Product Research and Pre-Launch**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Software and Tools** — 56 links
+- **Product Research and Pre-Launch** — 7 links
+- **Podcasts** — 6 links
+- **Blogs** — 8 links
+- **Other** — 7 links
+
+<!-- kb-about:end -->
+
 ## Software and Tools
 
 - [Acalcia](https://acalcia.com) - Free, no-signup browser suite of seller calculators including an Amazon FBA fee and profit calculator, plus pricing, margin, and break-even tools. No login or paywall.
@@ -107,3 +124,20 @@ Curated Amazon Sellers resources.
 - [EcomPick](https://ecompick.com/) - Directory of AI tools, MCP servers and agent skills for ecommerce sellers, including Amazon seller operations and advertising.
 - [FBA Monthly](https://fbamonthly.com) - Newsletter with an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses.
 - [r/FulfillmentByAmazon](https://www.reddit.com/r/FulfillmentByAmazon/) - Subreddit for FBA sellers.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Ansible](ansible.md)
+- [Astrophotography](astrophotography.md)
+- [Awesome](awesome.md)
+- [Beginner-Friendly Projects](beginner-friendly-projects.md)
+- [Ad-Free](ad-free.md)
+- [Advertising](advertising.md)
+- [Agriculture](agriculture.md)
+- [AMA](ama.md)
+
+<!-- kb-related:end -->

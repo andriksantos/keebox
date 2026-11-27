@@ -40,3 +40,35 @@ Curated open-source game engines, frameworks, tools, free assets and learning re
 - [Awesome Godot](https://github.com/Calinou/awesome-godot) - Curated list of free and open-source Godot content.
 - [Game Programming Patterns (code)](https://github.com/munificent/game-programming-patterns) - Source for the Game Programming Patterns book.
 - [Magictools](https://github.com/ellisonleao/magictools) - Game development resources to make magic happen.
+
+<!-- kb-guide:start -->
+
+## How to choose an engine
+
+The right tool depends more on the game you want to finish than on the most powerful feature list:
+
+- **2D games and first projects:** Godot, Defold or GameMaker let you see results in a few hours. Godot is free and open source with no royalties; GameMaker has its own scripting language and a long track record with indie hits.
+- **3D and larger teams:** Godot 4, O3DE and Stride cover 3D. If you need console ports or an asset store, compare licensing terms carefully before committing.
+- **Code-first developers:** frameworks like raylib, LÖVE, MonoGame or Bevy give you full control and no editor lock-in, at the cost of building more tools yourself.
+- **Browser games:** Phaser for 2D and Babylon.js for 3D run anywhere without installation, which is ideal for game jams and portfolios.
+
+A practical rule: make one very small game — a single level, start to finish — with two candidate engines before deciding. You will learn more from that than from any comparison table.
+
+## Frequently asked questions
+
+??? question "What is the best free game engine for beginners?"
+    Godot is the most common recommendation: it is free, open source, lightweight and has a large community with tutorials in English and Spanish. Defold and GameMaker are also beginner-friendly options for 2D.
+
+??? question "Do I need to know how to draw to make a game?"
+    No. Many developers start with free asset packs and placeholder shapes. Tools such as Aseprite, Blender, Tiled and LDtk help when you are ready to create your own art and levels.
+
+??? question "Where can I publish my first game?"
+    itch.io is the easiest place for free or pay-what-you-want games and game jam entries. Steam and mobile stores require more preparation, fees and store assets.
+
+## Keep exploring
+
+- [GameMaker resources](library/gamemaker.md) · [libGDX](library/libgdx.md) · [Haxe game development](library/haxe-game-development.md)
+- [Game engine development](library/game-engine-development.md) · [Game production](library/game-production.md) · [Learn game development](library/learn-gamedev.md)
+- [Open-source games](library/open-source-games.md) · [Game datasets](library/game-datasets.md)
+
+<!-- kb-guide:end -->

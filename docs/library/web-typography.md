@@ -9,6 +9,24 @@ Curated Web Typography resources.
 
 !!! info "Source"
     88 resources imported from [deanhume/typography](https://github.com/deanhume/typography), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Typography**. This page brings together 87 links about Web Typography, grouped into 6 sections. The largest sections are **Articles**, **Tools**, **Web Fonts & Web Performance**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 34 links
+- **Web Fonts & Web Performance** — 16 links
+- **Tools** — 19 links
+- **Books** — 6 links
+- **Font Combinations** — 10 links
+- **Talks** — 2 links
+
+<!-- kb-about:end -->
+
 ## Articles
 
 - [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](https://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
@@ -117,3 +135,20 @@ Curated Web Typography resources.
 ## Featured
 
 - This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [WebAssembly](webassembly.md)
+- [WebGL](webgl.md)
+- [WebGPU](webgpu.md)
+- [WordPress-Gatsby](wordpress-gatsby.md)
+- [Web Animation](web-animation.md)
+- [Web Audio](web-audio.md)
+- [Web Components](web-components.md)
+- [Web Performance Budget](web-performance-budget.md)
+
+<!-- kb-related:end -->

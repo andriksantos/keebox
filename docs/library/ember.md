@@ -9,6 +9,15 @@ App framework.
 
 !!! info "Source"
     872 resources imported from [ember-community-russia/awesome-ember](https://github.com/ember-community-russia/awesome-ember), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ember** — app framework. This page brings together 872 links about Ember, grouped into 1 sections. The largest sections are **Packages**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## Packages
 
 ### AST
@@ -1263,3 +1272,20 @@ App framework.
 - [Ember London 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A&list=PL8xuokhAnn4rUlol6aspg-VYetu9BLsWV)
 - [Intercom Screencasts](https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L)
 - [Ember.js tutorial for beginners in 2020](https://www.youtube.com/watch?v=eQUvN9Ujs1s&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo) - A 10 part series by Shawn Chen
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Frameworks](frameworks.md)
+- [Frontend GIS](frontend-gis.md)
+- [Hydrogen](hydrogen.md)
+- [Inertia.js](inertia-js.md)
+- [D3](d3.md)
+- [Design systems](design-systems.md)
+- [Dojo Toolkit](dojo-toolkit.md)
+- [Emails](emails.md)
+
+<!-- kb-related:end -->

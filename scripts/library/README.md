@@ -19,6 +19,7 @@ python3 ../fetch.py      # downloads READMEs + licenses into raw/ (re-run until 
 python3 ../classify.py   # writes classified.json
 python3 ../genlib.py     # converts public-domain lists
 python3 ../writelib.py   # writes docs/library/*.md
+python3 ../enrich.py     # adds 'About this list' + 'Related lists' (intros in intros.json)
 ```
 
 Then rebuild the Credits page and run `mkdocs build --strict` before committing.

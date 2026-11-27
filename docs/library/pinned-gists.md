@@ -9,6 +9,22 @@ Dynamic pinned gists for your GitHub profile.
 
 !!! info "Source"
     58 resources imported from [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Pinned Gists** — dynamic pinned gists for your GitHub profile. This page brings together 58 links about Pinned Gists, grouped into 4 sections. The largest sections are **External Services**, **GitHub**, **User Defined**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **External Services** — 48 links
+- **GitHub** — 7 links
+- **User Defined** — 2 links
+- **Resources** — 1 link
+
+<!-- kb-about:end -->
+
 ## External Services
 
 - [bilibili-box](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
@@ -78,3 +94,20 @@ Dynamic pinned gists for your GitHub profile.
 ## Resources
 
 - [gist-box](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [Shell](shell.md)
+- [SSH](ssh.md)
+- [Terminals Are Sexy](terminals-are-sexy.md)
+- [WezTerm](wezterm.md)
+- [Git Hooks](git-hooks.md)
+- [GitHub](github.md)
+- [GitHub Actions](github-actions.md)
+- [Hyper](hyper.md)
+
+<!-- kb-related:end -->

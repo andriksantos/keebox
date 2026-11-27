@@ -9,6 +9,33 @@ Regulation on data protection and privacy for all individuals within EU.
 
 !!! info "Source"
     54 resources imported from [bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+The EU General Data Protection Regulation applies to any product that processes personal data of people in the European Union, wherever the company is based. For developers it means privacy by design, records of processing, security measures, breach notification and respect for user rights.
+
+This list is organized by the articles of the regulation, which makes it a practical checklist. It is useful for product teams and freelancers working with European clients. It is not legal advice; confirm important decisions with a specialist.
+
+### What you'll find
+
+- **Legal text** — 4 links
+- **Guidelines** — 4 links
+- **Rights of the data subject (art. 12 - 23)** — 1 link
+- **Privacy by Design - Guides for developers (art. 25)** — 5 links
+- **Records of Processing (art. 30)** — 1 link
+- **Security (art. 32)** — 3 links
+- **Incident management (art. 33 and 34)** — 5 links
+- **Data Protection Impact Assessments (DPIA, art. 35)** — 5 links
+- **Training and awareness (art. 39)** — 1 link
+- **Tools** — 6 links
+- **Data Protection Authorities (art. 51 -59)** — 4 links
+- **Organisations / Projects** — 10 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Legal text
 
 - [GDPR (2016/679)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) - Official version of GDPR.
@@ -101,3 +128,20 @@ Regulation on data protection and privacy for all individuals within EU.
 - [Freedom To Tinker](https://freedom-to-tinker.com/) - Blog from Princeton's CITP, a research center that studies digital technologies in public life.
 - [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
 - [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Malware Persistence](malware-persistence.md)
+- [OpenID Connect](openid-connect.md)
+- [Password Cracking](password-cracking.md)
+- [Prompt Injection](prompt-injection.md)
+- [Embedded and IoT Security](embedded-and-iot-security.md)
+- [EVM Security](evm-security.md)
+- [Executable Packing](executable-packing.md)
+- [Fuzzing](fuzzing.md)
+
+<!-- kb-related:end -->

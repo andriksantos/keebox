@@ -9,6 +9,31 @@ Curated Vehicle Security and Car Hacking resources.
 
 !!! info "Source"
     220 resources imported from [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Vehicle Security and Car Hacking**. This page brings together 219 links about Vehicle Security and Car Hacking, grouped into 14 sections. The largest sections are **Libraries and Tools**, **Miscellaneous**, **Presentations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 14 links
+- **Presentations** — 30 links
+- **Books** — 7 links
+- **Research Papers** — 21 links
+- **Courses** — 1 link
+- **Blogs** — 1 link
+- **Websites** — 9 links
+- **Conferences** — 4 links
+- **Who to Follow** — 24 links
+- **Podcasts and Episodes** — 8 links
+- **Miscellaneous** — 33 links
+- **Applications** — 18 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Articles
 
 - [How to hack a car — a quick crash-course](https://medium.freecodecamp.org/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec) - Car enthusiast Kenny Kuchera illustrates just enough information to get you up and running. An excellent resource for first timers!
@@ -292,3 +317,20 @@ Curated Vehicle Security and Car Hacking resources.
     - [Incident Response](https://github.com/meirwah/awesome-incident-response)
     - [awesome](https://github.com/sindresorhus/awesome)
     - [lists](https://github.com/jnv/lists)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Web Security](web-security.md)
+- [CI/CD Attacks](ci-cd-attacks.md)
+- [CTF](ctf.md)
+- [Cyber Security University](cyber-security-university.md)
+- [Password Cracking](password-cracking.md)
+- [Prompt Injection](prompt-injection.md)
+- [Security Card Games](security-card-games.md)
+- [Suricata](suricata.md)
+
+<!-- kb-related:end -->

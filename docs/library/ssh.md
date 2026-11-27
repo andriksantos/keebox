@@ -9,6 +9,21 @@ Curated SSH resources.
 
 !!! info "Source"
     103 resources imported from [moul/awesome-ssh](https://github.com/moul/awesome-ssh), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**SSH**. This page brings together 103 links about SSH, grouped into 3 sections. The largest sections are **Apps**, **Resources**, **Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Apps** — 80 links
+- **Libraries** — 10 links
+- **Resources** — 13 links
+
+<!-- kb-about:end -->
+
 ## Apps
 
 ### `.ssh/config`
@@ -166,3 +181,20 @@ Curated SSH resources.
 
 - [StackOverflow](http://stackoverflow.com/questions/tagged/ssh)
 - [ServerFault](http://serverfault.com/questions/tagged/ssh)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [Terminals Are Sexy](terminals-are-sexy.md)
+- [WezTerm](wezterm.md)
+- [Fish](fish.md)
+- [Git Hooks](git-hooks.md)
+- [GitHub Actions](github-actions.md)
+- [Hyper](hyper.md)
+- [Pinned Gists](pinned-gists.md)
+- [Shell](shell.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ Package manager for Linux and other Unix systems that makes package management r
 
 !!! info "Source"
     202 resources imported from [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Nix** — package manager for Linux and other Unix systems that makes package management reliable and reproducible. This page brings together 202 links about Nix, grouped into 14 sections. The largest sections are **Development**, **Programming Languages**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 29 links
+- **Installation Media** — 6 links
+- **Channel History** — 4 links
+- **Deployment Tools** — 16 links
+- **Virtualisation** — 4 links
+- **Command-Line Tools** — 24 links
+- **Development** — 40 links
+- **DevOps** — 3 links
+- **Programming Languages** — 39 links
+- **NixOS Modules** — 15 links
+- **NixOS Configuration Editors** — 3 links
+- **Overlays** — 9 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Learning
@@ -318,3 +343,20 @@ Package manager for Linux and other Unix systems that makes package management r
 - [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 - [Wiki (Official)](https://wiki.nixos.org/wiki/Main_Page)
 - [Wiki (Unofficial)](https://nixos.wiki/wiki/Main_Page)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Node.js](node-js.md)
+- [Node-RED](node-red.md)
+- [Omarchy](omarchy.md)
+- [Open Source Apps](open-source-apps.md)
+- [JVM](jvm.md)
+- [KDE](kde.md)
+- [Low Code](low-code.md)
+- [.NET](net.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,25 @@ Curated Open Source Games resources.
 
 !!! info "Source"
     431 resources imported from [michelpereira/awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Open Source Games**. This page brings together 431 links about Open Source Games, grouped into 7 sections. The largest sections are **Browser-Based**, **Native**, **Frameworks/Engines/Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Browser-Based** — 156 links
+- **Native** — 149 links
+- **Mobile Games** — 24 links
+- **Chat bots** — 1 link
+- **Just The Source** — 13 links
+- **Frameworks/Engines/Libraries** — 68 links
+- **Maps/Hacks/Plugins/Utilities/All of the Things** — 20 links
+
+<!-- kb-about:end -->
+
 ## Browser-Based
 
 ### Boardgame
@@ -544,3 +563,20 @@ Curated Open Source Games resources.
 - [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
 - [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
 - [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [PlayCanvas](playcanvas.md)
+- [Roblox](roblox.md)
+- [Babylon.js](babylon-js.md)
+- [CHIP-8](chip-8.md)
+- [LÖVE](l-ve.md)
+- [Learn Gamedev](learn-gamedev.md)
+- [libGDX](libgdx.md)
+- [Minecraft](minecraft.md)
+
+<!-- kb-related:end -->

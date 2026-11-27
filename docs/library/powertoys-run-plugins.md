@@ -9,6 +9,23 @@ Community plugins for the Windows quick launcher.
 
 !!! info "Source"
     49 resources imported from [hlaueriksson/awesome-powertoys-run-plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**PowerToys Run Plugins** — community plugins for the Windows quick launcher. This page brings together 49 links about PowerToys Run Plugins, grouped into 5 sections. The largest sections are **Plugins**, **Resources**, **Official**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 3 links
+- **Installation** — 1 link
+- **Plugins** — 36 links
+- **Resources** — 7 links
+- **Articles** — 2 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
@@ -72,3 +89,20 @@ Community plugins for the Windows quick launcher.
 
 - [Creating custom PowerToys Run plugins](https://conductofcode.io/post/creating-custom-powertoys-run-plugins/) - A step by step guide on how to create community plugins for PowerToys Run.
 - [How I developed the JohnnyDecimal plugin](https://blog.seguri.dev/posts/powertoys-run-johnnydecimal/) - A step by step guide on how the JohnnyDecimal community plugin was developed.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Raspberry Pi](raspberry-pi.md)
+- [Roslyn](roslyn.md)
+- [Salesforce](salesforce.md)
+- [Smart TV](smart-tv.md)
+- [Node.js](node-js.md)
+- [Node-RED](node-red.md)
+- [Omarchy](omarchy.md)
+- [Open Source Apps](open-source-apps.md)
+
+<!-- kb-related:end -->

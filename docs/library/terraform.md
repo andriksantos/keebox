@@ -9,6 +9,31 @@ Tool for building, changing, and versioning infrastructure.
 
 !!! info "Source"
     483 resources imported from [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Terraform** — tool for building, changing, and versioning infrastructure. This page brings together 483 links about Terraform, grouped into 19 sections. The largest sections are **Tools**, **Providers**, **Community Modules**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 4 links
+- **Community** — 16 links
+- **Books** — 15 links
+- **Learning and Studying** — 4 links
+- **Apps** — 3 links
+- **Tutorials and Blog Posts** — 46 links
+- **Community Modules** — 61 links
+- **Self-Hosted Registries** — 12 links
+- **Managed Registries** — 3 links
+- **Providers** — 72 links
+- **Testing** — 6 links
+- **Tools** — 182 links
+- …and 7 more sections
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Hashicorp Terraform Blog](https://www.hashicorp.com/en/blog/products/terraform)
@@ -585,3 +610,20 @@ Tool for building, changing, and versioning infrastructure.
 - [vim-hcl](https://github.com/jvirtanen/vim-hcl) - Syntax highlighting for HCL
 - [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
 - [Vim-Terraform](https://github.com/hashivim/vim-terraform)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Vagrant](vagrant.md)
+- [Vapor](vapor.md)
+- [Apache Wicket](apache-wicket.md)
+- [CDK](cdk.md)
+- [Pyramid](pyramid.md)
+- [Reflex](reflex.md)
+- [Slim](slim.md)
+- [Symfony](symfony.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,21 @@ Scifi.
 
 !!! info "Source"
     44 resources imported from [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Entertainment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Science Fiction** — scifi. This page brings together 44 links about Science Fiction, grouped into 3 sections. The largest sections are **Novels**, **Links**, **Movies**, a good place to start if you are exploring the topic for the first time. It belongs to the **Entertainment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Novels** — 38 links
+- **Movies** — 1 link
+- **Links** — 5 links
+
+<!-- kb-about:end -->
+
 ## Novels
 
 ### Science Fiction
@@ -129,3 +144,13 @@ Scifi.
 - [Top 100 sci-fi and fantasy books as picked by NPR listeners](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
 - [List of all the movies from this list on Letterboxd](https://letterboxd.com/potherca/list/the-awesome-sci-fi-list/)
 - [List of all the novels, short story collections, and comic books from this list on Goodreads](https://www.goodreads.com/list/show/148073.The_Awesome_Sci_Fi_List)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Entertainment** category of the [KEEBOX Library](index.md):
+
+- [Fantasy](fantasy.md)
+
+<!-- kb-related:end -->

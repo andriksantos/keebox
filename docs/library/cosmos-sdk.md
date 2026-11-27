@@ -9,6 +9,31 @@ Modular framework for building app-specific blockchains in Go.
 
 !!! info "Source"
     145 resources imported from [cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Cosmos SDK** — modular framework for building app-specific blockchains in Go. This page brings together 143 links about Cosmos SDK, grouped into 16 sections. The largest sections are **Tools**, **Client Libraries**, **Monitoring**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Core Components** — 9 links
+- **Documentation** — 8 links
+- **Client Libraries** — 19 links
+- **Block Explorers** — 14 links
+- **Chain Registry** — 3 links
+- **Validators** — 4 links
+- **Monitoring** — 15 links
+- **Indexers** — 4 links
+- **Frameworks** — 5 links
+- **Virtual Machines** — 4 links
+- **IBC** — 10 links
+- **Testing** — 9 links
+- …and 4 more sections
+
+<!-- kb-about:end -->
+
 ## Core Components
 
 - [Cosmos Hub](https://github.com/cosmos/gaia)
@@ -234,3 +259,20 @@ Modular framework for building app-specific blockchains in Go.
 - [(Not So) Smart Cosmos, examples of common Cosmos app vulnerabilities](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cosmos)
 - [Go coding guide](https://cyber.orijtech.com/scsec/cosmos-go-coding-guide)
 - [The Cosmos Security Handbook - Part 1](https://www.faulttolerant.xyz/2024-01-16-cosmos-security-1)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [EOSIO](eosio.md)
+- [Ethereum](ethereum.md)
+- [Golem](golem.md)
+- [Mastodon](mastodon.md)
+- [ATProto](atproto.md)
+- [Bitcoin](bitcoin.md)
+- [Blockchain AI](blockchain-ai.md)
+- [Corda](corda.md)
+
+<!-- kb-related:end -->

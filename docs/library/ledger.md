@@ -9,6 +9,26 @@ Double-entry accounting on the command-line.
 
 !!! info "Source"
     24 resources imported from [sfischer13/awesome-ledger](https://github.com/sfischer13/awesome-ledger), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ledger** — double-entry accounting on the command-line. This page brings together 24 links about Ledger, grouped into 8 sections. The largest sections are **Documentation**, **Editors**, **Introduction**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Introduction** — 3 links
+- **Background** — 2 links
+- **Documentation** — 4 links
+- **Editors** — 4 links
+- **Tools** — 3 links
+- **Social** — 3 links
+- **Media** — 3 links
+- **Miscellaneous** — 2 links
+
+<!-- kb-about:end -->
+
 ## Introduction
 
 - [Ledger](http://ledger-cli.org/) - Official website.
@@ -56,3 +76,20 @@ Double-entry accounting on the command-line.
 
 - [Code](https://github.com/ledger/ledger) - Code on GitHub.
 - [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Markdown](markdown.md)
+- [Microservices](microservices.md)
+- [MQTT](mqtt.md)
+- [Naming](naming.md)
+- [IRC](irc.md)
+- [JSON](json.md)
+- [Jupyter](jupyter.md)
+- [Katas](katas.md)
+
+<!-- kb-related:end -->

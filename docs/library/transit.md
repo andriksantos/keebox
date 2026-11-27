@@ -9,6 +9,22 @@ Curated Transit resources.
 
 !!! info "Source"
     465 resources imported from [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Transit**. This page brings together 461 links about Transit, grouped into 4 sections. The largest sections are **Producing Data**, **Using Data**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Producing Data** — 247 links
+- **Sharing Data** — 23 links
+- **Using Data** — 158 links
+- **Resources** — 33 links
+
+<!-- kb-about:end -->
+
 ## Producing Data
 
 ### GTFS
@@ -654,3 +670,20 @@ Curated Transit resources.
 
 - [Vendors Providing GTFS Creation/Maintenance services](https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml) - Add new vendors [here](http://goo.gl/forms/YDbPSPmufS).
 - [Entities Providing Transportation Software Development Consulting Services](https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml) - Add new entities [here](http://goo.gl/forms/cc6kcVERuP).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Translations](translations.md)
+- [Uncopyright](uncopyright.md)
+- [Unicode](unicode.md)
+- [Urban & Regional Planning](urban-regional-planning.md)
+- [Steam](steam-2.md)
+- [Steam Deck](steam-deck.md)
+- [Tech Ethics](tech-ethics.md)
+- [Theravada](theravada.md)
+
+<!-- kb-related:end -->

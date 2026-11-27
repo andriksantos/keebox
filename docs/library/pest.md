@@ -9,6 +9,21 @@ Parser generator.
 
 !!! info "Source"
     47 resources imported from [pest-parser/awesome-pest](https://github.com/pest-parser/awesome-pest), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Pest** — parser generator. This page brings together 47 links about Pest, grouped into 3 sections. The largest sections are **Projects**, **Tooling**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 6 links
+- **Projects** — 30 links
+- **Tooling** — 11 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 - [Book](https://pest.rs/book) - The recommended way to start parsing with pest is to read this official book.
@@ -72,3 +87,20 @@ Parser generator.
 ### CLI Debugger
 
 - [pest_debugger](https://docs.rs/pest_debugger/latest/pest_debugger/) - It is a crate for debugging pest grammars. It can be used as a CLI tool or as a library. [See instructions for using the CLI debugger](https://github.com/pest-parser/awesome-pest/blob/HEAD/debugger.md).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Ponyfills](ponyfills.md)
+- [Promises](promises.md)
+- [PureScript](purescript.md)
+- [Q#](q.md)
+- [npm](npm.md)
+- [npm scripts](npm-scripts.md)
+- [Observables](observables.md)
+- [Pascal](pascal.md)
+
+<!-- kb-related:end -->

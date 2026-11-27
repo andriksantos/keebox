@@ -9,6 +9,15 @@ Curated PCAPTools resources.
 
 !!! info "Source"
     10 resources imported from [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Networking**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**PCAPTools**. This page brings together 0 links about PCAPTools, grouped into 0 sections. It belongs to the **Networking** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ### Capture tools
 
 - [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - a subsystem of Linux kernel to capture usb packets.
@@ -24,3 +33,15 @@ Curated PCAPTools resources.
 - [RIPE-NCC Hadoop for PCAP](https://github.com/RIPE-NCC/hadoop-pcap): A Hadoop library to read packet capture (PCAP) files. Bundles the code used to read PCAPs. Can be used within MapReduce jobs to natively read PCAP files. Also features a Hive Serializer/Deserializer (SerDe) to query PCAPs using SQL like commands.
 - [Traffic Data Repository at the WIDE Project](https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/): It becomes increasingly important for both network researchers and operators to know the trend of network traffic and to find anomaly in their network traffic. This paper describes an on-going effort within the WIDE project to collect a set of free tools to build a traffic data repository containing detailed information of our backbone traffic. Traffic traces are collected by tcpdump and, after removing privacy information, the traces are made open to the public. We review the issues on user privacy, and then, the tools used to build the WIDE traffic repository. We will report the current status and findings in the early stage of our IPv6 deployment.
 - [Usenix93 Paper on BPF](https://www.tcpdump.org/papers/bpf-usenix93.pdf): The libpcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Networking** category of the [KEEBOX Library](index.md):
+
+- [Real-Time Communications](real-time-communications.md)
+- [SNMP](snmp.md)
+- [Cilium](cilium.md)
+
+<!-- kb-related:end -->

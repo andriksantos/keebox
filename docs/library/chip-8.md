@@ -9,6 +9,24 @@ Virtual computer game machine from the 70s.
 
 !!! info "Source"
     48 resources imported from [tobiasvl/awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**CHIP-8** — virtual computer game machine from the 70s. This page brings together 48 links about CHIP-8, grouped into 6 sections. The largest sections are **Software development**, **Documentation**, **Emulator/interpreter development**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Community** — 3 links
+- **Documentation** — 8 links
+- **Emulator/interpreter development** — 8 links
+- **Emulators/interpreters** — 6 links
+- **Software development** — 21 links
+- **Games** — 2 links
+
+<!-- kb-about:end -->
+
 ## Community
 
 - [COSMAC Elf Group](https://groups.io/g/cosmacelf) - Group for discussion of the COSMAC Elf, as well as anything else RCA 1802-related, including COSMAC VIP and CHIP-8.
@@ -85,3 +103,20 @@ Virtual computer game machine from the 70s.
 
 - [CHIP-8 Archive](https://johnearnest.github.io/chip8Archive/) - A collection of public domain (CC0) games, all playable online.
 - [A collection of CHIP-8 programs and documentation](https://github.com/mattmikolay/chip-8) - Matt Mikolay's games, programs and documentation.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Construct 2](construct-2.md)
+- [Esports](esports.md)
+- [Flame](flame.md)
+- [Game Datasets](game-datasets.md)
+- [Open Source Games](open-source-games.md)
+- [PlayCanvas](playcanvas.md)
+- [Roblox](roblox.md)
+- [Babylon.js](babylon-js.md)
+
+<!-- kb-related:end -->

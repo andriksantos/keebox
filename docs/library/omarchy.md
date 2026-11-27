@@ -9,6 +9,27 @@ Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby
 
 !!! info "Source"
     238 resources imported from [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Omarchy** — opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails. This page brings together 238 links about Omarchy, grouped into 9 sections. The largest sections are **Themes**, **Development Tools**, **Plugins**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 2 links
+- **Alternative Implementations** — 12 links
+- **Plugins** — 51 links
+- **Development Tools** — 56 links
+- **Alternative Curated Lists** — 3 links
+- **Community Resources** — 6 links
+- **Articles and Tutorials** — 8 links
+- **Themes** — 92 links
+- **Archived** — 8 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Omarchy](https://github.com/basecamp/omarchy) - The main Omarchy project by Basecamp.
@@ -273,3 +294,20 @@ Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby
 - [omarchy-synthwave84-theme](https://github.com/omacom-io/omarchy-synthwave84-theme) - Synthwave 84 inspired theme with retro aesthetics.
 - [omarchy-wasteland-theme](https://github.com/perfektnacht/omarchy-wasteland-theme) - Post-apocalyptic wasteland-inspired color scheme.
 - [pixincreate/configs](https://github.com/pixincreate/configs) - Cross-platform dotfiles and setup scripts with Omarchy/Omaforge profiles.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Open Source Apps](open-source-apps.md)
+- [PowerToys Run Plugins](powertoys-run-plugins.md)
+- [Raspberry Pi](raspberry-pi.md)
+- [Roslyn](roslyn.md)
+- [.NET](net.md)
+- [Nix](nix.md)
+- [Node.js](node-js.md)
+- [Node-RED](node-red.md)
+
+<!-- kb-related:end -->

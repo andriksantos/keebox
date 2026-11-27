@@ -9,6 +9,31 @@ Curated JavaScript resources.
 
 !!! info "Source"
     794 resources imported from [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**JavaScript**. This page brings together 794 links about JavaScript, grouped into 73 sections. The largest sections are **Misc**, **MVC Frameworks and Libraries**, **Data Visualization**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Package Managers** — 12 links
+- **Component Management** — 1 link
+- **Loaders** — 10 links
+- **Transpilers** — 1 link
+- **Bundlers** — 11 links
+- **Type Checkers** — 7 links
+- **Testing Frameworks** — 38 links
+- **QA Tools** — 14 links
+- **MVC Frameworks and Libraries** — 47 links
+- **Node-Powered CMS Frameworks** — 12 links
+- **Templating Engines** — 15 links
+- **Game Engines** — 10 links
+- …and 61 more sections
+
+<!-- kb-about:end -->
+
 ## Package Managers
 
 - [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
@@ -1046,3 +1071,20 @@ Curated JavaScript resources.
 - [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
 - [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Learning](learning.md)
+- [Learning](learning-2.md)
+- [Lua](lua.md)
+- [Mad Science npm Packages](mad-science-npm-packages.md)
+- [F#](f.md)
+- [Functional Programming](functional-programming.md)
+- [Imba](imba.md)
+- [J2ME](j2me.md)
+
+<!-- kb-related:end -->

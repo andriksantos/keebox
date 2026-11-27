@@ -9,6 +9,25 @@ Creating a great mobile web experience.
 
 !!! info "Source"
     98 resources imported from [myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Mobile Web Development** — creating a great mobile web experience. This page brings together 98 links about Mobile Web Development, grouped into 7 sections. The largest sections are **Articles and Documentation**, **Specifications from W3C for Enhancing Mobile Web Experience**, **Other Useful Tools and Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles and Documentation** — 47 links
+- **Books** — 6 links
+- **Specifications from W3C for Enhancing Mobile Web Experience** — 14 links
+- **Talks** — 6 links
+- **Auditing Tools** — 7 links
+- **Platform Monitoring** — 4 links
+- **Other Useful Tools and Libraries** — 14 links
+
+<!-- kb-about:end -->
+
 ## Articles and Documentation
 
 - [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - How to prevent 300 ms delay on tap.
@@ -127,3 +146,20 @@ Creating a great mobile web experience.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites.
 - [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
 - [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Motion UI Design](motion-ui-design.md)
+- [Offline-First](offline-first.md)
+- [PageSpeed Metrics](pagespeed-metrics.md)
+- [Polymer](polymer.md)
+- [Marionette.js](marionette-js.md)
+- [Master CSS](master-css.md)
+- [Material-UI](material-ui.md)
+- [MDBootstrap](mdbootstrap.md)
+
+<!-- kb-related:end -->

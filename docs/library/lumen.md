@@ -9,6 +9,25 @@ PHP micro-framework.
 
 !!! info "Source"
     46 resources imported from [unicodeveloper/awesome-lumen](https://github.com/unicodeveloper/awesome-lumen), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Lumen** — pHP micro-framework. This page brings together 46 links about Lumen, grouped into 7 sections. The largest sections are **Packages and Middleware**, **Tutorials**, **Made With Lumen**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Essentials** — 3 links
+- **Demos** — 1 link
+- **Tutorials** — 15 links
+- **Packages and Middleware** — 19 links
+- **Made With Lumen** — 5 links
+- **Books** — 2 links
+- **Community** — 1 link
+
+<!-- kb-about:end -->
+
 ## Essentials
 
 - [Lumen Homepage](https://lumen.laravel.com/)
@@ -80,3 +99,20 @@ PHP micro-framework.
 ## Community
 
 - [StackOverflow](http://stackoverflow.com/questions/tagged/lumen)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [nginx](nginx.md)
+- [OpenTofu](opentofu.md)
+- [Play1 Framework](play1-framework.md)
+- [Pyramid](pyramid.md)
+- [FastAPI](fastapi.md)
+- [Flask](flask.md)
+- [IAM](iam.md)
+- [Kustomize](kustomize.md)
+
+<!-- kb-related:end -->

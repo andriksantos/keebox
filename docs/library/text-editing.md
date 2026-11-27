@@ -9,6 +9,21 @@ Curated Text Editing resources.
 
 !!! info "Source"
     40 resources imported from [dok/awesome-text-editing](https://github.com/dok/awesome-text-editing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Text Editing**. This page brings together 40 links about Text Editing, grouped into 3 sections. The largest sections are **Rich-text editors using contenteditable**, **Code editors**, **Markdown editors**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Rich-text editors using contenteditable** — 32 links
+- **Code editors** — 6 links
+- **Markdown editors** — 2 links
+
+<!-- kb-about:end -->
+
 ## Rich-text editors using contenteditable
 
 - [Slate](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable
@@ -57,3 +72,20 @@ Curated Text Editing resources.
 
 - [markdown-js](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 - [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Tiny JS](tiny-js.md)
+- [Tips](tips.md)
+- [Web Animation](web-animation.md)
+- [Web Audio](web-audio.md)
+- [Storybook](storybook.md)
+- [Svelte](svelte.md)
+- [SVG](svg.md)
+- [Tailwind CSS](tailwind-css.md)
+
+<!-- kb-related:end -->

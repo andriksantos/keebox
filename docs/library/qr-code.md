@@ -9,6 +9,22 @@ A type of matrix barcode that can be used to store and share a small amount of i
 
 !!! info "Source"
     29 resources imported from [make-github-pseudonymous-again/awesome-qr-code](https://github.com/make-github-pseudonymous-again/awesome-qr-code), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**QR Code** — a type of matrix barcode that can be used to store and share a small amount of information. This page brings together 29 links about QR Code, grouped into 4 sections. The largest sections are **Libraries**, **CLI**, **Apps**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Apps** — 3 links
+- **CLI** — 5 links
+- **Libraries** — 20 links
+- **Resources** — 1 link
+
+<!-- kb-about:end -->
+
 ## Apps
 
 ### Readers
@@ -98,3 +114,20 @@ A type of matrix barcode that can be used to store and share a small amount of i
 ## Resources
 
 - [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Quarto](quarto.md)
+- [Read the Docs](read-the-docs.md)
+- [Readme](readme.md)
+- [Research Tools](research-tools.md)
+- [Pokémon](pok-mon.md)
+- [Prisma](prisma.md)
+- [Product Design](product-design.md)
+- [Prometheus](prometheus.md)
+
+<!-- kb-related:end -->

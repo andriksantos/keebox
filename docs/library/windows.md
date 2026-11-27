@@ -9,6 +9,31 @@ Consumer desktop operating system.
 
 !!! info "Source"
     372 resources imported from [0pandadev/awesome-windows](https://github.com/0pandadev/awesome-windows), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Windows** — consumer desktop operating system. This page brings together 372 links about Windows, grouped into 37 sections. The largest sections are **System Utilities**, **Productivity**, **Security**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **API Development** — 6 links
+- **Application Launchers** — 8 links
+- **Audio** — 15 links
+- **Backup** — 3 links
+- **Browsers** — 7 links
+- **CAD** — 1 link
+- **Cloud Storage** — 10 links
+- **Command Line Tools** — 12 links
+- **Communication** — 13 links
+- **Compression** — 6 links
+- **Customization** — 15 links
+- **Data Recovery** — 5 links
+- …and 25 more sections
+
+<!-- kb-about:end -->
+
 ## API Development
 
 - [Bruno](https://www.usebruno.com/) - Tests APIs with Git version control integration. [![Open-Source Software][oss]](https://github.com/usebruno/bruno) ![star]
@@ -491,3 +516,20 @@ Consumer desktop operating system.
 - [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
 - [GlazeWM](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
 - [WinGlide](https://github.com/congchuahiep/WinGlide) - Navigate windows by taskbar position (not Z-order like Alt+Tab) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software][oss]](https://github.com/congchuahiep/WinGlide)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Actions on Google](actions-on-google.md)
+- [Adafruit IO](adafruit-io.md)
+- [Android](android.md)
+- [AppImage](appimage.md)
+- [Smart TV](smart-tv.md)
+- [Uno Platform](uno-platform.md)
+- [watchOS](watchos.md)
+- [WebExtensions](webextensions.md)
+
+<!-- kb-related:end -->

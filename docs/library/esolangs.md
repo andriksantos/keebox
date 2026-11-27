@@ -9,6 +9,24 @@ Programming languages designed for experimentation or as jokes rather than actua
 
 !!! info "Source"
     94 resources imported from [angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Esolangs** — programming languages designed for experimentation or as jokes rather than actual use. This page brings together 94 links about Esolangs, grouped into 6 sections. The largest sections are **Languages**, **Others**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Languages** — 69 links
+- **Algorithms** — 2 links
+- **Others** — 7 links
+- **Resources** — 7 links
+- **Articles** — 4 links
+- **Community** — 5 links
+
+<!-- kb-about:end -->
+
 ## Languages
 
 - [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
@@ -120,3 +138,20 @@ Programming languages designed for experimentation or as jokes rather than actua
 - [Freenode IRC Channel](http://webchat.freenode.net/?channels=esoteric&uio=d4) - The #esoteric IRC channel on freenode.
 - [Reddit Esolangs](https://www.reddit.com/r/esolangs) - Reddit community on esolangs.
 - [Esolangs Discord Server](https://discord.gg/SdFJQmd4QJ) - A Discord community about esoteric languages.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [F#](f.md)
+- [Functional Programming](functional-programming.md)
+- [Imba](imba.md)
+- [J2ME](j2me.md)
+- [Dart](dart.md)
+- [Data Science](data-science.md)
+- [Elm](elm.md)
+- [ESLint](eslint.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ Mapping and location analysis platform for developers.
 
 !!! info "Source"
     180 resources imported from [Esri/awesome-arcgis-developer](https://github.com/Esri/awesome-arcgis-developer), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ArcGIS Developer** — mapping and location analysis platform for developers. This page brings together 178 links about ArcGIS Developer, grouped into 14 sections. The largest sections are **APIs and SDKs**, **Code samples and snippets**, **Specifications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **APIs and SDKs** — 27 links
+- **Application generators and CLIs** — 3 links
+- **ArcGIS location services** — 12 links
+- **Code samples and snippets** — 23 links
+- **Data conversion tools** — 17 links
+- **Data integration tools** — 7 links
+- **Debugging tools** — 7 links
+- **Design and styling** — 11 links
+- **Developer guides** — 9 links
+- **Helpers** — 14 links
+- **Map and data exploration** — 9 links
+- **Playgrounds** — 7 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## APIs and SDKs
 
         - [ArcGIS API for Python](https://developers.arcgis.com/python/) - Guides, sample notebooks, and API reference to do mapping, spatial analysis, data science, geospatial AI, and automation using Python.
@@ -230,3 +255,20 @@ Mapping and location analysis platform for developers.
 - [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps, and command line tools, CLI utilities, servers, etc.
 - Check the [contributing guidelines for this repo](https://github.com/Esri/awesome-arcgis-developer/blob/HEAD/CONTRIBUTING.md).
 - Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Arch-based Projects](arch-based-projects.md)
+- [Backstage](backstage.md)
+- [Bluetooth Low Energy](bluetooth-low-energy.md)
+- [Cloudflare](cloudflare.md)
+- [Adafruit IO](adafruit-io.md)
+- [Android](android.md)
+- [AppImage](appimage.md)
+- [Apps](apps.md)
+
+<!-- kb-related:end -->

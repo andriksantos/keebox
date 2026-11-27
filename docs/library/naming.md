@@ -9,6 +9,29 @@ Guides for naming things in computer science.
 
 !!! info "Source"
     99 resources imported from [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Naming** — guides for naming things in computer science. This page brings together 99 links about Naming, grouped into 11 sections. The largest sections are **Other**, **Tools, Applications, Libraries, Frameworks**, **Data Structures and Algorithms**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Computer Graphics** — 1 link
+- **Data Structures and Algorithms** — 10 links
+- **Design Patterns and Anti-Patterns** — 7 links
+- **Functions** — 5 links
+- **IT Security** — 10 links
+- **Machine Learning and Artificial Intelligence** — 7 links
+- **Programming Languages and Programming Language Theory** — 6 links
+- **Theoretical Computer Science** — 5 links
+- **Tools, Applications, Libraries, Frameworks** — 16 links
+- **User Interface Design** — 9 links
+- **Other** — 23 links
+
+<!-- kb-about:end -->
+
 ## Computer Graphics
 
 - [Gift wrapping algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) - An algorithm for constructing the smallest shape that wraps a collection of points.
@@ -140,3 +163,20 @@ Guides for naming things in computer science.
 - [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - Shake the dependency tree until all the dead parts are falling off and you end up with a nice lean tree.
 - [Unfair enumeration](https://www.youtube.com/watch?v=CvLsVfq6cks&t=835s) - A program that outputs all even numbers and then all odd numbers generates an unfair enumeration of the natural numbers because some numbers are never reached.
 - [Yoda condition](https://eslint.org/docs/latest/rules/yoda) - When you write `if ("red" === color) {` instead of `if (color === "red") {` because it reads as, “if red equals the color”, similar to the way the Star Wars character Yoda speaks.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Open Source Supporters](open-source-supporters.md)
+- [OpenStreetMap](openstreetmap.md)
+- [Permacomputing](permacomputing.md)
+- [Pokémon](pok-mon.md)
+- [Ledger](ledger.md)
+- [Markdown](markdown.md)
+- [Microservices](microservices.md)
+- [MQTT](mqtt.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,30 @@ An open data mapping project utilized by many apps and devices.
 
 !!! info "Source"
     152 resources imported from [osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**OpenStreetMap** — an open data mapping project utilized by many apps and devices. This page brings together 152 links about OpenStreetMap, grouped into 12 sections. The largest sections are **Maps**, **Libraries**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Editors** — 15 links
+- **Tools** — 24 links
+- **Changeset Tools** — 14 links
+- **Tasking Managers** — 8 links
+- **Maps** — 35 links
+- **Libraries** — 26 links
+- **Public APIs** — 10 links
+- **Miscellaneous** — 3 links
+- **Video** — 5 links
+- **Additional Resources** — 8 links
+- **Articles** — 1 link
+- **Communities** — 3 links
+
+<!-- kb-about:end -->
+
 ## Editors
 
 ### Web Editors
@@ -257,3 +281,20 @@ An open data mapping project utilized by many apps and devices.
 - [OpenStreetMap Community](https://community.openstreetmap.org/) - Official forums hosted by the OpenStreetMap Foundation.
 - [r/openstreetmap](https://www.reddit.com/r/openstreetmap) - Inofficial Reddit forum dedicated to sharing OSM related links and news.
 - [“OpenStreetMap World” Discord](https://discord.gg/openstreetmap) - OSM related instant messaging and voice chat group.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Permacomputing](permacomputing.md)
+- [Pokémon](pok-mon.md)
+- [Prisma](prisma.md)
+- [Product Design](product-design.md)
+- [Microservices](microservices.md)
+- [MQTT](mqtt.md)
+- [Naming](naming.md)
+- [Open Source Supporters](open-source-supporters.md)
+
+<!-- kb-related:end -->

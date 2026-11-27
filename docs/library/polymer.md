@@ -9,6 +9,31 @@ JavaScript library to develop Web Components.
 
 !!! info "Source"
     98 resources imported from [Granze/awesome-polymer](https://github.com/Granze/awesome-polymer), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Polymer** — javaScript library to develop Web Components. This page brings together 98 links about Polymer, grouped into 13 sections. The largest sections are **Tools**, **Articles**, **Tutorials/Guides**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General resources** — 5 links
+- **Polymer Communities** — 5 links
+- **Tutorials/Guides** — 12 links
+- **Articles** — 14 links
+- **Videos** — 10 links
+- **Boilerplates** — 6 links
+- **Generators** — 2 links
+- **Official Elements** — 11 links
+- **Directories** — 4 links
+- **Tools** — 18 links
+- **Testing** — 4 links
+- **Behaviors** — 4 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## General resources
 
 - [Official Site](https://www.polymer-project.org)
@@ -145,3 +170,20 @@ JavaScript library to develop Web Components.
 - [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
 - [Material Palette](https://www.materialpalette.com/) Palette generator based on Material Design
 - [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Progressive Enhancement](progressive-enhancement.md)
+- [Progressive Web Apps](progressive-web-apps.md)
+- [Protips](protips.md)
+- [React Hooks](react-hooks.md)
+- [Mobile Web Development](mobile-web-development.md)
+- [Motion UI Design](motion-ui-design.md)
+- [Offline-First](offline-first.md)
+- [PageSpeed Metrics](pagespeed-metrics.md)
+
+<!-- kb-related:end -->

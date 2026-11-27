@@ -9,6 +9,27 @@ Computer-controlled drawing machines and other visual art robots.
 
 !!! info "Source"
     295 resources imported from [beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Plotters** — computer-controlled drawing machines and other visual art robots. This page brings together 294 links about Plotters, grouped into 9 sections. The largest sections are **Manuals, Ephemera, Papers, and Patents**, **Software**, **Inspiration, Instruction, and Research**, a good place to start if you are exploring the topic for the first time. It belongs to the **Hardware** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Getting Started** — 6 links
+- **Hardware** — 36 links
+- **Software** — 94 links
+- **Inspiration, Instruction, and Research** — 42 links
+- **Manuals, Ephemera, Papers, and Patents** — 96 links
+- **Courses** — 1 link
+- **Community** — 6 links
+- **Plotter Art For Sale** — 10 links
+- **Other Awesomes** — 3 links
+
+<!-- kb-about:end -->
+
 ## Getting Started
 
 - [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - Nice video introduction to modern plotters in 2022.
@@ -369,3 +390,19 @@ Computer-controlled drawing machines and other visual art robots.
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Hardware** category of the [KEEBOX Library](index.md):
+
+- [Robotic Tooling](robotic-tooling.md)
+- [ADS-B](ads-b.md)
+- [Bluetooth Beacons](bluetooth-beacons.md)
+- [Electronics](electronics.md)
+- [Flying FPV](flying-fpv.md)
+- [LIDAR](lidar.md)
+- [Open Hardware](open-hardware.md)
+
+<!-- kb-related:end -->

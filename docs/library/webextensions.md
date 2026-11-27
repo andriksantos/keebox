@@ -9,6 +9,25 @@ Cross-browser extension system.
 
 !!! info "Source"
     46 resources imported from [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**WebExtensions** — cross-browser extension system. This page brings together 46 links about WebExtensions, grouped into 7 sections. The largest sections are **Tools**, **Libraries and Frameworks**, **Getting started**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Getting started** — 6 links
+- **Community** — 6 links
+- **Libraries and Frameworks** — 9 links
+- **Tools** — 12 links
+- **Testing** — 6 links
+- **Boilerplates** — 4 links
+- **Sample Extensions** — 3 links
+
+<!-- kb-about:end -->
+
 ## Getting started
 
 - [Chrome Extensions documentation](https://developer.chrome.com/docs/extensions/reference) - Documentation for the original Chrome extension model.
@@ -75,3 +94,20 @@ Cross-browser extension system.
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
 - [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Windows](windows.md)
+- [Actions on Google](actions-on-google.md)
+- [Adafruit IO](adafruit-io.md)
+- [Android](android.md)
+- [Salesforce](salesforce.md)
+- [Smart TV](smart-tv.md)
+- [Uno Platform](uno-platform.md)
+- [watchOS](watchos.md)
+
+<!-- kb-related:end -->

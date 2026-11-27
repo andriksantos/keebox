@@ -9,6 +9,23 @@ AI pair programming assistant by GitHub that provides code suggestions and compl
 
 !!! info "Source"
     54 resources imported from [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Copilot Agents** — aI pair programming assistant by GitHub that provides code suggestions and completions. This page brings together 54 links about Copilot Agents, grouped into 5 sections. The largest sections are **Instructions**, **Agent Skills**, **MCPs**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Instructions** — 23 links
+- **Prompts** — 3 links
+- **Custom Agents** — 4 links
+- **Agent Skills** — 12 links
+- **MCPs** — 12 links
+
+<!-- kb-about:end -->
+
 ## Instructions
 
 ### Boilerplates & Templates
@@ -170,3 +187,20 @@ AI pair programming assistant by GitHub that provides code suggestions and compl
 ## How to Use
 
 ### Setup Instructions
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Creative Coding](creative-coding.md)
+- [Credit Modeling](credit-modeling.md)
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md)
+- [CSV](csv.md)
+- [Code Points](code-points.md)
+- [Colorful](colorful.md)
+- [Computational Biology](computational-biology.md)
+- [Computational Geometry](computational-geometry.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,15 @@ Operating system for the Apple Watch.
 
 !!! info "Source"
     52 resources imported from [yenchenlin/awesome-watchos](https://github.com/yenchenlin/awesome-watchos), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**watchOS** — operating system for the Apple Watch. This page brings together 0 links about watchOS, grouped into 0 sections. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ### Connectivity
 
 - [MMWormhole](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
@@ -98,3 +107,20 @@ Operating system for the Apple Watch.
 - [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
 - [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
 - [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [WebExtensions](webextensions.md)
+- [Windows](windows.md)
+- [Actions on Google](actions-on-google.md)
+- [Adafruit IO](adafruit-io.md)
+- [Roslyn](roslyn.md)
+- [Salesforce](salesforce.md)
+- [Smart TV](smart-tv.md)
+- [Uno Platform](uno-platform.md)
+
+<!-- kb-related:end -->

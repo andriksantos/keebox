@@ -9,6 +9,28 @@ Making the plant-based lifestyle easy and accessible.
 
 !!! info "Source"
     78 resources imported from [sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Veganism** — making the plant-based lifestyle easy and accessible. This page brings together 78 links about Veganism, grouped into 10 sections. The largest sections are **Restaurants**, **Brands**, **Bakeries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 2 links
+- **Shoes** — 3 links
+- **Bakeries** — 7 links
+- **Restaurants** — 25 links
+- **Shops** — 4 links
+- **Brands** — 21 links
+- **Websites** — 4 links
+- **Organizations and Activism** — 5 links
+- **Documentaries** — 4 links
+- **Apps and Tools** — 3 links
+
+<!-- kb-about:end -->
+
 ## Books
 
 - [Happily Ever Esther](https://www.grandcentralpublishing.com/titles/steve-jenkins/happily-ever-esther/9781538728123/) - Wonderful true life tale, with a lot of love and compassion, and it's hilarious.
@@ -116,3 +138,20 @@ Making the plant-based lifestyle easy and accessible.
 - [HappyCow](https://www.happycow.net/) - Find vegan and vegetarian restaurants worldwide with community reviews and photos
 - [abillion](https://www.abillion.com/) - Review plant-based products and restaurants while donating to animal welfare organizations with every review
 - [Is It Vegan](https://github.com/hmontazeri/is-vegan) - Open source library and tool to check if a food ingredient or product is vegan
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Web Archiving](web-archiving.md)
+- [Web Design](web-design.md)
+- [Web Monetization](web-monetization.md)
+- [WebXR](webxr.md)
+- [Uncopyright](uncopyright.md)
+- [Unicode](unicode.md)
+- [Urban & Regional Planning](urban-regional-planning.md)
+- [Userscripts](userscripts.md)
+
+<!-- kb-related:end -->

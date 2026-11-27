@@ -9,6 +9,29 @@ Digital currency where encryption is used to regulate the generation of units an
 
 !!! info "Source"
     79 resources imported from [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Crypto Currency Tools & Algorithms** — digital currency where encryption is used to regulate the generation of units and verify transfers. This page brings together 69 links about Crypto Currency Tools & Algorithms, grouped into 11 sections. The largest sections are **Reading Material**, **Coin Wallets**, **Cool Coin/Blockchain Stuff**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Coin Market Tools & Utilities** — 8 links
+- **Reading Material** — 18 links
+- **Hashing Power for Rent** — 3 links
+- **Coin Wallets** — 12 links
+- **Coin Exchanges** — 7 links
+- **Universal GUI Apps** — 3 links
+- **Windows GUI Apps** — 2 links
+- **MacOS GUI Apps** — 1 link
+- **MacOS CLI Apps** — 4 links
+- **Recommended Hardware** — 2 links
+- **Cool Coin/Blockchain Stuff** — 9 links
+
+<!-- kb-about:end -->
+
 ## ☤ Coin Market Tools & Utilities
 
 - **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, predictions, &c.)
@@ -137,3 +160,20 @@ Digital currency where encryption is used to regulate the generation of units an
 - **[LTC](http://coinbin.org/ltc)**: `Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
 - **[LBC](http://coinbin.org/lbc)**: `bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
 - **[SC](http://coinbin.org/sc)**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884`
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [CSV](csv.md)
+- [Design Principles](design-principles.md)
+- [Dev Fun](dev-fun.md)
+- [Discounts for Student Developers](discounts-for-student-developers.md)
+- [Computational Geometry](computational-geometry.md)
+- [Copilot Agents](copilot-agents.md)
+- [Creative Coding](creative-coding.md)
+- [Credit Modeling](credit-modeling.md)
+
+<!-- kb-related:end -->

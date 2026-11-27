@@ -9,6 +9,25 @@ Help on using non-relational, distributed, open-source, and horizontally scalabl
 
 !!! info "Source"
     46 resources imported from [erictleung/awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**NoSQL Guides** — help on using non-relational, distributed, open-source, and horizontally scalable databases. This page brings together 46 links about NoSQL Guides, grouped into 7 sections. The largest sections are **Overview of NoSQL**, **Data Structures and Modeling**, **Crowd-Sourced Information**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Overview of NoSQL** — 18 links
+- **Data Structures and Modeling** — 8 links
+- **Trade-Offs in CAP/Brewers Theorem** — 2 links
+- **Crowd-Sourced Information** — 5 links
+- **Graph Databases** — 5 links
+- **Criticisms and Debates** — 4 links
+- **Miscellaneous** — 4 links
+
+<!-- kb-about:end -->
+
 ## Overview of NoSQL
 
 - [Introduction To NoSQL - Martin Fowler (54:52)](https://www.youtube.com/watch?v=qI_g07C_Q5I) - Talk given at GOTO 2012 as a great introduction to NoSQL databases, the types of NoSQL databases, their history, pros and cons, and how and when to use them.
@@ -75,3 +94,20 @@ Help on using non-relational, distributed, open-source, and horizontally scalabl
 - [Dynamo Vs Cassandra : Systems Design Of NoSQL Databases](https://sujithjay.com/data-systems/dynamo-cassandra/) - Blog post comparing and constrating system designs of two well known NoSQL databases.
 - [Why You Should Build Your Wwn NoSQL Database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Brief overview of NoSQL databases and the spectrum of schema, along with a very basic implementation of a NoSQL database using the Crystal programming language.
 - [PostgreSQL, The NoSQL Database (2015)](https://www.linuxjournal.com/content/postgresql-nosql-database) - An argument for PostgreSQL being an alternative to NoSQL databases with NoSQL-like features using its new features like HStore (key-value store) and JSONB (document-based) as of Version 9.4.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [PocketBase](pocketbase.md)
+- [PostgreSQL](postgresql.md)
+- [Supabase](supabase.md)
+- [TinkerPop](tinkerpop.md)
+- [HBase](hbase.md)
+- [InfluxDB](influxdb.md)
+- [MongoDB](mongodb.md)
+- [Neon](neon.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,25 @@ Traversing nested data structures.
 
 !!! info "Source"
     46 resources imported from [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Theory**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Recursion Schemes** — traversing nested data structures. This page brings together 46 links about Recursion Schemes, grouped into 7 sections. The largest sections are **Articles**, **Presentations**, **Implementations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Theory** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Introductions** — 5 links
+- **Articles** — 14 links
+- **Papers** — 4 links
+- **Presentations** — 10 links
+- **Cheat Sheets** — 1 link
+- **Podcasts** — 3 links
+- **Implementations** — 9 links
+
+<!-- kb-about:end -->
+
 ## Introductions
 
 - [Awesome Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
@@ -78,3 +97,19 @@ Traversing nested data structures.
 - [dada](https://github.com/sellout/dada) for Dhall - a library for recursion
 - [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
 - [Katalyst](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Theory** category of the [KEEBOX Library](index.md):
+
+- [Talks](talks.md)
+- [VLM Architectures](vlm-architectures.md)
+- [AGI & CoCoSci](agi-cocosci.md)
+- [Audit Algorithms](audit-algorithms.md)
+- [Complex Systems](complex-systems.md)
+- [Education](education-3.md)
+- [Math](math.md)
+
+<!-- kb-related:end -->

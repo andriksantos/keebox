@@ -9,6 +9,29 @@ Scientific and technical open-source publishing system built on Pandoc.
 
 !!! info "Source"
     221 resources imported from [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Quarto** — scientific and technical open-source publishing system built on Pandoc. This page brings together 221 links about Quarto, grouped into 11 sections. The largest sections are **Real-life examples**, **Tutorials & workshops**, **Blog posts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official documentation & quickstarts** — 6 links
+- **Tutorials & workshops** — 38 links
+- **Blog posts** — 34 links
+- **Talks and videos** — 33 links
+- **Supported editors** — 9 links
+- **Libraries/Packages/Scripts** — 29 links
+- **AI & LLMs** — 4 links
+- **Continuous integration / Continuous deployment** — 7 links
+- **Extensions** — 2 links
+- **Real-life examples** — 44 links
+- **Follow** — 15 links
+
+<!-- kb-about:end -->
+
 ## Official documentation & quickstarts
 
 - [Documentation: Quarto documentation](https://quarto.org/) - Official Quarto Documentation.
@@ -292,3 +315,20 @@ Scientific and technical open-source publishing system built on Pandoc.
 - [Emil Hvitfeldt (\@EmilHvitfeldt)](https://github.com/EmilHvitfeldt) - Author of the Slidecraft series on styling Quarto `revealjs` presentations (BlueSky: [\@emilhvitfeldt.bsky.social](https://bsky.app/profile/emilhvitfeldt.bsky.social)).
 - [Isabella Velásquez (\@ivelasq)](https://github.com/ivelasq) - Publishes Quarto dashboard and `brand.yml` tutorials, talks, and the posit::glimpse() newsletter (BlueSky: [\@ivelasq3.bsky.social](https://bsky.app/profile/ivelasq3.bsky.social)).
 - [Albert Rapp (\@AlbertRapp)](https://github.com/AlbertRapp) - Publishes Quarto blogging, Typst, and web development tutorials via his blog and newsletter (BlueSky: [\@albertrapp.bsky.social](https://bsky.app/profile/albertrapp.bsky.social)).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Read the Docs](read-the-docs.md)
+- [Readme](readme.md)
+- [Research Tools](research-tools.md)
+- [REST](rest.md)
+- [Prisma](prisma.md)
+- [Product Design](product-design.md)
+- [Prometheus](prometheus.md)
+- [QR Code](qr-code.md)
+
+<!-- kb-related:end -->

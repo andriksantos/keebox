@@ -9,6 +9,27 @@ A virtual CSS language with enhanced syntax.
 
 !!! info "Source"
     41 resources imported from [master-co/awesome-master-css](https://github.com/master-co/awesome-master-css), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Master CSS** — a virtual CSS language with enhanced syntax. This page brings together 41 links about Master CSS, grouped into 9 sections. The largest sections are **Framework Integrations**, **Learning**, **Official Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 5 links
+- **Learning** — 7 links
+- **Framework Integrations** — 10 links
+- **Tools** — 5 links
+- **Editor Support** — 3 links
+- **AI Coding** — 3 links
+- **Examples** — 1 link
+- **Articles** — 3 links
+- **Community** — 4 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Website](https://css.master.co) - Homepage and documentation.
@@ -76,3 +97,20 @@ A virtual CSS language with enhanced syntax.
 - [GitHub Issues](https://github.com/master-co/css/issues) - Report reproducible bugs.
 - [Discord](https://discord.com/invite/sZNKpAAAw6) - Chat with the community.
 - [X](https://twitter.com/mastercorg) - News and announcements.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Material-UI](material-ui.md)
+- [MDBootstrap](mdbootstrap.md)
+- [Mobile Web Development](mobile-web-development.md)
+- [Motion UI Design](motion-ui-design.md)
+- [jQuery](jquery.md)
+- [Less](less.md)
+- [lit](lit.md)
+- [Marionette.js](marionette-js.md)
+
+<!-- kb-related:end -->

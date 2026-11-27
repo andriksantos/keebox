@@ -9,6 +9,30 @@ Curated Book Authoring resources.
 
 !!! info "Source"
     41 resources imported from [TalAter/awesome-book-authoring](https://github.com/TalAter/awesome-book-authoring), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Books**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Book Authoring**. This page brings together 41 links about Book Authoring, grouped into 12 sections. The largest sections are **List of Publishers**, **Book Proposals**, **Contracts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Books** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Must Reads** — 2 links
+- **Book Proposals** — 6 links
+- **Contracts** — 5 links
+- **Royalties, Advances, and Other Money Stuff** — 5 links
+- **Editors** — 3 links
+- **Publishers** — 1 link
+- **Marketing** — 1 link
+- **Misc.** — 2 links
+- **List of Publishers** — 9 links
+- **Self Publishing** — 1 link
+- **Writing Workflows and Tooling** — 1 link
+- **Personal Experiences, Post Mortems and Campfire Stories** — 5 links
+
+<!-- kb-about:end -->
+
 ## Must Reads
 
 - [Scott Meyers' Advice to Prospective Book Authors](http://www.aristeia.com/authorAdvice.html)
@@ -85,3 +109,13 @@ Curated Book Authoring resources.
 - [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](http://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) - Adam Tornhill shares experience gained writing his three books (two of them self published).
 - [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - Michael Foord shares his experience publishing with Apress.
 - [Tips for Writing a Programming Book](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Books** category of the [KEEBOX Library](index.md):
+
+- [Free Programming Books](free-programming-books.md)
+
+<!-- kb-related:end -->

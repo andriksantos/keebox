@@ -9,6 +9,29 @@ JavaScript toolkit.
 
 !!! info "Source"
     105 resources imported from [petk/awesome-dojo](https://github.com/petk/awesome-dojo), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Dojo Toolkit** — javaScript toolkit. This page brings together 105 links about Dojo Toolkit, grouped into 11 sections. The largest sections are **Packages, libraries and scripts**, **Serverside integrations**, **Applications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **DojoToolkit.org resources and documentation** — 8 links
+- **Tutorials** — 4 links
+- **Bootstraps and boilerplates** — 5 links
+- **Packages, libraries and scripts** — 26 links
+- **Serverside integrations** — 18 links
+- **Testing** — 4 links
+- **Applications** — 13 links
+- **Themes** — 3 links
+- **TypeScript** — 4 links
+- **Community** — 12 links
+- **Other Awesome Lists** — 8 links
+
+<!-- kb-about:end -->
+
 ## DojoToolkit.org resources and documentation
 
 - [API](http://dojotoolkit.org/api/) - API reference for Dojo Toolkit
@@ -149,3 +172,20 @@ JavaScript toolkit.
         - [lists](https://github.com/jnv/lists) - awesome lists
         - [awesome-all](https://github.com/bradoyler/awesome-all) - awesome lists
         - [awesome-awesome](https://github.com/erichs/awesome-awesome) - awesome lists
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Emails](emails.md)
+- [Ember](ember.md)
+- [Frameworks](frameworks.md)
+- [Frontend GIS](frontend-gis.md)
+- [CSS](css.md)
+- [Cycle.js](cycle-js.md)
+- [D3](d3.md)
+- [Design systems](design-systems.md)
+
+<!-- kb-related:end -->

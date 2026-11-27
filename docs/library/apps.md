@@ -9,6 +9,31 @@ Curated Apps resources.
 
 !!! info "Source"
     1,693 resources imported from [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Apps**. This page brings together 1,689 links about Apps, grouped into 25 sections. The largest sections are **Utilities**, **Developer Tools**, **Reading and Writing Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Reading and Writing Tools** — 174 links
+- **Developer Tools** — 265 links
+- **Terminal Apps** — 31 links
+- **Design and Product** — 170 links
+- **AI Tools** — 85 links
+- **Communication** — 60 links
+- **Data Recovery Tools** — 5 links
+- **Audio and Video Tools** — 115 links
+- **Download Management Tools** — 22 links
+- **Cloud Storage** — 7 links
+- **Input Methods** — 12 links
+- **Voice-to-Text** — 31 links
+- …and 13 more sections
+
+<!-- kb-about:end -->
+
 ## Reading and Writing Tools
 
 ### Text Editors
@@ -1893,3 +1918,20 @@ Curated Apps resources.
 - [Open Alternative](https://openalternative.co/) - Discover Open Source Alternatives to Popular Software. A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.
 - MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 - Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](https://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [ArcGIS Developer](arcgis-developer.md)
+- [Arch-based Projects](arch-based-projects.md)
+- [Backstage](backstage.md)
+- [Bluetooth Low Energy](bluetooth-low-energy.md)
+- [Actions on Google](actions-on-google.md)
+- [Adafruit IO](adafruit-io.md)
+- [Android](android.md)
+- [AppImage](appimage.md)
+
+<!-- kb-related:end -->

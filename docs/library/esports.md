@@ -9,6 +9,23 @@ Video games played as a sport.
 
 !!! info "Source"
     34 resources imported from [strift/awesome-esports](https://github.com/strift/awesome-esports), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Esports** — video games played as a sport. This page brings together 34 links about Esports, grouped into 5 sections. The largest sections are **Libraries**, **Applications & Tools**, **Unofficial documentation**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Libraries** — 22 links
+- **Developer tools** — 1 link
+- **Unofficial documentation** — 3 links
+- **Applications & Tools** — 7 links
+- **Education** — 1 link
+
+<!-- kb-about:end -->
+
 ## Libraries
 
 ### APIs & Web Services
@@ -71,3 +88,20 @@ Video games played as a sport.
 ## Education
 
 - [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Flame](flame.md)
+- [Game Datasets](game-datasets.md)
+- [Game Engine Development](game-engine-development.md)
+- [Game Production](game-production.md)
+- [Roblox](roblox.md)
+- [Babylon.js](babylon-js.md)
+- [CHIP-8](chip-8.md)
+- [Construct 2](construct-2.md)
+
+<!-- kb-related:end -->

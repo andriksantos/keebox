@@ -52,3 +52,35 @@ Curated cross-platform and Android development frameworks, UI libraries, tools a
 - [Awesome React Native](https://github.com/jondot/awesome-react-native) - Awesome components, news, apps and resources for React Native.
 - [Awesome Android](https://github.com/JStumpp/awesome-android) - Curated list of awesome Android packages and resources.
 - [Android Interview Questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your cheat sheet for Android interviews.
+
+<!-- kb-guide:start -->
+
+## Native or cross-platform?
+
+Most teams today start with a cross-platform framework and go native only where they need it:
+
+- **Flutter** compiles to native code and draws its own UI, so apps look identical on Android and iOS. A strong choice for custom, brand-heavy interfaces.
+- **React Native with Expo** is the fastest path for teams that already know React and JavaScript or TypeScript. Expo handles builds, updates and many device APIs for you.
+- **Kotlin Multiplatform and Compose Multiplatform** share business logic (and optionally UI) while keeping full access to native platform code. Popular with Android teams moving into iOS.
+- **Ionic and Capacitor** wrap a web app in a native shell. Good for internal tools and content apps when you already have a web front end.
+- **Native (Kotlin or Swift)** is still the best option for apps that depend heavily on the camera, background work, widgets or the newest platform features.
+
+Whatever you choose, plan early for push notifications, deep links, offline storage, analytics and app store review — they take more time than the first screens.
+
+## Frequently asked questions
+
+??? question "Which framework should I learn first for mobile apps?"
+    If you already know JavaScript, start with React Native and Expo. If you are starting from zero or want a very polished custom UI, Flutter is easier to learn as a whole package. For an Android-only career, learn Kotlin and Jetpack Compose.
+
+??? question "Can I build an iOS app without a Mac?"
+    You can write and test the code on Windows or Linux with Flutter or Expo, and use cloud build services such as Expo EAS to produce the iOS build. To publish on the App Store you still need an Apple Developer account.
+
+??? question "How do I test a mobile app on real devices?"
+    Use the emulators included with Android Studio and Xcode for daily work, then test on at least one real low-end Android phone. Tools such as Maestro and Detox automate end-to-end tests on devices.
+
+## Keep exploring
+
+- [iOS development](ios.md) · [Swift](swift.md) · [Flutter resources](library/flutter.md) · [Android resources](library/android.md)
+- [Mobile web development](library/mobile-web-development.md) · [Testing & QA](testing.md)
+
+<!-- kb-guide:end -->

@@ -9,6 +9,25 @@ A type of vulnerability that specifically targets machine learning models.
 
 !!! info "Source"
     60 resources imported from [FonduAI/awesome-prompt-injection](https://github.com/FonduAI/awesome-prompt-injection), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Prompt Injection** — a type of vulnerability that specifically targets machine learning models. This page brings together 60 links about Prompt Injection, grouped into 7 sections. The largest sections are **Articles and Blog posts**, **Research Papers**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Introduction Resources** — 3 links
+- **Articles and Blog posts** — 20 links
+- **Tutorials** — 5 links
+- **Research Papers** — 11 links
+- **Tools** — 9 links
+- **CTF** — 7 links
+- **Community** — 5 links
+
+<!-- kb-about:end -->
+
 ## Introduction Resources
 
 - [OWASP GenAI LLM Top 10 (2026)](https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/) - The canonical community reference for LLM application risk, with prompt injection at number one. Supersedes the 2025 edition; the per-risk 2025 pages remain online as an archive.
@@ -89,3 +108,20 @@ A type of vulnerability that specifically targets machine learning models.
 - [Simon Willison's Blog](https://simonwillison.net) - The most consistent independent tracker of real-world prompt injection incidents, new papers, and tooling across the field.
 - [r/llmsecurity](https://www.reddit.com/r/llmsecurity/) - The most active subreddit dedicated to LLM security research; a good early-warning channel for real-world incidents and new disclosures.
 - [MITRE ATLAS](https://atlas.mitre.org/) - MITRE's adversarial ML threat matrix formally cataloging direct and indirect prompt injection as core adversary techniques, enabling integration into enterprise threat modelling and purple team exercises.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Security Card Games](security-card-games.md)
+- [Suricata](suricata.md)
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md)
+- [Web Security](web-security.md)
+- [GDPR](gdpr.md)
+- [Malware Persistence](malware-persistence.md)
+- [OpenID Connect](openid-connect.md)
+- [Password Cracking](password-cracking.md)
+
+<!-- kb-related:end -->

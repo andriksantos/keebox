@@ -9,6 +9,31 @@ Curated Research Tools resources.
 
 !!! info "Source"
     310 resources imported from [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Research Tools**. This page brings together 308 links about Research Tools, grouped into 13 sections. The largest sections are **Note Taking**, **Publishing and Sharing**, **Academic**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Be-Organized** — 18 links
+- **Cloud Services** — 34 links
+- **Publishing and Sharing** — 38 links
+- **Note Taking** — 57 links
+- **Presentation Tools** — 28 links
+- **Programming** — 25 links
+- **Academic** — 35 links
+- **Pacifier** — 24 links
+- **Online Discussions** — 4 links
+- **Open Source** — 3 links
+- **Data Visualization and Graph Making** — 19 links
+- **LaTeX** — 6 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Be-Organized
 
 ### Version Control System
@@ -524,3 +549,20 @@ Curated Research Tools resources.
 - [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
 - [Unpay Wall](http://unpaywall.org/): legally download research papers for free.
 - [ToolStack](https://tools.mindutil.com/en): a free toolbox of 122 browser-based utilities (text, JSON, image, PDF, unit conversion, color) that run entirely client-side, with no signup and no file uploads.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [REST](rest.md)
+- [SAP Commerce](sap-commerce.md)
+- [Scientific Computing](scientific-computing.md)
+- [Scientific Writing](scientific-writing.md)
+- [QR Code](qr-code.md)
+- [Quarto](quarto.md)
+- [Read the Docs](read-the-docs.md)
+- [Readme](readme.md)
+
+<!-- kb-related:end -->

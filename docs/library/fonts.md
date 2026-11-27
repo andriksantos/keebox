@@ -9,6 +9,27 @@ Curated Fonts resources.
 
 !!! info "Source"
     163 resources imported from [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Fonts**. This page brings together 163 links about Fonts, grouped into 9 sections. The largest sections are **Free fonts**, **Programming fonts**, **Iconic fonts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General** — 6 links
+- **Free fonts** — 36 links
+- **Emojis** — 29 links
+- **Iconic fonts** — 33 links
+- **Programming fonts** — 35 links
+- **JavaScript libs** — 12 links
+- **Awesome lists** — 2 links
+- **GitHub Showcases** — 3 links
+- **Other** — 7 links
+
+<!-- kb-about:end -->
+
 ## General
 
 - [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
@@ -209,3 +230,20 @@ Curated Fonts resources.
 - [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
 - [Powerline Fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 - [TruFont](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [GIF](gif.md)
+- [Icons](icons.md)
+- [Music](music.md)
+- [Pixel Art](pixel-art.md)
+- [Audio Visualization](audio-visualization.md)
+- [Audiovisual](audiovisual.md)
+- [Broadcasting](broadcasting.md)
+- [FFmpeg](ffmpeg.md)
+
+<!-- kb-related:end -->

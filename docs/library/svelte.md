@@ -9,6 +9,29 @@ App framework.
 
 !!! info "Source"
     201 resources imported from [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Svelte** — app framework. This page brings together 200 links about Svelte, grouped into 11 sections. The largest sections are **UI Components**, **Utilities**, **UI Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 18 links
+- **Integrations** — 12 links
+- **State Libraries** — 3 links
+- **UI Libraries** — 27 links
+- **UI Components** — 60 links
+- **Scaffold** — 11 links
+- **Utilities** — 35 links
+- **Routers** — 12 links
+- **Frameworks** — 5 links
+- **Dev Tools** — 14 links
+- **Application Examples** — 3 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Official Resources
@@ -350,3 +373,20 @@ App framework.
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 - [Zephyr](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
 - [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [SVG](svg.md)
+- [Tailwind CSS](tailwind-css.md)
+- [Text Editing](text-editing.md)
+- [Tiny JS](tiny-js.md)
+- [Seed](seed.md)
+- [Service Workers](service-workers.md)
+- [Static Website Services](static-website-services.md)
+- [Storybook](storybook.md)
+
+<!-- kb-related:end -->

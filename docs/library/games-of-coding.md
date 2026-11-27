@@ -9,6 +9,25 @@ Learn a programming language by making games.
 
 !!! info "Source"
     47 resources imported from [michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Games of Coding** — learn a programming language by making games. This page brings together 47 links about Games of Coding, grouped into 7 sections. The largest sections are **Miscellaneous**, **JavaScript**, **Language Independent**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Language Independent** — 10 links
+- **Python** — 1 link
+- **Java** — 1 link
+- **JavaScript** — 11 links
+- **Assembly** — 3 links
+- **Scala** — 2 links
+- **Miscellaneous** — 19 links
+
+<!-- kb-about:end -->
+
 ## Language Independent
 
 - [Artifacts MMO](https://artifactsmmo.com/) - Artifacts is a Sandbox MMORPG where you can use any programming language to control your characters with our API.
@@ -76,3 +95,20 @@ Learn a programming language by making games.
 - [YouBrokeProd](https://youbrokeprod.com) - Debug production incidents through an interactive terminal simulation covering disk full, DNS failures, Kubernetes crash loops, and more.
 - [DevOps Daily Games](https://devops-daily.com/games) - Free browser simulators and terminal games for DevOps: run commands in Linux, Docker, Kubernetes, Terraform and SQL terminals, and work through load balancing, rate limiting, DNS and scaling scenarios.
 - [V5 Games](https://v5games.com) - Browser-based AI text adventure games and word games, including AI-generated interactive fiction playable directly in the browser.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Haxe Game Development](haxe-game-development.md)
+- [LÖVE](l-ve.md)
+- [Learn Gamedev](learn-gamedev.md)
+- [libGDX](libgdx.md)
+- [Game Engine Development](game-engine-development.md)
+- [Game Production](game-production.md)
+- [Game Remakes](game-remakes.md)
+- [GameMaker](gamemaker.md)
+
+<!-- kb-related:end -->

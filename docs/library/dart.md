@@ -9,6 +9,31 @@ Curated Dart resources.
 
 !!! info "Source"
     95 resources imported from [yissachar/awesome-dart](https://github.com/yissachar/awesome-dart), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Dart**. This page brings together 94 links about Dart, grouped into 24 sections. The largest sections are **Tools**, **IDEs, Editors, and Plugins**, **Utilities**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Client Web App Frameworks** — 4 links
+- **Server Frameworks** — 7 links
+- **Web Frameworks** — 1 link
+- **Other Frameworks** — 1 link
+- **Cross-platform development** — 2 links
+- **Game Development** — 5 links
+- **Animation** — 2 links
+- **Template** — 3 links
+- **Database** — 3 links
+- **Package Managers** — 2 links
+- **Utilities** — 8 links
+- **Dependency Injection** — 3 links
+- …and 12 more sections
+
+<!-- kb-about:end -->
+
 ## Client Web App Frameworks
 
 - [AngularDart Community](https://github.com/angulardart-community) - Community-maintained AngularDart websites, packages, tools, and more!
@@ -175,3 +200,20 @@ Curated Dart resources.
 - [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 - [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
 - [Dart Barrel File Generator](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Data Science](data-science.md)
+- [Elm](elm.md)
+- [ESLint](eslint.md)
+- [Esolangs](esolangs.md)
+- [ClojureScript](clojurescript.md)
+- [ColdFusion](coldfusion.md)
+- [Composer](composer.md)
+- [Coq](coq.md)
+
+<!-- kb-related:end -->

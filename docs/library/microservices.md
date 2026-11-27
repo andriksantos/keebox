@@ -9,6 +9,29 @@ Curated Microservices resources.
 
 !!! info "Source"
     379 resources imported from [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Microservices**. This page brings together 379 links about Microservices, grouped into 11 sections. The largest sections are **Capabilities**, **Service Toolkits**, **Standards / Recommendations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Platforms** — 5 links
+- **Frameworks / Runtimes** — 24 links
+- **Service Toolkits** — 95 links
+- **Frontend / UI** — 4 links
+- **Capabilities** — 162 links
+- **Continuous Integration & Delivery** — 1 link
+- **Web API Modeling & Documentation** — 11 links
+- **Standards / Recommendations** — 48 links
+- **Organization Design / Team Dynamics** — 3 links
+- **Enterprise & Verticals** — 4 links
+- **Theory** — 22 links
+
+<!-- kb-about:end -->
+
 ## Platforms
 
 - [1Backend](https://github.com/1backend/1backend) - AI-native microservices platform.
@@ -575,3 +598,20 @@ Curated Microservices resources.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 - [Microservice Patterns](http://microservices.io/) - Microservice architecture patterns and best practices.
 - [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [MQTT](mqtt.md)
+- [Naming](naming.md)
+- [Open Source Supporters](open-source-supporters.md)
+- [OpenStreetMap](openstreetmap.md)
+- [Jupyter](jupyter.md)
+- [Katas](katas.md)
+- [Ledger](ledger.md)
+- [Markdown](markdown.md)
+
+<!-- kb-related:end -->

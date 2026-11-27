@@ -9,6 +9,31 @@ description: "287 curated Sitecore resources: .NET digital marketing platform th
 
 !!! info "Source"
     287 resources imported from [MartinMiles/Awesome-Sitecore](https://github.com/MartinMiles/Awesome-Sitecore), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Sitecore** — .NET digital marketing platform that combines CMS with tools for managing multiple websites. This page brings together 287 links about Sitecore, grouped into 60 sections. The largest sections are **Containers**, **Demo**, **Extending Content Editor**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Analytics** — 3 links
+- **Audit and performance** — 5 links
+- **Azure** — 11 links
+- **Cache** — 8 links
+- **CDP** — 1 link
+- **Commerce** — 9 links
+- **Configuration** — 2 links
+- **Containers** — 17 links
+- **Content Hub** — 8 links
+- **Content Hub One** — 3 links
+- **Content SDK** — 2 links
+- **Content Search** — 9 links
+- …and 48 more sections
+
+<!-- kb-about:end -->
+
 ## Analytics
 
 - [Sitecore Goal Description](https://github.com/islaytitans/SitecoreGoalDescription) - Display the Goal Description in the Experience Profile.
@@ -475,3 +500,20 @@ description: "287 curated Sitecore resources: .NET digital marketing platform th
 - [Sitecore GraphQL Import](https://github.com/jbluemink/Sitecore-GraphQL-Import) - A console app showcases various capabilities of the Sitecore GraphQL API, such as retrieving Sitecore items, obtaining a list of websites, inserting sample items, and uploading media files.
 - [Verticals](https://github.com/Sitecore/Sitecore.Demo.XMCloud.Verticals) - A headless multi-site solution focused on XM Cloud content and site management capabilities. Includes easily customizable sample sites for select industries.
 - [Node XM Cloud Proxy](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Wagtail](wagtail.md)
+- [Craft CMS](craft-cms.md)
+- [Directus](directus.md)
+- [Drupal](drupal.md)
+- [Payload](payload.md)
+- [Plone](plone.md)
+- [Refinery CMS](refinery-cms.md)
+- [Silverstripe CMS](silverstripe-cms.md)
+
+<!-- kb-related:end -->

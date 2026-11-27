@@ -9,6 +9,27 @@ Module bundler.
 
 !!! info "Source"
     42 resources imported from [browserify/awesome-browserify](https://github.com/browserify/awesome-browserify), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Browserify was the first popular tool that let developers use Node.js-style `require()` modules in the browser by bundling them into a single file. It helped make npm the main package registry for front-end code.
+
+Most new projects now use Vite, esbuild, Rollup or webpack, but Browserify is still found in older codebases. This list is useful for maintaining those projects or planning a migration: official docs, transforms, tutorials and tools.
+
+### What you'll find
+
+- **Official Resources** — 4 links
+- **Community Resources** — 3 links
+- **Tutorials** — 4 links
+- **Articles** — 7 links
+- **Demos** — 3 links
+- **Videos** — 3 links
+- **Tools** — 18 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Docs](https://github.com/substack/node-browserify#usage)
@@ -91,3 +112,20 @@ Module bundler.
 
 - [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 - [bankai](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Building Blocks for Web Apps](building-blocks-for-web-apps.md)
+- [Chrome DevTools](chrome-devtools.md)
+- [CSS](css.md)
+- [Cycle.js](cycle-js.md)
+- [Yew](yew.md)
+- [Angular](angular.md)
+- [Backbone](backbone.md)
+- [Blazor](blazor.md)
+
+<!-- kb-related:end -->

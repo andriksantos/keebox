@@ -9,6 +9,31 @@ Style sheet language that specifies how HTML elements are displayed on screen.
 
 !!! info "Source"
     195 resources imported from [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**CSS** — style sheet language that specifies how HTML elements are displayed on screen. This page brings together 195 links about CSS, grouped into 19 sections. The largest sections are **Twitter satellite**, **Frameworks art**, **Naming conventions & Methodologies bulb**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Introduction** — 3 links
+- **CSS Working Group** — 2 links
+- **Parsers mag** — 8 links
+- **Preprocessors pill** — 6 links
+- **Frameworks art** — 29 links
+- **Toolkits wrench** — 1 link
+- **Reset and Normalize** — 8 links
+- **CSS Development at Large-Scale Websites** — 9 links
+- **Code Style Guidelines book** — 11 links
+- **Style Guide** — 9 links
+- **Style Guide Generators slot_machine** — 7 links
+- **Naming conventions & Methodologies bulb** — 12 links
+- …and 7 more sections
+
+<!-- kb-about:end -->
+
 ## Introduction
 
 ### Complementary Resources
@@ -266,3 +291,20 @@ Style sheet language that specifies how HTML elements are displayed on screen.
 - [Flexbox video tutorial](https://flexbox.io/) - Free video course by Wes Bos to learn flexbox.
 - [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
 - [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Cycle.js](cycle-js.md)
+- [D3](d3.md)
+- [Design systems](design-systems.md)
+- [Dojo Toolkit](dojo-toolkit.md)
+- [Blazor](blazor.md)
+- [Browserify](browserify.md)
+- [Building Blocks for Web Apps](building-blocks-for-web-apps.md)
+- [Chrome DevTools](chrome-devtools.md)
+
+<!-- kb-related:end -->

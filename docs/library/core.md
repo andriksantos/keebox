@@ -9,6 +9,28 @@ Curated Core resources.
 
 !!! info "Source"
     752 resources imported from [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Core**. This page brings together 751 links about Core, grouped into 10 sections. The largest sections are **Frameworks, Libraries and Tools**, **Sample Projects**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General** — 6 links
+- **Frameworks, Libraries and Tools** — 628 links
+- **Roadmaps** — 1 link
+- **Starter Kits** — 13 links
+- **Sample Projects** — 39 links
+- **Articles** — 27 links
+- **Books** — 13 links
+- **Videos** — 5 links
+- **Podcasts** — 3 links
+- **Community** — 16 links
+
+<!-- kb-about:end -->
+
 ## General
 
 - [ASP.NET Core Documentation](https://docs.asp.net/en/latest/) - The official ASP.NET Core documentation site.
@@ -948,3 +970,20 @@ Curated Core resources.
     - [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
     - [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
 - [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Cross-Platform](cross-platform.md)
+- [Deno](deno.md)
+- [DigitalOcean](digitalocean.md)
+- [DOS](dos.md)
+- [Arch-based Projects](arch-based-projects.md)
+- [Backstage](backstage.md)
+- [Bluetooth Low Energy](bluetooth-low-energy.md)
+- [Cloudflare](cloudflare.md)
+
+<!-- kb-related:end -->

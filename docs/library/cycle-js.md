@@ -9,6 +9,22 @@ Functional and reactive JavaScript framework.
 
 !!! info "Source"
     131 resources imported from [cyclejs-community/awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Cycle.js** — functional and reactive JavaScript framework. This page brings together 131 links about Cycle.js, grouped into 4 sections. The largest sections are **Libraries**, **Learn**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Learn** — 55 links
+- **Tools** — 1 link
+- **Libraries** — 74 links
+- **Community** — 1 link
+
+<!-- kb-about:end -->
+
 ## Learn
 
 ### Documentation
@@ -184,3 +200,20 @@ Functional and reactive JavaScript framework.
 ## Community
 
 - [Gitter chat](https://gitter.im/cyclejs/cycle-core) - Ask 'how do I ...?'
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [D3](d3.md)
+- [Design systems](design-systems.md)
+- [Dojo Toolkit](dojo-toolkit.md)
+- [Emails](emails.md)
+- [Browserify](browserify.md)
+- [Building Blocks for Web Apps](building-blocks-for-web-apps.md)
+- [Chrome DevTools](chrome-devtools.md)
+- [CSS](css.md)
+
+<!-- kb-related:end -->

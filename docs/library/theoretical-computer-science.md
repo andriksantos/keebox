@@ -9,6 +9,33 @@ The interplay of computer science and pure mathematics, distinguished by its emp
 
 !!! info "Source"
     213 resources imported from [mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Theoretical computer science studies what can be computed and how efficiently: algorithms, complexity classes, computability, logic, cryptography and quantum computing. It is the mathematical foundation behind everyday software engineering.
+
+This list gathers free lecture notes, recorded university courses, books and handbooks. Students preparing for exams or graduate studies should start with the **Introductory** material and the video playlists, then move into specific areas such as complexity and computability.
+
+### What you'll find
+
+- **Lecture Notes** — 1 link
+- **Lecture Videos Playlists** — 3 links
+- **Books** — 2 links
+- **Handbooks** — 4 links
+- **Introductory** — 6 links
+- **Computational Complexity** — 16 links
+- **Computability Theory** — 6 links
+- **Computational Complexity** — 1 link
+- **Basics** — 1 link
+- **Introductory** — 1 link
+- **Formal Verification** — 3 links
+- **Type Theory** — 3 links
+- …and 34 more sections
+
+<!-- kb-about:end -->
+
 ## Lecture Notes
 
 - [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
@@ -525,3 +552,20 @@ The interplay of computer science and pure mathematics, distinguished by its emp
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography).
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing).
 - [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Tutorials](tutorials.md)
+- [Tutorials](tutorials-2.md)
+- [XAI](xai.md)
+- [AI in Finance](ai-in-finance.md)
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md)
+- [Spanish](spanish.md)
+- [TensorFlow](tensorflow.md)
+- [TensorFlow.js](tensorflow-js.md)
+
+<!-- kb-related:end -->

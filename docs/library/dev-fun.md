@@ -9,6 +9,31 @@ Funny developer projects.
 
 !!! info "Source"
     100 resources imported from [mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Dev Fun** — funny developer projects. This page brings together 99 links about Dev Fun, grouped into 17 sections. The largest sections are **JavaScript**, **CLI**, **Miscellaneous**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Android** — 3 links
+- **CSS** — 2 links
+- **Elixir** — 1 link
+- **Golang** — 3 links
+- **Haskell** — 1 link
+- **HTML** — 1 link
+- **Java** — 1 link
+- **JavaScript** — 24 links
+- **PHP** — 2 links
+- **Python** — 7 links
+- **Ruby** — 4 links
+- **Esoteric languages** — 7 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Android
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - Feel for a moment as the great Stevie Wonder with this simulator for Android.
@@ -159,3 +184,20 @@ Funny developer projects.
 - [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).
 - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Discounts for Student Developers](discounts-for-student-developers.md)
+- [DTrace](dtrace.md)
+- [Event-Driven Architecture](event-driven-architecture.md)
+- [Falsehood](falsehood.md)
+- [Credit Modeling](credit-modeling.md)
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md)
+- [CSV](csv.md)
+- [Design Principles](design-principles.md)
+
+<!-- kb-related:end -->

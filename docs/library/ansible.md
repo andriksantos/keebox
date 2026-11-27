@@ -9,6 +9,27 @@ A Python-based, open-source IT configuration management and automation platform.
 
 !!! info "Source"
     102 resources imported from [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ansible** — a Python-based, open-source IT configuration management and automation platform. This page brings together 102 links about Ansible, grouped into 9 sections. The largest sections are **Tools**, **Editor and IDE Integrations**, **Playbooks, Roles and Collections**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official resources** — 3 links
+- **Community** — 4 links
+- **Tutorials** — 11 links
+- **Books** — 4 links
+- **Videos** — 7 links
+- **Tools** — 37 links
+- **Blog posts and opinions** — 9 links
+- **Playbooks, Roles and Collections** — 12 links
+- **Editor and IDE Integrations** — 15 links
+
+<!-- kb-about:end -->
+
 ## Official resources
 
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Latest user guide and documentation for Ansible.
@@ -143,3 +164,20 @@ A Python-based, open-source IT configuration management and automation platform.
     - [Ansible Lint](https://plugins.jetbrains.com/plugin/20905-ansible-lint) - Ansible Lint integration with automatic/continuous annotation of errors, warnings, and info while editing.
     - [Ansible Vault Integration](https://plugins.jetbrains.com/plugin/14353-ansible-vault-integration) - Ansible vault integration for IntelliJ IDEA with context actions for vaulting and unvaulting secrets.
 - [OrchidE](https://www.orchide.dev) - Full-featured [Ansible language support](https://plugins.jetbrains.com/plugin/12626-orchide--ansible-language-support) for IntelliJ-based IDEs, with code completion, syntax highlighting, inspections, quick documentation, navigation across playbooks, roles and inventories, and integrated Ansible Vault support.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Astrophotography](astrophotography.md)
+- [Awesome](awesome.md)
+- [Beginner-Friendly Projects](beginner-friendly-projects.md)
+- [Biological Image Analysis](biological-image-analysis.md)
+- [Advertising](advertising.md)
+- [Agriculture](agriculture.md)
+- [AMA](ama.md)
+- [Amazon Sellers](amazon-sellers.md)
+
+<!-- kb-related:end -->

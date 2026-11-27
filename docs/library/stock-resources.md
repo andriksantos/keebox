@@ -9,6 +9,31 @@ Curated Stock Resources resources.
 
 !!! info "Source"
     191 resources imported from [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Stock Resources**. This page brings together 191 links about Stock Resources, grouped into 14 sections. The largest sections are **Photography**, **Icons**, **Colors**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Photography** — 66 links
+- **Illustration** — 5 links
+- **Vector Graphics** — 10 links
+- **Videos** — 9 links
+- **Patterns** — 5 links
+- **Textures** — 1 link
+- **Fonts** — 7 links
+- **Icons** — 44 links
+- **Colors** — 12 links
+- **Aggregated Content** — 5 links
+- **HTML Templates** — 6 links
+- **Sounds & Music** — 12 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Photography
 
 ### CC0-license
@@ -260,3 +285,20 @@ Curated Stock Resources resources.
 - [Share on Twitter](https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%20%23design)
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
 - [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [VLC](vlc.md)
+- [Audio Over IP](audio-over-ip.md)
+- [Audio Visualization](audio-visualization.md)
+- [Audiovisual](audiovisual.md)
+- [GIF](gif.md)
+- [Icons](icons.md)
+- [Music](music.md)
+- [Pixel Art](pixel-art.md)
+
+<!-- kb-related:end -->

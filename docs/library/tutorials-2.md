@@ -9,6 +9,23 @@ Curated Tutorials resources.
 
 !!! info "Source"
     37 resources imported from [siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Tutorials**. This page brings together 37 links about Tutorials, grouped into 5 sections. The largest sections are **Data Science using Python**, **Common Algorithms and Procedures**, **What is Data Science**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **What is Data Science** — 4 links
+- **Common Algorithms and Procedures** — 6 links
+- **Data Science using Python** — 20 links
+- **Data Science Challenges for Beginners** — 4 links
+- **More advanced resources and lists** — 3 links
+
+<!-- kb-about:end -->
+
 ## What is Data Science?
 
 - ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
@@ -80,3 +97,20 @@ Curated Tutorials resources.
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 - [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
 - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [XAI](xai.md)
+- [AI in Finance](ai-in-finance.md)
+- [Computer Vision](computer-vision.md)
+- [Conversational AI](conversational-ai.md)
+- [TensorFlow](tensorflow.md)
+- [TensorFlow.js](tensorflow-js.md)
+- [Theoretical Computer Science](theoretical-computer-science.md)
+- [Tutorials](tutorials.md)
+
+<!-- kb-related:end -->

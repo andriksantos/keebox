@@ -9,6 +9,29 @@ Understanding the Ethereum Virtual Machine security ecosystem.
 
 !!! info "Source"
     63 resources imported from [kareniel/awesome-evm-security](https://github.com/kareniel/awesome-evm-security), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+The Ethereum Virtual Machine runs smart contracts on Ethereum and many compatible chains. Bugs in those contracts can be exploited instantly and usually cannot be reversed, so security is part of design, not a final step.
+
+This list explains the EVM security landscape: guides, governance, architecture, standards, threats, known vulnerabilities and controls. Read it before deploying contracts that hold value, and combine it with audits and automated analysis tools.
+
+### What you'll find
+
+- **Guides** — 3 links
+- **Governance** — 7 links
+- **Architecture** — 6 links
+- **Standards** — 7 links
+- **System Assets** — 10 links
+- **Threats** — 12 links
+- **Vulnerabilities** — 5 links
+- **Controls** — 11 links
+- **Ecosystem** — 2 links
+
+<!-- kb-about:end -->
+
 ## Guides
 
 - [CryptoSec.info](https://cryptosec.info/) - Information to help beginners learn how to protect their funds against hackers and scammers.
@@ -98,3 +121,20 @@ Understanding the Ethereum Virtual Machine security ecosystem.
 
 - [People to follow on Twitter](https://twitter.com/i/lists/1453086258436128770) - Twitter list to an overview of the web3 ecosystem and security people.
 - [Videos to watch on YouTube](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX) - YouTube playlist of web3 security videos.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Executable Packing](executable-packing.md)
+- [Fuzzing](fuzzing.md)
+- [GDPR](gdpr.md)
+- [Malware Persistence](malware-persistence.md)
+- [Cyber Security University](cyber-security-university.md)
+- [Detection Engineering](detection-engineering.md)
+- [DevSecOps](devsecops.md)
+- [Embedded and IoT Security](embedded-and-iot-security.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,27 @@ Lighting, audio and video in professional environments.
 
 !!! info "Source"
     65 resources imported from [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Audiovisual** — lighting, audio and video in professional environments. This page brings together 65 links about Audiovisual, grouped into 9 sections. The largest sections are **Lighting**, **Tools**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Lighting** — 17 links
+- **Audio** — 9 links
+- **Tools** — 16 links
+- **Libraries and frameworks** — 4 links
+- **Graphics** — 2 links
+- **Management** — 1 link
+- **Resources** — 11 links
+- **Tutorials** — 1 link
+- **Misc/other** — 4 links
+
+<!-- kb-about:end -->
+
 ## Lighting
 
 ### Lighting Software
@@ -127,3 +148,20 @@ Lighting, audio and video in professional environments.
 - [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from,. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/). `✓ open-source`.
 - [MIDI Monster](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
 - [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Broadcasting](broadcasting.md)
+- [FFmpeg](ffmpeg.md)
+- [Fonts](fonts.md)
+- [GIF](gif.md)
+- [Stock Resources](stock-resources.md)
+- [VLC](vlc.md)
+- [Audio Over IP](audio-over-ip.md)
+- [Audio Visualization](audio-visualization.md)
+
+<!-- kb-related:end -->

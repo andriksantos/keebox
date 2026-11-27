@@ -9,6 +9,23 @@ Curated Progressive Enhancement resources.
 
 !!! info "Source"
     52 resources imported from [jbmoelker/progressive-enhancement-resources](https://github.com/jbmoelker/progressive-enhancement-resources), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Progressive Enhancement**. This page brings together 51 links about Progressive Enhancement, grouped into 5 sections. The largest sections are **Examples**, **Testing Methods**, **Strategies**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **The Concept** — 7 links
+- **Strategies** — 9 links
+- **Feature Detection** — 7 links
+- **Testing Methods** — 11 links
+- **Examples** — 17 links
+
+<!-- kb-about:end -->
+
 ## The Concept
 
 - [Progressive Enhancement: It's about the content](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content) - Sharing content is the core of the web. Progressive Enhancement ensures access to content.
@@ -89,3 +106,20 @@ Curated Progressive Enhancement resources.
 - [jquery-pjax](https://github.com/defunkt/jquery-pjax) - Add page transitions with support for multiple containers / content slots (requires jQuery).
 - [MoOx/pjax](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Progressive Web Apps](progressive-web-apps.md)
+- [Protips](protips.md)
+- [React Hooks](react-hooks.md)
+- [Redux](redux.md)
+- [Motion UI Design](motion-ui-design.md)
+- [Offline-First](offline-first.md)
+- [PageSpeed Metrics](pagespeed-metrics.md)
+- [Polymer](polymer.md)
+
+<!-- kb-related:end -->

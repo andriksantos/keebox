@@ -9,6 +9,21 @@ Linking together different IT systems (components) to functionally cooperate as 
 
 !!! info "Source"
     695 resources imported from [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Integration** — linking together different IT systems (components) to functionally cooperate as a whole. This page brings together 695 links about Integration, grouped into 3 sections. The largest sections are **Projects**, **Integration Patterns**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Projects** — 333 links
+- **Integration Patterns** — 200 links
+- **Resources** — 162 links
+
+<!-- kb-about:end -->
+
 ## Projects
 
 ### AI Gateway
@@ -832,3 +847,20 @@ Linking together different IT systems (components) to functionally cooperate as 
 - [JSON Schema (⭐5.2k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 - [Schematron](https://www.schematron.com) - A rule-based validation language that enables developers to define and validate business rules, data reporting, quality control, and other validation scenarios. Schematron offers a flexible way to validate XML documents.
 - [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - A schema language that offers facilities for describing the structure and constraining the contents of XML documents. XML Schema enables developers to ensure that XML data conforms to a specific structure, making it easier to process and manipulate.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [IPFS](ipfs.md)
+- [JVM](jvm.md)
+- [KDE](kde.md)
+- [Low Code](low-code.md)
+- [Flutter](flutter.md)
+- [Fuse](fuse.md)
+- [GNOME](gnome.md)
+- [IBM Cloud](ibm-cloud.md)
+
+<!-- kb-related:end -->

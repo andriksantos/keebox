@@ -9,6 +9,27 @@ The transfer of the meaning of a text from one language to another.
 
 !!! info "Source"
     96 resources imported from [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Translations** — the transfer of the meaning of a text from one language to another. This page brings together 96 links about Translations, grouped into 9 sections. The largest sections are **Tools**, **Platforms**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Translations** — 5 links
+- **Platforms** — 16 links
+- **Apps** — 8 links
+- **Tools** — 35 links
+- **Articles** — 15 links
+- **Blogs** — 4 links
+- **Online Courses** — 6 links
+- **Books** — 4 links
+- **Other** — 3 links
+
+<!-- kb-about:end -->
+
 ## Translations
 
 - [English](https://github.com/mbiesiad/awesome-translations)
@@ -166,3 +187,20 @@ The transfer of the meaning of a text from one language to another.
 - [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
 - [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
 - [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Uncopyright](uncopyright.md)
+- [Unicode](unicode.md)
+- [Urban & Regional Planning](urban-regional-planning.md)
+- [Userscripts](userscripts.md)
+- [Steam Deck](steam-deck.md)
+- [Tech Ethics](tech-ethics.md)
+- [Theravada](theravada.md)
+- [Transit](transit.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,21 @@ Create tasks to automate your workflow and share them with others on GitHub.
 
 !!! info "Source"
     401 resources imported from [sdras/awesome-actions](https://github.com/sdras/awesome-actions), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**GitHub Actions** — create tasks to automate your workflow and share them with others on GitHub. This page brings together 401 links about GitHub Actions, grouped into 3 sections. The largest sections are **Community Resources**, **Official Resources**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 35 links
+- **Community Resources** — 354 links
+- **Tutorials** — 12 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Official Site](https://github.com/features/actions)
@@ -529,3 +544,20 @@ Create tasks to automate your workflow and share them with others on GitHub.
 - [Deploying Self-Hosted GitHub Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/) - Deploy self-hosted GitHub Actions runners with Docker and Docker Swarm to DigitalOcean.
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [Hyper](hyper.md)
+- [Pinned Gists](pinned-gists.md)
+- [Shell](shell.md)
+- [SSH](ssh.md)
+- [WezTerm](wezterm.md)
+- [Fish](fish.md)
+- [Git Hooks](git-hooks.md)
+- [GitHub](github.md)
+
+<!-- kb-related:end -->

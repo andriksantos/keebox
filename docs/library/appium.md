@@ -9,6 +9,31 @@ Test automation tool for apps.
 
 !!! info "Source"
     170 resources imported from [SrinivasanTarget/awesome-appium](https://github.com/SrinivasanTarget/awesome-appium), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Testing**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Appium** — test automation tool for apps. This page brings together 170 links about Appium, grouped into 13 sections. The largest sections are **Become an Appium Pro**, **Blogs**, **Test Frameworks**, a good place to start if you are exploring the topic for the first time. It belongs to the **Testing** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Server** — 1 link
+- **Clients** — 8 links
+- **Inspectors** — 5 links
+- **Become an Appium Pro** — 105 links
+- **Tutorials** — 7 links
+- **Blogs** — 19 links
+- **Workshops** — 1 link
+- **Cloud and Docker Solutions** — 7 links
+- **Cloud** — 1 link
+- **Git Books** — 2 links
+- **Test Frameworks** — 9 links
+- **Sample Apps for Practice** — 1 link
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Server
 
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
@@ -217,3 +242,20 @@ Test automation tool for apps.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/appium)
 - [`@appiumdevs` on Twitter](https://twitter.com/AppiumDevs)
 - [`#appium` on Slack](http://appium.slack.com)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Testing** category of the [KEEBOX Library](index.md):
+
+- [CodeRabbit](coderabbit.md)
+- [Gatling](gatling.md)
+- [JMeter](jmeter.md)
+- [k6](k6.md)
+- [Playwright](playwright.md)
+- [Selenium](selenium.md)
+- [TAP](tap.md)
+- [Testing](testing.md)
+
+<!-- kb-related:end -->

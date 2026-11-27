@@ -9,6 +9,31 @@ Curated Emails resources.
 
 !!! info "Source"
     141 resources imported from [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Emails**. This page brings together 141 links about Emails, grouped into 14 sections. The largest sections are **Templates**, **Tools**, **Services**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Frameworks** — 10 links
+- **Cheatsheets** — 1 link
+- **Templates** — 20 links
+- **Tools** — 20 links
+- **Services** — 20 links
+- **Self-Hosted Services** — 9 links
+- **Articles** — 5 links
+- **Design** — 4 links
+- **Blogs** — 11 links
+- **Resources** — 9 links
+- **Inspirations** — 8 links
+- **Statistics** — 4 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Frameworks
 
 ### React
@@ -199,3 +224,20 @@ Curated Emails resources.
 - [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best JavaScript books.
 - [Web Configs](https://github.com/jonathandion/web-configs) - Monorepo for all common configurations for building web apps.
 - [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Ember](ember.md)
+- [Frameworks](frameworks.md)
+- [Frontend GIS](frontend-gis.md)
+- [Hydrogen](hydrogen.md)
+- [Cycle.js](cycle-js.md)
+- [D3](d3.md)
+- [Design systems](design-systems.md)
+- [Dojo Toolkit](dojo-toolkit.md)
+
+<!-- kb-related:end -->

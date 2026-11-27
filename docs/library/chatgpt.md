@@ -9,6 +9,28 @@ Artificial intelligence chatbot developed by OpenAI.
 
 !!! info "Source"
     186 resources imported from [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ChatGPT** — artificial intelligence chatbot developed by OpenAI. This page brings together 186 links about ChatGPT, grouped into 10 sections. The largest sections are **Web apps**, **Apps**, **Browser extensions**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 2 links
+- **Apps** — 29 links
+- **Web apps** — 44 links
+- **Browser extensions** — 29 links
+- **CLI tools** — 23 links
+- **Bots** — 18 links
+- **Integrations** — 25 links
+- **Packages** — 12 links
+- **Articles** — 2 links
+- **Community** — 2 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [Website](https://chat.openai.com)
@@ -246,3 +268,20 @@ Artificial intelligence chatbot developed by OpenAI.
 
 - [Reddit](https://www.reddit.com/r/ChatGPT/)
 - [Discord](https://discord.com/invite/openai)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [ChatOps](chatops.md)
+- [Cheminformatics](cheminformatics.md)
+- [Citizen Science](citizen-science.md)
+- [Code Points](code-points.md)
+- [Biological Visualizations](biological-visualizations.md)
+- [Boilerplate Projects](boilerplate-projects.md)
+- [Bots](bots.md)
+- [Calculators](calculators.md)
+
+<!-- kb-related:end -->

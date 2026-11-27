@@ -9,6 +9,30 @@ Public domain works.
 
 !!! info "Source"
     93 resources imported from [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Uncopyright** — public domain works. This page brings together 91 links about Uncopyright, grouped into 12 sections. The largest sections are **Blogs**, **Art**, **Images**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Art** — 17 links
+- **Articles** — 4 links
+- **Blogs** — 23 links
+- **Books** — 6 links
+- **Essays** — 3 links
+- **Images** — 14 links
+- **Licenses** — 3 links
+- **Organizations** — 3 links
+- **Resources** — 7 links
+- **Software** — 8 links
+- **Talks** — 1 link
+- **Other** — 2 links
+
+<!-- kb-about:end -->
+
 ## Art
 
 - [#NEWPALMYRA](http://www.newpalmyra.org/) - Reconstruction of the ancient Palmyra city in virtual space.
@@ -137,3 +161,20 @@ Public domain works.
 
 - [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) - Huge amount of data about the world, released under CC0.
 - [The Pig and the Box](https://en.wikisource.org/wiki/The_Pig_and_the_Box) - Children book about the dangers of DRM, later released under CC0 (CC-BY-NC-SA no longer applies).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Unicode](unicode.md)
+- [Urban & Regional Planning](urban-regional-planning.md)
+- [Userscripts](userscripts.md)
+- [Veganism](veganism.md)
+- [Tech Ethics](tech-ethics.md)
+- [Theravada](theravada.md)
+- [Transit](transit.md)
+- [Translations](translations.md)
+
+<!-- kb-related:end -->

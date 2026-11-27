@@ -9,6 +9,29 @@ Prototyping interactive UI designs.
 
 !!! info "Source"
     149 resources imported from [podo/awesome-framer](https://github.com/podo/awesome-framer), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Framer** — prototyping interactive UI designs. This page brings together 149 links about Framer, grouped into 11 sections. The largest sections are **Modules**, **Tutorials**, **Other**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General** — 4 links
+- **Articles** — 2 links
+- **Videos** — 2 links
+- **Tutorials** — 21 links
+- **Video Courses** — 11 links
+- **Books** — 2 links
+- **Examples** — 3 links
+- **Modules** — 88 links
+- **UI Libraries** — 2 links
+- **Sites** — 2 links
+- **Other** — 12 links
+
+<!-- kb-about:end -->
+
 ## General
 
 - [Official Site](http://framer.com)
@@ -190,3 +213,20 @@ Prototyping interactive UI designs.
 - [Wireframe Kit](https://framer.com/assets/static/downloads/kits/wireframe-kit.zip) - Basic wireframe elements to blueprint your next big project. Direct link.
 - [AllFramer](https://allframer.club/) - Discover the curated list of Framer templates, components, blocks, plugins, and more with a blazing-fast search & filter experience!
 - [Checkout Page](https://checkoutpage.com/platforms/framer) - Native plugin for selling digital products, subscriptions, and event tickets on your Framer site through your own Stripe account.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Free Software](free-software.md)
+- [Funny Markov Chains](funny-markov-chains.md)
+- [Gemini CLI](gemini-cli.md)
+- [Geocaching](geocaching.md)
+- [Event-Driven Architecture](event-driven-architecture.md)
+- [Falsehood](falsehood.md)
+- [Food](food.md)
+- [For Girls](for-girls.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,25 @@ Material Design React components for faster and easier web development.
 
 !!! info "Source"
     45 resources imported from [nadunindunil/awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Material-UI** — material Design React components for faster and easier web development. This page brings together 45 links about Material-UI, grouped into 7 sections. The largest sections are **Components**, **Boilerplates**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 1 link
+- **Articles** — 5 links
+- **Tools** — 2 links
+- **Theming** — 3 links
+- **Components** — 23 links
+- **Applications** — 5 links
+- **Boilerplates** — 6 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 - [Material-UI](https://material-ui.com/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
@@ -74,3 +93,20 @@ Material Design React components for faster and easier web development.
 - [Gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
 - [Saas](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 - [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [MDBootstrap](mdbootstrap.md)
+- [Mobile Web Development](mobile-web-development.md)
+- [Motion UI Design](motion-ui-design.md)
+- [Offline-First](offline-first.md)
+- [Less](less.md)
+- [lit](lit.md)
+- [Marionette.js](marionette-js.md)
+- [Master CSS](master-css.md)
+
+<!-- kb-related:end -->

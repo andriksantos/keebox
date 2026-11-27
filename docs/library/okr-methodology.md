@@ -9,6 +9,29 @@ Goal setting & communication best practices.
 
 !!! info "Source"
     90 resources imported from [domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Business**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**OKR Methodology** — goal setting & communication best practices. This page brings together 90 links about OKR Methodology, grouped into 11 sections. The largest sections are **Articles**, **Software**, **Slides**, a good place to start if you are exploring the topic for the first time. It belongs to the **Business** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Basics** — 6 links
+- **Slides** — 12 links
+- **Videos** — 3 links
+- **Books** — 1 link
+- **Articles** — 29 links
+- **Guides** — 4 links
+- **Research** — 2 links
+- **Templates** — 8 links
+- **Examples** — 8 links
+- **Software** — 15 links
+- **Open Source Projects** — 2 links
+
+<!-- kb-about:end -->
+
 ## Basics
 
 - [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md): Basic concepts about OKRs.
@@ -131,3 +154,18 @@ Goal setting & communication best practices.
 
 - [BurningOkr](https://github.com/BurningOKR/BurningOKR)
 - [okr2go](https://github.com/oxisto/okr2go)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Business** category of the [KEEBOX Library](index.md):
+
+- [Social Enterprise](social-enterprise.md)
+- [Wardley Maps](wardley-maps.md)
+- [Billing](billing.md)
+- [Clean Tech](clean-tech.md)
+- [Engineering Strategy](engineering-strategy.md)
+- [Engineering Team Management](engineering-team-management.md)
+
+<!-- kb-related:end -->

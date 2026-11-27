@@ -9,6 +9,31 @@ Impossible sounding projects that exist.
 
 !!! info "Source"
     55 resources imported from [feross/awesome-mad-science](https://github.com/feross/awesome-mad-science), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Mad Science npm Packages** — impossible sounding projects that exist. This page brings together 55 links about Mad Science npm Packages, grouped into 14 sections. The largest sections are **text**, **geometry**, **mad scientists (people)**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **peer-to-peer** — 5 links
+- **browserify** — 5 links
+- **files** — 2 links
+- **geometry** — 7 links
+- **hardware** — 1 link
+- **images** — 2 links
+- **sound** — 2 links
+- **streams** — 1 link
+- **text** — 9 links
+- **terminal** — 5 links
+- **virtual machines** — 4 links
+- **misc** — 5 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## peer-to-peer
 
 - [peerwiki](https://www.npmjs.com/package/peerwiki) - all of wikipedia on bittorrent
@@ -105,3 +130,20 @@ Impossible sounding projects that exist.
 - [Mathias Buus](https://github.com/mafintosh) - torrents in node, fuse bindings, data replication
 - [Feross Aboukhadijeh](https://github.com/feross) - webtorrent, bittorrent, p2p hacks
 - [Max Ogden](https://github.com/maxogden) - streams, voxels, data replication
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [MicroPython](micropython.md)
+- [Move](move.md)
+- [Must Watch Talks](must-watch-talks.md)
+- [Network Layer](network-layer.md)
+- [JavaScript](javascript.md)
+- [Learning](learning.md)
+- [Learning](learning-2.md)
+- [Lua](lua.md)
+
+<!-- kb-related:end -->

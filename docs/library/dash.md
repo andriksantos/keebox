@@ -9,6 +9,27 @@ Python web app framework.
 
 !!! info "Source"
     62 resources imported from [ucg8j/awesome-dash](https://github.com/ucg8j/awesome-dash), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Dash** — python web app framework. This page brings together 62 links about Dash, grouped into 9 sections. The largest sections are **Component Libraries**, **Tutorials**, **App Examples**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Deployment** — 1 link
+- **Tutorials** — 18 links
+- **Component Libraries** — 26 links
+- **App Examples** — 7 links
+- **Idiomatic examples** — 1 link
+- **Galleries** — 2 links
+- **Talks** — 4 links
+- **Cheat sheets** — 1 link
+- **Community** — 2 links
+
+<!-- kb-about:end -->
+
 ## Deployment
 
 - [Ploomber Cloud](https://ploomber.io) - The community plan allows free deployments
@@ -97,3 +118,20 @@ Python web app framework.
 
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/plotly-dash)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Dropwizard](dropwizard.md)
+- [Education](education.md)
+- [FastAPI](fastapi.md)
+- [Flask](flask.md)
+- [Vagrant](vagrant.md)
+- [Vapor](vapor.md)
+- [Apache Wicket](apache-wicket.md)
+- [CDK](cdk.md)
+
+<!-- kb-related:end -->

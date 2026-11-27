@@ -9,6 +9,22 @@ Python web app framework.
 
 !!! info "Source"
     201 resources imported from [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**FastAPI** — python web app framework. This page brings together 201 links about FastAPI, grouped into 4 sections. The largest sections are **Third-Party Extensions**, **Projects**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Third-Party Extensions** — 98 links
+- **Resources** — 36 links
+- **Hosting** — 16 links
+- **Projects** — 51 links
+
+<!-- kb-about:end -->
+
 ## Third-Party Extensions
 
 ### Admin
@@ -297,3 +313,20 @@ Python web app framework.
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Flask](flask.md)
+- [IAM](iam.md)
+- [Kustomize](kustomize.md)
+- [Lumen](lumen.md)
+- [CDK](cdk.md)
+- [Dash](dash.md)
+- [Dropwizard](dropwizard.md)
+- [Education](education.md)
+
+<!-- kb-related:end -->

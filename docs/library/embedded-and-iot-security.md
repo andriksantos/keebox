@@ -9,6 +9,24 @@ Curated Embedded and IoT Security resources.
 
 !!! info "Source"
     128 resources imported from [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Embedded and IoT Security**. This page brings together 93 links about Embedded and IoT Security, grouped into 6 sections. The largest sections are **Software Tools**, **Websites**, **Hardware Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Software Tools** — 26 links
+- **Hardware Tools** — 23 links
+- **Case Studies** — 12 links
+- **Free Training** — 7 links
+- **Websites** — 24 links
+- **Conferences** — 1 link
+
+<!-- kb-about:end -->
+
 ## Software Tools
 
 ### Analysis Frameworks
@@ -192,3 +210,20 @@ Curated Embedded and IoT Security resources.
 ## Conferences
 
 - [Hardwear.io](https://hardwear.io/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [EVM Security](evm-security.md)
+- [Executable Packing](executable-packing.md)
+- [Fuzzing](fuzzing.md)
+- [GDPR](gdpr.md)
+- [CTF](ctf.md)
+- [Cyber Security University](cyber-security-university.md)
+- [Detection Engineering](detection-engineering.md)
+- [DevSecOps](devsecops.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,25 @@ App framework.
 
 !!! info "Source"
     111 resources imported from [sadcitizen/awesome-backbone](https://github.com/sadcitizen/awesome-backbone), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Backbone** — app framework. This page brings together 104 links about Backbone, grouped into 7 sections. The largest sections are **Tutorials and articles**, **Libraries**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General** — 8 links
+- **Tutorials and articles** — 42 links
+- **Books** — 13 links
+- **Videos** — 12 links
+- **Examples and boilerplates** — 6 links
+- **Courses** — 8 links
+- **Libraries** — 15 links
+
+<!-- kb-about:end -->
+
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
@@ -140,3 +159,20 @@ App framework.
 - [Backbone.Radio](https://github.com/marionettejs/backbone.radio)
 - [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter)
 - [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Blazor](blazor.md)
+- [Browserify](browserify.md)
+- [Building Blocks for Web Apps](building-blocks-for-web-apps.md)
+- [Chrome DevTools](chrome-devtools.md)
+- [WebGPU](webgpu.md)
+- [WordPress-Gatsby](wordpress-gatsby.md)
+- [Yew](yew.md)
+- [Angular](angular.md)
+
+<!-- kb-related:end -->

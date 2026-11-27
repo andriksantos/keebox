@@ -9,6 +9,31 @@ Curated Data Engineering resources.
 
 !!! info "Source"
     326 resources imported from [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Big Data**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Data Engineering**. This page brings together 326 links about Data Engineering, grouped into 18 sections. The largest sections are **Databases**, **Data Ingestion**, **Workflow**, a good place to start if you are exploring the topic for the first time. It belongs to the **Big Data** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Databases** — 68 links
+- **Data Comparison** — 4 links
+- **Data Ingestion** — 59 links
+- **File System** — 14 links
+- **Serialization format** — 12 links
+- **Stream Processing** — 20 links
+- **Batch Processing** — 26 links
+- **Charts and Dashboards** — 21 links
+- **Workflow** — 29 links
+- **Data Lake Management** — 6 links
+- **ELK Elastic Logstash Kibana** — 3 links
+- **Docker** — 10 links
+- …and 6 more sections
+
+<!-- kb-about:end -->
+
 ## Databases
 
     - [RQLite](https://github.com/rqlite/rqlite) - Replicated SQLite using the Raft consensus protocol.
@@ -408,3 +433,15 @@ Curated Data Engineering resources.
 - [Best Data Science Books](https://www.appliedaicourse.com/blog/data-science-books/) - This blog offers a curated list of top data science books, categorized by topics and learning stages, to aid readers in building foundational knowledge and staying updated with industry trends.
 - [Architecting an Apache Iceberg Lakehouse](https://www.manning.com/books/architecting-an-apache-iceberg-lakehouse) - A guide to designing an Apache Iceberg lakehouse from scratch.
 - [Learn AI Data Engineering in a Month of Lunches](https://www.manning.com/books/learn-ai-data-engineering-in-a-month-of-lunches) - A fast, friendly guide to integrating large language models into your data workflows.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Big Data** category of the [KEEBOX Library](index.md):
+
+- [Qlik](qlik.md)
+- [Splunk](splunk.md)
+- [Apache Spark](apache-spark.md)
+
+<!-- kb-related:end -->

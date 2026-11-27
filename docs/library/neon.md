@@ -9,6 +9,26 @@ An open-source alternative to AWS Aurora.
 
 !!! info "Source"
     59 resources imported from [tyaga001/awesome-neon](https://github.com/tyaga001/awesome-neon), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Neon** — an open-source alternative to AWS Aurora. This page brings together 59 links about Neon, grouped into 8 sections. The largest sections are **Community Video Tutorials**, **Community Guides**, **Blog Posts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 5 links
+- **Getting Started** — 6 links
+- **Examples** — 1 link
+- **Community Guides** — 10 links
+- **Community Video Tutorials** — 12 links
+- **Blog Posts** — 10 links
+- **YouTube Channel** — 6 links
+- **Other Interesting Articles** — 9 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Official Documentation](https://neon.tech/docs) - Access comprehensive docs for Neon, including guides, tutorials, and API references.
@@ -91,3 +111,20 @@ An open-source alternative to AWS Aurora.
 - [Using btree_gist for Multicolumn Indexes in Postgres](https://neon.tech/blog/btree_gist) - Explore the benefits and applications of using the btree_gist extension for efficient multicolumn indexing in Postgres.
 - [Adopting Neon Branching in CI/CD Pipelines: A Practical Story by Shepherd](https://neon.tech/blog/adopting-neon-branching-in-ci-cd-pipelines-a-practical-story-by-shepherd) - Discover how Shepherd implemented Neon branching in their CI/CD pipelines to improve development workflows and deployment processes.
 - [Postgres Roles: What to Know Before You Begin](https://neon.tech/blog/the-non-obviousness-of-postgres-roles) - Practical tips for developers and gotchas to avoid when using Postgres roles.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [NoSQL Guides](nosql-guides.md)
+- [PocketBase](pocketbase.md)
+- [PostgreSQL](postgresql.md)
+- [Supabase](supabase.md)
+- [Database Tools](database-tools.md)
+- [HBase](hbase.md)
+- [InfluxDB](influxdb.md)
+- [MongoDB](mongodb.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,21 @@ Free as in freedom.
 
 !!! info "Source"
     162 resources imported from [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Free Software** — free as in freedom. This page brings together 161 links about Free Software, grouped into 3 sections. The largest sections are **Software**, **Resources**, **Hardware**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Software** — 111 links
+- **Hardware** — 11 links
+- **Resources** — 39 links
+
+<!-- kb-about:end -->
+
 ## Software
 
 ### Audio
@@ -272,3 +287,20 @@ Free as in freedom.
 ### Documentaries
 
 - 2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Funny Markov Chains](funny-markov-chains.md)
+- [Gemini CLI](gemini-cli.md)
+- [Geocaching](geocaching.md)
+- [GeoJSON](geojson.md)
+- [Falsehood](falsehood.md)
+- [Food](food.md)
+- [For Girls](for-girls.md)
+- [Framer](framer.md)
+
+<!-- kb-related:end -->

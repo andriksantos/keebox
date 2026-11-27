@@ -9,6 +9,31 @@ Capture The Flag.
 
 !!! info "Source"
     219 resources imported from [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**CTF** — capture The Flag. This page brings together 219 links about CTF, grouped into 20 sections. The largest sections are **Reversing**, **Wargames**, **Forensics**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Forensics** — 4 links
+- **Platforms** — 14 links
+- **Web** — 2 links
+- **Attacks** — 2 links
+- **Crypto** — 9 links
+- **Bruteforcers** — 8 links
+- **Exploits** — 9 links
+- **Forensics** — 23 links
+- **Networking** — 7 links
+- **Reversing** — 39 links
+- **Services** — 2 links
+- **Steganography** — 20 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## Forensics
 
 - [Dnscat2](https://github.com/iagox86/dnscat2) - Hosts communication through DNS.
@@ -287,3 +312,20 @@ Capture The Flag.
 - [SababaSec](https://github.com/SababaSec/ctf-writeups) - A collection of CTF write-ups by the SababaSec team
 - [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan.
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Cyber Security University](cyber-security-university.md)
+- [Detection Engineering](detection-engineering.md)
+- [DevSecOps](devsecops.md)
+- [Embedded and IoT Security](embedded-and-iot-security.md)
+- [Suricata](suricata.md)
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md)
+- [Web Security](web-security.md)
+- [CI/CD Attacks](ci-cd-attacks.md)
+
+<!-- kb-related:end -->

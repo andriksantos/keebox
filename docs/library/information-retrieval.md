@@ -9,6 +9,24 @@ Learn to develop your own search engine.
 
 !!! info "Source"
     96 resources imported from [harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Information Retrieval** — learn to develop your own search engine. This page brings together 87 links about Information Retrieval, grouped into 6 sections. The largest sections are **Datasets**, **Talks**, **Courses**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 8 links
+- **Courses** — 10 links
+- **Software** — 4 links
+- **Datasets** — 44 links
+- **Talks** — 14 links
+- **Blogs** — 7 links
+
+<!-- kb-about:end -->
+
 ## Books
 
 - [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/) - C.D. Manning, P. Raghavan, H. Schütze. Cambridge UP, 2008. (First book for getting started with Information Retrieval).
@@ -138,3 +156,20 @@ Learn to develop your own search engine.
 - [To reduce biases in machine learning start with openly discussing the problem](https://enterprisersproject.com/article/2016/9/reduce-biases-machine-learning-start-openly-discussing-problem?sc_cid=70160000000q8YTAAY) - Bias in Relevance.
 - [Whoa, Google’s AI Is Really Good at Pictionary](https://www.wired.com/2016/11/woah-googles-ai-really-good-pictionary/) - Sketch-based search.
 - [Neural Network Learns to Identify Criminals by Their Faces](https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post) - Information Extraction.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [JAX](jax.md)
+- [Linguistics](linguistics.md)
+- [ML with Ruby](ml-with-ruby.md)
+- [Natural Language Generation](natural-language-generation.md)
+- [Education](education-2.md)
+- [Empirical Software Engineering](empirical-software-engineering.md)
+- [Generative AI](generative-ai.md)
+- [H2O](h2o.md)
+
+<!-- kb-related:end -->

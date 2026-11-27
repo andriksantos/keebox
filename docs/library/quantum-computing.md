@@ -9,6 +9,28 @@ Computing that utilizes quantum mechanics and qubits on quantum computers.
 
 !!! info "Source"
     136 resources imported from [desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Quantum Computing** — computing that utilizes quantum mechanics and qubits on quantum computers. This page brings together 136 links about Quantum Computing, grouped into 10 sections. The largest sections are **Development Tools**, **Learning**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Learning** — 29 links
+- **MOOCs** — 13 links
+- **Development Tools** — 30 links
+- **Blogs** — 16 links
+- **Books** — 17 links
+- **Popular Science** — 3 links
+- **Videos** — 11 links
+- **Community** — 13 links
+- **Podcasts** — 3 links
+- **Content in Non-English Languages** — 1 link
+
+<!-- kb-about:end -->
+
 ## Learning
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
@@ -174,3 +196,20 @@ Computing that utilizes quantum mechanics and qubits on quantum computers.
 ## Content in Non-English Languages
 
 - [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Question Answering](question-answering.md)
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md)
+- [Spanish](spanish.md)
+- [TensorFlow](tensorflow.md)
+- [Natural Language Generation](natural-language-generation.md)
+- [NLP with Ruby](nlp-with-ruby.md)
+- [Papers](papers.md)
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md)
+
+<!-- kb-related:end -->

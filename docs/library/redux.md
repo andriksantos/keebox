@@ -9,6 +9,27 @@ State container for JavaScript apps.
 
 !!! info "Source"
     80 resources imported from [brillout/awesome-redux](https://github.com/brillout/awesome-redux), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Redux** — state container for JavaScript apps. This page brings together 80 links about Redux, grouped into 9 sections. The largest sections are **Utilities**, **React Integration**, **Other Integrations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Code Architecture** — 4 links
+- **Utilities** — 25 links
+- **Code Style** — 2 links
+- **Dev tools / Inspection tools** — 9 links
+- **React Integration** — 13 links
+- **Other Integrations** — 12 links
+- **Boilerplate** — 8 links
+- **Miscellaneous** — 1 link
+- **Community** — 6 links
+
+<!-- kb-about:end -->
+
 ## Code Architecture
 
 - [redux-schema](https://github.com/ddsol/redux-schema) - Automatic actions, reducers and validation for Redux.
@@ -150,3 +171,20 @@ State container for JavaScript apps.
 - [Slack](http://slack.redux.io/)
 - [Gitter](https://gitter.im/reactjs/redux)
 - [`#rackt` on freenode](https://webchat.freenode.net/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Relay](relay.md)
+- [Sass](sass.md)
+- [Seed](seed.md)
+- [Service Workers](service-workers.md)
+- [Progressive Enhancement](progressive-enhancement.md)
+- [Progressive Web Apps](progressive-web-apps.md)
+- [Protips](protips.md)
+- [React Hooks](react-hooks.md)
+
+<!-- kb-related:end -->

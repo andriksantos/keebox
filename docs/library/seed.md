@@ -9,6 +9,25 @@ Rust framework for creating web apps running in WebAssembly.
 
 !!! info "Source"
     33 resources imported from [seed-rs/awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Seed** — rust framework for creating web apps running in WebAssembly. This page brings together 33 links about Seed, grouped into 7 sections. The largest sections are **Projects Using Seed**, **Examples**, **Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 3 links
+- **Books** — 2 links
+- **Quickstarts** — 2 links
+- **Bundlers** — 3 links
+- **Examples** — 8 links
+- **Projects Using Seed** — 11 links
+- **Libraries** — 4 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [GitHub repo](https://github.com/seed-rs/seed)
@@ -62,3 +81,20 @@ Rust framework for creating web apps running in WebAssembly.
 - [seed-icons](https://crates.io/crates/seed-icons) - Library with collections of icons to include in Seed-based application.
 - [Seed Bootstrap](https://github.com/panoptix-za/seed-bootstrap) - A collection of the [Bootstrap](https://getbootstrap.com/) CSS components.
 - [seed_heroicons](https://github.com/mh84/seed_heroicons) - Library providing [Heroicons](https://heroicons.com/) to include into Seed-based applications.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Service Workers](service-workers.md)
+- [Static Website Services](static-website-services.md)
+- [Storybook](storybook.md)
+- [Svelte](svelte.md)
+- [React Hooks](react-hooks.md)
+- [Redux](redux.md)
+- [Relay](relay.md)
+- [Sass](sass.md)
+
+<!-- kb-related:end -->

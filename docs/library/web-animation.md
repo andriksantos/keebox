@@ -9,6 +9,27 @@ Animations in the browser with JavaScript, CSS, SVG, etc.
 
 !!! info "Source"
     109 resources imported from [sergey-pimenov/awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Animation** — animations in the browser with JavaScript, CSS, SVG, etc. This page brings together 109 links about Web Animation, grouped into 9 sections. The largest sections are **Common**, **Canvas**, **GUI tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **SVG** — 9 links
+- **Common** — 22 links
+- **CSS** — 11 links
+- **Canvas** — 17 links
+- **Animate on scroll** — 12 links
+- **Text** — 9 links
+- **React** — 10 links
+- **GUI tools** — 14 links
+- **Videos** — 5 links
+
+<!-- kb-about:end -->
+
 ## SVG
 
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
@@ -146,3 +167,20 @@ Animations in the browser with JavaScript, CSS, SVG, etc.
 - [Hyperplexed](https://www.youtube.com/@Hyperplexed) - Creative front-end motion breakdowns: hover effects, text animation, and award-style interactions.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) - Daniel Shiffman teaches creative coding, canvas animation, and p5.js in an approachable format.
 - [Kevin Powell](https://www.youtube.com/@KevinPowell) - Practical CSS animation, transitions, and modern layout techniques.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Web Audio](web-audio.md)
+- [Web Components](web-components.md)
+- [Web Performance Budget](web-performance-budget.md)
+- [Web Typography](web-typography.md)
+- [Tailwind CSS](tailwind-css.md)
+- [Text Editing](text-editing.md)
+- [Tiny JS](tiny-js.md)
+- [Tips](tips.md)
+
+<!-- kb-related:end -->

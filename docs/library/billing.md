@@ -9,6 +9,33 @@ Payments, invoicing, pricing, accounting, marketplace, fraud, and business intel
 
 !!! info "Source"
     241 resources imported from [kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Business**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Billing looks simple until you have to handle taxes, proration, refunds, multiple currencies and usage-based plans. This list collects material on pricing strategy, product catalogs, invoicing, accounting, marketplaces and fraud prevention for anyone building or running a paid product.
+
+It is useful for founders deciding how to charge, developers integrating a payment provider, and finance teams reviewing their stack. Read **Basics** and **Pricing** first; the later sections go deeper into accounting, forecasting and compliance.
+
+### What you'll find
+
+- **Basics** — 4 links
+- **Pricing** — 35 links
+- **Product Catalog** — 2 links
+- **Calculator** — 3 links
+- **Cost Forecast** — 8 links
+- **Marketplace** — 18 links
+- **Accounting** — 19 links
+- **Finance** — 5 links
+- **Contracts** — 4 links
+- **Coupons and Vouchers** — 6 links
+- **Taxes** — 7 links
+- **Invoice** — 17 links
+- …and 7 more sections
+
+<!-- kb-about:end -->
+
 ## Basics
 
 - [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/) - A great introduction on all the various aspects of a billing system, from currency to invoices, including great illustrations on the logic of changing plans. All these topics are detailed in dedicated sections below.
@@ -395,3 +422,18 @@ Payments, invoicing, pricing, accounting, marketplace, fraud, and business intel
 
 - [Detax](https://detax.framer.website) - A site mockup of an tax avoidance product for small businesses.
 - [Superman III](https://en.wikipedia.org/wiki/Superman_III) - The 1983 film in which Gus Gorman, a laid-off clerk who retrains as a programmer, embezzles from his employer's payroll by skimming the fractions of a cent it rounds down.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Business** category of the [KEEBOX Library](index.md):
+
+- [Clean Tech](clean-tech.md)
+- [Engineering Strategy](engineering-strategy.md)
+- [Engineering Team Management](engineering-team-management.md)
+- [OKR Methodology](okr-methodology.md)
+- [Social Enterprise](social-enterprise.md)
+- [Wardley Maps](wardley-maps.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,21 @@ The craft of video game creation.
 
 !!! info "Source"
     20 resources imported from [notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Learn Gamedev** — the craft of video game creation. This page brings together 20 links about Learn Gamedev, grouped into 3 sections. The largest sections are **General**, **Art**, **Audio**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General** — 11 links
+- **Art** — 7 links
+- **Audio** — 2 links
+
+<!-- kb-about:end -->
+
 ## General
 
 ### New to game development? Start here 💠🟪
@@ -50,3 +65,20 @@ The craft of video game creation.
 
 - [Pixabay](https://pixabay.com/music/)
 - [DOVA-SYNDROME](https://www.youtube.com/c/DOVASYNDROMEYouTubeOfficial)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [libGDX](libgdx.md)
+- [Minecraft](minecraft.md)
+- [Open Source Games](open-source-games.md)
+- [PlayCanvas](playcanvas.md)
+- [GameMaker](gamemaker.md)
+- [Games of Coding](games-of-coding.md)
+- [Haxe Game Development](haxe-game-development.md)
+- [LÖVE](l-ve.md)
+
+<!-- kb-related:end -->

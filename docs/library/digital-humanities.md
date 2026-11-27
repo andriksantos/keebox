@@ -9,6 +9,31 @@ Software for humanities scholars using quantitative or computational methods.
 
 !!! info "Source"
     122 resources imported from [dh-tech/awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Digital Humanities** — software for humanities scholars using quantitative or computational methods. This page brings together 122 links about Digital Humanities, grouped into 18 sections. The largest sections are **User Guides and Training Materials**, **Data Analysis**, **Other Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Bibliography and Sources Management** — 3 links
+- **Corpus linguistics** — 3 links
+- **Data Collection** — 8 links
+- **Data Analysis** — 14 links
+- **Data Extraction and Conversion** — 5 links
+- **Data Annotation** — 4 links
+- **DH Centers** — 10 links
+- **Document Management and Processing** — 2 links
+- **Journals** — 4 links
+- **Organizations and Research Infrastructures** — 12 links
+- **Other Resources** — 13 links
+- **Platforms** — 5 links
+- …and 6 more sections
+
+<!-- kb-about:end -->
+
 ## Bibliography and Sources Management
 
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
@@ -184,3 +209,20 @@ Software for humanities scholars using quantitative or computational methods.
 - [Cultural AI](https://www.zotero.org/groups/2782799/cultural_ai) - A collaborative bibliography on the intersection of cultural heritage and artificial intelligence.
 - [DH Unibe](https://www.zotero.org/groups/2386895/dh_unibe) - A collaborative bibliography on Digital Humanities from the University of Bern.
 - [Doing Digital Humanities - A DARIAH Bibliography](https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography) - A comprehensive bibliography on Digital Humanities methods and practices.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Diversity](diversity.md)
+- [Empathy in Engineering](empathy-in-engineering.md)
+- [Lucid Dreams](lucid-dreams.md)
+- [Mental Health](mental-health.md)
+- [Neuroscience](neuroscience.md)
+- [Transgender](transgender.md)
+- [Biomedical Information Extraction](biomedical-information-extraction.md)
+- [Computational Neuroscience](computational-neuroscience.md)
+
+<!-- kb-related:end -->

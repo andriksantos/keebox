@@ -9,6 +9,31 @@ Everything that makes working with databases easier.
 
 !!! info "Source"
     320 resources imported from [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Database Tools** — everything that makes working with databases easier. This page brings together 320 links about Database Tools, grouped into 21 sections. The largest sections are **SQL**, **Schema**, **GUI**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **IDE** — 34 links
+- **GUI** — 35 links
+- **CLI** — 17 links
+- **Schema** — 42 links
+- **API** — 16 links
+- **Application platforms** — 7 links
+- **Backup** — 6 links
+- **Cloning** — 3 links
+- **Monitoring/Statistics/Performance** — 29 links
+- **Testing** — 4 links
+- **HA/Failover/Sharding** — 11 links
+- **Kubernetes** — 4 links
+- …and 9 more sections
+
+<!-- kb-about:end -->
+
 ## IDE
 
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development 💰 🔒.
@@ -470,3 +495,20 @@ Everything that makes working with databases easier.
 
 - [MindsDB](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 - [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [HBase](hbase.md)
+- [InfluxDB](influxdb.md)
+- [MongoDB](mongodb.md)
+- [Neon](neon.md)
+- [PostgreSQL](postgresql.md)
+- [Supabase](supabase.md)
+- [TinkerPop](tinkerpop.md)
+- [TypeDB](typedb.md)
+
+<!-- kb-related:end -->

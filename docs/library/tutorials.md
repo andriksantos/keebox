@@ -9,6 +9,31 @@ Curated Tutorials resources.
 
 !!! info "Source"
     459 resources imported from [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Tutorials**. This page brings together 455 links about Tutorials, grouped into 26 sections. The largest sections are **Deep Learning**, **Natural Language Processing**, **Decision Trees**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Introduction** — 26 links
+- **Interview Resources** — 6 links
+- **Artificial Intelligence** — 7 links
+- **Genetic Algorithms** — 7 links
+- **Statistics** — 12 links
+- **Useful Blogs** — 20 links
+- **Resources on Quora** — 8 links
+- **Kaggle Competitions WriteUp** — 5 links
+- **Cheat Sheets** — 3 links
+- **Classification** — 7 links
+- **Linear Regression** — 13 links
+- **Logistic Regression** — 7 links
+- …and 14 more sections
+
+<!-- kb-about:end -->
+
 ## Introduction
 
 - [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
@@ -548,3 +573,20 @@ Curated Tutorials resources.
 
 - For a collection of Data Science Tutorials using R, please refer to [this list](https://github.com/ujjwalkarn/DataScienceR).
 - For a collection of Data Science Tutorials using Python, please refer to [this list](https://github.com/ujjwalkarn/DataSciencePython).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Tutorials](tutorials-2.md)
+- [XAI](xai.md)
+- [AI in Finance](ai-in-finance.md)
+- [Computer Vision](computer-vision.md)
+- [Spanish](spanish.md)
+- [TensorFlow](tensorflow.md)
+- [TensorFlow.js](tensorflow-js.md)
+- [Theoretical Computer Science](theoretical-computer-science.md)
+
+<!-- kb-related:end -->

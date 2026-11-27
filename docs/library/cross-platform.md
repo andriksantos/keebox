@@ -9,6 +9,23 @@ Writing cross-platform code on Node.js.
 
 !!! info "Source"
     69 resources imported from [bcoe/awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Cross-Platform** — writing cross-platform code on Node.js. This page brings together 69 links about Cross-Platform, grouped into 5 sections. The largest sections are **Libraries**, **Applications**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 5 links
+- **Applications** — 19 links
+- **Libraries** — 41 links
+- **Known issues** — 3 links
+- **See also** — 1 link
+
+<!-- kb-about:end -->
+
 ## Resources
 
 - [Core Node.js documentation](https://nodejs.org/en/docs/) - Especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
@@ -132,3 +149,20 @@ Writing cross-platform code on Node.js.
 ## See also
 
 - [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - List of tools to build JavaScript applications on the desktop.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Deno](deno.md)
+- [DigitalOcean](digitalocean.md)
+- [DOS](dos.md)
+- [Electron](electron.md)
+- [Backstage](backstage.md)
+- [Bluetooth Low Energy](bluetooth-low-energy.md)
+- [Cloudflare](cloudflare.md)
+- [Core](core.md)
+
+<!-- kb-related:end -->

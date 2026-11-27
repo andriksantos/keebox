@@ -9,6 +9,27 @@ Learning and practicing.
 
 !!! info "Source"
     120 resources imported from [gaerae/awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Theory**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Education** — learning and practicing. This page brings together 120 links about Education, grouped into 9 sections. The largest sections are **Competitive programming**, **Courses**, **Visualizations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Theory** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Courses** — 17 links
+- **Competitive programming** — 36 links
+- **Visualizations** — 14 links
+- **Interviews** — 7 links
+- **Videos** — 10 links
+- **Books** — 12 links
+- **Articles** — 6 links
+- **Competitions** — 9 links
+- **Miscellaneous** — 9 links
+
+<!-- kb-about:end -->
+
 ## Courses
 
 #### Introductory
@@ -163,3 +184,19 @@ Learning and practicing.
 - [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
 - [HUST Online Judge System](https://github.com/hustoj/hustoj-neo) - PHP (Laravel) rewrite of the HUST judge that sends submissions to separate judge servers over RabbitMQ.
 - [Tech stack for Baekjoon online judge](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C/) - Korean / Startlink's write-up of how the Baekjoon judge was built and which technologies it runs on.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Theory** category of the [KEEBOX Library](index.md):
+
+- [Math](math.md)
+- [Recursion Schemes](recursion-schemes.md)
+- [Talks](talks.md)
+- [VLM Architectures](vlm-architectures.md)
+- [AGI & CoCoSci](agi-cocosci.md)
+- [Audit Algorithms](audit-algorithms.md)
+- [Complex Systems](complex-systems.md)
+
+<!-- kb-related:end -->

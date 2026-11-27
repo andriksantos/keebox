@@ -9,6 +9,23 @@ Metrics to help understand page speed and user experience.
 
 !!! info "Source"
     62 resources imported from [csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**PageSpeed Metrics** — metrics to help understand page speed and user experience. This page brings together 58 links about PageSpeed Metrics, grouped into 5 sections. The largest sections are **Concepts**, **Rendering metrics**, **Other metrics**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Concepts** — 21 links
+- **Rendering metrics** — 13 links
+- **Interactivity metrics** — 7 links
+- **Network metrics** — 7 links
+- **Other metrics** — 10 links
+
+<!-- kb-about:end -->
+
 ## Concepts
 
 ### Lab Data (Synthetic Measurements)
@@ -150,3 +167,20 @@ Metrics to help understand page speed and user experience.
 ### window.load
 
 - [Docs - `window.load`](https://developer.mozilla.org/en-US/docs/Web/Events/load)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Polymer](polymer.md)
+- [Progressive Enhancement](progressive-enhancement.md)
+- [Progressive Web Apps](progressive-web-apps.md)
+- [Protips](protips.md)
+- [MDBootstrap](mdbootstrap.md)
+- [Mobile Web Development](mobile-web-development.md)
+- [Motion UI Design](motion-ui-design.md)
+- [Offline-First](offline-first.md)
+
+<!-- kb-related:end -->

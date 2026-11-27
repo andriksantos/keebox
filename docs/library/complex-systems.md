@@ -9,6 +9,27 @@ The scientific field studying systems with multiple interacting parts and emerge
 
 !!! info "Source"
     73 resources imported from [sellisd/awesome-complexity](https://github.com/sellisd/awesome-complexity), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Theory**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Complex Systems** — the scientific field studying systems with multiple interacting parts and emergent properties. This page brings together 73 links about Complex Systems, grouped into 9 sections. The largest sections are **Concepts**, **Models**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Theory** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Concepts** — 17 links
+- **Scientific Journals** — 1 link
+- **Blogs/Journals** — 3 links
+- **Societies/Communities** — 3 links
+- **Organizations** — 6 links
+- **Models** — 16 links
+- **Software** — 10 links
+- **Other Resources** — 5 links
+- **Books** — 12 links
+
+<!-- kb-about:end -->
+
 ## Concepts
 
 - [Attractor](https://en.wikipedia.org/wiki/Attractor) - A trajectory in the state space of a system in which it tends to evolve towards.
@@ -113,3 +134,19 @@ The scientific field studying systems with multiple interacting parts and emerge
 - [Downey, A. (2012). Think complexity. Needham, Massachusetts: Green Tea Press.](https://worldcat.org/en/title/1043913738) - A hands-on approach exploring complex systems models with Python.
 - [Boccara, N. (2014). Modeling complex systems. Springer-Verlag New York.](https://worldcat.org/en/title/934989650) - An overview of important mathematical models of complex systems.
 - [Barrat, A., Barthelemy, M., & Vespignani, A. (2013). Dynamical processes on complex networks. Cambridge: Cambridge University Press](https://worldcat.org/en/title/849822968) - Dynamic models on complex networks.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Theory** category of the [KEEBOX Library](index.md):
+
+- [Education](education-3.md)
+- [Math](math.md)
+- [Recursion Schemes](recursion-schemes.md)
+- [Talks](talks.md)
+- [VLM Architectures](vlm-architectures.md)
+- [AGI & CoCoSci](agi-cocosci.md)
+- [Audit Algorithms](audit-algorithms.md)
+
+<!-- kb-related:end -->

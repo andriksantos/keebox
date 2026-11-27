@@ -9,6 +9,25 @@ Java game framework.
 
 !!! info "Source"
     87 resources imported from [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+libGDX is a Java game framework that targets Windows, macOS, Linux, Android, iOS and the web from one codebase. It gives you low-level control over rendering, input, audio and physics, and has been used for many commercial indie games.
+
+This list collects official resources, tutorials, free assets, community channels and related lists. Kotlin developers can use it too through KTX extensions. Start with **Tutorials** if this is your first game with the framework.
+
+### What you'll find
+
+- **Resources** — 56 links
+- **Tutorials** — 17 links
+- **Assets** — 5 links
+- **Community** — 2 links
+- **Other Lists** — 7 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Algorithms and AI
@@ -150,3 +169,20 @@ Java game framework.
 - [Magic Tools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 - [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
 - [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) - A collection of free software and free culture resources for making amazing games.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Minecraft](minecraft.md)
+- [Open Source Games](open-source-games.md)
+- [PlayCanvas](playcanvas.md)
+- [Roblox](roblox.md)
+- [Games of Coding](games-of-coding.md)
+- [Haxe Game Development](haxe-game-development.md)
+- [LÖVE](l-ve.md)
+- [Learn Gamedev](learn-gamedev.md)
+
+<!-- kb-related:end -->

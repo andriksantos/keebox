@@ -9,6 +9,20 @@ Curated Lua resources.
 
 !!! info "Source"
     207 resources imported from [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Lua**. This page brings together 207 links about Lua, grouped into 2 sections. The largest sections are **Resources**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 176 links
+- **Resources** — 31 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Implementations, Interpreters, and Bindings
@@ -351,3 +365,20 @@ Curated Lua resources.
 - [awesome-resty](https://github.com/bungle/awesome-resty) - A list like this one, but focused on OpenResty.
 - [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A list like this one, but focused on game dev and the LÖVE platform.
 - [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) - A comprehensive list of stand-alone programs written in or extensible using Lua.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Mad Science npm Packages](mad-science-npm-packages.md)
+- [MicroPython](micropython.md)
+- [Move](move.md)
+- [Must Watch Talks](must-watch-talks.md)
+- [J2ME](j2me.md)
+- [JavaScript](javascript.md)
+- [Learning](learning.md)
+- [Learning](learning-2.md)
+
+<!-- kb-related:end -->

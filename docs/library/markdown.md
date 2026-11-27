@@ -9,6 +9,23 @@ Markup language.
 
 !!! info "Source"
     104 resources imported from [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Markdown** — markup language. This page brings together 104 links about Markdown, grouped into 5 sections. The largest sections are **Tools**, **Libraries**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **CMS / Blogs** — 9 links
+- **Libraries** — 24 links
+- **Tools** — 53 links
+- **Services** — 4 links
+- **Resources** — 14 links
+
+<!-- kb-about:end -->
+
 ## CMS / Blogs
 
 - [Ghost](https://blog.ghost.org/markdown/) - Publishing platform for professional bloggers.
@@ -166,3 +183,20 @@ Markup language.
 - [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: _Where to look when you don't remember the syntax!_
 - [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Microservices](microservices.md)
+- [MQTT](mqtt.md)
+- [Naming](naming.md)
+- [Open Source Supporters](open-source-supporters.md)
+- [JSON](json.md)
+- [Jupyter](jupyter.md)
+- [Katas](katas.md)
+- [Ledger](ledger.md)
+
+<!-- kb-related:end -->

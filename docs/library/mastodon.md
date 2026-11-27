@@ -9,6 +9,31 @@ Open source decentralized microblogging network.
 
 !!! info "Source"
     83 resources imported from [hyperupcall/awesome-mastodon](https://github.com/hyperupcall/awesome-mastodon), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Mastodon** — open source decentralized microblogging network. This page brings together 83 links about Mastodon, grouped into 13 sections. The largest sections are **Similar Projects**, **Tools**, **Instances**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 3 links
+- **Instances** — 9 links
+- **Statistics** — 6 links
+- **People** — 4 links
+- **Tools** — 10 links
+- **Desktop Clients** — 9 links
+- **Mobile Clients** — 7 links
+- **Libraries** — 3 links
+- **Servers** — 3 links
+- **Guides** — 3 links
+- **Hosting** — 5 links
+- **Similar Projects** — 14 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [GitHub Repository](https://github.com/tootsuite/mastodon/)
@@ -130,3 +155,20 @@ Open source decentralized microblogging network.
 - [News Bot](https://botsin.space/@newsbot) - Mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
 - [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Post Hacker News posts with over 100 upvotes.
 - [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) - News about space flight, astronomy and astrophysics.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Non-Financial Blockchain](non-financial-blockchain.md)
+- [Ripple](ripple.md)
+- [Stacks](stacks.md)
+- [Substrate](substrate.md)
+- [Cosmos SDK](cosmos-sdk.md)
+- [EOSIO](eosio.md)
+- [Ethereum](ethereum.md)
+- [Golem](golem.md)
+
+<!-- kb-related:end -->

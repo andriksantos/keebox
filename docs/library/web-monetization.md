@@ -9,6 +9,20 @@ A free open web standard service that allows you to send money directly in your 
 
 !!! info "Source"
     49 resources imported from [thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Monetization** — a free open web standard service that allows you to send money directly in your browser. This page brings together 49 links about Web Monetization, grouped into 2 sections. The largest sections are **Resources**, **About Web Monetization**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **About Web Monetization** — 8 links
+- **Resources** — 41 links
+
+<!-- kb-about:end -->
+
 ## About Web Monetization
 
 - [Webmonetization.org](https://webmonetization.org/)
@@ -80,3 +94,20 @@ A free open web standard service that allows you to send money directly in your 
 - [Web Monetization Community](https://community.interledger.org/)
 - [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
 - [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [WebXR](webxr.md)
+- [Whisper](whisper.md)
+- [WP-CLI](wp-cli.md)
+- [Ad-Free](ad-free.md)
+- [Userscripts](userscripts.md)
+- [Veganism](veganism.md)
+- [Web Archiving](web-archiving.md)
+- [Web Design](web-design.md)
+
+<!-- kb-related:end -->

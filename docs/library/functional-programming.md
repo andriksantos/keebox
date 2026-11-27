@@ -9,6 +9,25 @@ Curated Functional Programming resources.
 
 !!! info "Source"
     184 resources imported from [stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Functional programming builds software from pure functions, immutable data and composition. The ideas come from languages like Haskell, Lisp and ML, but they are now everyday tools in JavaScript, TypeScript, Python, Kotlin and Scala.
+
+This list focuses on functional programming for JavaScript developers: utility libraries, languages that compile to JavaScript (Elm, PureScript, ReasonML and others), tools and learning resources. If you are new to the topic, begin with **Resources** before picking a library.
+
+### What you'll find
+
+- **Libraries** — 107 links
+- **Functional Languages that Compile to JavaScript** — 19 links
+- **Programming Tools** — 4 links
+- **Resources** — 53 links
+- **Community** — 1 link
+
+<!-- kb-about:end -->
+
 ## Libraries
 
 - [Ramda](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data. +TS.
@@ -229,3 +248,20 @@ Curated Functional Programming resources.
 ### Talk
 
 - [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Imba](imba.md)
+- [J2ME](j2me.md)
+- [JavaScript](javascript.md)
+- [Learning](learning.md)
+- [Elm](elm.md)
+- [ESLint](eslint.md)
+- [Esolangs](esolangs.md)
+- [F#](f.md)
+
+<!-- kb-related:end -->

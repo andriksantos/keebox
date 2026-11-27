@@ -9,6 +9,22 @@ The reciprocation of Artificial General Intelligence (AGI) and Computational Cog
 
 !!! info "Source"
     1,045 resources imported from [YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Theory**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**AGI & CoCoSci** — the reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci). This page brings together 1,045 links about AGI & CoCoSci, grouped into 4 sections. The largest sections are **Papers**, **Academic Tools**, **Institute & Researcher**, a good place to start if you are exploring the topic for the first time. It belongs to the **Theory** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Papers** — 944 links
+- **Academic Tools** — 45 links
+- **Institute & Researcher** — 42 links
+- **People & Book** — 14 links
+
+<!-- kb-about:end -->
+
 ## Papers
 
 ### Abduction
@@ -1375,3 +1391,19 @@ The reciprocation of Artificial General Intelligence (AGI) and Computational Cog
 
 - [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
 - [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Theory** category of the [KEEBOX Library](index.md):
+
+- [Audit Algorithms](audit-algorithms.md)
+- [Complex Systems](complex-systems.md)
+- [Education](education-3.md)
+- [Math](math.md)
+- [Recursion Schemes](recursion-schemes.md)
+- [Talks](talks.md)
+- [VLM Architectures](vlm-architectures.md)
+
+<!-- kb-related:end -->

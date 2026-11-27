@@ -9,6 +9,26 @@ Software testing.
 
 !!! info "Source"
     256 resources imported from [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Testing**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Testing** — software testing. This page brings together 256 links about Testing, grouped into 8 sections. The largest sections are **Software**, **Suggested Awesome Lists**, **Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Testing** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Software** — 211 links
+- **Books** — 12 links
+- **Training (Includes developer training for automation testers)** — 5 links
+- **Blogs** — 5 links
+- **Newsletters** — 3 links
+- **Suggested Awesome Lists** — 15 links
+- **QA and Testing Road Map** — 2 links
+- **Others** — 3 links
+
+<!-- kb-about:end -->
+
 ## Software
 
 ### API Testing
@@ -346,3 +366,20 @@ Software testing.
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 - [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Testing** category of the [KEEBOX Library](index.md):
+
+- [Appium](appium.md)
+- [CodeRabbit](coderabbit.md)
+- [Gatling](gatling.md)
+- [JMeter](jmeter.md)
+- [k6](k6.md)
+- [Playwright](playwright.md)
+- [Selenium](selenium.md)
+- [TAP](tap.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ Curated Beginner-Friendly Projects resources.
 
 !!! info "Source"
     252 resources imported from [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Beginner-Friendly Projects**. This page brings together 252 links about Beginner-Friendly Projects, grouped into 30 sections. The largest sections are **JavaScript**, **Python**, **TypeScript**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **.NET** — 2 links
+- **Angular** — 1 link
+- **Ansible** — 1 link
+- **C** — 2 links
+- **C** — 5 links
+- **C++** — 10 links
+- **Clojure** — 1 link
+- **CSS** — 1 link
+- **Dart** — 3 links
+- **Electron** — 1 link
+- **Elixir** — 2 links
+- **Elm** — 1 link
+- …and 18 more sections
+
+<!-- kb-about:end -->
+
 ## .NET
 
 - [Legerity](https://github.com/MADE-Apps/legerity) _(label: good first issue)_  A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
@@ -350,3 +375,20 @@ Curated Beginner-Friendly Projects resources.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_  A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_  Next generation frontend tooling. It's fast! Alternative to Create React App
 - [Vitest](https://github.com/vitest-dev/vitest) _(label: good first issue)_  A blazing fast unit test framework powered by Vite.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Biological Image Analysis](biological-image-analysis.md)
+- [Biological Visualizations](biological-visualizations.md)
+- [Boilerplate Projects](boilerplate-projects.md)
+- [Bots](bots.md)
+- [Amazon Sellers](amazon-sellers.md)
+- [Ansible](ansible.md)
+- [Astrophotography](astrophotography.md)
+- [Awesome](awesome.md)
+
+<!-- kb-related:end -->

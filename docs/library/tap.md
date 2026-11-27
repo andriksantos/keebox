@@ -9,6 +9,26 @@ Test Anything Protocol.
 
 !!! info "Source"
     50 resources imported from [sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Testing**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**TAP** — test Anything Protocol. This page brings together 50 links about TAP, grouped into 8 sections. The largest sections are **Reporters**, **Producers**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Testing** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Reporters** — 20 links
+- **Producers** — 15 links
+- **Consumers** — 3 links
+- **Tools** — 5 links
+- **Articles** — 1 link
+- **Tutorials** — 1 link
+- **Documentation** — 2 links
+- **Community** — 3 links
+
+<!-- kb-about:end -->
+
 ## Reporters
 
 ### JavaScript
@@ -105,3 +125,20 @@ Test Anything Protocol.
 - [Discuss](https://github.com/TestAnything/Specification/issues)
 - [Reddit](https://www.reddit.com/r/testanythingprotocol)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/tap)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Testing** category of the [KEEBOX Library](index.md):
+
+- [Testing](testing.md)
+- [Appium](appium.md)
+- [CodeRabbit](coderabbit.md)
+- [Gatling](gatling.md)
+- [JMeter](jmeter.md)
+- [k6](k6.md)
+- [Playwright](playwright.md)
+- [Selenium](selenium.md)
+
+<!-- kb-related:end -->

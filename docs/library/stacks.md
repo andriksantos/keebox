@@ -9,6 +9,23 @@ A smart contract platform secured by Bitcoin.
 
 !!! info "Source"
     109 resources imported from [friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Stacks** — a smart contract platform secured by Bitcoin. This page brings together 109 links about Stacks, grouped into 5 sections. The largest sections are **Apps**, **Clarity Resources**, **Learning Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Apps** — 38 links
+- **Clarity Resources** — 31 links
+- **App Development** — 14 links
+- **Learning Resources** — 21 links
+- **Community** — 5 links
+
+<!-- kb-about:end -->
+
 ## Apps
 
 ### Wallets
@@ -191,3 +208,20 @@ A smart contract platform secured by Bitcoin.
 - [YouTube](https://www.youtube.com/c/Blockstack) - Stacks ecosystem YouTube.
 - [Official Stacks Forum](https://forum.stacks.org/) - Stacks community forum.
 - [r/stacks](https://www.reddit.com/r/stacks) - Stacks subreddit.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Substrate](substrate.md)
+- [Tor](tor.md)
+- [Waves](waves.md)
+- [Algorand](algorand.md)
+- [Golem](golem.md)
+- [Mastodon](mastodon.md)
+- [Non-Financial Blockchain](non-financial-blockchain.md)
+- [Ripple](ripple.md)
+
+<!-- kb-related:end -->

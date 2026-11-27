@@ -9,6 +9,20 @@ Techniques to ensure certain performance metrics for a website.
 
 !!! info "Source"
     65 resources imported from [pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Performance Budget** — techniques to ensure certain performance metrics for a website. This page brings together 65 links about Web Performance Budget, grouped into 2 sections. The largest sections are **Learn**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Learn** — 33 links
+- **Tools** — 32 links
+
+<!-- kb-about:end -->
+
 ## Learn
 
 ### Articles
@@ -110,3 +124,20 @@ Techniques to ensure certain performance metrics for a website.
 - [PageGuard](https://pageguard.org) - Free website health scanner that measures Core Web Vitals and suggests action plans. No signup required.
 - [Screpy](https://screpy.com/) - Track Core Web Vitals and page-speed changes across monitored pages.
 - [Betterloop](https://betterloopai.com/check) - Free website checker that ranks fixes and shows mobile and desktop PageSpeed Insights results. No signup required.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Web Typography](web-typography.md)
+- [WebAssembly](webassembly.md)
+- [WebGL](webgl.md)
+- [WebGPU](webgpu.md)
+- [Tips](tips.md)
+- [Web Animation](web-animation.md)
+- [Web Audio](web-audio.md)
+- [Web Components](web-components.md)
+
+<!-- kb-related:end -->

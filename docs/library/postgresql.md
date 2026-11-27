@@ -9,6 +9,15 @@ Object-relational database.
 
 !!! info "Source"
     54 resources imported from [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**PostgreSQL** — object-relational database. This page brings together 53 links about PostgreSQL, grouped into 1 sections. The largest sections are **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Tutorials
@@ -94,3 +103,20 @@ Object-relational database.
 - [Wikipedia admin tools list](https://en.wikipedia.org/wiki/Comparison_of_database_tools) - Comparison of database administration tools on Wikipedia
 - [PostgreSQL Wiki GUI tools list](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - Community Guide to PostgreSQL GUI Tools
 - [PostgreSQL Wiki Foreign Data Wrappers list](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) - Foreign data wrappers
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [Supabase](supabase.md)
+- [TinkerPop](tinkerpop.md)
+- [TypeDB](typedb.md)
+- [Database Tools](database-tools.md)
+- [MongoDB](mongodb.md)
+- [Neon](neon.md)
+- [NoSQL Guides](nosql-guides.md)
+- [PocketBase](pocketbase.md)
+
+<!-- kb-related:end -->

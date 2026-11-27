@@ -9,6 +9,24 @@ Curated Chrome DevTools resources.
 
 !!! info "Source"
     73 resources imported from [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Chrome DevTools**. This page brings together 51 links about Chrome DevTools, grouped into 6 sections. The largest sections are **Alumni**, **Chrome DevTools Protocol**, **DevTools Extensions**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Learning** — 6 links
+- **Tracing & Profiling** — 4 links
+- **Chrome DevTools Protocol** — 12 links
+- **Using DevTools frontend with other platforms** — 6 links
+- **DevTools Extensions** — 8 links
+- **Alumni** — 15 links
+
+<!-- kb-about:end -->
+
 ## Learning
 
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
@@ -114,3 +132,20 @@ Curated Chrome DevTools resources.
 - [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via CDP.
     - [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builds on `ios-webkit-debug-proxy` and translates WebKit's Remote Debugging Protocol to CDP.
 - [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adapter translating IE 11 to CDP.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [CSS](css.md)
+- [Cycle.js](cycle-js.md)
+- [D3](d3.md)
+- [Design systems](design-systems.md)
+- [Backbone](backbone.md)
+- [Blazor](blazor.md)
+- [Browserify](browserify.md)
+- [Building Blocks for Web Apps](building-blocks-for-web-apps.md)
+
+<!-- kb-related:end -->

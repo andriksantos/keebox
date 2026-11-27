@@ -9,6 +9,24 @@ Leading the process of designing, developing, testing and distributing a video g
 
 !!! info "Source"
     86 resources imported from [vhladiienko/awesome-game-production](https://github.com/vhladiienko/awesome-game-production), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Game Production** — leading the process of designing, developing, testing and distributing a video game from concept to release. This page brings together 65 links about Game Production, grouped into 6 sections. The largest sections are **Articles**, **Subscriptions**, **Tools and templates**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 9 links
+- **Articles** — 16 links
+- **Videos** — 10 links
+- **Tools and templates** — 11 links
+- **Subscriptions** — 15 links
+- **Websites and other resources** — 4 links
+
+<!-- kb-about:end -->
+
 ## 📚 Books
 
 - [Agile Game Development with SCRUM](https://amazon.com/dp/0321618521) - The book provides detailed explanations and real-world examples of how SCRUM can be used to increase productivity, improve communication, and deliver high-quality games on time and within budget.
@@ -151,3 +169,20 @@ Leading the process of designing, developing, testing and distributing a video g
 - [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - Not sure how accurate this data is, as I'm not from USA.
 - [Seyed's Publisher Database](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0/edit?gid=1783327951#gid=1783327951) - A very detailed list of game publishers with some extra notes on most of them. Go-to resource for finding yourself a publisher.
 - [How To Market A Game](https://howtomarketagame.com/) - Chris knows a thing or two about game marketing and discoverability. As a Game Producer, you will cross paths with marketing quite often, so go follow him.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Game Remakes](game-remakes.md)
+- [GameMaker](gamemaker.md)
+- [Games of Coding](games-of-coding.md)
+- [Haxe Game Development](haxe-game-development.md)
+- [Esports](esports.md)
+- [Flame](flame.md)
+- [Game Datasets](game-datasets.md)
+- [Game Engine Development](game-engine-development.md)
+
+<!-- kb-related:end -->

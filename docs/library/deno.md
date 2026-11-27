@@ -9,6 +9,29 @@ A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust
 
 !!! info "Source"
     168 resources imported from [denolib/awesome-deno](https://github.com/denolib/awesome-deno), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Deno** — a secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. This page brings together 168 links about Deno, grouped into 11 sections. The largest sections are **Modules**, **Resources in Other Languages**, **Presentations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Docs** — 5 links
+- **Modules** — 72 links
+- **Registries** — 1 link
+- **Showcases** — 7 links
+- **Tools** — 18 links
+- **Integrations** — 5 links
+- **Blogs/Newsletters** — 2 links
+- **Articles** — 15 links
+- **Presentations** — 19 links
+- **Resources** — 1 link
+- **Resources in Other Languages** — 23 links
+
+<!-- kb-about:end -->
+
 ## Docs
 
 ### Official Docs
@@ -301,3 +324,20 @@ A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust
 ### Kurdish (Central)
 
 - [A short introduction to Deno](https://devs.krd/about-deno)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [DigitalOcean](digitalocean.md)
+- [DOS](dos.md)
+- [Electron](electron.md)
+- [ESP](esp.md)
+- [Bluetooth Low Energy](bluetooth-low-energy.md)
+- [Cloudflare](cloudflare.md)
+- [Core](core.md)
+- [Cross-Platform](cross-platform.md)
+
+<!-- kb-related:end -->

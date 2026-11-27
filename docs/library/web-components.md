@@ -9,6 +9,31 @@ Curated Web Components resources.
 
 !!! info "Source"
     526 resources imported from [web-padawan/awesome-web-components](https://github.com/web-padawan/awesome-web-components), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Components**. This page brings together 486 links about Web Components, grouped into 15 sections. The largest sections are **Real World**, **Archive**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Introduction** — 6 links
+- **Standards** — 36 links
+- **Guides** — 39 links
+- **Articles** — 47 links
+- **Real World** — 137 links
+- **Libraries** — 30 links
+- **Frameworks** — 15 links
+- **Meta Frameworks** — 27 links
+- **Books** — 3 links
+- **Tutorials** — 19 links
+- **Insights** — 18 links
+- **Usage Metrics** — 7 links
+- …and 3 more sections
+
+<!-- kb-about:end -->
+
 ## Introduction
 
 - [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components)
@@ -724,3 +749,20 @@ Curated Web Components resources.
 
 - [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 - [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Web Performance Budget](web-performance-budget.md)
+- [Web Typography](web-typography.md)
+- [WebAssembly](webassembly.md)
+- [WebGL](webgl.md)
+- [Tiny JS](tiny-js.md)
+- [Tips](tips.md)
+- [Web Animation](web-animation.md)
+- [Web Audio](web-audio.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,23 @@ Programming language designed to take full advantage of the GLib and GNOME ecosy
 
 !!! info "Source"
     78 resources imported from [desiderantes/awesome-vala](https://github.com/desiderantes/awesome-vala), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Vala** — programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code. This page brings together 78 links about Vala, grouped into 5 sections. The largest sections are **Apps**, **Libraries**, **CLI Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Apps** — 40 links
+- **CLI Tools** — 4 links
+- **Editor Plugins** — 4 links
+- **Language Servers** — 1 link
+- **Libraries** — 29 links
+
+<!-- kb-about:end -->
+
 ## Apps
 
 ### Cryptography & Security
@@ -174,3 +191,20 @@ Programming language designed to take full advantage of the GLib and GNOME ecosy
 - [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML.
 - [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
 - [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [ActionScript 3](actionscript-3.md)
+- [Ada/SPARK](ada-spark.md)
+- [AVA](ava.md)
+- [CircuitPython](circuitpython.md)
+- [Standard Style](standard-style.md)
+- [Swift](swift.md)
+- [Typing](typing.md)
+- [V](v.md)
+
+<!-- kb-related:end -->

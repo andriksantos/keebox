@@ -9,6 +9,20 @@ Integration of security practices into DevOps.
 
 !!! info "Source"
     150 resources imported from [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**DevSecOps** — integration of security practices into DevOps. This page brings together 150 links about DevSecOps, grouped into 2 sections. The largest sections are **Tools**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 39 links
+- **Tools** — 111 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Articles
@@ -274,3 +288,20 @@ Integration of security practices into DevOps.
 - [Threat Dragon](https://owasp.org/www-project-threat-dragon/) - _OWASP_ - Threat model diagramming tool.
 - [Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - _Microsoft_ - Threat model diagramming tool.
 - [Threatspec](https://threatspec.org/) - _Threatspec_ - Define threat modelling as code.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Embedded and IoT Security](embedded-and-iot-security.md)
+- [EVM Security](evm-security.md)
+- [Executable Packing](executable-packing.md)
+- [Fuzzing](fuzzing.md)
+- [CI/CD Attacks](ci-cd-attacks.md)
+- [CTF](ctf.md)
+- [Cyber Security University](cyber-security-university.md)
+- [Detection Engineering](detection-engineering.md)
+
+<!-- kb-related:end -->

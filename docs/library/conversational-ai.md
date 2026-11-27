@@ -9,6 +9,23 @@ Build awesome chatbots and digital assistants.
 
 !!! info "Source"
     28 resources imported from [jyguyomarch/awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Conversational AI** — build awesome chatbots and digital assistants. This page brings together 28 links about Conversational AI, grouped into 5 sections. The largest sections are **Clients**, **Platforms**, **Natural Language Understanding**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books and Papers** — 3 links
+- **Clients** — 7 links
+- **Conversational UX** — 5 links
+- **Natural Language Understanding** — 6 links
+- **Platforms** — 7 links
+
+<!-- kb-about:end -->
+
 ## Books and Papers
 
 - [An Annotated Reading List of Conversational AI](https://medium.com/x8-the-ai-community/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180) - An annotated list of mostly academic papers on all the topics around Conversational AI. Created in 2018.
@@ -51,3 +68,20 @@ Build awesome chatbots and digital assistants.
 - [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open-source version and an Enterprise edition.
 - [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open-source version and an Enterprise edition.
 - [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Cryptography](cryptography.md)
+- [Education](education-2.md)
+- [Empirical Software Engineering](empirical-software-engineering.md)
+- [Generative AI](generative-ai.md)
+- [Tutorials](tutorials-2.md)
+- [XAI](xai.md)
+- [AI in Finance](ai-in-finance.md)
+- [Computer Vision](computer-vision.md)
+
+<!-- kb-related:end -->

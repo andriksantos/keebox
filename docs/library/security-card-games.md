@@ -9,6 +9,24 @@ Train your skills and discuss various security topics.
 
 !!! info "Source"
     11 resources imported from [Karneades/awesome-security-card-games](https://github.com/Karneades/awesome-security-card-games), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Security Card Games** — train your skills and discuss various security topics. This page brings together 11 links about Security Card Games, grouped into 6 sections. The largest sections are **Threat Modeling**, **Various Resources**, **Incident Response**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Application Security** — 1 link
+- **Cryptography** — 1 link
+- **Data Privacy** — 1 link
+- **Incident Response** — 2 links
+- **Threat Modeling** — 3 links
+- **Various Resources** — 3 links
+
+<!-- kb-about:end -->
+
 ## Application Security
 
 - [Cornucopia](https://cornucopia.owasp.org) - OWASP® Cornucopia is a threat modeling tool in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It's based on OWASP's Top 10, ASVS/MASVS/MASTG, CAPEC and SAFECode. The [card decks](https://github.com/Karneades/awesome-security-card-games/blob/HEAD/[https://cornucopia.owasp.org/webshop)) are available both as a Website version and a Mobile version as physical decks that can be bought online or in a digital format at [copi.owasp.org](https://copi.owasp.org).
@@ -37,3 +55,20 @@ Train your skills and discuss various security topics.
 - [Tabletop Security Games & Cards](https://adam.shostack.org/games.html) - List of security card games created and maintained by Adam Shostack.
 - [Tabletop Simulations to Improve Your Information Security Program](https://redcanary.com/blog/using-tabletop-simulations-to-improve-information-security/) - Red Canary's write-up about tabletop exercises for information security programs.
 - [Game On: Tabletop Games to Teach Cyber and Information Security Concepts](https://www.linkedin.com/pulse/game-tabletop-games-teach-cyber-information-security-mike-mcgannon) - List of tabletop games to teach cyber and information security concepts.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Suricata](suricata.md)
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md)
+- [Web Security](web-security.md)
+- [CI/CD Attacks](ci-cd-attacks.md)
+- [Malware Persistence](malware-persistence.md)
+- [OpenID Connect](openid-connect.md)
+- [Password Cracking](password-cracking.md)
+- [Prompt Injection](prompt-injection.md)
+
+<!-- kb-related:end -->

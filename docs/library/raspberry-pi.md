@@ -9,6 +9,26 @@ Credit card-sized computer aimed at teaching kids programming, but capable of a 
 
 !!! info "Source"
     332 resources imported from [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+The Raspberry Pi is a low-cost single-board computer used for learning to code, home automation, media centres, robotics, retro gaming and small servers. This list covers the different models, operating system images, tools, project ideas and communities around it.
+
+If you are buying your first board, compare the **Models** section before choosing. Then pick an image from **OS Images** and browse **Projects** for step-by-step builds you can finish in a weekend.
+
+### What you'll find
+
+- **Models** — 17 links
+- **OS Images** — 62 links
+- **Tools** — 48 links
+- **Projects** — 120 links
+- **Resources** — 58 links
+- **Community** — 13 links
+
+<!-- kb-about:end -->
+
 ## Models
 
 - [Raspberry Pi 1, Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/) (July, 2014)
@@ -377,3 +397,20 @@ Credit card-sized computer aimed at teaching kids programming, but capable of a 
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Roslyn](roslyn.md)
+- [Salesforce](salesforce.md)
+- [Smart TV](smart-tv.md)
+- [Uno Platform](uno-platform.md)
+- [Node-RED](node-red.md)
+- [Omarchy](omarchy.md)
+- [Open Source Apps](open-source-apps.md)
+- [PowerToys Run Plugins](powertoys-run-plugins.md)
+
+<!-- kb-related:end -->

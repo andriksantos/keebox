@@ -9,6 +9,29 @@ How to extract information from unstructured biomedical data and text.
 
 !!! info "Source"
     116 resources imported from [caufieldjh/awesome-bioie](https://github.com/caufieldjh/awesome-bioie), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Biomedical Information Extraction** — how to extract information from unstructured biomedical data and text. This page brings together 115 links about Biomedical Information Extraction, grouped into 11 sections. The largest sections are **Datasets**, **Groups Active in the Field**, **Journals and Events**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Research Overviews** — 10 links
+- **Groups Active in the Field** — 14 links
+- **Organizations** — 2 links
+- **Journals and Events** — 14 links
+- **Tutorials** — 5 links
+- **Code Libraries** — 7 links
+- **Tools, Platforms, and Services** — 13 links
+- **Techniques and Models** — 11 links
+- **Datasets** — 30 links
+- **Ontologies and Controlled Vocabularies** — 5 links
+- **Data Models** — 4 links
+
+<!-- kb-about:end -->
+
 ## Research Overviews
 
 ### LLMs in Biomedical IE
@@ -200,3 +223,20 @@ How to extract information from unstructured biomedical data and text.
 - [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
 - [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) - a standard for observational healthcare data.
 - [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Computational Neuroscience](computational-neuroscience.md)
+- [Digital Humanities](digital-humanities.md)
+- [Diversity](diversity.md)
+- [Empathy in Engineering](empathy-in-engineering.md)
+- [Mental Health](mental-health.md)
+- [Neuroimaging](neuroimaging.md)
+- [Neuroscience](neuroscience.md)
+- [Transgender](transgender.md)
+
+<!-- kb-related:end -->

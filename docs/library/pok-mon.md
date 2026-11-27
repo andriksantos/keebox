@@ -9,6 +9,20 @@ Resources for Pokémon and Pokémon GO.
 
 !!! info "Source"
     84 resources imported from [tobiasbueschel/awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Pokémon** — resources for Pokémon and Pokémon GO. This page brings together 84 links about Pokémon, grouped into 2 sections. The largest sections are **Development Projects**, **Resources & Others**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Development Projects** — 50 links
+- **Resources & Others** — 34 links
+
+<!-- kb-about:end -->
+
 ## Development Projects
 
 #### APIs
@@ -123,3 +137,20 @@ Resources for Pokémon and Pokémon GO.
 - [PVPoke](https://pvpoke.com/) - A PVP ranking and moveset for Pokémon GO.
 - [Pokémon GO Calender](https://pokemoncalendar.com/) - Pokémon GO calender events with Google Calendar and timezones support.
 - [Poke Genie](http://www.pokegenie.net/) - A free raid hosting and joining app for [iOS](https://apps.apple.com/us/app/poke-genie-remote-raid-iv-pvp/id1143920524) & [Android](https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard) with PVP functionalities.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Prisma](prisma.md)
+- [Product Design](product-design.md)
+- [Prometheus](prometheus.md)
+- [QR Code](qr-code.md)
+- [Naming](naming.md)
+- [Open Source Supporters](open-source-supporters.md)
+- [OpenStreetMap](openstreetmap.md)
+- [Permacomputing](permacomputing.md)
+
+<!-- kb-related:end -->

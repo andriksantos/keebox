@@ -9,6 +9,26 @@ Developer platform for Google Assistant.
 
 !!! info "Source"
     75 resources imported from [ravirupareliya/awesome-actions-on-google](https://github.com/ravirupareliya/awesome-actions-on-google), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Actions on Google** — developer platform for Google Assistant. This page brings together 70 links about Actions on Google, grouped into 8 sections. The largest sections are **Videos**, **Codelabs/Courses**, **People to follow**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Document** — 4 links
+- **Blogs** — 7 links
+- **Videos** — 18 links
+- **Codelabs/Courses** — 15 links
+- **Podcasts** — 1 link
+- **Open source code** — 8 links
+- **People to follow** — 12 links
+- **Applications** — 5 links
+
+<!-- kb-about:end -->
+
 ## Document
 
 - [Actions on Google](https://developers.google.com/actions/)
@@ -107,3 +127,20 @@ Developer platform for Google Assistant.
 - [Netflix](https://assistant.google.com/services/a/uid/0000002a8e07d537) - Watch TV shows and movies recommended just for you, including award-winning Netflix original series, movies, and documentaries.
 - [Fun Tricks](https://assistant.google.com/services/a/uid/00000038e95bb789) - Lighten up your day with jokes and other fun tricks. Check them out, there's always something new to try.
 - [Google Podcasts](https://assistant.google.com/services/a/uid/000000e0ea9c992f) - Listen to your favorite podcasts by asking your Assistant.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Adafruit IO](adafruit-io.md)
+- [Android](android.md)
+- [AppImage](appimage.md)
+- [Apps](apps.md)
+- [Uno Platform](uno-platform.md)
+- [watchOS](watchos.md)
+- [WebExtensions](webextensions.md)
+- [Windows](windows.md)
+
+<!-- kb-related:end -->

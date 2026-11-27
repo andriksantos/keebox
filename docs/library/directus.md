@@ -9,6 +9,23 @@ A real-time API and app dashboard for managing SQL database content.
 
 !!! info "Source"
     68 resources imported from [directus-community/awesome-directus](https://github.com/directus-community/awesome-directus), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Directus** — a real-time API and app dashboard for managing SQL database content. This page brings together 68 links about Directus, grouped into 5 sections. The largest sections are **Extensions**, **Integration**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 8 links
+- **Integration** — 9 links
+- **Extensions** — 42 links
+- **Articles** — 5 links
+- **Examples / Showcases** — 4 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Official
@@ -107,3 +124,20 @@ A real-time API and app dashboard for managing SQL database content.
 - [Nuxt 3 Demo](https://github.com/bryantgillespie/nuxt3-directus-starter) - Opinionated Nuxt 3 / Directus Starter with Tailwind CSS.
 - [Agency OS](https://github.com/directus-community/agency-os) - Fully complete, opinionated agency website template featuring Nuxt and Directus. View [Demo](https://www.agencyos.dev/).
 - [Nextus](https://github.com/luochuanyuewu/nextus) - A comprehensive, versatile and modern website template based on Nextjs and Directus technologies. It helps you build various types of websites more quickly. View [Demo](https://nextus.vercel.app/en).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Drupal](drupal.md)
+- [Payload](payload.md)
+- [Plone](plone.md)
+- [Refinery CMS](refinery-cms.md)
+- [Silverstripe CMS](silverstripe-cms.md)
+- [Sitecore](sitecore.md)
+- [Wagtail](wagtail.md)
+- [Craft CMS](craft-cms.md)
+
+<!-- kb-related:end -->

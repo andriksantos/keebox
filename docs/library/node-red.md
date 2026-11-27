@@ -9,6 +9,22 @@ A programming tool for wiring together hardware devices, APIs, and online servic
 
 !!! info "Source"
     163 resources imported from [naimo84/awesome-nodered](https://github.com/naimo84/awesome-nodered), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Node-RED** — a programming tool for wiring together hardware devices, APIs, and online services. This page brings together 163 links about Node-RED, grouped into 4 sections. The largest sections are **Nodes**, **Community**, **Installation**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Installation** — 7 links
+- **Documentation** — 4 links
+- **Nodes** — 141 links
+- **Community** — 11 links
+
+<!-- kb-about:end -->
+
 ## Installation
 
 - [Running locally](https://nodered.org/docs/getting-started/local)
@@ -224,3 +240,20 @@ A programming tool for wiring together hardware devices, APIs, and online servic
 - [Steves Node-RED Guide](https://stevesnoderedguide.com/)
 - [Twitter](https://twitter.com/NodeRED)
 - [YouTube](https://www.youtube.com/channel/UCQaB8NXBEPod7Ab8PPCLLAA)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Omarchy](omarchy.md)
+- [Open Source Apps](open-source-apps.md)
+- [PowerToys Run Plugins](powertoys-run-plugins.md)
+- [Raspberry Pi](raspberry-pi.md)
+- [Low Code](low-code.md)
+- [.NET](net.md)
+- [Nix](nix.md)
+- [Node.js](node-js.md)
+
+<!-- kb-related:end -->

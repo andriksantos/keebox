@@ -9,6 +9,31 @@ A .NET-based language with focus on functional programming.
 
 !!! info "Source"
     206 resources imported from [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**F#** — a .NET-based language with focus on functional programming. This page brings together 206 links about F#, grouped into 27 sections. The largest sections are **Resources**, **Type Providers**, **General Purpose Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Main Language-Related Repositories** — 4 links
+- **Actor Frameworks** — 5 links
+- **Build Tools** — 2 links
+- **Cloud** — 4 links
+- **Code Analysis** — 1 link
+- **Code Generation** — 2 links
+- **Compilers for Other Platforms** — 4 links
+- **Concurrent, Asynchronous, and Parallel Programming** — 9 links
+- **Configuration** — 4 links
+- **Data Science** — 9 links
+- **Development Tools** — 14 links
+- **General Purpose Libraries** — 21 links
+- …and 15 more sections
+
+<!-- kb-about:end -->
+
 ## Main Language-Related Repositories
 
 - [F# main repository](https://github.com/dotnet/fsharp)
@@ -329,3 +354,20 @@ A .NET-based language with focus on functional programming.
 ### Courses
 
 - [Write yourself a scheme in 48 hours using F#](https://write-yourself-a-scheme.pangwa.com/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Functional Programming](functional-programming.md)
+- [Imba](imba.md)
+- [J2ME](j2me.md)
+- [JavaScript](javascript.md)
+- [Data Science](data-science.md)
+- [Elm](elm.md)
+- [ESLint](eslint.md)
+- [Esolangs](esolangs.md)
+
+<!-- kb-related:end -->

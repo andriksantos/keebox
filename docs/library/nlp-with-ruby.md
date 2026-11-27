@@ -9,6 +9,31 @@ Curated NLP with Ruby resources.
 
 !!! info "Source"
     149 resources imported from [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**NLP with Ruby**. This page brings together 120 links about NLP with Ruby, grouped into 13 sections. The largest sections are **NLP Pipeline Subtasks**, **High Level Tasks**, **Machine Learning Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **NLP Pipeline Subtasks** — 45 links
+- **High Level Tasks** — 23 links
+- **Dialog Agents, Assistants, and Chatbots** — 2 links
+- **Linguistic Resources** — 2 links
+- **Machine Learning Libraries** — 15 links
+- **Optical Character Recognition** — 1 link
+- **Text Extraction** — 1 link
+- **Full Text Search, Information Retrieval, Indexing** — 6 links
+- **Language Aware String Manipulation** — 13 links
+- **Projects and Code Examples** — 4 links
+- **Books** — 3 links
+- **Community** — 3 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## NLP Pipeline Subtasks
 
 ### Pipeline Generation
@@ -261,3 +286,20 @@ Curated NLP with Ruby resources.
 
 - [ferret](https://github.com/dbalmain/ferret) -
 - [summarize](https://github.com/ssoper/summarize) -
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Papers](papers.md)
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md)
+- [Quantum Computing](quantum-computing.md)
+- [Question Answering](question-answering.md)
+- [JAX](jax.md)
+- [Linguistics](linguistics.md)
+- [ML with Ruby](ml-with-ruby.md)
+- [Natural Language Generation](natural-language-generation.md)
+
+<!-- kb-related:end -->

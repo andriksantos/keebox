@@ -9,6 +9,25 @@ Curated Learning resources.
 
 !!! info "Source"
     63 resources imported from [GustavBertram/awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Learning**. This page brings together 55 links about Learning, grouped into 7 sections. The largest sections are **Common Lisp Implementations**, **Online References**, **Online Books**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Lisp Environments** — 5 links
+- **Online References** — 9 links
+- **Online Books** — 9 links
+- **Offline Books** — 7 links
+- **Online Community** — 4 links
+- **Library Management** — 4 links
+- **Common Lisp Implementations** — 17 links
+
+<!-- kb-about:end -->
+
 ## Lisp Environments
 
     - [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment. It ships a slightly customized Emacs with SLIME, SBCL (a popular Common Lisp implementation), Quicklisp and Git. No installation needed, so it's a very quick and easy way to get going.
@@ -92,3 +111,20 @@ Curated Learning resources.
     - [SBCL manual](http://www.sbcl.org/manual/index.html)
 - [Scieneer Common Lisp (SCL)](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/) - A commercial Linux and Unix implementation, but has an unrestricted free evaluation and non-commercial use version.
     - [SCL manual](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/doc/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Learning](learning-2.md)
+- [Lua](lua.md)
+- [Mad Science npm Packages](mad-science-npm-packages.md)
+- [MicroPython](micropython.md)
+- [Functional Programming](functional-programming.md)
+- [Imba](imba.md)
+- [J2ME](j2me.md)
+- [JavaScript](javascript.md)
+
+<!-- kb-related:end -->

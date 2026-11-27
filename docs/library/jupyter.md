@@ -9,6 +9,31 @@ Create and share documents that contain code, equations, visualizations and narr
 
 !!! info "Source"
     219 resources imported from [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Jupyter** — create and share documents that contain code, equations, visualizations and narrative text. This page brings together 211 links about Jupyter, grouped into 13 sections. The largest sections are **JupyterLab Extensions**, **Visualization**, **Rendering/Publishing/Conversion**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Runtimes/Frontends** — 19 links
+- **Collaboration/Education** — 13 links
+- **Visualization** — 34 links
+- **Tables** — 7 links
+- **Rendering/Publishing/Conversion** — 25 links
+- **Version Control** — 7 links
+- **JupyterLab Extensions** — 43 links
+- **Testing** — 9 links
+- **Domain-Specific Projects** — 10 links
+- **Hosted Notebook Solutions** — 20 links
+- **Official Resources and Documentation** — 5 links
+- **Community Resources** — 2 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Runtimes/Frontends
 
 - [Beaker](http://beakerx.com/) - Development environment with seamless data transmission from one language to another.
@@ -266,3 +291,20 @@ Create and share documents that contain code, equations, visualizations and narr
 - [Sharing Jupyter Notebooks from localhost](https://pinggy.io/blog/share_jupyter_notebook_from_localhost/) - Sharing Jupyter Notebooks from localhost.
 - [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - JupyterHub distribution for 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
 - [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Katas](katas.md)
+- [Ledger](ledger.md)
+- [Markdown](markdown.md)
+- [Microservices](microservices.md)
+- [HPC](hpc.md)
+- [inspectIT](inspectit.md)
+- [IRC](irc.md)
+- [JSON](json.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,33 @@ A version of Python for microcontrollers.
 
 !!! info "Source"
     139 resources imported from [adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+CircuitPython is Adafruit's version of Python for microcontrollers. You plug a board into USB, it appears as a drive, and you edit a `code.py` file — no compiler or IDE required. That makes it one of the easiest ways to start with electronics.
+
+This list collects official learning guides, community libraries, frameworks, compatible hardware, videos and books. Beginners should start with the **Adafruit Learning System Guides**, which pair each project with the exact parts you need.
+
+### What you'll find
+
+- **Adafruit Learning System Guides** — 3 links
+- **Community** — 6 links
+- **Video** — 5 links
+- **Books** — 10 links
+- **Code** — 11 links
+- **Frameworks** — 10 links
+- **Hardware** — 4 links
+- **Newsletter** — 4 links
+- **News** — 33 links
+- **Art** — 2 links
+- **Social** — 11 links
+- **Podcasts** — 4 links
+- …and 3 more sections
+
+<!-- kb-about:end -->
+
 ## Adafruit Learning System Guides
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) - An overview of CircuitPython and the community.
@@ -194,3 +221,20 @@ A version of Python for microcontrollers.
 - [EuroPython 2022 talk video: Radomir Dopieralski - Game Development with CircuitPython](https://www.youtube.com/watch?v=2i6qhfq5u78) - Radomir Dopieralski
 - [Connecting Old to New with CircuitPython: Retrocomputer input devices on modern PCs](https://youtu.be/XhwI8ZHhbE8) - Jeff Epler at PyCon 2024
 - [Cutting the USB Cord: Wirelessly Programming CircuitPython](https://www.youtube.com/watch?v=eiQ9RIt-cNM) - Scott Shawcroft at PyCascades 2024
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [ClojureScript](clojurescript.md)
+- [ColdFusion](coldfusion.md)
+- [Composer](composer.md)
+- [Coq](coq.md)
+- [Vala](vala.md)
+- [ActionScript 3](actionscript-3.md)
+- [Ada/SPARK](ada-spark.md)
+- [AVA](ava.md)
+
+<!-- kb-related:end -->

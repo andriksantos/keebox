@@ -9,6 +9,31 @@ Curated Discounts for Student Developers resources.
 
 !!! info "Source"
     147 resources imported from [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Discounts for Student Developers**. This page brings together 147 links about Discounts for Student Developers, grouped into 27 sections. The largest sections are **SaaS**, **Learning Resources**, **IDE and Code Editing**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Source Code Repos** — 2 links
+- **IDE and Code Editing** — 12 links
+- **Version Control** — 10 links
+- **Web Hosting** — 5 links
+- **Design and Photo Editing** — 8 links
+- **SaaS** — 20 links
+- **PaaS** — 6 links
+- **Email** — 3 links
+- **CI / CD** — 3 links
+- **Payments** — 1 link
+- **Management Systems** — 2 links
+- **Maps** — 1 link
+- …and 15 more sections
+
+<!-- kb-about:end -->
+
 ## Source Code Repos
 
     - [Bitbucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) [FREE] - Free unlimited public and private repositories for academic users and teams.
@@ -236,3 +261,20 @@ Curated Discounts for Student Developers resources.
 ## Lists and trackers
 
     - [StudentStack](https://studentstack-gamma.vercel.app) [FREE] - A dated tracker of student discounts on AI and dev tools, free tiers, AI credits, hackathons and free AI tools. Each entry is checked against the company's own page. Closed offers stay on the list, crossed out. Includes a UK-eligibility page.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [DTrace](dtrace.md)
+- [Event-Driven Architecture](event-driven-architecture.md)
+- [Falsehood](falsehood.md)
+- [Food](food.md)
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md)
+- [CSV](csv.md)
+- [Design Principles](design-principles.md)
+- [Dev Fun](dev-fun.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,24 @@ Immersive platform for hosting millions of diverse experiences.
 
 !!! info "Source"
     67 resources imported from [awesome-roblox/awesome-roblox](https://github.com/awesome-roblox/awesome-roblox), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Roblox** — immersive platform for hosting millions of diverse experiences. This page brings together 67 links about Roblox, grouped into 6 sections. The largest sections are **Libraries**, **Tooling**, **Modules**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Software** — 4 links
+- **Experiences** — 2 links
+- **Plugins** — 3 links
+- **Modules** — 12 links
+- **Libraries** — 28 links
+- **Tooling** — 18 links
+
+<!-- kb-about:end -->
+
 ## Software
 
 - [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
@@ -153,3 +171,20 @@ Immersive platform for hosting millions of diverse experiences.
 
 - [Foreman](https://github.com/Roblox/foreman) - Toolchain manager for Roblox projects.
 - [Rokit](https://github.com/rojo-rbx/rokit) - Next-generation toolchain manager for Roblox projects.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Babylon.js](babylon-js.md)
+- [CHIP-8](chip-8.md)
+- [Construct 2](construct-2.md)
+- [Esports](esports.md)
+- [libGDX](libgdx.md)
+- [Minecraft](minecraft.md)
+- [Open Source Games](open-source-games.md)
+- [PlayCanvas](playcanvas.md)
+
+<!-- kb-related:end -->

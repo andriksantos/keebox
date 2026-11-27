@@ -9,6 +9,28 @@ Logical database to organize large and complex networks of data as one body of k
 
 !!! info "Source"
     42 resources imported from [vaticle/typedb-awesome](https://github.com/vaticle/typedb-awesome), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**TypeDB** — logical database to organize large and complex networks of data as one body of knowledge. This page brings together 42 links about TypeDB, grouped into 10 sections. The largest sections are **Open source projects using TypeDB**, **Blog posts**, **Community**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Open source projects using TypeDB** — 11 links
+- **Conferences** — 1 link
+- **Documentation** — 1 link
+- **Example projects** — 1 link
+- **Blog posts** — 9 links
+- **Videos** — 6 links
+- **Client Drivers (official)** — 1 link
+- **Client Drivers (community)** — 1 link
+- **IDE and editor support** — 3 links
+- **Community** — 8 links
+
+<!-- kb-about:end -->
+
 ## Open source projects using TypeDB
 
 - [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
@@ -80,3 +102,20 @@ Logical database to organize large and complex networks of data as one body of k
 - [YouTube](https://www.youtube.com/c/vaticle)
 - [LinkedIn](https://www.linkedin.com/groups/13657731/)
 - [Blog](https://typedb.com/blog)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [Database Tools](database-tools.md)
+- [HBase](hbase.md)
+- [InfluxDB](influxdb.md)
+- [MongoDB](mongodb.md)
+- [PocketBase](pocketbase.md)
+- [PostgreSQL](postgresql.md)
+- [Supabase](supabase.md)
+- [TinkerPop](tinkerpop.md)
+
+<!-- kb-related:end -->

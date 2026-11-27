@@ -9,6 +9,15 @@ App development platform built on Google Cloud.
 
 !!! info "Source"
     122 resources imported from [jthegedus/awesome-firebase](https://github.com/jthegedus/awesome-firebase), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Firebase** — app development platform built on Google Cloud. This page brings together 0 links about Firebase, grouped into 0 sections. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## Featured (new releases)
 
 - 🔧 [(Unofficial) Firebase Admin SDK for PHP](https://github.com/kreait/firebase-php) - The Firebase Admin PHP SDK enables access to Firebase services from privileged environments (such as servers or cloud) in PHP.
@@ -171,3 +180,20 @@ App development platform built on Google Cloud.
 - :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - an open community dedicated to Firebase and its services, where you can to socialize and help other web and app developers from around the world.
 - 📹 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - A YouTube channel by Jeff Delaney, a Google Firebase expert and creator of the famous "X in 100 Seconds" videos.
 - 📹 ru [@firebase_ru - Telegram friendly chat](https://t.me/firebase_ru)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Firebase Genkit](firebase-genkit.md)
+- [Flutter](flutter.md)
+- [Fuse](fuse.md)
+- [GNOME](gnome.md)
+- [DigitalOcean](digitalocean.md)
+- [DOS](dos.md)
+- [Electron](electron.md)
+- [ESP](esp.md)
+
+<!-- kb-related:end -->

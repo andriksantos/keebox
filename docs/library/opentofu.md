@@ -9,6 +9,25 @@ Open-source infrastructure as code tool.
 
 !!! info "Source"
     112 resources imported from [virtualroot/awesome-opentofu](https://github.com/virtualroot/awesome-opentofu), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**OpenTofu** — open-source infrastructure as code tool. This page brings together 112 links about OpenTofu, grouped into 7 sections. The largest sections are **Tools**, **Features**, **Podcasts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 7 links
+- **Community** — 4 links
+- **Features** — 14 links
+- **Tools** — 66 links
+- **Learning** — 5 links
+- **Media** — 7 links
+- **Podcasts** — 9 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [OpenTofu repository](https://github.com/opentofu/opentofu) 🎉
@@ -167,3 +186,20 @@ Open-source infrastructure as code tool.
 - [OpenObservability - Terraform is no longer open source. Is OpenTF the successor?](https://www.youtube.com/watch?v=5QdUs9VKq5g)
 - [Oxide and Friends - Fork in the road for Terraform?](https://www.youtube.com/watch?v=QaU94LY891M)
 - [Changelog -  OpenTF for an open Terraform](https://changelog.com/podcast/556)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Play1 Framework](play1-framework.md)
+- [Pyramid](pyramid.md)
+- [Reflex](reflex.md)
+- [Slim](slim.md)
+- [IAM](iam.md)
+- [Kustomize](kustomize.md)
+- [Lumen](lumen.md)
+- [nginx](nginx.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,28 @@ Curated Frameworks resources.
 
 !!! info "Source"
     49 resources imported from [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+This list compares CSS frameworks by approach: resets and normalizers, class-less frameworks that style plain HTML, very lightweight options, general-purpose frameworks, Material Design implementations and utility-based systems.
+
+It is useful when choosing a styling base for a new site. Class-less and lightweight frameworks suit documentation and small projects; general-purpose and utility frameworks scale better for applications. The last section lists projects that are no longer maintained, so you can avoid them.
+
+### What you'll find
+
+- **Base / Reset / Normalize** — 3 links
+- **Class-less** — 4 links
+- **Very Lightweight** — 2 links
+- **General Purpose** — 13 links
+- **Material Design** — 2 links
+- **Utility-based** — 2 links
+- **Specialized** — 10 links
+- **Stalled Development** — 13 links
+
+<!-- kb-about:end -->
+
 ## Base / Reset / Normalize
 
 - [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.
@@ -81,3 +103,20 @@ Curated Frameworks resources.
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.
 - [**Concise CSS**](https://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.
 - [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Frontend GIS](frontend-gis.md)
+- [Hydrogen](hydrogen.md)
+- [Inertia.js](inertia-js.md)
+- [Inspiration](inspiration.md)
+- [Design systems](design-systems.md)
+- [Dojo Toolkit](dojo-toolkit.md)
+- [Emails](emails.md)
+- [Ember](ember.md)
+
+<!-- kb-related:end -->

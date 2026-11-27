@@ -9,6 +9,27 @@ An open-source framework for building AI-powered apps and features.
 
 !!! info "Source"
     137 resources imported from [xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-firebase-genkit), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Genkit is Google's open-source framework for adding generative AI features to apps: prompt management, flows, tool calling, retrieval (RAG) and evaluation, with plugins for Gemini, Vertex AI, OpenAI-compatible models and vector stores. It runs on Node.js, Go and Python and deploys easily to Firebase or Cloud Run.
+
+Use this list when you move from a first prototype to a real feature. Start with **Plugins** to see which models and databases are supported, then go to **Tutorials** and **Talks** for end-to-end examples you can adapt.
+
+### What you'll find
+
+- **Plugins** — 93 links
+- **Solutions** — 6 links
+- **Talks** — 4 links
+- **Videos** — 8 links
+- **Articles** — 20 links
+- **Tutorials** — 1 link
+- **Follow** — 5 links
+
+<!-- kb-about:end -->
+
 ## Plugins
 
 ### JavaScript - Official
@@ -186,3 +207,20 @@ An open-source framework for building AI-powered apps and features.
 - [Genkit GitHub](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
 - [Genkit Dart GitHub](https://github.com/genkit-ai/genkit-dart) - Official GitHub repository for Genkit Dart.
 - [Genkit Java GitHub](https://github.com/genkit-ai/genkit-java) - Unofficial GitHub repository for Genkit Java.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Flutter](flutter.md)
+- [Fuse](fuse.md)
+- [GNOME](gnome.md)
+- [IBM Cloud](ibm-cloud.md)
+- [DOS](dos.md)
+- [Electron](electron.md)
+- [ESP](esp.md)
+- [Firebase](firebase.md)
+
+<!-- kb-related:end -->

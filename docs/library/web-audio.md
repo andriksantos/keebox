@@ -9,6 +9,21 @@ Curated Web Audio resources.
 
 !!! info "Source"
     119 resources imported from [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Audio**. This page brings together 119 links about Web Audio, grouped into 3 sections. The largest sections are **Packages**, **Obsolete**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Packages** — 77 links
+- **Resources** — 14 links
+- **Obsolete** — 28 links
+
+<!-- kb-about:end -->
+
 ## Packages
 
 ### Frameworks
@@ -161,3 +176,20 @@ Curated Web Audio resources.
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
 - [Web Audio Modules](https://www.webaudiomodules.org/) - synthesizers and audio effects processors for web browsers (both API and implementations).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Web Components](web-components.md)
+- [Web Performance Budget](web-performance-budget.md)
+- [Web Typography](web-typography.md)
+- [WebAssembly](webassembly.md)
+- [Text Editing](text-editing.md)
+- [Tiny JS](tiny-js.md)
+- [Tips](tips.md)
+- [Web Animation](web-animation.md)
+
+<!-- kb-related:end -->

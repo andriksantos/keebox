@@ -9,6 +9,26 @@ Visualize and store data from any device.
 
 !!! info "Source"
     31 resources imported from [adafruit/awesome-adafruitio](https://github.com/adafruit/awesome-adafruitio), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Adafruit IO** — visualize and store data from any device. This page brings together 31 links about Adafruit IO, grouped into 8 sections. The largest sections are **Code**, **Social**, **Guides**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Guides** — 4 links
+- **Community** — 2 links
+- **Code** — 9 links
+- **Hardware** — 1 link
+- **Newsletter** — 2 links
+- **News** — 2 links
+- **Social** — 9 links
+- **Events** — 2 links
+
+<!-- kb-about:end -->
+
 ## Guides
 
 - [Welcome to Adafruit IO!](https://learn.adafruit.com/welcome-to-adafruit-io) - An overview of Adafruit IO and the service.
@@ -63,3 +83,20 @@ Visualize and store data from any device.
 
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has Adafruit IO-related projects on display.
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running YouTube live show about electronics, information often on during an "Adafruit IO Update" segment. New compatible hardware during "New New New" segment.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Android](android.md)
+- [AppImage](appimage.md)
+- [Apps](apps.md)
+- [ArcGIS Developer](arcgis-developer.md)
+- [watchOS](watchos.md)
+- [WebExtensions](webextensions.md)
+- [Windows](windows.md)
+- [Actions on Google](actions-on-google.md)
+
+<!-- kb-related:end -->

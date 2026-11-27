@@ -9,6 +9,31 @@ Open source Python CMS.
 
 !!! info "Source"
     135 resources imported from [collective/awesome-plone](https://github.com/collective/awesome-plone), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Plone** — open source Python CMS. This page brings together 131 links about Plone, grouped into 18 sections. The largest sections are **Content and utilities for content**, **Sysadmin**, **Searching and Categorizing**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Content and utilities for content** — 25 links
+- **Editing** — 4 links
+- **Searching and Categorizing** — 11 links
+- **Layout** — 4 links
+- **Tiles** — 4 links
+- **Events** — 3 links
+- **Forms** — 7 links
+- **Multilingual** — 4 links
+- **Media** — 10 links
+- **Security** — 4 links
+- **SEO** — 4 links
+- **Authentication** — 10 links
+- …and 6 more sections
+
+<!-- kb-about:end -->
+
 ## Content and utilities for content
 
 - [collective.consent](https://github.com/collective/collective.consent) - Ask users for consent to different topics, before they can continue.
@@ -200,3 +225,20 @@ Open source Python CMS.
 - [Plone 6 Documentation](https://6.dev-docs.plone.org) - Official documentation for the upcoming Plone 6 (work on progress).
 - [training.plone.org](https://training.plone.org) - Training classes for developers/integrators/users/designers.
 - [plone.api](https://6.dev-docs.plone.org/plone.api/index.html) - Documentation for plone.api.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Refinery CMS](refinery-cms.md)
+- [Silverstripe CMS](silverstripe-cms.md)
+- [Sitecore](sitecore.md)
+- [Wagtail](wagtail.md)
+- [Craft CMS](craft-cms.md)
+- [Directus](directus.md)
+- [Drupal](drupal.md)
+- [Payload](payload.md)
+
+<!-- kb-related:end -->

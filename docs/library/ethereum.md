@@ -9,6 +9,31 @@ Distributed computing platform for smart contract development.
 
 !!! info "Source"
     84 resources imported from [ttumiel/Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ethereum** — distributed computing platform for smart contract development. This page brings together 84 links about Ethereum, grouped into 13 sections. The largest sections are **Protocols**, **Learning and MOOCs**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Documentation** — 3 links
+- **Programming** — 7 links
+- **Tutorials** — 10 links
+- **Code** — 3 links
+- **Learning and MOOCs** — 11 links
+- **Philosophy** — 3 links
+- **Videos** — 4 links
+- **Wallets** — 4 links
+- **Blockchain Utilities** — 6 links
+- **Protocols** — 21 links
+- **Books** — 3 links
+- **Misc** — 6 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Documentation
 
 - [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
@@ -131,3 +156,20 @@ Distributed computing platform for smart contract development.
 - [Ethereum Website](https://www.ethereum.org/)
 - [Ethereum Foundation](https://ethereum.foundation/)
 - [Ethereum GitHub](https://github.com/ethereum/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Golem](golem.md)
+- [Mastodon](mastodon.md)
+- [Non-Financial Blockchain](non-financial-blockchain.md)
+- [Ripple](ripple.md)
+- [Blockchain AI](blockchain-ai.md)
+- [Corda](corda.md)
+- [Cosmos SDK](cosmos-sdk.md)
+- [EOSIO](eosio.md)
+
+<!-- kb-related:end -->

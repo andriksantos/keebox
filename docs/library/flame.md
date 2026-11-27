@@ -9,6 +9,21 @@ Game engine for Flutter.
 
 !!! info "Source"
     116 resources imported from [flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Flame** — game engine for Flutter. This page brings together 64 links about Flame, grouped into 3 sections. The largest sections are **Articles & Tutorials**, **Projects**, **Plugins & Libraries**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles & Tutorials** — 30 links
+- **Plugins & Libraries** — 6 links
+- **Projects** — 28 links
+
+<!-- kb-about:end -->
+
 ## Articles & Tutorials
 
 ### Tutorial by imaNNeo - Color Switch Game tutorial - (2023-10-06)
@@ -219,3 +234,20 @@ Game engine for Flutter.
 #### Strategy
 
 - Sporehold - [iOS](https://apps.apple.com/us/app/sporehold-turn-based-strategy/id6815795120) - A pixel-art turn-based tactics game where enemies react before your attacks land. Command mushroom warriors, outsmart enemy defenses, and reclaim a kingdom consumed by the Purple Plague. By [Oleksandr Nikolaiev](https://github.com/AANikolaev).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Game Datasets](game-datasets.md)
+- [Game Engine Development](game-engine-development.md)
+- [Game Production](game-production.md)
+- [Game Remakes](game-remakes.md)
+- [Babylon.js](babylon-js.md)
+- [CHIP-8](chip-8.md)
+- [Construct 2](construct-2.md)
+- [Esports](esports.md)
+
+<!-- kb-related:end -->

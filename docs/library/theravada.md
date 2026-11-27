@@ -9,6 +9,30 @@ Teachings from the Theravada Buddhist tradition.
 
 !!! info "Source"
     105 resources imported from [johnjago/awesome-theravada](https://github.com/johnjago/awesome-theravada), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Theravada** — teachings from the Theravada Buddhist tradition. This page brings together 105 links about Theravada, grouped into 12 sections. The largest sections are **Videos**, **Places**, **Suttas**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Academic** — 5 links
+- **Articles** — 4 links
+- **Blogs** — 8 links
+- **Books** — 5 links
+- **Dhamma Talks** — 5 links
+- **Forums** — 3 links
+- **Organizations** — 2 links
+- **Pali** — 10 links
+- **Places** — 19 links
+- **Russian Language** — 2 links
+- **Suttas** — 14 links
+- **Videos** — 28 links
+
+<!-- kb-about:end -->
+
 ## Academic
 
 - [Tipitaka](https://www.accesstoinsight.org/tipitaka/index.html) - The Tipitaka, or Pali canon, is the collection of primary Pali language texts which form the doctrinal foundation of Theravada Buddhism.
@@ -173,3 +197,20 @@ Teachings from the Theravada Buddhist tradition.
 - [Wat Marp Jan (วัดมาบจันทร์)](https://www.youtube.com/user/watmarpjan) - Events at a Thai Forest monastery established by Ajahn Anan Akiñcano.
 - [watsanfran](https://www.youtube.com/user/watsanfran/videos) - Classes and daily sermons in Thai and English.
 - [Yuttadhammo Bhikkhu](https://www.youtube.com/user/yuttadhammo/videos) - Live broadcasts almost every day on the topics of meditation, Buddhism, and the monastic life.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Transit](transit.md)
+- [Translations](translations.md)
+- [Uncopyright](uncopyright.md)
+- [Unicode](unicode.md)
+- [Standards](standards.md)
+- [Steam](steam-2.md)
+- [Steam Deck](steam-deck.md)
+- [Tech Ethics](tech-ethics.md)
+
+<!-- kb-related:end -->

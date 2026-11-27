@@ -9,6 +9,20 @@ Building and promoting more compassionate engineering cultures.
 
 !!! info "Source"
     17 resources imported from [KimberlyMunoz/empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Health and Social Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Empathy in Engineering** — building and promoting more compassionate engineering cultures. This page brings together 17 links about Empathy in Engineering, grouped into 2 sections. The largest sections are **Words**, **JavaScript**, a good place to start if you are exploring the topic for the first time. It belongs to the **Health and Social Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Words** — 14 links
+- **JavaScript** — 3 links
+
+<!-- kb-about:end -->
+
 ## Words
 
 ### Empathy for your users
@@ -44,3 +58,20 @@ Building and promoting more compassionate engineering cultures.
 
 - [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness.
 - [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - This is a JS bookmarklet that takes any page and simulates in low vision scenarios.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Health and Social Science** category of the [KEEBOX Library](index.md):
+
+- [Lucid Dreams](lucid-dreams.md)
+- [Mental Health](mental-health.md)
+- [Neuroimaging](neuroimaging.md)
+- [Neuroscience](neuroscience.md)
+- [Biomedical Information Extraction](biomedical-information-extraction.md)
+- [Computational Neuroscience](computational-neuroscience.md)
+- [Digital Humanities](digital-humanities.md)
+- [Diversity](diversity.md)
+
+<!-- kb-related:end -->

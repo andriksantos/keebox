@@ -9,6 +9,24 @@ Curated For Girls resources.
 
 !!! info "Source"
     122 resources imported from [cristianoliveira/awesome4girls](https://github.com/cristianoliveira/awesome4girls), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**For Girls**. This page brings together 122 links about For Girls, grouped into 6 sections. The largest sections are **Initiatives/Programs**, **Other Initiatives**, **Events/Meetups**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Events/Meetups** — 18 links
+- **General** — 17 links
+- **Initiatives/Programs** — 64 links
+- **Other Initiatives** — 20 links
+- **Organisation toolkits** — 1 link
+- **Other Lists** — 2 links
+
+<!-- kb-about:end -->
+
 ## Events/Meetups
 
 ### Clojure
@@ -211,3 +229,20 @@ Curated For Girls resources.
 
     - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
     - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Framer](framer.md)
+- [Free Software](free-software.md)
+- [Funny Markov Chains](funny-markov-chains.md)
+- [Gemini CLI](gemini-cli.md)
+- [DTrace](dtrace.md)
+- [Event-Driven Architecture](event-driven-architecture.md)
+- [Falsehood](falsehood.md)
+- [Food](food.md)
+
+<!-- kb-related:end -->

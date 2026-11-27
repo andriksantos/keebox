@@ -9,6 +9,22 @@ Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScri
 
 !!! info "Source"
     589 resources imported from [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Node.js** — async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. This page brings together 589 links about Node.js, grouped into 4 sections. The largest sections are **Packages**, **Resources**, **Package Manager**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 3 links
+- **Packages** — 508 links
+- **Package Manager** — 4 links
+- **Resources** — 74 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [Website](https://nodejs.org)
@@ -790,3 +806,20 @@ Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScri
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 - [Module Requests & Ideas](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
 - [v8-perf](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Node-RED](node-red.md)
+- [Omarchy](omarchy.md)
+- [Open Source Apps](open-source-apps.md)
+- [PowerToys Run Plugins](powertoys-run-plugins.md)
+- [KDE](kde.md)
+- [Low Code](low-code.md)
+- [.NET](net.md)
+- [Nix](nix.md)
+
+<!-- kb-related:end -->

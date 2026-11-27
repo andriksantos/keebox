@@ -9,6 +9,24 @@ A protocol for collecting, modifying, and organizing information about managed d
 
 !!! info "Source"
     148 resources imported from [eozer/awesome-snmp](https://github.com/eozer/awesome-snmp), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Networking**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**SNMP** — a protocol for collecting, modifying, and organizing information about managed devices on IP networks. This page brings together 146 links about SNMP, grouped into 6 sections. The largest sections are **Tools**, **Libraries**, **Publications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Networking** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Libraries** — 41 links
+- **Tools** — 61 links
+- **Publications** — 29 links
+- **Public servers** — 1 link
+- **MIB repositories** — 12 links
+- **Miscellaneous** — 2 links
+
+<!-- kb-about:end -->
+
 ## Libraries
 
 ### C/C++
@@ -219,3 +237,15 @@ A protocol for collecting, modifying, and organizing information about managed d
 
 - [SNMPLink.org](http://snmplink.org/) - SNMPlink.org provides links and information about SNMP, MIB (Management Information Base), Network Management and Network Monitoring.
 - [SNMPTools.net](https://www.snmptools.net/) - SNMPTools.net provides links and information about SNMP applications, toolkits, gateways, simulators, MIB browsers and many more.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Networking** category of the [KEEBOX Library](index.md):
+
+- [Cilium](cilium.md)
+- [PCAPTools](pcaptools.md)
+- [Real-Time Communications](real-time-communications.md)
+
+<!-- kb-related:end -->

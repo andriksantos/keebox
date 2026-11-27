@@ -9,6 +9,31 @@ Open-source AI-powered speech recognition system developed by OpenAI.
 
 !!! info "Source"
     63 resources imported from [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Whisper is OpenAI's open-source speech recognition model. It transcribes and translates audio in dozens of languages, including Spanish, and runs locally on a laptop or server without sending recordings to the cloud.
+
+This list gathers the official release, faster and smaller variants such as whisper.cpp and faster-whisper, desktop and web apps, CLI tools and packages for developers. If you just want subtitles or meeting notes, start with **Apps**; to integrate it into your own software, go to **Packages**.
+
+### What you'll find
+
+- **Official** — 3 links
+- **Model variants** — 10 links
+- **Apps** — 19 links
+- **Web apps** — 8 links
+- **CLI tools** — 7 links
+- **Playgrounds** — 4 links
+- **Packages** — 1 link
+- **Articles** — 4 links
+- **Videos** — 3 links
+- **Community** — 2 links
+- **Third-party APIs** — 2 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [Introduction](https://openai.com/research/whisper)
@@ -111,3 +136,20 @@ Open-source AI-powered speech recognition system developed by OpenAI.
 
 - [Whisper+](https://www.oneai.com/speech-to-text) - Extension of the Whisper model which adds powerful features such as speaker identification custom vocabulary, summarization, and chapter generation.
 - [Replicate](https://replicate.com/openai/whisper) - Use Whisper running on Replicate.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [WP-CLI](wp-cli.md)
+- [Ad-Free](ad-free.md)
+- [Advertising](advertising.md)
+- [Agriculture](agriculture.md)
+- [Web Archiving](web-archiving.md)
+- [Web Design](web-design.md)
+- [Web Monetization](web-monetization.md)
+- [WebXR](webxr.md)
+
+<!-- kb-related:end -->

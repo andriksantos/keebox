@@ -9,6 +9,25 @@ Curated Service Workers resources.
 
 !!! info "Source"
     26 resources imported from [TalAter/awesome-service-workers](https://github.com/TalAter/awesome-service-workers), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Service Workers**. This page brings together 26 links about Service Workers, grouped into 7 sections. The largest sections are **Learning Resources**, **Libraries and Tools**, **Must Reads**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Must Reads** — 4 links
+- **Learning Resources** — 7 links
+- **Reference** — 2 links
+- **Browser Support** — 2 links
+- **Libraries and Tools** — 6 links
+- **Videos** — 3 links
+- **Case Studies** — 2 links
+
+<!-- kb-about:end -->
+
 ## Must Reads
 
 - [Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyasw) - A hands-on guide and reference for service workers, caching strategies, push notifications, and more. Everything you need to build a modern progressive web app.
@@ -55,3 +74,20 @@ Curated Service Workers resources.
 
 - [Service Workers in Production](https://developers.google.com/web/showcase/case-study/service-workers-iowa) - A case-study about how Google I/O 2015 web app was built.
 - [Measuring the Real-world Performance Impact of Service Workers](https://developers.google.com/web/showcase/2016/service-worker-perf) - One of the most significant benefits of service workers (from a performance perspective, at least) is their ability to proactively control the caching of assets. A web application that can cache all of its necessary resources should load substantially faster for returning visitors. But what do these gains actually look like to real users? And how do you even measure this?
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Static Website Services](static-website-services.md)
+- [Storybook](storybook.md)
+- [Svelte](svelte.md)
+- [SVG](svg.md)
+- [Redux](redux.md)
+- [Relay](relay.md)
+- [Sass](sass.md)
+- [Seed](seed.md)
+
+<!-- kb-related:end -->

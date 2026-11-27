@@ -9,6 +9,26 @@ A text file format that stores tabular data and uses a comma to separate values.
 
 !!! info "Source"
     69 resources imported from [secretGeek/awesomeCSV](https://github.com/secretGeek/awesomeCSV), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**CSV** — a text file format that stores tabular data and uses a comma to separate values. This page brings together 69 links about CSV, grouped into 8 sections. The largest sections are **Tools**, **Generate Table Schema**, **Standards**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Tools** — 33 links
+- **Generate Table Schema** — 10 links
+- **Essays** — 6 links
+- **Generate Data** — 3 links
+- **Data** — 5 links
+- **Conferences** — 1 link
+- **Standards** — 8 links
+- **META Other similar lists** — 3 links
+
+<!-- kb-about:end -->
+
 ## Tools
 
 - [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
@@ -113,3 +133,20 @@ A text file format that stores tabular data and uses a comma to separate values.
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 - [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 - [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Design Principles](design-principles.md)
+- [Dev Fun](dev-fun.md)
+- [Discounts for Student Developers](discounts-for-student-developers.md)
+- [DTrace](dtrace.md)
+- [Copilot Agents](copilot-agents.md)
+- [Creative Coding](creative-coding.md)
+- [Credit Modeling](credit-modeling.md)
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md)
+
+<!-- kb-related:end -->

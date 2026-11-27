@@ -9,6 +9,30 @@ A high-level strongly typed programming language used to produce cross-platform 
 
 !!! info "Source"
     101 resources imported from [Dvergar/awesome-haxe-gamedev](https://github.com/Dvergar/awesome-haxe-gamedev), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Haxe is a strongly typed language that compiles to many targets, including C++, JavaScript and HashLink. That makes it popular for indie games that need to ship on desktop, web and consoles from one codebase; Dead Cells and Papers, Please were built with Haxe.
+
+This list covers game engines such as HaxeFlixel, Heaps and OpenFL, low-level libraries, physics, networking, storage and example games. Pick an engine first, then use the other sections to fill specific needs.
+
+### What you'll find
+
+- **Game engines** — 12 links
+- **Low-level Engine** — 5 links
+- **Physics** — 3 links
+- **Architecture** — 4 links
+- **Networking** — 4 links
+- **Serialization and storage** — 4 links
+- **Games** — 18 links
+- **Miscellaneous** — 43 links
+- **Articles** — 5 links
+- **Other haxe lists** — 3 links
+
+<!-- kb-about:end -->
+
 ## Game engines
 
 - [Armory (Kha)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
@@ -210,3 +234,20 @@ A high-level strongly typed programming language used to produce cross-platform 
 - [awesome haxe](https://github.com/nadako/awesome-haxe)
 - [awesome snowkit](https://github.com/anissen/awesome-snowkit)
 - [awesome haxe js](https://github.com/MatthijsKamstra/awesome-haxe-js)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [LÖVE](l-ve.md)
+- [Learn Gamedev](learn-gamedev.md)
+- [libGDX](libgdx.md)
+- [Minecraft](minecraft.md)
+- [Game Production](game-production.md)
+- [Game Remakes](game-remakes.md)
+- [GameMaker](gamemaker.md)
+- [Games of Coding](games-of-coding.md)
+
+<!-- kb-related:end -->

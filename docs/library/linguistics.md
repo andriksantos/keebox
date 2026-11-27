@@ -9,6 +9,15 @@ Curated Linguistics resources.
 
 !!! info "Source"
     79 resources imported from [theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Linguistics**. This page brings together 0 links about Linguistics, grouped into 0 sections. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ### Platforms and toolkits
 
 - [CLARIN-D web tools](https://www.clarin-d.net/en/analysing) - Tools for Analysing Research Data
@@ -125,3 +134,20 @@ Curated Linguistics resources.
 ### Communities
 
 - [Untranslatable.co, Multilingual urban dictionary](https://untranslatable.co/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [ML with Ruby](ml-with-ruby.md)
+- [Natural Language Generation](natural-language-generation.md)
+- [NLP with Ruby](nlp-with-ruby.md)
+- [Papers](papers.md)
+- [Generative AI](generative-ai.md)
+- [H2O](h2o.md)
+- [Information Retrieval](information-retrieval.md)
+- [JAX](jax.md)
+
+<!-- kb-related:end -->

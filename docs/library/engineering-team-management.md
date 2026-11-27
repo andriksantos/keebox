@@ -9,6 +9,31 @@ How to transition from software development to engineering management.
 
 !!! info "Source"
     370 resources imported from [kdeldycke/awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Business**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Engineering Team Management** — how to transition from software development to engineering management. This page brings together 313 links about Engineering Team Management, grouped into 27 sections. The largest sections are **Roles**, **Recruitment**, **Engineering**, a good place to start if you are exploring the topic for the first time. It belongs to the **Business** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Engineering to Management Transition** — 10 links
+- **Building Teams** — 4 links
+- **Roles** — 38 links
+- **Recruitment** — 24 links
+- **Onboarding** — 5 links
+- **Motivation** — 7 links
+- **Culture** — 10 links
+- **Cognitive Tools** — 21 links
+- **Team Dynamics** — 8 links
+- **Engineering** — 22 links
+- **Remote Work** — 7 links
+- **Meetings** — 8 links
+- …and 15 more sections
+
+<!-- kb-about:end -->
+
 ## Engineering to Management Transition
 
 - You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
@@ -602,3 +627,18 @@ How to transition from software development to engineering management.
 - [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It's okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news. If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
 - [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell the story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
 - [Management Challenges for the 21st Century - Managing Oneself](https://www.thecompleteleader.org/sites/default/files/imce/Managing%20Oneself_Drucker_HBR.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph Ⅴ, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Business** category of the [KEEBOX Library](index.md):
+
+- [OKR Methodology](okr-methodology.md)
+- [Social Enterprise](social-enterprise.md)
+- [Wardley Maps](wardley-maps.md)
+- [Billing](billing.md)
+- [Clean Tech](clean-tech.md)
+- [Engineering Strategy](engineering-strategy.md)
+
+<!-- kb-related:end -->

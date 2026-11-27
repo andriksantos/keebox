@@ -9,6 +9,31 @@ Curated Ionic Framework resources.
 
 !!! info "Source"
     386 resources imported from [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ionic Framework**. This page brings together 386 links about Ionic Framework, grouped into 23 sections. The largest sections are **Capgo Capacitor Plugins**, **Components**, **Ionic Fundamentals**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 10 links
+- **Capacitor** — 8 links
+- **AI Coding Agents** — 5 links
+- **Ionic Fundamentals** — 25 links
+- **Theming** — 3 links
+- **Components tutorials** — 6 links
+- **Authentication** — 12 links
+- **Unit Testing** — 3 links
+- **Ionic Native / Cordova Plugins** — 16 links
+- **Capgo Capacitor Plugins** — 138 links
+- **Payment Gateway Integrations** — 4 links
+- **Backend as a Service** — 4 links
+- …and 11 more sections
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Site](http://ionicframework.com/)
@@ -504,3 +529,20 @@ Curated Ionic Framework resources.
 - [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart and a part-time developer at Capgo.
 - [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile apps and a part-time developer at Capgo.
 - [Capgo consulting](https://capgo.app/consulting/) - Live updates, native plugins, and Ionic/Capacitor consulting.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [jQuery](jquery.md)
+- [Less](less.md)
+- [lit](lit.md)
+- [Marionette.js](marionette-js.md)
+- [Frontend GIS](frontend-gis.md)
+- [Hydrogen](hydrogen.md)
+- [Inertia.js](inertia-js.md)
+- [Inspiration](inspiration.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,22 @@ Comprehensive documentation on GitHub beyond README.
 
 !!! info "Source"
     55 resources imported from [MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**GitHub Wiki** — comprehensive documentation on GitHub beyond README. This page brings together 55 links about GitHub Wiki, grouped into 4 sections. The largest sections are **Useful Stack Overflow questions & answers**, **Useful links with tips & tricks**, **Examples**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Examples** — 13 links
+- **Useful links with tips & tricks** — 16 links
+- **Useful Stack Overflow questions & answers** — 19 links
+- **Popular AI Tools** — 7 links
+
+<!-- kb-about:end -->
+
 ## Examples
 
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
@@ -75,3 +91,20 @@ Comprehensive documentation on GitHub beyond README.
 - [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator)
 - [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
 - [Github Wiki Generator](https://github.com/Samyc2002/GithubWikiGenerator)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [GraphQL](graphql.md)
+- [Gulp](gulp.md)
+- [Homematic](homematic.md)
+- [HPC](hpc.md)
+- [Funny Markov Chains](funny-markov-chains.md)
+- [Gemini CLI](gemini-cli.md)
+- [Geocaching](geocaching.md)
+- [GeoJSON](geojson.md)
+
+<!-- kb-related:end -->

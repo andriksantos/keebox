@@ -9,6 +9,25 @@ Sensor for measuring distances by illuminating the target with laser light.
 
 !!! info "Source"
     268 resources imported from [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**LIDAR** — sensor for measuring distances by illuminating the target with laser light. This page brings together 266 links about LIDAR, grouped into 7 sections. The largest sections are **Algorithms**, **Manufacturers**, **Datasets**, a good place to start if you are exploring the topic for the first time. It belongs to the **Hardware** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Manufacturers** — 62 links
+- **Datasets** — 34 links
+- **Libraries** — 23 links
+- **Frameworks** — 8 links
+- **Algorithms** — 95 links
+- **Simulators** — 19 links
+- **Others** — 25 links
+
+<!-- kb-about:end -->
+
 ## Conventions
 
 - Any list item with  badge is [`ROS 2`](https://docs.ros.org/) compatible
@@ -317,3 +336,19 @@ Sensor for measuring distances by illuminating the target with laser light.
     - [GitHub repository ](https://github.com/Geekgineer/CloudPeek)
 - [Which SLAM Algorithm Should I Choose?](https://www.slambotics.org/blog/which-slam-to-choose) Slambotics -  Choosing the Right SLAM Algorithm
 - [LidarKit](https://lidar-kit.com/) - Browser-based viewer and converter for LAS, LAZ, COPC and E57 that decodes files locally with WebAssembly (nothing is uploaded), with ground classification and DEM/orthophoto export.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Hardware** category of the [KEEBOX Library](index.md):
+
+- [Open Hardware](open-hardware.md)
+- [Plotters](plotters.md)
+- [Robotic Tooling](robotic-tooling.md)
+- [ADS-B](ads-b.md)
+- [Bluetooth Beacons](bluetooth-beacons.md)
+- [Electronics](electronics.md)
+- [Flying FPV](flying-fpv.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,22 @@ Scripts for automating tasks during `git` workflows.
 
 !!! info "Source"
     34 resources imported from [compscilauren/awesome-git-hooks](https://github.com/compscilauren/awesome-git-hooks), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Git Hooks** — scripts for automating tasks during `git` workflows. This page brings together 34 links about Git Hooks, grouped into 4 sections. The largest sections are **Git Hook Scripts**, **Written Guides**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Git Hook Scripts** — 15 links
+- **Tools** — 5 links
+- **Written Guides** — 12 links
+- **Video Guides** — 2 links
+
+<!-- kb-about:end -->
+
 ## Git Hook Scripts
 
 ### commit-msg
@@ -80,3 +96,20 @@ Scripts for automating tasks during `git` workflows.
 
 - [Git Hooks Part 1 - Getting Started](https://www.youtube.com/watch?v=aB3eq52sZSU)
 - [Git hooks and practical uses. Yes, even on Windows.](http://www.youtube.com/watch?feature=player_embedded&v=fMYv6-SZsSo&t=140s)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [GitHub](github.md)
+- [GitHub Actions](github-actions.md)
+- [Hyper](hyper.md)
+- [Pinned Gists](pinned-gists.md)
+- [SSH](ssh.md)
+- [Terminals Are Sexy](terminals-are-sexy.md)
+- [WezTerm](wezterm.md)
+- [Fish](fish.md)
+
+<!-- kb-related:end -->

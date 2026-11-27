@@ -9,6 +9,31 @@ Falsehoods programmers believe in.
 
 !!! info "Source"
     144 resources imported from [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Falsehood** — falsehoods programmers believe in. This page brings together 142 links about Falsehood, grouped into 22 sections. The largest sections are **Software Engineering**, **Dates and Time**, **Internationalization**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Meta** — 3 links
+- **Arts** — 2 links
+- **Business** — 12 links
+- **Cryptocurrency** — 2 links
+- **Dates and Time** — 20 links
+- **Education** — 2 links
+- **Emails** — 5 links
+- **Geography** — 6 links
+- **Human Identity** — 11 links
+- **Internationalization** — 15 links
+- **Management** — 1 link
+- **Multimedia** — 5 links
+- …and 10 more sections
+
+<!-- kb-about:end -->
+
 ## Meta
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - A brief list of common falsehoods. A great overview and quick introduction into the world of falsehoods.
@@ -218,3 +243,20 @@ Falsehoods programmers believe in.
 - [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - Pitfalls to be mindful of when creating and documenting APIs.
 - [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - There's a lot of components in an URL, and all have their own logic.
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://web.archive.org/web/20230604033340/https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Food](food.md)
+- [For Girls](for-girls.md)
+- [Framer](framer.md)
+- [Free Software](free-software.md)
+- [Dev Fun](dev-fun.md)
+- [Discounts for Student Developers](discounts-for-student-developers.md)
+- [DTrace](dtrace.md)
+- [Event-Driven Architecture](event-driven-architecture.md)
+
+<!-- kb-related:end -->

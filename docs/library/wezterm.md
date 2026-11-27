@@ -9,6 +9,27 @@ Powerful cross-platform terminal emulator.
 
 !!! info "Source"
     57 resources imported from [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**WezTerm** — powerful cross-platform terminal emulator. This page brings together 57 links about WezTerm, grouped into 9 sections. The largest sections are **Utility**, **Session**, **Keybinding**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **AI** — 6 links
+- **Keybinding** — 9 links
+- **Media** — 1 link
+- **Neovim** — 2 links
+- **Panes** — 2 links
+- **Session** — 10 links
+- **Tab bar** — 6 links
+- **Themes** — 5 links
+- **Utility** — 16 links
+
+<!-- kb-about:end -->
+
 ## AI
 
 - [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) - Ask AI for CLI help with LM Studio or Google Gemini.
@@ -92,3 +113,20 @@ Powerful cross-platform terminal emulator.
 - [sravioli/warp.wz](https://github.com/sravioli/warp.wz) - General-purpose utility library with string, table, list, path, and filesystem helpers.
 - [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
 - [usrivastava92/widgets.wez](https://github.com/usrivastava92/widgets.wez) - Cross-platform status bar widgets for CPU, RAM, battery, network, and disk on macOS, Linux, and Windows.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [Fish](fish.md)
+- [Git Hooks](git-hooks.md)
+- [GitHub](github.md)
+- [GitHub Actions](github-actions.md)
+- [Pinned Gists](pinned-gists.md)
+- [Shell](shell.md)
+- [SSH](ssh.md)
+- [Terminals Are Sexy](terminals-are-sexy.md)
+
+<!-- kb-related:end -->

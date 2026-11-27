@@ -9,6 +9,31 @@ Interpreting biological phenomena using images.
 
 !!! info "Source"
     144 resources imported from [hallvaaw/awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Biological Image Analysis** — interpreting biological phenomena using images. This page brings together 144 links about Biological Image Analysis, grouped into 15 sections. The largest sections are **Image processing and segmentation**, **Other**, **General image analysis software**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General image analysis software** — 16 links
+- **Image processing and segmentation** — 29 links
+- **Ecology** — 2 links
+- **Neuroscience** — 16 links
+- **Plant science** — 9 links
+- **Fluoresence in situ hybridization** — 5 links
+- **Electron and super resolution microscopy** — 6 links
+- **Image restoration and quality assessment** — 5 links
+- **Cell migration and particle tracking** — 9 links
+- **Pathology** — 7 links
+- **Mycology** — 3 links
+- **Microbiology** — 3 links
+- …and 3 more sections
+
+<!-- kb-about:end -->
+
 ## General image analysis software
 
 - [3D Slicer](https://github.com/Slicer/Slicer) - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research.
@@ -197,3 +222,20 @@ Interpreting biological phenomena using images.
 - [Data-analysis strategies for image-based cell profiling](https://doi.org/10.1038/nmeth.4397) - In-detail explanations of image analysis pipelines.
 - [Large-scale image-based screening and profiling of cellular phenotypes](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.22909) - A workflow for phenotype extraction from high throughput imaging experiments.
 - [Workflow and metrics for image quality control in large-scale high-content screens](https://linkinghub.elsevier.com/retrieve/pii/S2472555222075943) - Approaches for quality control in high-content imaging screens.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Biological Visualizations](biological-visualizations.md)
+- [Boilerplate Projects](boilerplate-projects.md)
+- [Bots](bots.md)
+- [Calculators](calculators.md)
+- [Ansible](ansible.md)
+- [Astrophotography](astrophotography.md)
+- [Awesome](awesome.md)
+- [Beginner-Friendly Projects](beginner-friendly-projects.md)
+
+<!-- kb-related:end -->

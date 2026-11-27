@@ -9,6 +9,31 @@ Curated Site Reliability Engineering resources.
 
 !!! info "Source"
     478 resources imported from [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Site Reliability Engineering**. This page brings together 474 links about Site Reliability Engineering, grouped into 20 sections. The largest sections are **Culture**, **Reliability**, **On-Call**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Culture** — 96 links
+- **Education** — 25 links
+- **Books** — 26 links
+- **Hiring** — 6 links
+- **Reliability** — 66 links
+- **Monitoring & Observability & Alerting** — 34 links
+- **On-Call** — 55 links
+- **Post-Mortem** — 26 links
+- **Capacity Planning** — 5 links
+- **Service Level Agreement** — 49 links
+- **Performance** — 4 links
+- **Programming** — 4 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## Culture
 
 - [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -546,3 +571,20 @@ Curated Site Reliability Engineering resources.
 - [o11y Observability Podcast](https://www.honeycomb.io/usecase/o11ycast/ )
 - [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
 - [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Software Architecture](software-architecture.md)
+- [Stacks](stacks-2.md)
+- [Standards](standards.md)
+- [Steam](steam-2.md)
+- [SAP Commerce](sap-commerce.md)
+- [Scientific Computing](scientific-computing.md)
+- [Scientific Writing](scientific-writing.md)
+- [Scriptable](scriptable.md)
+
+<!-- kb-related:end -->

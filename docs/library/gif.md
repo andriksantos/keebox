@@ -9,6 +9,26 @@ Image format known for animated images.
 
 !!! info "Source"
     43 resources imported from [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**GIF** — image format known for animated images. This page brings together 43 links about GIF, grouped into 8 sections. The largest sections are **Libraries**, **Utilities**, **General Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General Tools** — 4 links
+- **Utilities** — 10 links
+- **Libraries** — 23 links
+- **GUI** — 1 link
+- **Hosting** — 1 link
+- **Online Tools** — 1 link
+- **Community** — 2 links
+- **Miscellaneous** — 1 link
+
+<!-- kb-about:end -->
+
 ## General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
@@ -97,3 +117,20 @@ Image format known for animated images.
 ## Miscellaneous
 
 - [Why is the GIF I created so slow?](https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967) - Using ImageMagick to solve problems concerning GIF speed.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Icons](icons.md)
+- [Music](music.md)
+- [Pixel Art](pixel-art.md)
+- [Stock Resources](stock-resources.md)
+- [Audiovisual](audiovisual.md)
+- [Broadcasting](broadcasting.md)
+- [FFmpeg](ffmpeg.md)
+- [Fonts](fonts.md)
+
+<!-- kb-related:end -->

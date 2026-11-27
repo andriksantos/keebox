@@ -9,6 +9,24 @@ Curated Funny Markov Chains resources.
 
 !!! info "Source"
     42 resources imported from [sublimino/awesome-funny-markov](https://github.com/sublimino/awesome-funny-markov), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Funny Markov Chains**. This page brings together 42 links about Funny Markov Chains, grouped into 6 sections. The largest sections are **Web and Tech**, **Twitter**, **Media**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Web and Tech** — 13 links
+- **Twitter** — 10 links
+- **Media** — 8 links
+- **Tools** — 5 links
+- **A history of funny Markov chains** — 3 links
+- **Sober applications** — 3 links
+
+<!-- kb-about:end -->
+
 ## Web and Tech
 
 - [Headline Smasher](http://www.headlinesmasher.com/best/all) - Fake headlines created by smashing up real headlines.
@@ -68,3 +86,20 @@ Curated Funny Markov Chains resources.
 - [PageRank](https://en.wikipedia.org/wiki/PageRank?oldformat=true#Damping_factor) - Google is built on Markov Chains.
 - [Digital Music Programming](http://peabody.sapp.org/class/dmp2/lab/markov1/) - MIDI Markov music.
 - [A visual explanation of Markov chains](http://setosa.io/blog/2014/07/26/markov-chains/) - A useful guide to Markov chains by Victor Powell.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Gemini CLI](gemini-cli.md)
+- [Geocaching](geocaching.md)
+- [GeoJSON](geojson.md)
+- [GitHub Wiki](github-wiki.md)
+- [Food](food.md)
+- [For Girls](for-girls.md)
+- [Framer](framer.md)
+- [Free Software](free-software.md)
+
+<!-- kb-related:end -->

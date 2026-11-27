@@ -9,6 +9,20 @@ Programming language inspired by Ruby and Python and compiles to performant Java
 
 !!! info "Source"
     50 resources imported from [koolamusic/awesome-imba](https://github.com/koolamusic/awesome-imba), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Imba** — programming language inspired by Ruby and Python and compiles to performant JavaScript. This page brings together 50 links about Imba, grouped into 2 sections. The largest sections are **Resources**, **Built with Imba**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 25 links
+- **Built with Imba** — 25 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 #### Official Resources
@@ -86,3 +100,20 @@ Programming language inspired by Ruby and Python and compiles to performant Java
 - [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
 - [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
 - [Ping CRM](https://github.com/haikyuu/perfect-stack) - CRUD app with login, acccount, organizations and contacts management. Built with Inertia, Edgedb and Imba
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [J2ME](j2me.md)
+- [JavaScript](javascript.md)
+- [Learning](learning.md)
+- [Learning](learning-2.md)
+- [ESLint](eslint.md)
+- [Esolangs](esolangs.md)
+- [F#](f.md)
+- [Functional Programming](functional-programming.md)
+
+<!-- kb-related:end -->

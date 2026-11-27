@@ -9,6 +9,24 @@ PHP framework.
 
 !!! info "Source"
     30 resources imported from [nekofar/awesome-slim](https://github.com/nekofar/awesome-slim), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Slim** — pHP framework. This page brings together 30 links about Slim, grouped into 6 sections. The largest sections are **Miscellaneous**, **Middlewares**, **Educational**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Educational** — 5 links
+- **Boilerplate** — 5 links
+- **Middlewares** — 7 links
+- **Templating** — 3 links
+- **Development** — 2 links
+- **Miscellaneous** — 8 links
+
+<!-- kb-about:end -->
+
 ## Educational
 
 - [User Guide](https://www.slimframework.com/docs/v4/) - The official documentation for Slim Framework.
@@ -56,3 +74,20 @@ PHP framework.
 - [Slim JSON API](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's.
 - [Slim Validation](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework.
 - [IntelliJ Slim](https://plugins.jetbrains.com/plugin/18751-slim) - Provides boilerplate codes for easier new project creation using skeleton.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Symfony](symfony.md)
+- [Terraform](terraform.md)
+- [Vagrant](vagrant.md)
+- [Vapor](vapor.md)
+- [OpenTofu](opentofu.md)
+- [Play1 Framework](play1-framework.md)
+- [Pyramid](pyramid.md)
+- [Reflex](reflex.md)
+
+<!-- kb-related:end -->

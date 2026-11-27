@@ -9,6 +9,22 @@ Tech stacks for building different apps and features.
 
 !!! info "Source"
     205 resources imported from [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Stacks** — tech stacks for building different apps and features. This page brings together 205 links about Stacks, grouped into 4 sections. The largest sections are **Full stack**, **Front-end**, **Back-end**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Front-end** — 62 links
+- **Full stack** — 80 links
+- **Back-end** — 45 links
+- **Mobile** — 18 links
+
+<!-- kb-about:end -->
+
 ## Front-end
 
 ### React Next Boilerplate ↗
@@ -404,3 +420,20 @@ Tech stacks for building different apps and features.
 #### Resources
 
 - [Integrating Jira, GitHub, Jenkins, and Slack in your workflow](https://support.acquia.com/hc/en-us/articles/360005167214-Integrating-JIRA-GitHub-Jenkins-and-Slack-in-your-workflow)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Standards](standards.md)
+- [Steam](steam-2.md)
+- [Steam Deck](steam-deck.md)
+- [Tech Ethics](tech-ethics.md)
+- [Scientific Writing](scientific-writing.md)
+- [Scriptable](scriptable.md)
+- [Site Reliability Engineering](site-reliability-engineering.md)
+- [Software Architecture](software-architecture.md)
+
+<!-- kb-related:end -->

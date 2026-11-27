@@ -9,6 +9,26 @@ Managing technical and business operations through a chat.
 
 !!! info "Source"
     132 resources imported from [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ChatOps** — managing technical and business operations through a chat. This page brings together 132 links about ChatOps, grouped into 8 sections. The largest sections are **Frameworks and libraries**, **Videos**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 7 links
+- **Videos** — 11 links
+- **Books** — 3 links
+- **Events** — 1 link
+- **Podcasts** — 2 links
+- **Resources** — 1 link
+- **Services** — 3 links
+- **Frameworks and libraries** — 104 links
+
+<!-- kb-about:end -->
+
 ## Articles
 
 - [So, What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/) – ChatOps concepts and tools.
@@ -277,3 +297,20 @@ Managing technical and business operations through a chat.
 
 - [Errbot](http://errbot.io/) + [adapter](https://github.com/zulip/errbot-backend-zulip) (Python)
 - [Hubot](https://hubot.github.com/) + [adapter](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Cheminformatics](cheminformatics.md)
+- [Citizen Science](citizen-science.md)
+- [Code Points](code-points.md)
+- [Colorful](colorful.md)
+- [Boilerplate Projects](boilerplate-projects.md)
+- [Bots](bots.md)
+- [Calculators](calculators.md)
+- [ChatGPT](chatgpt.md)
+
+<!-- kb-related:end -->

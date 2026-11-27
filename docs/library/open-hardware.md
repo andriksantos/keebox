@@ -9,6 +9,28 @@ Open-source hardware projects.
 
 !!! info "Source"
     114 resources imported from [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Open Hardware** — open-source hardware projects. This page brings together 114 links about Open Hardware, grouped into 10 sections. The largest sections are **Projects**, **Design Tools**, **Platforms**, a good place to start if you are exploring the topic for the first time. It belongs to the **Hardware** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Projects** — 41 links
+- **Design Tools** — 15 links
+- **Talks** — 9 links
+- **Papers** — 6 links
+- **Conferences** — 10 links
+- **Platforms** — 13 links
+- **Podcasts** — 7 links
+- **Books** — 5 links
+- **Training Programs** — 2 links
+- **Further Readings** — 6 links
+
+<!-- kb-about:end -->
+
 ## Projects
 
 ### Automation, Manufacturing, and Robotics
@@ -168,3 +190,19 @@ Open-source hardware projects.
 - [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
 - [OSHWA Certification](https://certification.oshwa.org/) - Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
 - [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open-access scientific hardware journal.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Hardware** category of the [KEEBOX Library](index.md):
+
+- [Plotters](plotters.md)
+- [Robotic Tooling](robotic-tooling.md)
+- [ADS-B](ads-b.md)
+- [Bluetooth Beacons](bluetooth-beacons.md)
+- [Electronics](electronics.md)
+- [Flying FPV](flying-fpv.md)
+- [LIDAR](lidar.md)
+
+<!-- kb-related:end -->

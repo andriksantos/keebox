@@ -9,6 +9,30 @@ Package manager.
 
 !!! info "Source"
     156 resources imported from [jakoch/awesome-composer](https://github.com/jakoch/awesome-composer), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Composer** — package manager. This page brings together 151 links about Composer, grouped into 12 sections. The largest sections are **Plugins**, **Packagist-compatible repositories**, **Slides**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Composer** — 9 links
+- **Plugins** — 59 links
+- **Tools** — 13 links
+- **Scripts** — 9 links
+- **Services** — 1 link
+- **Tutorials** — 5 links
+- **Blogs** — 5 links
+- **Videos** — 10 links
+- **Slides** — 14 links
+- **Packagist** — 3 links
+- **Composer Repositories** — 6 links
+- **Packagist-compatible repositories** — 17 links
+
+<!-- kb-about:end -->
+
 ## Composer
 
 - [Official Website](https://getcomposer.org/)
@@ -219,3 +243,20 @@ Package manager.
 ### Toran Proxy
 
 - [ToranProxy](https://toranproxy.com/) (deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Coq](coq.md)
+- [Dart](dart.md)
+- [Data Science](data-science.md)
+- [Elm](elm.md)
+- [AVA](ava.md)
+- [CircuitPython](circuitpython.md)
+- [ClojureScript](clojurescript.md)
+- [ColdFusion](coldfusion.md)
+
+<!-- kb-related:end -->

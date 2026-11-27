@@ -9,6 +9,24 @@ Open source peer-to-peer marketplace for computing resources.
 
 !!! info "Source"
     97 resources imported from [golemfactory/awesome-golem](https://github.com/golemfactory/awesome-golem), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Golem** — open source peer-to-peer marketplace for computing resources. This page brings together 97 links about Golem, grouped into 6 sections. The largest sections are **Archive**, **Learning Resources**, **Provider Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Golem** — 5 links
+- **Network Statistics** — 3 links
+- **Developer and Requestor Resources** — 5 links
+- **Provider Resources** — 11 links
+- **Learning Resources** — 21 links
+- **Archive** — 52 links
+
+<!-- kb-about:end -->
+
 ## Golem
 
 - [Golem Network Platform](https://www.golem.network/platform) - Learn the Golem platform on the official Golem Network website.
@@ -191,3 +209,20 @@ Open source peer-to-peer marketplace for computing resources.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - A tool to sharpen images.
 - [Filterms](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 - [golem-bulk-image-handler](https://github.com/figurestudios/golem-bulk-image-handler) - Takes an input image and processes it in many different ways using the Pillow library.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Mastodon](mastodon.md)
+- [Non-Financial Blockchain](non-financial-blockchain.md)
+- [Ripple](ripple.md)
+- [Stacks](stacks.md)
+- [Corda](corda.md)
+- [Cosmos SDK](cosmos-sdk.md)
+- [EOSIO](eosio.md)
+- [Ethereum](ethereum.md)
+
+<!-- kb-related:end -->

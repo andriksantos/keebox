@@ -9,6 +9,23 @@ Python web framework for building both your frontend and backend with no JavaScr
 
 !!! info "Source"
     75 resources imported from [reflex-dev/awesome-reflex](https://github.com/reflex-dev/awesome-reflex), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Reflex** — python web framework for building both your frontend and backend with no JavaScript. This page brings together 75 links about Reflex, grouped into 5 sections. The largest sections are **Component Libraries**, **External Resources**, **Example Apps and Templates**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Example Apps and Templates** — 13 links
+- **Official Resources** — 2 links
+- **External Resources** — 26 links
+- **Component Libraries** — 29 links
+- **Databases and Authentication** — 5 links
+
+<!-- kb-about:end -->
+
 ## 🛠️ Example Apps and Templates
 
 ### Official Templates
@@ -117,3 +134,20 @@ Python web framework for building both your frontend and backend with no JavaScr
 - [Neon](https://neon.tech) - Serverless Postgres database service
 - [Clerk](https://clerk.com/) ([auth library](https://kroo.github.io/reflex-clerk/)) - Authentication and user management
 - [Firebase](https://youtu.be/JRGyvjjWb00?list=PLDHA4931gtc7wHBDGQOYlmcpZm7qyici7) - Backend services for apps
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Slim](slim.md)
+- [Symfony](symfony.md)
+- [Terraform](terraform.md)
+- [Vagrant](vagrant.md)
+- [nginx](nginx.md)
+- [OpenTofu](opentofu.md)
+- [Play1 Framework](play1-framework.md)
+- [Pyramid](pyramid.md)
+
+<!-- kb-related:end -->

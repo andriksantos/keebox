@@ -9,6 +9,20 @@ Curated ClojureScript resources.
 
 !!! info "Source"
     122 resources imported from [hantuzun/awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ClojureScript**. This page brings together 122 links about ClojureScript, grouped into 2 sections. The largest sections are **Awesome ClojureScript**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 13 links
+- **Awesome ClojureScript** — 109 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Books
@@ -212,3 +226,20 @@ Curated ClojureScript resources.
 
 - [Chord](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 - [Sente](https://github.com/ptaoussanis/sente) – Clojure(Script) + core.async + WebSockets/Ajax.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [ColdFusion](coldfusion.md)
+- [Composer](composer.md)
+- [Coq](coq.md)
+- [Dart](dart.md)
+- [ActionScript 3](actionscript-3.md)
+- [Ada/SPARK](ada-spark.md)
+- [AVA](ava.md)
+- [CircuitPython](circuitpython.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,26 @@ Like polyfills but without overriding native APIs.
 
 !!! info "Source"
     53 resources imported from [Richienb/awesome-ponyfills](https://github.com/Richienb/awesome-ponyfills), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ponyfills** — like polyfills but without overriding native APIs. This page brings together 52 links about Ponyfills, grouped into 8 sections. The largest sections are **Browser Features**, **Arrays**, **Uncategorised**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 1 link
+- **Uncategorised** — 7 links
+- **Numbers** — 4 links
+- **Strings** — 5 links
+- **Objects** — 7 links
+- **Arrays** — 10 links
+- **Browser Features** — 13 links
+- **Node.js Features** — 5 links
+
+<!-- kb-about:end -->
+
 ## Articles
 
 - [Polyfills or Ponyfills?](https://ponyfoo.com/articles/polyfills-or-ponyfills)
@@ -88,3 +108,20 @@ Like polyfills but without overriding native APIs.
 - [buffer-from](https://github.com/LinusU/buffer-from) - [`Buffer.from`](https://nodejs.org/api/buffer.html#buffer_class_method_buffer_from_array)
 - [cross-exit](https://github.com/Richienb/cross-exit) - [`process.exit`](https://nodejs.org/api/process.html#process_process_exit_code)
 - [next-tick](https://github.com/medikoo/next-tick) - [`process.nextTick`](https://nodejs.org/api/process.html#process_process_nexttick_callback_args)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Promises](promises.md)
+- [PureScript](purescript.md)
+- [Q#](q.md)
+- [Rust](rust.md)
+- [npm scripts](npm-scripts.md)
+- [Observables](observables.md)
+- [Pascal](pascal.md)
+- [Pest](pest.md)
+
+<!-- kb-related:end -->

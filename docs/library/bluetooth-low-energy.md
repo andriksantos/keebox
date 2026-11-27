@@ -9,6 +9,31 @@ Low-power wireless communication protocol ideal for IoT, wearables, and other ba
 
 !!! info "Source"
     51 resources imported from [dotintent/awesome-ble](https://github.com/dotintent/awesome-ble), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Bluetooth Low Energy** — low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications. This page brings together 51 links about Bluetooth Low Energy, grouped into 15 sections. The largest sections are **Documentation**, **Library**, **iOS**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Documentation** — 9 links
+- **Framework** — 2 links
+- **Library** — 7 links
+- **iOS** — 6 links
+- **KMM** — 2 links
+- **Android** — 6 links
+- **Flutter** — 3 links
+- **Tool** — 4 links
+- **Web** — 2 links
+- **Security** — 1 link
+- **Arduino** — 2 links
+- **ESP** — 3 links
+- …and 3 more sections
+
+<!-- kb-about:end -->
+
 ## Documentation
 
 - [Android Bluetooth Low Energy](https://developer.android.com/guide/topics/connectivity/bluetooth/ble-overview) - Overview about BLE in Android.
@@ -104,3 +129,20 @@ Low-power wireless communication protocol ideal for IoT, wearables, and other ba
 
 - [Scan and connect to BLE in background on iOS](https://medium.com/@cbartel/ios-scan-and-connect-to-a-ble-peripheral-in-the-background-731f960d520d) - Article discussing case study (for both firmware and app) of scanning and connecting to BLE device in background
 - [Deep dive to iOS advertising in backgroud](http://www.davidgyoungtech.com/2020/05/07/hacking-the-overflow-area) - Delves into iOS's proprietary 'Overflow Area' for background Bluetooth advertising and it's possibilities and limitations for background data exchange.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Cloudflare](cloudflare.md)
+- [Core](core.md)
+- [Cross-Platform](cross-platform.md)
+- [Deno](deno.md)
+- [Apps](apps.md)
+- [ArcGIS Developer](arcgis-developer.md)
+- [Arch-based Projects](arch-based-projects.md)
+- [Backstage](backstage.md)
+
+<!-- kb-related:end -->

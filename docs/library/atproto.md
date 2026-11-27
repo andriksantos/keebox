@@ -9,6 +9,23 @@ Open, decentralized network for building social apps.
 
 !!! info "Source"
     56 resources imported from [atblueprints/awesome-atproto](https://github.com/atblueprints/awesome-atproto), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ATProto** — open, decentralized network for building social apps. This page brings together 56 links about ATProto, grouped into 5 sections. The largest sections are **Platforms**, **Lexicons**, **AT Protocol**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **AT Protocol** — 10 links
+- **Browsers** — 2 links
+- **Platforms** — 23 links
+- **Tools** — 4 links
+- **Lexicons** — 17 links
+
+<!-- kb-about:end -->
+
 ## AT Protocol
 
 ### References
@@ -87,3 +104,20 @@ Open, decentralized network for building social apps.
 - [Smoke Signal](https://github.com/SmokeSignal-Events/lexicon)
 - [Sparta Social](https://github.com/dblock/sparta-social/tree/main/lexicons)
 - [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Bitcoin](bitcoin.md)
+- [Blockchain AI](blockchain-ai.md)
+- [Corda](corda.md)
+- [Cosmos SDK](cosmos-sdk.md)
+- [Substrate](substrate.md)
+- [Tor](tor.md)
+- [Waves](waves.md)
+- [Algorand](algorand.md)
+
+<!-- kb-related:end -->

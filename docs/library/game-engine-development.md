@@ -9,6 +9,15 @@ Building software to speed up game creation.
 
 !!! info "Source"
     1,026 resources imported from [stevinz/awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Game Engine Development** — building software to speed up game creation. This page brings together 0 links about Game Engine Development, grouped into 0 sections. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## Game Engines
 
 ### Awesome Collections
@@ -1252,3 +1261,20 @@ Building software to speed up game creation.
         - ⭐ - [Public Domain License](https://en.wikipedia.org/wiki/Public-domain-equivalent_license) ([CC0](https://creativecommons.org/publicdomain/zero/1.0/), [BOLA](https://blitiri.com.ar/p/bola/), [WTFPL](https://en.wikipedia.org/wiki/WTFPL), [Unlicense](https://en.wikipedia.org/wiki/Unlicense), etc.)
         - 🎉 - [Permissive License](https://en.wikipedia.org/wiki/Permissive_software_license) ([MIT/Expat](https://en.wikipedia.org/wiki/MIT_License), [BSD](https://en.wikipedia.org/wiki/BSD_licenses), [ZLIB/LIBPNG](https://en.wikipedia.org/wiki/Zlib_License), [ISC](https://en.wikipedia.org/wiki/ISC_license), [Apache](https://en.wikipedia.org/wiki/Apache_License), [Boost](https://www.boost.org/users/license.html) etc.)
         - 🔒 - [Copyleft License](https://en.wikipedia.org/wiki/Copyleft) ([CC](https://en.wikipedia.org/wiki/Creative_Commons_license), [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License), etc.)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Game Production](game-production.md)
+- [Game Remakes](game-remakes.md)
+- [GameMaker](gamemaker.md)
+- [Games of Coding](games-of-coding.md)
+- [Construct 2](construct-2.md)
+- [Esports](esports.md)
+- [Flame](flame.md)
+- [Game Datasets](game-datasets.md)
+
+<!-- kb-related:end -->

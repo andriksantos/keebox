@@ -9,6 +9,21 @@ PHP MVC framework that serves as a classic or headless CMS.
 
 !!! info "Source"
     53 resources imported from [wernerkrauss/awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Silverstripe CMS** — pHP MVC framework that serves as a classic or headless CMS. This page brings together 53 links about Silverstripe CMS, grouped into 3 sections. The largest sections are **Very Useful Modules**, **Resources**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 19 links
+- **Very Useful Modules** — 20 links
+- **Tools** — 14 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Official Websites
@@ -117,3 +132,20 @@ PHP MVC framework that serves as a classic or headless CMS.
 - [Laravel Homestead](https://github.com/laravel/homestead) - Prepackaged box for local development.
 - [Scotchbox](https://box.scotch.io) - Popular LAMP/LEMP stack for local development.
 - [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) -  Preconfigured Vagrant boxes for SS3 and SS4.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Sitecore](sitecore.md)
+- [Wagtail](wagtail.md)
+- [Craft CMS](craft-cms.md)
+- [Directus](directus.md)
+- [Drupal](drupal.md)
+- [Payload](payload.md)
+- [Plone](plone.md)
+- [Refinery CMS](refinery-cms.md)
+
+<!-- kb-related:end -->

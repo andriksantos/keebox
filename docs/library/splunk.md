@@ -9,6 +9,23 @@ Platform for searching, monitoring, and analyzing structured and unstructured ma
 
 !!! info "Source"
     50 resources imported from [sduff/awesome-splunk](https://github.com/sduff/awesome-splunk), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Big Data**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Splunk** — platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real time. This page brings together 50 links about Splunk, grouped into 5 sections. The largest sections are **Apps**, **Basics**, **Visualisations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Big Data** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Basics** — 10 links
+- **Apps** — 13 links
+- **Visualisations** — 10 links
+- **Conferences, Meet-Ups and Socialising** — 8 links
+- **Unofficial Resources** — 9 links
+
+<!-- kb-about:end -->
+
 ## Basics
 
 - [Splunk Website](https://splunk.com) - Splunk's Homepage.
@@ -86,3 +103,15 @@ Platform for searching, monitoring, and analyzing structured and unstructured ma
 #### SPL Repositories
 
 - [GoSplunk](https://gosplunk.com/) - Search Engine for Splunk Queries split by sourcetype and use-case.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Big Data** category of the [KEEBOX Library](index.md):
+
+- [Apache Spark](apache-spark.md)
+- [Data Engineering](data-engineering.md)
+- [Qlik](qlik.md)
+
+<!-- kb-related:end -->

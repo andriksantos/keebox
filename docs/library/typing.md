@@ -9,6 +9,26 @@ Optional static typing for Python.
 
 !!! info "Source"
     128 resources imported from [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Typing** — optional static typing for Python. This page brings together 128 links about Typing, grouped into 8 sections. The largest sections are **Tools**, **Articles**, **Stub packages**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Static type checkers** — 12 links
+- **Dynamic type checkers** — 8 links
+- **Stub packages** — 15 links
+- **Additional types** — 9 links
+- **Backports and improvements** — 3 links
+- **Tools** — 40 links
+- **Integrations** — 5 links
+- **Articles** — 36 links
+
+<!-- kb-about:end -->
+
 ## Static type checkers
 
 - [basedmypy](https://github.com/KotlinIsland/basedmypy) - Based static typing with baseline functionality.
@@ -179,3 +199,20 @@ Optional static typing for Python.
 - [Static Typing Python Decorators](https://rednafi.github.io/reflections/static-typing-python-decorators.html) - Accurately static typing decorators in Python is an icky business. The wrapper function obfuscates type information required to statically determine the types of the parameters and the return values of the wrapped function.
 - [How do mypy, Pyright, and ty compare?](https://pydevtools.com/handbook/explanation/how-do-mypy-pyright-and-ty-compare/) - A detailed comparison of the three major Python static type checkers covering features, performance, and trade-offs.
 - [ty: A Complete Guide](https://pydevtools.com/handbook/explanation/ty-complete-guide/) - Comprehensive guide to ty, the fast Python type checker from Astral.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [V](v.md)
+- [Vala](vala.md)
+- [ActionScript 3](actionscript-3.md)
+- [Ada/SPARK](ada-spark.md)
+- [Rust](rust.md)
+- [RxJava](rxjava.md)
+- [Standard Style](standard-style.md)
+- [Swift](swift.md)
+
+<!-- kb-related:end -->

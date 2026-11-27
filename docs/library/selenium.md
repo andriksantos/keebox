@@ -9,6 +9,15 @@ Open-source browser automation framework and ecosystem.
 
 !!! info "Source"
     95 resources imported from [christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Testing**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Selenium** — open-source browser automation framework and ecosystem. This page brings together 95 links about Selenium, grouped into 1 sections. The largest sections are **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Testing** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Tools
@@ -174,3 +183,20 @@ Open-source browser automation framework and ecosystem.
 - [Official Selenium Blog](https://www.selenium.dev/blog/) - The official blog by SeleniumHQ.
 - [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
 - [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Testing** category of the [KEEBOX Library](index.md):
+
+- [TAP](tap.md)
+- [Testing](testing.md)
+- [Appium](appium.md)
+- [CodeRabbit](coderabbit.md)
+- [Gatling](gatling.md)
+- [JMeter](jmeter.md)
+- [k6](k6.md)
+- [Playwright](playwright.md)
+
+<!-- kb-related:end -->

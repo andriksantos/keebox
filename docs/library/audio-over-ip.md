@@ -9,6 +9,23 @@ Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
 
 !!! info "Source"
     28 resources imported from [Mo-way/awesome-aoip](https://github.com/Mo-way/awesome-aoip), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Audio Over IP** — reliably transmit uncompressed, low-latency audio over an IP (layer 3) network. This page brings together 28 links about Audio Over IP, grouped into 5 sections. The largest sections are **Tools**, **Education**, **Security**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Tools** — 14 links
+- **Organizations** — 3 links
+- **Education** — 4 links
+- **Standards** — 3 links
+- **Security** — 4 links
+
+<!-- kb-about:end -->
+
 ## Tools
 
 - [Network Audio Controller](https://github.com/chris-ritsen/network-audio-controller) - Reverse engineered Dante Controller. Supports Web GUI and command line.
@@ -54,3 +71,20 @@ Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
 - [Dante Encryption](https://www.getdante.com/products/network-management/dante-media-encryption/) - Dante encrypts media streams, but requires a cloud connection for encrypted control traffic.
 - [Vulnerability assessment of the Dante Protocol](https://ritcsec.wordpress.com/2020/04/28/reverse-engineering-and-vulnerability-assessment-of-the-dante-protocol/) - This article looks at the low-level implementation of Dante protocol.
 - [Secuirty analysis of PTP paper](https://web.archive.org/web/20250823221404/http://lersse-dl.ece.ubc.ca/record/123/files/123.pdf) - A paper from 2025 explaining which attack vectors on PTP exist in theory.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Audio Visualization](audio-visualization.md)
+- [Audiovisual](audiovisual.md)
+- [Broadcasting](broadcasting.md)
+- [FFmpeg](ffmpeg.md)
+- [Music](music.md)
+- [Pixel Art](pixel-art.md)
+- [Stock Resources](stock-resources.md)
+- [VLC](vlc.md)
+
+<!-- kb-related:end -->

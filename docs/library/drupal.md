@@ -9,6 +9,28 @@ Extensible PHP-based CMS.
 
 !!! info "Source"
     100 resources imported from [nirgn975/awesome-drupal](https://github.com/nirgn975/awesome-drupal), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Drupal** — extensible PHP-based CMS. This page brings together 100 links about Drupal, grouped into 10 sections. The largest sections are **Modules**, **Articles**, **Documentation**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Tools** — 5 links
+- **Modules** — 40 links
+- **Documentation** — 11 links
+- **Articles** — 17 links
+- **Distributions** — 5 links
+- **Books** — 1 link
+- **Videos** — 6 links
+- **Podcasts** — 4 links
+- **Community** — 8 links
+- **Tips** — 3 links
+
+<!-- kb-about:end -->
+
 ## Tools
 
 - [Drupal Console](https://drupalconsole.com/) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
@@ -138,3 +160,20 @@ Extensible PHP-based CMS.
 - [Solr Script](https://github.com/RoySegall/solr-script) - Handy script to install Apache Solr.
 - [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
 - [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Payload](payload.md)
+- [Plone](plone.md)
+- [Refinery CMS](refinery-cms.md)
+- [Silverstripe CMS](silverstripe-cms.md)
+- [Sitecore](sitecore.md)
+- [Wagtail](wagtail.md)
+- [Craft CMS](craft-cms.md)
+- [Directus](directus.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,29 @@ Internet of Things connectivity protocol.
 
 !!! info "Source"
     357 resources imported from [hobbyquaker/awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**MQTT** — internet of Things connectivity protocol. This page brings together 357 links about MQTT, grouped into 11 sections. The largest sections are **Interfaces**, **Tools**, **Clients**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Community Resources** — 13 links
+- **Brokers** — 32 links
+- **Cloud** — 11 links
+- **Platforms** — 8 links
+- **Tools** — 58 links
+- **Clients** — 41 links
+- **Scripting** — 3 links
+- **Interfaces** — 164 links
+- **Visualization, Dashboards** — 21 links
+- **Architecture, Convention** — 2 links
+- **Security, Encryption** — 4 links
+
+<!-- kb-about:end -->
+
 ## Community Resources
 
 - [mqtt.org](https://mqtt.org/)
@@ -507,3 +530,20 @@ Internet of Things connectivity protocol.
 - [mqttsa](https://github.com/stfbk/mqttsa) - Broker mis-configuration detection for cyber protection.
 - [MQTT-PWN](https://github.com/akamai-threat-research/mqtt-pwn) - IoT Broker penetration-testing and security assessment operations.
 - [Teserakt E4](https://teserakt.io/) - End-to-end encryption and key management for MQTT and other M2M protocols – Open-source and paid plans.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Naming](naming.md)
+- [Open Source Supporters](open-source-supporters.md)
+- [OpenStreetMap](openstreetmap.md)
+- [Permacomputing](permacomputing.md)
+- [Katas](katas.md)
+- [Ledger](ledger.md)
+- [Markdown](markdown.md)
+- [Microservices](microservices.md)
+
+<!-- kb-related:end -->

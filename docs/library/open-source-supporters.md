@@ -9,6 +9,30 @@ Companies that offer their tools and services for free to open source projects.
 
 !!! info "Source"
     65 resources imported from [zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Open Source Supporters** — companies that offer their tools and services for free to open source projects. This page brings together 65 links about Open Source Supporters, grouped into 12 sections. The largest sections are **Miscellaneous**, **Code Quality**, **Continuous Integration**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Code Coverage** — 2 links
+- **Code Quality** — 10 links
+- **Continuous Integration** — 9 links
+- **Dependency Management** — 5 links
+- **Documentation** — 2 links
+- **Exception Reporting** — 2 links
+- **Package Management** — 2 links
+- **Project Management** — 2 links
+- **Monitoring** — 2 links
+- **Localization** — 6 links
+- **Version Control** — 4 links
+- **Miscellaneous** — 19 links
+
+<!-- kb-about:end -->
+
 ## Code Coverage
 
 - [Codecov](https://codecov.io/) - Test coverage monitoring & alerting.
@@ -111,3 +135,20 @@ Companies that offer their tools and services for free to open source projects.
 - [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
 
 ## Tags
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [OpenStreetMap](openstreetmap.md)
+- [Permacomputing](permacomputing.md)
+- [Pokémon](pok-mon.md)
+- [Prisma](prisma.md)
+- [Markdown](markdown.md)
+- [Microservices](microservices.md)
+- [MQTT](mqtt.md)
+- [Naming](naming.md)
+
+<!-- kb-related:end -->

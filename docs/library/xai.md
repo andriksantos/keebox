@@ -9,6 +9,22 @@ Providing insight, explanations, and interpretability to machine learning method
 
 !!! info "Source"
     101 resources imported from [altamiracorp/awesome-xai](https://github.com/altamiracorp/awesome-xai), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**XAI** — providing insight, explanations, and interpretability to machine learning methods. This page brings together 101 links about XAI, grouped into 4 sections. The largest sections are **Papers**, **Repositories**, **Follow**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Papers** — 93 links
+- **Repositories** — 4 links
+- **Videos** — 1 link
+- **Follow** — 3 links
+
+<!-- kb-about:end -->
+
 ## Papers
 
 ### Landmarks
@@ -138,3 +154,20 @@ Providing insight, explanations, and interpretability to machine learning method
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
 - [Tim Miller](https://twitter.com/tmiller_unimelb) - One of the preeminent researchers in XAI.
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) - The man behind Explainable Boosting Machines.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [AI in Finance](ai-in-finance.md)
+- [Computer Vision](computer-vision.md)
+- [Conversational AI](conversational-ai.md)
+- [Cryptography](cryptography.md)
+- [TensorFlow.js](tensorflow-js.md)
+- [Theoretical Computer Science](theoretical-computer-science.md)
+- [Tutorials](tutorials.md)
+- [Tutorials](tutorials-2.md)
+
+<!-- kb-related:end -->

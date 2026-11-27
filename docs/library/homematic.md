@@ -9,6 +9,29 @@ Smart home devices.
 
 !!! info "Source"
     117 resources imported from [homematic-community/awesome-homematic](https://github.com/homematic-community/awesome-homematic), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Homematic** — smart home devices. This page brings together 117 links about Homematic, grouped into 11 sections. The largest sections are **CCU Addons**, **Misc Software**, **Interfacing Software**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Community Ressources** — 11 links
+- **Documentation** — 9 links
+- **Mobile Apps** — 5 links
+- **CCU Alternatives** — 4 links
+- **Alternative Sensors, Actuators and Hardware Modifications** — 9 links
+- **CCU Addons** — 26 links
+- **Interfacing Software** — 12 links
+- **Misc Software** — 15 links
+- **Software Modules** — 12 links
+- **Smart Home Software supporting Homematic** — 9 links
+- **Misc** — 5 links
+
+<!-- kb-about:end -->
+
 ## Community Ressources
 
 - [Haus Automatisierung](https://haus-automatisierung.com/) - News, Blog, Youtube, Tutorials, ...
@@ -158,3 +181,20 @@ Smart home devices.
 - [eagle-homematic](https://github.com/dersimn/eagle-homematic) - Homematic Modul Eagle Bibliothek.
 - [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) - Rahmen für Unterputzmontage von Tablets.
 - [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) - Diverse Teile rund um Homematic zum selbst drucken.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [HPC](hpc.md)
+- [inspectIT](inspectit.md)
+- [IRC](irc.md)
+- [JSON](json.md)
+- [GeoJSON](geojson.md)
+- [GitHub Wiki](github-wiki.md)
+- [GraphQL](graphql.md)
+- [Gulp](gulp.md)
+
+<!-- kb-related:end -->

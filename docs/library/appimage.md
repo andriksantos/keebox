@@ -9,6 +9,22 @@ Package apps in a single file that works on various mainstream Linux distributio
 
 !!! info "Source"
     120 resources imported from [AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**AppImage** — package apps in a single file that works on various mainstream Linux distributions. This page brings together 120 links about AppImage, grouped into 4 sections. The largest sections are **AppImage developer tools**, **AppImage consumption tools**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **AppImage discovery** — 6 links
+- **AppImage consumption tools** — 31 links
+- **AppImage developer tools** — 57 links
+- **Resources** — 26 links
+
+<!-- kb-about:end -->
+
 ## AppImage discovery
 
 ### App catalogs
@@ -241,3 +257,20 @@ Package apps in a single file that works on various mainstream Linux distributio
 
 - [awesome-linuxdeploy](https://github.com/linuxdeploy/awesome-linuxdeploy) - Awesome list on linuxdeploy.
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Apps](apps.md)
+- [ArcGIS Developer](arcgis-developer.md)
+- [Arch-based Projects](arch-based-projects.md)
+- [Backstage](backstage.md)
+- [Windows](windows.md)
+- [Actions on Google](actions-on-google.md)
+- [Adafruit IO](adafruit-io.md)
+- [Android](android.md)
+
+<!-- kb-related:end -->

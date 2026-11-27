@@ -9,6 +9,31 @@ User accounts, authentication and authorization.
 
 !!! info "Source"
     235 resources imported from [kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**IAM** — user accounts, authentication and authorization. This page brings together 234 links about IAM, grouped into 20 sections. The largest sections are **Trust & Safety**, **Authorization**, **Password-less auth**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Overview** — 3 links
+- **Security** — 4 links
+- **Account Management** — 6 links
+- **Cryptography** — 9 links
+- **Zero-trust Network** — 5 links
+- **Machine Identity** — 2 links
+- **Authentication** — 3 links
+- **Password-based auth** — 9 links
+- **Multi-factor auth** — 18 links
+- **Password-less auth** — 22 links
+- **Authorization** — 31 links
+- **OAuth2 & OpenID** — 17 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## Overview
 
 - [The EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io) - The majority of the features making B2B users happy will be implemented by the IAM perimeter.
@@ -377,3 +402,20 @@ User accounts, authentication and authorization.
 ## History
 
 - [cryptoanarchy.wiki](https://cryptoanarchy.wiki) - Cypherpunks overlaps with security. This wiki compiles information about the movement, its history and the people/events of note.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Kustomize](kustomize.md)
+- [Lumen](lumen.md)
+- [nginx](nginx.md)
+- [OpenTofu](opentofu.md)
+- [Dropwizard](dropwizard.md)
+- [Education](education.md)
+- [FastAPI](fastapi.md)
+- [Flask](flask.md)
+
+<!-- kb-related:end -->

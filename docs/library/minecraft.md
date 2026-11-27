@@ -9,6 +9,27 @@ Sandbox video game.
 
 !!! info "Source"
     134 resources imported from [bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Minecraft** — sandbox video game. This page brings together 134 links about Minecraft, grouped into 9 sections. The largest sections are **Mods**, **Softwares**, **Websites**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Websites** — 15 links
+- **Mod Loaders** — 7 links
+- **Mods** — 55 links
+- **Server Plugins** — 8 links
+- **Resource Packs** — 6 links
+- **Shader Packs** — 7 links
+- **Web Applications** — 2 links
+- **Softwares** — 28 links
+- **Development** — 6 links
+
+<!-- kb-about:end -->
+
 ## Websites
 
 ### Wiki
@@ -229,3 +250,20 @@ Sandbox video game.
 - [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
 - [BON 2](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
 - [Bearded Octo Nemesis](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Open Source Games](open-source-games.md)
+- [PlayCanvas](playcanvas.md)
+- [Roblox](roblox.md)
+- [Babylon.js](babylon-js.md)
+- [Haxe Game Development](haxe-game-development.md)
+- [LÖVE](l-ve.md)
+- [Learn Gamedev](learn-gamedev.md)
+- [libGDX](libgdx.md)
+
+<!-- kb-related:end -->

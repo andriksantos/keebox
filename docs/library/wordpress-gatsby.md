@@ -9,6 +9,22 @@ Web development technology stack with WordPress as a back end and Gatsby as a fr
 
 !!! info "Source"
     71 resources imported from [henrikwirth/awesome-wordpress-gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**WordPress-Gatsby** — web development technology stack with WordPress as a back end and Gatsby as a front end. This page brings together 55 links about WordPress-Gatsby, grouped into 4 sections. The largest sections are **Plugins**, **Communities**, **Starters**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Communities** — 6 links
+- **Plugins** — 43 links
+- **Starters** — 5 links
+- **Themes** — 1 link
+
+<!-- kb-about:end -->
+
 ## Communities
 
 - [Slack Chat](https://wpgql-slack.herokuapp.com/)
@@ -118,3 +134,20 @@ Web development technology stack with WordPress as a back end and Gatsby as a fr
 ## Themes
 
 - [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme) - A port of the Twenty Nineteen WordPress Theme over to Gatsby.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Yew](yew.md)
+- [Angular](angular.md)
+- [Backbone](backbone.md)
+- [Blazor](blazor.md)
+- [Web Typography](web-typography.md)
+- [WebAssembly](webassembly.md)
+- [WebGL](webgl.md)
+- [WebGPU](webgpu.md)
+
+<!-- kb-related:end -->

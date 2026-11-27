@@ -9,6 +9,33 @@ Framework for writing scalable, upgradeable blockchains in Rust.
 
 !!! info "Source"
     160 resources imported from [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Substrate is the Rust framework from Parity used to build custom blockchains, including Polkadot and its parachains. It provides modular building blocks called FRAME pallets for accounts, governance, staking and smart contracts, so teams can focus on their own logic.
+
+This list gathers documentation, templates, pallets, framework extensions, talks and community channels. Rust experience is assumed; if you are new to blockchain development, read the **Resources** section and start from a template rather than from scratch.
+
+### What you'll find
+
+- **Resources** — 13 links
+- **Social** — 3 links
+- **Events** — 2 links
+- **Blogs** — 2 links
+- **Videos** — 11 links
+- **Templates** — 8 links
+- **FRAME Pallets** — 7 links
+- **Framework Extensions** — 7 links
+- **Client Libraries** — 16 links
+- **Mobile** — 7 links
+- **Tools** — 64 links
+- **Products and Services** — 3 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Resources
 
 - [DotJobs](https://dotjobs.net/) - A job board for the Substrate and Polkadot ecosystem projects, maintained by [Stateless.Money](https://stateless.money/).
@@ -210,3 +237,20 @@ Framework for writing scalable, upgradeable blockchains in Rust.
     - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - Maintained by Polkadot-JS.
     - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
     - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Tor](tor.md)
+- [Waves](waves.md)
+- [Algorand](algorand.md)
+- [ATProto](atproto.md)
+- [Mastodon](mastodon.md)
+- [Non-Financial Blockchain](non-financial-blockchain.md)
+- [Ripple](ripple.md)
+- [Stacks](stacks.md)
+
+<!-- kb-related:end -->

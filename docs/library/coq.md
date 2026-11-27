@@ -9,6 +9,20 @@ Formal language and environment for programming and specification which facilita
 
 !!! info "Source"
     215 resources imported from [coq-community/awesome-coq](https://github.com/coq-community/awesome-coq), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Coq** — formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs. This page brings together 215 links about Coq, grouped into 2 sections. The largest sections are **Projects**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Projects** — 152 links
+- **Resources** — 63 links
+
+<!-- kb-about:end -->
+
 ## Projects
 
 ### Frameworks
@@ -269,3 +283,20 @@ Formal language and environment for programming and specification which facilita
 - [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - Source code for Mathematical Components tutorials.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
 - [Tricks in Coq](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Dart](dart.md)
+- [Data Science](data-science.md)
+- [Elm](elm.md)
+- [ESLint](eslint.md)
+- [CircuitPython](circuitpython.md)
+- [ClojureScript](clojurescript.md)
+- [ColdFusion](coldfusion.md)
+- [Composer](composer.md)
+
+<!-- kb-related:end -->

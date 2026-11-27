@@ -9,6 +9,28 @@ Cross-platform native desktop apps using JavaScript/HTML/CSS.
 
 !!! info "Source"
     237 resources imported from [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Electron** — cross-platform native desktop apps using JavaScript/HTML/CSS. This page brings together 237 links about Electron, grouped into 10 sections. The largest sections are **Apps**, **Tools**, **Videos**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Apps** — 128 links
+- **Boilerplates** — 9 links
+- **Tools** — 53 links
+- **Components** — 4 links
+- **Documentation** — 3 links
+- **Articles** — 12 links
+- **Books** — 3 links
+- **Videos** — 14 links
+- **Podcasts** — 3 links
+- **Community** — 8 links
+
+<!-- kb-about:end -->
+
 ## Apps
 
 ### Open Source
@@ -298,3 +320,20 @@ Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [ESP](esp.md)
+- [Firebase](firebase.md)
+- [Firebase Genkit](firebase-genkit.md)
+- [Flutter](flutter.md)
+- [Cross-Platform](cross-platform.md)
+- [Deno](deno.md)
+- [DigitalOcean](digitalocean.md)
+- [DOS](dos.md)
+
+<!-- kb-related:end -->

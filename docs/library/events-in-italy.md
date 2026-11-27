@@ -9,6 +9,15 @@ Tech-related events in Italy.
 
 !!! info "Source"
     14 resources imported from [ildoc/awesome-italy-events](https://github.com/ildoc/awesome-italy-events), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Events**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Events in Italy** — tech-related events in Italy. This page brings together 0 links about Events in Italy, grouped into 0 sections. It belongs to the **Events** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 ## January
 
 - 27-31 - [Global Game Jam](https://globalgamejam.org/) - Multiple locations - Get together and create games in one weekend.
@@ -43,3 +52,14 @@ Tech-related events in Italy.
 ## October
 
 - 27-28 - [ItaliaSec](https://italy.cyberseries.io/) - Milano - This groundbreaking summit is designed for senior security leaders.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Events** category of the [KEEBOX Library](index.md):
+
+- [Events in the Netherlands](events-in-the-netherlands.md)
+- [Creative Tech Events](creative-tech-events.md)
+
+<!-- kb-related:end -->

@@ -42,3 +42,34 @@ Curated VS Code extensions, editor tools and browser extensions that make develo
 
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode) - Curated list of delightful VS Code packages and resources.
 - [Awesome Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Collection of browser extensions for GitHub.
+
+<!-- kb-guide:start -->
+
+## Building a productive setup
+
+Extensions are most useful when they remove friction you feel every day. A good starting setup for most developers:
+
+- **Code quality:** a formatter (Prettier) and a linter (ESLint or your language's equivalent) configured to run on save, plus Error Lens to show problems inline.
+- **Git:** GitLens or the built-in source control view to see who changed a line and why.
+- **Language support:** the official extension for each language you use, which provides IntelliSense, debugging and refactoring through the language server.
+- **Browser:** developer tools for your framework (React, Vue), an accessibility checker and a JSON viewer.
+
+Install extensions one at a time and remove the ones you have not used in a month. Too many extensions slow down the editor and can conflict with each other. Prefer extensions from verified publishers, since they can read your code and files.
+
+## Frequently asked questions
+
+??? question "VS Code, Neovim or a JetBrains IDE?"
+    VS Code is the most popular free editor and has the largest extension marketplace. Neovim is fast and keyboard-driven, ideal if you enjoy configuring your own tools. JetBrains IDEs (IntelliJ, PyCharm, WebStorm) offer deeper refactoring out of the box.
+
+??? question "Are browser extensions safe for developers?"
+    Only install extensions you need, from known publishers, and review the permissions they request. Use a separate browser profile for development so test extensions do not have access to your personal accounts.
+
+??? question "How do I share my extension setup with my team?"
+    In VS Code, add a `.vscode/extensions.json` file with recommended extensions to the repository, and commit shared settings like formatter rules in `.vscode/settings.json` or in `.editorconfig`.
+
+## Keep exploring
+
+- [Neovim](library/neovim.md) · [Vim](library/vim.md) · [WebExtensions](library/webextensions.md)
+- [Online tools](online-tools.md) · [Cheatsheets](cheatsheets.md)
+
+<!-- kb-guide:end -->

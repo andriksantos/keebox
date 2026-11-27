@@ -9,6 +9,21 @@ Enhance your browsing experience.
 
 !!! info "Source"
     9 resources imported from [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Userscripts** — enhance your browsing experience. This page brings together 9 links about Userscripts, grouped into 3 sections. The largest sections are **Tutorials**, **Additional Catalogues**, **Community**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Tutorials** — 4 links
+- **Additional Catalogues** — 3 links
+- **Community** — 2 links
+
+<!-- kb-about:end -->
+
 ## Scripts
 
 ## Tutorials
@@ -28,3 +43,20 @@ Enhance your browsing experience.
 
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/userscripts)
 - [`r/userscripts` on Reddit](https://www.reddit.com/r/userscripts/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Veganism](veganism.md)
+- [Web Archiving](web-archiving.md)
+- [Web Design](web-design.md)
+- [Web Monetization](web-monetization.md)
+- [Translations](translations.md)
+- [Uncopyright](uncopyright.md)
+- [Unicode](unicode.md)
+- [Urban & Regional Planning](urban-regional-planning.md)
+
+<!-- kb-related:end -->

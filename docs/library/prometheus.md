@@ -9,6 +9,31 @@ Open-source monitoring system.
 
 !!! info "Source"
     98 resources imported from [roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Prometheus** — open-source monitoring system. This page brings together 98 links about Prometheus, grouped into 14 sections. The largest sections are **Blog posts and opinions**, **Videos**, **Exporters**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official resources** — 5 links
+- **Tutorials** — 11 links
+- **Books** — 3 links
+- **Videos** — 18 links
+- **Podcasts and interviews** — 3 links
+- **Presentations** — 4 links
+- **Blog posts and opinions** — 20 links
+- **Deployment tools** — 5 links
+- **Dashboards** — 2 links
+- **Exporters** — 13 links
+- **Alertmanager** — 3 links
+- **Proxies** — 5 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Official resources
 
 - [Website](https://prometheus.io/) - Official Prometheus project website.
@@ -162,3 +187,20 @@ Open-source monitoring system.
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 - [PromCon](https://promcon.io/) - The Prometheus conference.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [QR Code](qr-code.md)
+- [Quarto](quarto.md)
+- [Read the Docs](read-the-docs.md)
+- [Readme](readme.md)
+- [Permacomputing](permacomputing.md)
+- [Pokémon](pok-mon.md)
+- [Prisma](prisma.md)
+- [Product Design](product-design.md)
+
+<!-- kb-related:end -->

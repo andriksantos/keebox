@@ -9,6 +9,21 @@ Packing and unpacking executable formats.
 
 !!! info "Source"
     762 resources imported from [dhondta/awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Executable Packing** — packing and unpacking executable formats. This page brings together 342 links about Executable Packing, grouped into 3 sections. The largest sections are **package Packers**, **wrench Tools**, **bookmark_tabs Datasets**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **bookmark_tabs Datasets** — 37 links
+- **package Packers** — 187 links
+- **wrench Tools** — 118 links
+
+<!-- kb-about:end -->
+
 ## :books: Literature
 
 ### Documentation
@@ -795,3 +810,20 @@ Packing and unpacking executable formats.
 - [Winbindex](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
 - [XVolkolak](https://github.com/horsicq/XVolkolak) - Qt/CMake emulator-unpacker project with a GUI and a console application.
 - [yarGen](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Fuzzing](fuzzing.md)
+- [GDPR](gdpr.md)
+- [Malware Persistence](malware-persistence.md)
+- [OpenID Connect](openid-connect.md)
+- [Detection Engineering](detection-engineering.md)
+- [DevSecOps](devsecops.md)
+- [Embedded and IoT Security](embedded-and-iot-security.md)
+- [EVM Security](evm-security.md)
+
+<!-- kb-related:end -->

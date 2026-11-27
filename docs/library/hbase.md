@@ -9,6 +9,20 @@ Distributed, scalable, big data store.
 
 !!! info "Source"
     90 resources imported from [rayokota/awesome-hbase](https://github.com/rayokota/awesome-hbase), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**HBase** — distributed, scalable, big data store. This page brings together 90 links about HBase, grouped into 2 sections. The largest sections are **Projects**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Projects** — 72 links
+- **Resources** — 18 links
+
+<!-- kb-about:end -->
+
 ## Projects
 
 ### Clients
@@ -157,3 +171,20 @@ Distributed, scalable, big data store.
 - [Reddit](https://www.reddit.com/r/hbase/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/hbase)
 - [Twitter](https://twitter.com/HBase)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [InfluxDB](influxdb.md)
+- [MongoDB](mongodb.md)
+- [Neon](neon.md)
+- [NoSQL Guides](nosql-guides.md)
+- [Supabase](supabase.md)
+- [TinkerPop](tinkerpop.md)
+- [TypeDB](typedb.md)
+- [Database Tools](database-tools.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,23 @@ Learn how to be a better product manager.
 
 !!! info "Source"
     156 resources imported from [dend/awesome-product-management](https://github.com/dend/awesome-product-management), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Learn**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Product Management** — learn how to be a better product manager. This page brings together 156 links about Product Management, grouped into 5 sections. The largest sections are **Articles**, **Books**, **Communities**, a good place to start if you are exploring the topic for the first time. It belongs to the **Learn** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 99 links
+- **Books** — 47 links
+- **Communities** — 4 links
+- **Conferences** — 3 links
+- **Additional resources** — 3 links
+
+<!-- kb-about:end -->
+
 ## Tools
 
 ### Note-taking & Knowledge Management
@@ -234,3 +251,15 @@ Learn how to be a better product manager.
 - [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 - [Mobbin](https://mobbin.design/) - Hand-picked collection of mobile app design patterns.
 - [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A handy guide on growing marketing skills for folks with engineering backgrounds.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Learn** category of the [KEEBOX Library](index.md):
+
+- [Programming for Kids](programming-for-kids.md)
+- [STEAM](steam.md)
+- [Hackathon](hackathon.md)
+
+<!-- kb-related:end -->

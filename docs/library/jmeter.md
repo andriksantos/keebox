@@ -9,6 +9,31 @@ Load testing and performance measurement tool.
 
 !!! info "Source"
     224 resources imported from [aliesbelik/awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Testing**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**JMeter** — load testing and performance measurement tool. This page brings together 216 links about JMeter, grouped into 20 sections. The largest sections are **Results Processing**, **Distributed Testing**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Testing** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 5 links
+- **Distributions** — 3 links
+- **Getting Started** — 2 links
+- **Tutorials** — 9 links
+- **Best Practices** — 3 links
+- **Scripting** — 2 links
+- **Automation** — 17 links
+- **CI** — 20 links
+- **Distributed Testing** — 22 links
+- **Cloud Services / SaaS** — 6 links
+- **Results Processing** — 49 links
+- **Performance Testing** — 11 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
@@ -359,3 +384,20 @@ Load testing and performance measurement tool.
 - [`jmeter` on Gitter](https://app.gitter.im/#/room/#aliesbelik_jmeter-chat:gitter.im)
 - [`#jmeter` on Slack](https://jmeterusers.slack.com/)
 - [`r/jmeter` on Reddit](https://www.reddit.com/r/jmeter/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Testing** category of the [KEEBOX Library](index.md):
+
+- [k6](k6.md)
+- [Playwright](playwright.md)
+- [Selenium](selenium.md)
+- [TAP](tap.md)
+- [Testing](testing.md)
+- [Appium](appium.md)
+- [CodeRabbit](coderabbit.md)
+- [Gatling](gatling.md)
+
+<!-- kb-related:end -->

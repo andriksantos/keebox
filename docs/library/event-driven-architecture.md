@@ -9,6 +9,20 @@ A software architecture approach where services collaborate by publishing and su
 
 !!! info "Source"
     21 resources imported from [lutzh/awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Event-Driven Architecture** — a software architecture approach where services collaborate by publishing and subscribing to events. This page brings together 21 links about Event-Driven Architecture, grouped into 2 sections. The largest sections are **Articles**, **Videos**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 14 links
+- **Videos** — 7 links
+
+<!-- kb-about:end -->
+
 ## 📕 Articles
 
 ### Foundational
@@ -45,3 +59,20 @@ A software architecture approach where services collaborate by publishing and su
 - [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
 - [What is the Transactional Outbox Pattern?](https://www.youtube.com/watch?v=5YLpjPmsPCA&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Wade Waldron, February 2024. A short video (just over 5 minutes) explaining what the transactional outbox pattern is and how it works.
 - [Shifting Gears: From Events to Event-Driven](https://www.youtube.com/watch?v=1dWJO31wpV8&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Ryan Cormack, May 2024. He tells the story of Motorway's journey to event driven, and also includes a lot of foundational aspects.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Falsehood](falsehood.md)
+- [Food](food.md)
+- [For Girls](for-girls.md)
+- [Framer](framer.md)
+- [Design Principles](design-principles.md)
+- [Dev Fun](dev-fun.md)
+- [Discounts for Student Developers](discounts-for-student-developers.md)
+- [DTrace](dtrace.md)
+
+<!-- kb-related:end -->

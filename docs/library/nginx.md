@@ -9,6 +9,31 @@ Web server.
 
 !!! info "Source"
     92 resources imported from [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**nginx** — web server. This page brings together 92 links about nginx, grouped into 14 sections. The largest sections are **Configuration**, **Tutorials**, **Nginx + Lua**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Understanding Nginx** — 5 links
+- **Architecture** — 6 links
+- **Configuration** — 15 links
+- **Security** — 1 link
+- **Tutorials** — 12 links
+- **Module development** — 3 links
+- **APIs** — 3 links
+- **Hacks** — 7 links
+- **Tips** — 3 links
+- **Nginx + Lua** — 10 links
+- **Nginx + njs** — 9 links
+- **OpenResty** — 9 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Understanding Nginx
 
 - [Understanding Nginx versioning](https://www.f5.com/company/blog/nginx/nginx-1-18-1-19-released)
@@ -142,3 +167,20 @@ Web server.
 - [NGINX Conference 2015 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXdED9BR6GQ61A6d3fBzjpbn)
 - [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
 - [NGINX User Summit 2014 - Lightning talks](https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [OpenTofu](opentofu.md)
+- [Play1 Framework](play1-framework.md)
+- [Pyramid](pyramid.md)
+- [Reflex](reflex.md)
+- [Flask](flask.md)
+- [IAM](iam.md)
+- [Kustomize](kustomize.md)
+- [Lumen](lumen.md)
+
+<!-- kb-related:end -->

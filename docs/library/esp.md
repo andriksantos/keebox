@@ -9,6 +9,22 @@ Low-cost microcontrollers with WiFi and broad IoT applications.
 
 !!! info "Source"
     102 resources imported from [agucova/awesome-esp](https://github.com/agucova/awesome-esp), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ESP** — low-cost microcontrollers with WiFi and broad IoT applications. This page brings together 102 links about ESP, grouped into 4 sections. The largest sections are **Projects**, **Libraries**, **Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Firmware** — 10 links
+- **Tools** — 13 links
+- **Projects** — 44 links
+- **Libraries** — 35 links
+
+<!-- kb-about:end -->
+
 ## Firmware
 
 - [Espressif AT](http://bbs.espressif.com/) - The default vanilla firmware for the ESP8266.
@@ -142,3 +158,20 @@ Low-cost microcontrollers with WiFi and broad IoT applications.
 - [CanAirIO SensorLib](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) - ESP32/8266 library with auto-configuration of multiple PM2.5, CO2 and environment sensors.
 - [Dhyara](https://github.com/neel/dhyara) - A C/C++ library for making a Mobile Ad hoc Network (MANET) using ESP Now.
 - [LedFx](https://github.com/LedFx/LedFx) - A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Firebase](firebase.md)
+- [Firebase Genkit](firebase-genkit.md)
+- [Flutter](flutter.md)
+- [Fuse](fuse.md)
+- [Deno](deno.md)
+- [DigitalOcean](digitalocean.md)
+- [DOS](dos.md)
+- [Electron](electron.md)
+
+<!-- kb-related:end -->

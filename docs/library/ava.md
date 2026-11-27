@@ -9,6 +9,24 @@ Test runner.
 
 !!! info "Source"
     42 resources imported from [avajs/awesome-ava](https://github.com/avajs/awesome-ava), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**AVA** — test runner. This page brings together 42 links about AVA, grouped into 6 sections. The largest sections are **Packages**, **Works with AVA**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 4 links
+- **Videos** — 2 links
+- **Packages** — 24 links
+- **Works with AVA** — 9 links
+- **Tutorials** — 1 link
+- **Miscellaneous** — 2 links
+
+<!-- kb-about:end -->
+
 ## Articles
 
 - [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes)
@@ -68,3 +86,20 @@ Test runner.
 
 - [Stickers, t-shirts, etc](https://www.redbubble.com/people/sindresorhus/works/30330590-ava-logo) - The products are sold at production price without any markup.
 - [Slides from AVA talk at London Node User Group](https://speakerdeck.com/novemberborn/ava-at-lnug) - By core team member [Mark Wubben](https://github.com/novemberborn).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [CircuitPython](circuitpython.md)
+- [ClojureScript](clojurescript.md)
+- [ColdFusion](coldfusion.md)
+- [Composer](composer.md)
+- [V](v.md)
+- [Vala](vala.md)
+- [ActionScript 3](actionscript-3.md)
+- [Ada/SPARK](ada-spark.md)
+
+<!-- kb-related:end -->

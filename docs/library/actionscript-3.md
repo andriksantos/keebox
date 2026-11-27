@@ -9,6 +9,28 @@ Object-oriented language targeting Adobe AIR.
 
 !!! info "Source"
     386 resources imported from [robinrodricks/awesome-actionscript3](https://github.com/robinrodricks/awesome-actionscript3), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ActionScript 3** — object-oriented language targeting Adobe AIR. This page brings together 386 links about ActionScript 3, grouped into 10 sections. The largest sections are **Multimedia**, **Frameworks**, **File Formats**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Development Tools** — 20 links
+- **Frameworks** — 54 links
+- **User Interface** — 31 links
+- **Multimedia** — 68 links
+- **Database** — 12 links
+- **File Formats** — 52 links
+- **Networking** — 48 links
+- **Utilities** — 37 links
+- **Runtimes** — 12 links
+- **AIR Native Extensions** — 52 links
+
+<!-- kb-about:end -->
+
 ## Development Tools
 
 #### Code Editors
@@ -657,3 +679,20 @@ Object-oriented language targeting Adobe AIR.
 - [HockeyApp](https://github.com/airext/hockeyapp) - ANE for the Hockeyapp testing & distribute platform.
 - [Chartboost](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
 - [Devtodev](https://github.com/devtodev-analytics/air-sdk) - A full-cycle analytics solution for game developers.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Ada/SPARK](ada-spark.md)
+- [AVA](ava.md)
+- [CircuitPython](circuitpython.md)
+- [ClojureScript](clojurescript.md)
+- [Swift](swift.md)
+- [Typing](typing.md)
+- [V](v.md)
+- [Vala](vala.md)
+
+<!-- kb-related:end -->

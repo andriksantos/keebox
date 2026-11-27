@@ -9,6 +9,25 @@ Curated Terminals Are Sexy resources.
 
 !!! info "Source"
     196 resources imported from [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Terminals Are Sexy**. This page brings together 196 links about Terminals Are Sexy, grouped into 7 sections. The largest sections are **Tools and Plugins**, **Shells**, **Terminal Emulation Applications**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Shells** — 51 links
+- **Terminal Emulation Applications** — 24 links
+- **Package Managers** — 24 links
+- **Text Editors** — 11 links
+- **Tools and Plugins** — 66 links
+- **Communication** — 8 links
+- **Other** — 12 links
+
+<!-- kb-about:end -->
+
 ## Shells
 
 ### Base Shells
@@ -263,3 +282,20 @@ Curated Terminals Are Sexy resources.
 
 - [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [WezTerm](wezterm.md)
+- [Fish](fish.md)
+- [Git Hooks](git-hooks.md)
+- [GitHub](github.md)
+- [Hyper](hyper.md)
+- [Pinned Gists](pinned-gists.md)
+- [Shell](shell.md)
+- [SSH](ssh.md)
+
+<!-- kb-related:end -->

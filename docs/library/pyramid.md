@@ -9,6 +9,31 @@ Python framework.
 
 !!! info "Source"
     121 resources imported from [uralbash/awesome-pyramid](https://github.com/uralbash/awesome-pyramid), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Pyramid** — python framework. This page brings together 121 links about Pyramid, grouped into 30 sections. The largest sections are **Other**, **Authentication**, **RESTful API**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Admin interface** — 5 links
+- **Asset Management** — 2 links
+- **Async** — 4 links
+- **Authentication** — 11 links
+- **Authorization** — 5 links
+- **Caching & Session** — 5 links
+- **Debugging** — 6 links
+- **Email** — 3 links
+- **Forms** — 5 links
+- **Media-Management** — 2 links
+- **RESTful API** — 11 links
+- **Search** — 1 link
+- …and 18 more sections
+
+<!-- kb-about:end -->
+
 ## Admin interface
 
 - [pyramid_formalchemy](https://github.com/FormAlchemy/pyramid_formalchemy) -
@@ -219,3 +244,20 @@ Python framework.
 
 - [List of videos from the official site](https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html)
 - [Online Video Courses at Talk Python Training](https://training.talkpython.fm/courses/all)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Reflex](reflex.md)
+- [Slim](slim.md)
+- [Symfony](symfony.md)
+- [Terraform](terraform.md)
+- [Lumen](lumen.md)
+- [nginx](nginx.md)
+- [OpenTofu](opentofu.md)
+- [Play1 Framework](play1-framework.md)
+
+<!-- kb-related:end -->

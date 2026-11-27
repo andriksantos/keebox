@@ -9,6 +9,31 @@ PHP framework.
 
 !!! info "Source"
     240 resources imported from [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Symfony** — pHP framework. This page brings together 240 links about Symfony, grouped into 22 sections. The largest sections are **Miscellaneous**, **Development**, **Storage**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Administration** — 7 links
+- **Certification** — 3 links
+- **Community** — 13 links
+- **Development** — 25 links
+- **Distributions** — 4 links
+- **Ecommerce** — 4 links
+- **Forms** — 6 links
+- **Internationalization** — 7 links
+- **Miscellaneous** — 78 links
+- **Monitoring** — 2 links
+- **Payments Management** — 6 links
+- **Queues** — 9 links
+- …and 10 more sections
+
+<!-- kb-about:end -->
+
 ## Administration
 
 - [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle) - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
@@ -314,3 +339,20 @@ PHP framework.
 - [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
 - [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
 - [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - A symfony bundle to handle multiple upload ways on your REST API.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Terraform](terraform.md)
+- [Vagrant](vagrant.md)
+- [Vapor](vapor.md)
+- [Apache Wicket](apache-wicket.md)
+- [Play1 Framework](play1-framework.md)
+- [Pyramid](pyramid.md)
+- [Reflex](reflex.md)
+- [Slim](slim.md)
+
+<!-- kb-related:end -->

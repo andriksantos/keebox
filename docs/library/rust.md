@@ -9,6 +9,23 @@ Curated Rust resources.
 
 !!! info "Source"
     2,022 resources imported from [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Rust**. This page brings together 2,009 links about Rust, grouped into 5 sections. The largest sections are **Libraries**, **Applications**, **Development tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Applications** — 776 links
+- **Development tools** — 277 links
+- **Libraries** — 890 links
+- **Registries** — 6 links
+- **Resources** — 60 links
+
+<!-- kb-about:end -->
+
 ## Applications
 
 - [ad-si/Woxi](https://github.com/ad-si/Woxi) [[woxi](https://crates.io/crates/woxi)] - An interpreter for the Wolfram Language powered by Rust.
@@ -2368,3 +2385,20 @@ Curated Rust resources.
 - [RustCamp 2015 Talks](https://www.youtube.com/playlist?list=PLE7tQUdRKcybdIw61JpCoo89i4pWU5f_t) - Recorded talks from RustCamp 2015
 - [RustViz](https://github.com/rustviz/rustviz) - generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
 - [Watch Jon Gjengset Implement BitTorrent in Rust](https://www.youtube.com/watch?v=jf_ddGnum_4) - Implementing (part of) a BitTorrent client in Rust
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [RxJava](rxjava.md)
+- [Standard Style](standard-style.md)
+- [Swift](swift.md)
+- [Typing](typing.md)
+- [Ponyfills](ponyfills.md)
+- [Promises](promises.md)
+- [PureScript](purescript.md)
+- [Q#](q.md)
+
+<!-- kb-related:end -->

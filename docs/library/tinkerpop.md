@@ -9,6 +9,21 @@ Graph computing framework.
 
 !!! info "Source"
     78 resources imported from [mohataher/awesome-tinkerpop](https://github.com/mohataher/awesome-tinkerpop), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**TinkerPop** — graph computing framework. This page brings together 18 links about TinkerPop, grouped into 3 sections. The largest sections are **Tutorials and Resources**, **People to Follow**, **Communities**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Communities** — 3 links
+- **People to Follow** — 4 links
+- **Tutorials and Resources** — 11 links
+
+<!-- kb-about:end -->
+
 ### TinkerPop3 Libraries
 
 #### Implementations
@@ -136,3 +151,20 @@ Graph computing framework.
 - [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 - [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
 - [Graph](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [TypeDB](typedb.md)
+- [Database Tools](database-tools.md)
+- [HBase](hbase.md)
+- [InfluxDB](influxdb.md)
+- [NoSQL Guides](nosql-guides.md)
+- [PocketBase](pocketbase.md)
+- [PostgreSQL](postgresql.md)
+- [Supabase](supabase.md)
+
+<!-- kb-related:end -->

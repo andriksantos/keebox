@@ -9,6 +9,31 @@ Recursion illustrated.
 
 !!! info "Source"
     671 resources imported from [sindresorhus/awesome](https://github.com/sindresorhus/awesome), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Awesome** — recursion illustrated. This page brings together 671 links about Awesome, grouped into 26 sections. The largest sections are **Miscellaneous**, **Front-End Development**, **Programming Languages**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Platforms** — 55 links
+- **Programming Languages** — 77 links
+- **Front-End Development** — 85 links
+- **Back-End Development** — 32 links
+- **Computer Science** — 38 links
+- **Big Data** — 9 links
+- **Theory** — 14 links
+- **Books** — 6 links
+- **Editors** — 5 links
+- **Gaming** — 28 links
+- **Development Environment** — 21 links
+- **Entertainment** — 5 links
+- …and 14 more sections
+
+<!-- kb-about:end -->
+
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
@@ -757,3 +782,20 @@ Recursion illustrated.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Beginner-Friendly Projects](beginner-friendly-projects.md)
+- [Biological Image Analysis](biological-image-analysis.md)
+- [Biological Visualizations](biological-visualizations.md)
+- [Boilerplate Projects](boilerplate-projects.md)
+- [AMA](ama.md)
+- [Amazon Sellers](amazon-sellers.md)
+- [Ansible](ansible.md)
+- [Astrophotography](astrophotography.md)
+
+<!-- kb-related:end -->

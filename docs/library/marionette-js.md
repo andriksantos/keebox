@@ -9,6 +9,24 @@ App framework.
 
 !!! info "Source"
     90 resources imported from [sadcitizen/awesome-marionette](https://github.com/sadcitizen/awesome-marionette), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Marionette.js** — app framework. This page brings together 90 links about Marionette.js, grouped into 6 sections. The largest sections are **Tutorials and articles**, **Videos**, **Examples and boilerplates**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General** — 10 links
+- **Tutorials and articles** — 33 links
+- **Books** — 8 links
+- **Videos** — 18 links
+- **Examples and boilerplates** — 15 links
+- **Libraries** — 6 links
+
+<!-- kb-about:end -->
+
 ## General
 
 - [Official site](http://marionettejs.com/)
@@ -116,3 +134,20 @@ App framework.
 - [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer)
 - [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
 - [Orchestra](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Master CSS](master-css.md)
+- [Material-UI](material-ui.md)
+- [MDBootstrap](mdbootstrap.md)
+- [Mobile Web Development](mobile-web-development.md)
+- [Ionic Framework](ionic-framework.md)
+- [jQuery](jquery.md)
+- [Less](less.md)
+- [lit](lit.md)
+
+<!-- kb-related:end -->

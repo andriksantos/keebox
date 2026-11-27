@@ -9,6 +9,25 @@ Concerning the built environment and communities.
 
 !!! info "Source"
     324 resources imported from [APA-Technology-Division/urban-and-regional-planning-resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Urban & Regional Planning** — concerning the built environment and communities. This page brings together 324 links about Urban & Regional Planning, grouped into 7 sections. The largest sections are **Public Data Resources**, **Platforms and Software Resources**, **Planning Coding Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Public Data Resources** — 93 links
+- **Vendor Data Resources** — 32 links
+- **Planning Data Specifications** — 24 links
+- **Planning Coding Resources** — 56 links
+- **Platforms and Software Resources** — 84 links
+- **Educational and Informational Resources** — 19 links
+- **Other Resources** — 16 links
+
+<!-- kb-about:end -->
+
 ## Public Data Resources
 
 ### Built Environment
@@ -490,3 +509,20 @@ Concerning the built environment and communities.
 - [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
 - [Data Center Policy Database](https://www.datacenterpolicy.com/database) - A searchable database of data center policies, useful for planners navigating the land rezoning, water and energy demands, and transparency issues that accompany data center siting in their jurisdictions.
 - [Mobility Data Interoperability Principles Specification Registry](https://www.interoperablemobility.org/specifications/) - A list of transportation data specifications assessed by the MDIP coalition on five openness criteria including what it covers, who maintains it, and licensing.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Userscripts](userscripts.md)
+- [Veganism](veganism.md)
+- [Web Archiving](web-archiving.md)
+- [Web Design](web-design.md)
+- [Transit](transit.md)
+- [Translations](translations.md)
+- [Uncopyright](uncopyright.md)
+- [Unicode](unicode.md)
+
+<!-- kb-related:end -->

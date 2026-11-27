@@ -9,6 +9,31 @@ Curated Math resources.
 
 !!! info "Source"
     362 resources imported from [rossant/awesome-math](https://github.com/rossant/awesome-math), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Theory**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Math**. This page brings together 362 links about Math, grouped into 17 sections. The largest sections are **Start Here**, **Analysis**, **Foundations and Logic**, a good place to start if you are exploring the topic for the first time. It belongs to the **Theory** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Start Here** — 53 links
+- **General Mathematics** — 2 links
+- **Foundations and Logic** — 46 links
+- **Algebra** — 35 links
+- **Number Theory** — 10 links
+- **Combinatorics and Discrete Mathematics** — 10 links
+- **Geometry and Topology** — 33 links
+- **Analysis** — 48 links
+- **Differential Equations and Dynamical Systems** — 11 links
+- **Probability and Statistics** — 40 links
+- **Numerical and Computational Mathematics** — 7 links
+- **Optimization, Operations Research, and Control** — 4 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Start Here
 
 ### Learning Platforms
@@ -565,3 +590,19 @@ Curated Math resources.
 - [MathsJam](https://mathsjam.com/) - Monthly local recreational mathematics and puzzle meetups, plus an annual gathering in the United Kingdom.
 - [Talking Maths in Public](https://talkingmathsinpublic.uk/) - Biennial conference for mathematics communicators in the United Kingdom.
 - [Bridges](https://www.bridgesmathart.org/) - Annual conference on mathematical connections in art, music, architecture, and culture.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Theory** category of the [KEEBOX Library](index.md):
+
+- [Recursion Schemes](recursion-schemes.md)
+- [Talks](talks.md)
+- [VLM Architectures](vlm-architectures.md)
+- [AGI & CoCoSci](agi-cocosci.md)
+- [Audit Algorithms](audit-algorithms.md)
+- [Complex Systems](complex-systems.md)
+- [Education](education-3.md)
+
+<!-- kb-related:end -->

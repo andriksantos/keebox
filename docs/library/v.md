@@ -9,6 +9,21 @@ Simple, fast, safe, compiled language for developing maintainable software.
 
 !!! info "Source"
     284 resources imported from [vlang/awesome-v](https://github.com/vlang/awesome-v), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**V** — simple, fast, safe, compiled language for developing maintainable software. This page brings together 284 links about V, grouped into 3 sections. The largest sections are **Libraries**, **Applications**, **Other**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Applications** — 100 links
+- **Libraries** — 143 links
+- **Other** — 41 links
+
+<!-- kb-about:end -->
+
 ## Applications
 
 ### Build Systems
@@ -463,3 +478,20 @@ Simple, fast, safe, compiled language for developing maintainable software.
 
 - [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 - [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Vala](vala.md)
+- [ActionScript 3](actionscript-3.md)
+- [Ada/SPARK](ada-spark.md)
+- [AVA](ava.md)
+- [RxJava](rxjava.md)
+- [Standard Style](standard-style.md)
+- [Swift](swift.md)
+- [Typing](typing.md)
+
+<!-- kb-related:end -->

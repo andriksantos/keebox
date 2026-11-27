@@ -9,6 +9,31 @@ Solving problems in finance with machine learning.
 
 !!! info "Source"
     296 resources imported from [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**AI in Finance** — solving problems in finance with machine learning. This page brings together 273 links about AI in Finance, grouped into 14 sections. The largest sections are **Strategies & Research**, **Data Sources**, **MCP Servers**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Agents** — 21 links
+- **LLMs** — 11 links
+- **Skills** — 11 links
+- **MCP Servers** — 32 links
+- **Papers** — 13 links
+- **Courses & Books & Blogs** — 16 links
+- **Strategies & Research** — 56 links
+- **Data Sources** — 40 links
+- **Research Tools** — 22 links
+- **Trading System** — 18 links
+- **TA Lib** — 4 links
+- **Exchange API** — 13 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Agents
 
 - 🌟🌟 [nofx](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
@@ -411,3 +436,20 @@ Solving problems in finance with machine learning.
 - [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 - [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real energy data records, LangChain/MCP integration.
 - [MeterCall](https://metercall.ai/?v=f&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Computer Vision](computer-vision.md)
+- [Conversational AI](conversational-ai.md)
+- [Cryptography](cryptography.md)
+- [Education](education-2.md)
+- [Theoretical Computer Science](theoretical-computer-science.md)
+- [Tutorials](tutorials.md)
+- [Tutorials](tutorials-2.md)
+- [XAI](xai.md)
+
+<!-- kb-related:end -->

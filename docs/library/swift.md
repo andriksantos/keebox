@@ -9,6 +9,30 @@ Apple's compiled programming language that is secure, modern, programmer-friendl
 
 !!! info "Source"
     1,112 resources imported from [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Swift** — apple's compiled programming language that is secure, modern, programmer-friendly, and fast. This page brings together 1,112 links about Swift, grouped into 12 sections. The largest sections are **Libs**, **Guides**, **Misc**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Guides** — 24 links
+- **Boilerplates** — 3 links
+- **REPL** — 1 link
+- **Editor Support** — 4 links
+- **Benchmark** — 1 link
+- **Converters** — 2 links
+- **Other Awesome Lists** — 6 links
+- **Dependency Managers** — 6 links
+- **Patterns** — 12 links
+- **Misc** — 22 links
+- **Libs** — 1030 links
+- **Serverless** — 1 link
+
+<!-- kb-about:end -->
+
 ## Guides
 
 ### Newsletter
@@ -1517,3 +1541,20 @@ Apple's compiled programming language that is secure, modern, programmer-friendl
 ## Serverless
 
 - [Azure Functions for Swift](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Typing](typing.md)
+- [V](v.md)
+- [Vala](vala.md)
+- [ActionScript 3](actionscript-3.md)
+- [Q#](q.md)
+- [Rust](rust.md)
+- [RxJava](rxjava.md)
+- [Standard Style](standard-style.md)
+
+<!-- kb-related:end -->

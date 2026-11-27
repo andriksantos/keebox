@@ -9,6 +9,24 @@ Technology broadcasting aircraft's identity, position, and data periodically.
 
 !!! info "Source"
     55 resources imported from [rickstaa/awesome-adsb](https://github.com/rickstaa/awesome-adsb), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ADS-B** — technology broadcasting aircraft's identity, position, and data periodically. This page brings together 55 links about ADS-B, grouped into 6 sections. The largest sections are **ADS-B Aggregators**, **Software**, **Hardware**, a good place to start if you are exploring the topic for the first time. It belongs to the **Hardware** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Docs and Quickstarts** — 4 links
+- **Books and Articles** — 1 link
+- **ADS-B Aggregators** — 20 links
+- **Software** — 20 links
+- **ADS-B Derived Data** — 1 link
+- **Hardware** — 9 links
+
+<!-- kb-about:end -->
+
 ## Docs and Quickstarts
 
 - [ADS-B Docker guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
@@ -120,3 +138,19 @@ Technology broadcasting aircraft's identity, position, and data periodically.
 
 - [Vinnant antennas](https://vinnant.sk/) - Specialized premium antennas made in Slovakia.
 - [DPD antennas](https://dpdproductions.com/) - High-quality antennas for various radio services produced in the USA.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Hardware** category of the [KEEBOX Library](index.md):
+
+- [Bluetooth Beacons](bluetooth-beacons.md)
+- [Electronics](electronics.md)
+- [Flying FPV](flying-fpv.md)
+- [LIDAR](lidar.md)
+- [Open Hardware](open-hardware.md)
+- [Plotters](plotters.md)
+- [Robotic Tooling](robotic-tooling.md)
+
+<!-- kb-related:end -->

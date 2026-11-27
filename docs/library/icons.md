@@ -9,6 +9,22 @@ Downloadable SVG/PNG/font icon projects.
 
 !!! info "Source"
     49 resources imported from [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Icons** — downloadable SVG/PNG/font icon projects. This page brings together 42 links about Icons, grouped into 4 sections. The largest sections are **General**, **Logos**, **Other**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General** — 25 links
+- **Logos** — 8 links
+- **Special** — 4 links
+- **Other** — 5 links
+
+<!-- kb-about:end -->
+
 ## General
 
 - [Bootstrap Icons](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
@@ -74,3 +90,20 @@ Downloadable SVG/PNG/font icon projects.
 - [Iconify Deign](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
 - [React Icons](https://github.com/react-icons/react-icons#reamde) - Popular icon sets created especially for React projects. ([Website](https://react-icons.github.io/react-icons/))
 - [Unicon](https://github.com/WebRenew/unicon#readme) - Browse 20,000+ icons from 9 libraries and copy only what you need—like shadcn/ui for icons. ([Website](https://unicon.webrenew.com))
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Music](music.md)
+- [Pixel Art](pixel-art.md)
+- [Stock Resources](stock-resources.md)
+- [VLC](vlc.md)
+- [Broadcasting](broadcasting.md)
+- [FFmpeg](ffmpeg.md)
+- [Fonts](fonts.md)
+- [GIF](gif.md)
+
+<!-- kb-related:end -->

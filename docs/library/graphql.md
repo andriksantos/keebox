@@ -9,6 +9,31 @@ Curated GraphQL resources.
 
 !!! info "Source"
     490 resources imported from [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**GraphQL**. This page brings together 490 links about GraphQL, grouped into 16 sections. The largest sections are **Implementations**, **Tools**, **Posts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Specifications** — 9 links
+- **Federation & Schema Composition** — 13 links
+- **Foundations** — 1 link
+- **Communities** — 9 links
+- **Meetups** — 19 links
+- **Implementations** — 259 links
+- **Tools** — 77 links
+- **Databases & Data Platforms** — 5 links
+- **Services** — 15 links
+- **Tutorials** — 5 links
+- **Books** — 6 links
+- **Videos** — 23 links
+- …and 4 more sections
+
+<!-- kb-about:end -->
+
 ## Specifications
 
 - [GraphQL](https://github.com/graphql/graphql-spec) - Working draft of the specification for GraphQL.
@@ -775,3 +800,20 @@ Curated GraphQL resources.
 - [Authentication and Authorization for GraphQL APIs](https://www.moesif.com/blog/technical/api-design/Steps-to-Building-Authentication-and-Authorization-For-GraphQL-APIs/) - Guide to authentication and authorization patterns for GraphQL APIs.
 - [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/) - Guide to hiding selected schema elements from GraphQL introspection.
 - [How to Test your GraphQL Endpoints](https://escape.tech/blog/8-most-common-graphql-vulnerabilities/) - Overview of common GraphQL vulnerabilities and how to test for them.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Gulp](gulp.md)
+- [Homematic](homematic.md)
+- [HPC](hpc.md)
+- [inspectIT](inspectit.md)
+- [Gemini CLI](gemini-cli.md)
+- [Geocaching](geocaching.md)
+- [GeoJSON](geojson.md)
+- [GitHub Wiki](github-wiki.md)
+
+<!-- kb-related:end -->

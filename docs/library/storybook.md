@@ -9,6 +9,24 @@ Development environment for UI components.
 
 !!! info "Source"
     44 resources imported from [lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Storybook** — development environment for UI components. This page brings together 44 links about Storybook, grouped into 6 sections. The largest sections are **Examples**, **Official resources**, **Blog posts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official resources** — 11 links
+- **Community resources** — 4 links
+- **Examples** — 13 links
+- **Tutorials** — 4 links
+- **Talks** — 4 links
+- **Blog posts** — 8 links
+
+<!-- kb-about:end -->
+
 ## Official resources
 
 - [Website](https://storybook.js.org)
@@ -70,3 +88,20 @@ Development environment for UI components.
 - [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhu/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od)
 - [Storybook vs Styleguidist](https://www.chromatic.com/blog/storybook-vs-styleguidist/)
 - [Five Reasons to Use Storybook Tests](https://spin.atomicobject.com/storybook-tests-react/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Svelte](svelte.md)
+- [SVG](svg.md)
+- [Tailwind CSS](tailwind-css.md)
+- [Text Editing](text-editing.md)
+- [Sass](sass.md)
+- [Seed](seed.md)
+- [Service Workers](service-workers.md)
+- [Static Website Services](static-website-services.md)
+
+<!-- kb-related:end -->

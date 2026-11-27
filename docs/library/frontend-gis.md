@@ -9,6 +9,27 @@ Geographic Information Systems (GIS) for web browsers.
 
 !!! info "Source"
     221 resources imported from [joewdavies/awesome-frontend-gis](https://github.com/joewdavies/awesome-frontend-gis), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Frontend GIS** — geographic Information Systems (GIS) for web browsers. This page brings together 221 links about Frontend GIS, grouped into 9 sections. The largest sections are **JavaScript Libraries**, **Data sources**, **world_map Web maps**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **JavaScript Libraries** — 68 links
+- **Data sources** — 62 links
+- **Notebooks** — 22 links
+- **world_map Web maps** — 27 links
+- **Web apps** — 23 links
+- **Colour advice** — 6 links
+- **Icons** — 4 links
+- **Videos** — 4 links
+- **Further reading** — 5 links
+
+<!-- kb-about:end -->
+
 ## 👨‍💻 JavaScript Libraries
 
 ### Mapping
@@ -283,3 +304,20 @@ Geographic Information Systems (GIS) for web browsers.
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke.
 - [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data.
 - [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Hydrogen](hydrogen.md)
+- [Inertia.js](inertia-js.md)
+- [Inspiration](inspiration.md)
+- [Ionic Framework](ionic-framework.md)
+- [Dojo Toolkit](dojo-toolkit.md)
+- [Emails](emails.md)
+- [Ember](ember.md)
+- [Frameworks](frameworks.md)
+
+<!-- kb-related:end -->

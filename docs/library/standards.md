@@ -9,6 +9,30 @@ Proposals and standards that define and enhance software, languages, and related
 
 !!! info "Source"
     169 resources imported from [donBarbos/awesome-standards](https://github.com/donBarbos/awesome-standards), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Standards** — proposals and standards that define and enhance software, languages, and related technologies. This page brings together 169 links about Standards, grouped into 12 sections. The largest sections are **APIs**, **Tools**, **Programming Languages**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Web Technologies** — 9 links
+- **APIs** — 30 links
+- **Programming Languages** — 28 links
+- **Tools** — 29 links
+- **Decentralized Systems** — 26 links
+- **Cybersecurity and Cryptography** — 5 links
+- **Operating Systems** — 12 links
+- **Electronics and Hardware** — 4 links
+- **Databases and Storage** — 2 links
+- **Telecommunications** — 2 links
+- **General** — 3 links
+- **Region Specific** — 19 links
+
+<!-- kb-about:end -->
+
 ## Web Technologies
 
 - [IETF RFCs](https://www.ietf.org/standards/rfcs/) - Publication in a series from the principal technical development and standards-setting bodies for the Internet, most prominently the IETF.
@@ -213,3 +237,20 @@ Proposals and standards that define and enhance software, languages, and related
 - [BIS](https://www.bis.gov.in/) - **Bureau of Indian Standards**: National standards for industry, products, and services.
 - [PSQCA](https://www.psqca.com.pk/) - **Pakistan Standards and Quality Control Authority**: Organization responsible for developing and certifying standards.
 - [TIS](https://www.tisi.go.th/home/en) - **Thai Industrial Standards**: National standards for Thailand.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Steam](steam-2.md)
+- [Steam Deck](steam-deck.md)
+- [Tech Ethics](tech-ethics.md)
+- [Theravada](theravada.md)
+- [Scriptable](scriptable.md)
+- [Site Reliability Engineering](site-reliability-engineering.md)
+- [Software Architecture](software-architecture.md)
+- [Stacks](stacks-2.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,25 @@ Django CMS focused on flexibility and user experience.
 
 !!! info "Source"
     256 resources imported from [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Content Management Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Wagtail** — django CMS focused on flexibility and user experience. This page brings together 256 links about Wagtail, grouped into 7 sections. The largest sections are **Resources**, **Apps**, **Open-source sites**, a good place to start if you are exploring the topic for the first time. It belongs to the **Content Management Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General resources** — 3 links
+- **Apps** — 57 links
+- **Tools** — 7 links
+- **Resources** — 171 links
+- **For editors** — 4 links
+- **Community** — 3 links
+- **Open-source sites** — 11 links
+
+<!-- kb-about:end -->
+
 ## General resources
 
 - [Official site](https://wagtail.org/)
@@ -360,3 +379,20 @@ Django CMS focused on flexibility and user experience.
 - [Outreachy website](https://github.com/outreachy/website) - Code for the Outreachy website, based on Python, Django, and Bootstrap.
 - [Wagtail user guide](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
 - [Penticon Public Library](https://github.com/danlerche/public-library-wagtailCMS) - This is an example public library website using wagtail CMS.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Content Management Systems** category of the [KEEBOX Library](index.md):
+
+- [Craft CMS](craft-cms.md)
+- [Directus](directus.md)
+- [Drupal](drupal.md)
+- [Payload](payload.md)
+- [Plone](plone.md)
+- [Refinery CMS](refinery-cms.md)
+- [Silverstripe CMS](silverstripe-cms.md)
+- [Sitecore](sitecore.md)
+
+<!-- kb-related:end -->

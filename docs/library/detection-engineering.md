@@ -9,6 +9,22 @@ Design, build, and operate detective cybersecurity controls.
 
 !!! info "Source"
     79 resources imported from [infosecB/awesome-detection-engineering](https://github.com/infosecB/awesome-detection-engineering), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Detection Engineering** — design, build, and operate detective cybersecurity controls. This page brings together 79 links about Detection Engineering, grouped into 4 sections. The largest sections are **Detection Content & Signatures**, **Concepts & Frameworks**, **Logging, Monitoring & Data Sources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Concepts & Frameworks** — 20 links
+- **Detection Content & Signatures** — 29 links
+- **Logging, Monitoring & Data Sources** — 16 links
+- **General Resources** — 14 links
+
+<!-- kb-about:end -->
+
 ## Concepts & Frameworks
 
 - [MITRE ATT&CK](https://attack.mitre.org/) - The foundational framework of adversary tactics, techniques, and procedures based on real-world observations.
@@ -99,3 +115,20 @@ Design, build, and operate detective cybersecurity controls.
 - [How Google Does It: Making threat detection high-quality, scalable, and modern | Anton Chuvakin, Tim Nguyen](https://cloud.google.com/transform/how-google-does-it-modernizing-threat-detection) - The team at Google highlights 5 key principles for building a high quality, scalable and modern threat detection program.
 - [SOCLabs](https://www.soc-labs.top/) - A lab for blue teamers and detection engineers, with real threat data and support for popular SIEM query languages, enabling hands-on learning and practice in detection rule writing and threat hunting.
 - [Security Monitoring Labs | cybersecurity101.net](https://cybersecurity101.net/labs/security-monitoring/) - 48 free, step-by-step labs that build a small Wazuh monitoring stack on your own VMs, connect Linux and Windows (Sysmon) log sources, then write and tune detection rules, test them with simulated events, triage alerts and report on coverage. No account or hosted platform.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [DevSecOps](devsecops.md)
+- [Embedded and IoT Security](embedded-and-iot-security.md)
+- [EVM Security](evm-security.md)
+- [Executable Packing](executable-packing.md)
+- [Web Security](web-security.md)
+- [CI/CD Attacks](ci-cd-attacks.md)
+- [CTF](ctf.md)
+- [Cyber Security University](cyber-security-university.md)
+
+<!-- kb-related:end -->

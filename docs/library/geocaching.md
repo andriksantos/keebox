@@ -9,6 +9,21 @@ Outdoor treasure-hunting activity that uses GPS-enabled devices.
 
 !!! info "Source"
     33 resources imported from [FoxFil/awesome-geocaching](https://github.com/FoxFil/awesome-geocaching), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Geocaching** — outdoor treasure-hunting activity that uses GPS-enabled devices. This page brings together 33 links about Geocaching, grouped into 3 sections. The largest sections are **Websites**, **Apps**, **Other**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Websites** — 15 links
+- **Apps** — 15 links
+- **Other** — 3 links
+
+<!-- kb-about:end -->
+
 ## Websites
 
 - [Geocaching.com](https://www.geocaching.com/) - Official international website.
@@ -50,3 +65,20 @@ Outdoor treasure-hunting activity that uses GPS-enabled devices.
 - [pycaching](https://pypi.org/project/pycaching) - Python 3 interface for working with Geocaching.com website.
 - [Geocaching.com Friends Logs](https://github.com/rfsbraz/Geocaching.com-Friends-Logs) - Browser extension that shows your friends' logs at the top of every cache listing page.
 - [GC little helper II](https://github.com/2Abendsegler/GClh/tree/collector) - Powerful tool to enhance and extend the functionality of the geocaching website.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [GeoJSON](geojson.md)
+- [GitHub Wiki](github-wiki.md)
+- [GraphQL](graphql.md)
+- [Gulp](gulp.md)
+- [Framer](framer.md)
+- [Free Software](free-software.md)
+- [Funny Markov Chains](funny-markov-chains.md)
+- [Gemini CLI](gemini-cli.md)
+
+<!-- kb-related:end -->

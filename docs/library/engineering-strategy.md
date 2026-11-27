@@ -9,6 +9,28 @@ How to design and execute engineering strategies for tech leadership.
 
 !!! info "Source"
     66 resources imported from [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Business**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Engineering Strategy** — how to design and execute engineering strategies for tech leadership. This page brings together 66 links about Engineering Strategy, grouped into 10 sections. The largest sections are **Posts**, **Books**, **Open Engineering Strategies**, a good place to start if you are exploring the topic for the first time. It belongs to the **Business** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 15 links
+- **Posts** — 27 links
+- **Videos** — 5 links
+- **Methods** — 1 link
+- **Courses and Workshops** — 5 links
+- **Templates** — 1 link
+- **Supporting material** — 2 links
+- **Open Engineering Strategies** — 6 links
+- **Communities** — 2 links
+- **Podcasts** — 2 links
+
+<!-- kb-about:end -->
+
 ## Books
 
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/book/show/55782292-strategic-monoliths-and-microservices) - A set of strategic patterns on addressing business capabilities with a monolith and microservices approach.
@@ -104,3 +126,18 @@ How to design and execute engineering strategies for tech leadership.
 
 - [Engineering Strategy Podcast](https://open.spotify.com/show/2o8lWLvV9O0P2Gf9J6xzLo?si=049c9a2c90924aa7) - Engineering strategy interviews to tech leaders in English and Spanish by Aleix Morgadas.
 - [Tech Lead Journal](https://techleadjournal.dev/) - A podcast by Henry Suryawirawan where experienced technical leaders share the often undefined, beyond-the-code skills that shaped their journeys.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Business** category of the [KEEBOX Library](index.md):
+
+- [Engineering Team Management](engineering-team-management.md)
+- [OKR Methodology](okr-methodology.md)
+- [Social Enterprise](social-enterprise.md)
+- [Wardley Maps](wardley-maps.md)
+- [Billing](billing.md)
+- [Clean Tech](clean-tech.md)
+
+<!-- kb-related:end -->

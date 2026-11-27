@@ -9,6 +9,21 @@ Alternatives without ads.
 
 !!! info "Source"
     77 resources imported from [johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ad-Free** — alternatives without ads. This page brings together 77 links about Ad-Free, grouped into 3 sections. The largest sections are **Alternatives**, **Resources**, **No longer maintained**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Alternatives** — 46 links
+- **Resources** — 27 links
+- **No longer maintained** — 4 links
+
+<!-- kb-about:end -->
+
 ## Alternatives
 
 ### Blogs
@@ -143,3 +158,20 @@ Alternatives without ads.
 - [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
 - [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves. ([Wayback Machine archive](http://web.archive.org/web/20190111233537/http://artnotads.org/))
 - [Goblin Refuge](https://goblinrefuge.com/mediagoblin/) - Video and image sharing service powered by MediaGoblin. ([Wayback Machine archive](https://web.archive.org/web/20190512071500/https://goblinrefuge.com/mediagoblin/))
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Advertising](advertising.md)
+- [Agriculture](agriculture.md)
+- [AMA](ama.md)
+- [Amazon Sellers](amazon-sellers.md)
+- [Web Monetization](web-monetization.md)
+- [WebXR](webxr.md)
+- [Whisper](whisper.md)
+- [WP-CLI](wp-cli.md)
+
+<!-- kb-related:end -->

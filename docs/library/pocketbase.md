@@ -9,6 +9,31 @@ An open-source, Go-based backend in one file.
 
 !!! info "Source"
     115 resources imported from [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**PocketBase** — an open-source, Go-based backend in one file. This page brings together 115 links about PocketBase, grouped into 17 sections. The largest sections are **Unmaintained**, **Showcases**, **Top PocketBase-specific Projects (100 stars)**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Packages** — 3 links
+- **Forks** — 2 links
+- **Top PocketBase-specific Projects (100 stars)** — 12 links
+- **Major Community Projects** — 2 links
+- **JSVM Plugins** — 1 link
+- **Go Plugins** — 7 links
+- **React** — 4 links
+- **Svelte** — 1 link
+- **Dart/Flutter** — 1 link
+- **C** — 1 link
+- **Unofficial PocketBase Clients (SDKs)** — 8 links
+- **Self Hosting** — 10 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Official Packages
 
 - [Golang Server](https://ganigeorgiev.com/pocketbase/pocketbase/releases) - The main PocketBase server.
@@ -174,3 +199,20 @@ An open-source, Go-based backend in one file.
 - [Solid-pocketbase-hooks](https://github.com/kirill-dev-pro/solid-pocketbase-hooks) - Pocketbase hooks for Solid.js. Last commit Feb 2023.
 - [libpb](https://github.com/Hax-io/libpb) - PocketBase client wrapper for D with automatic serialization and deserialization to and from JSON. Last commit Jun 2023.
 - [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3) - Vue 3 tutorial. Companion to the 2022 Vue 3 starter kit.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [PostgreSQL](postgresql.md)
+- [Supabase](supabase.md)
+- [TinkerPop](tinkerpop.md)
+- [TypeDB](typedb.md)
+- [InfluxDB](influxdb.md)
+- [MongoDB](mongodb.md)
+- [Neon](neon.md)
+- [NoSQL Guides](nosql-guides.md)
+
+<!-- kb-related:end -->

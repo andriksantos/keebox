@@ -9,6 +9,31 @@ Game engine.
 
 !!! info "Source"
     313 resources imported from [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**LÖVE** — game engine. This page brings together 313 links about LÖVE, grouped into 26 sections. The largest sections are **Utilities**, **UI**, **IDEs**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **3D** — 10 links
+- **AI** — 8 links
+- **Animation** — 11 links
+- **Camera** — 6 links
+- **Development** — 11 links
+- **Drawing** — 21 links
+- **Entity** — 7 links
+- **Helpers** — 28 links
+- **Input** — 8 links
+- **Lighting** — 6 links
+- **Math** — 12 links
+- **Music** — 5 links
+- …and 14 more sections
+
+<!-- kb-about:end -->
+
 ## 3D
 
 - [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
@@ -399,3 +424,20 @@ Game engine.
 - [lover](https://github.com/Wolfyxon/lover) - Bringing the joys of rust's package manager (`Cargo`) to love.
 - [lovesfx](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
 - [makelove](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Learn Gamedev](learn-gamedev.md)
+- [libGDX](libgdx.md)
+- [Minecraft](minecraft.md)
+- [Open Source Games](open-source-games.md)
+- [Game Remakes](game-remakes.md)
+- [GameMaker](gamemaker.md)
+- [Games of Coding](games-of-coding.md)
+- [Haxe Game Development](haxe-game-development.md)
+
+<!-- kb-related:end -->

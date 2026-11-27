@@ -9,6 +9,29 @@ Building bots.
 
 !!! info "Source"
     115 resources imported from [hackerkid/bots](https://github.com/hackerkid/bots), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Bots** — building bots. This page brings together 115 links about Bots, grouped into 11 sections. The largest sections are **Libraries**, **Tools For Building Bots**, **Platform Documentation**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Platform Documentation** — 14 links
+- **Tools For Building Bots** — 16 links
+- **Tools For Bot Analytics** — 4 links
+- **Tools For Bot Conversation Mockups** — 5 links
+- **Libraries** — 37 links
+- **Bot Stores** — 14 links
+- **Tutorials** — 10 links
+- **Communities** — 9 links
+- **Conferences** — 2 links
+- **Developers** — 2 links
+- **Testing** — 2 links
+
+<!-- kb-about:end -->
+
 ## Platform Documentation
 
 - [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
@@ -196,3 +219,20 @@ Building bots.
 
 - [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 - [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Calculators](calculators.md)
+- [ChatGPT](chatgpt.md)
+- [ChatOps](chatops.md)
+- [Cheminformatics](cheminformatics.md)
+- [Beginner-Friendly Projects](beginner-friendly-projects.md)
+- [Biological Image Analysis](biological-image-analysis.md)
+- [Biological Visualizations](biological-visualizations.md)
+- [Boilerplate Projects](boilerplate-projects.md)
+
+<!-- kb-related:end -->

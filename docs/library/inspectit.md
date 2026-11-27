@@ -9,6 +9,24 @@ Open source Java app performance management tool.
 
 !!! info "Source"
     20 resources imported from [inspectit-labs/awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**inspectIT** — open source Java app performance management tool. This page brings together 20 links about inspectIT, grouped into 6 sections. The largest sections are **Blog Posts**, **Official Resources**, **Tutorials**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 4 links
+- **Tutorials** — 3 links
+- **Videos** — 2 links
+- **Blog Posts** — 8 links
+- **Profiles And Sensor Configurations** — 1 link
+- **Uncategorized** — 2 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Website](http://www.inspectit.rocks/) - Official website.
@@ -46,3 +64,20 @@ Open source Java app performance management tool.
 
 - [Sample Application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - Sample application for demonstration purposes, based on the Spring Petclinic.
 - [Grafana Dashboards for inspectIT](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [IRC](irc.md)
+- [JSON](json.md)
+- [Jupyter](jupyter.md)
+- [Katas](katas.md)
+- [GraphQL](graphql.md)
+- [Gulp](gulp.md)
+- [Homematic](homematic.md)
+- [HPC](hpc.md)
+
+<!-- kb-related:end -->

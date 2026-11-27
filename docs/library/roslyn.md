@@ -9,6 +9,26 @@ Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 !!! info "Source"
     56 resources imported from [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Roslyn** — open-source compilers and code analysis APIs for C# and VB.NET languages. This page brings together 56 links about Roslyn, grouped into 8 sections. The largest sections are **Open Source Projects**, **Open Source Analyzers, Code Fixes, and Refactorings**, **Source Generators**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Books** — 3 links
+- **Tutorials** — 7 links
+- **Open Source Projects** — 17 links
+- **Open Source Analyzers, Code Fixes, and Refactorings** — 13 links
+- **Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings** — 2 links
+- **Source Generators** — 8 links
+- **Blog Posts and Articles** — 5 links
+- **Talks** — 1 link
+
+<!-- kb-about:end -->
+
 ## Books
 
 - [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn) - *Free e-book* by Alessandro Del Sole and the perfect book to start with. Explains Roslyn APIs and afterward focuses on writing analyzers and refactorings.
@@ -88,3 +108,20 @@ Open-source compilers and code analysis APIs for C# and VB.NET languages.
 ## Talks
 
 - [The Power of Roslyn](https://www.youtube.com/watch?v=nXljhGDokqA) - Great talk by Kasey Uhlenhuth at NDC Oslo 2018 covering Roslyn essentials and APIs and tools for building code analyzers and fixes.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Salesforce](salesforce.md)
+- [Smart TV](smart-tv.md)
+- [Uno Platform](uno-platform.md)
+- [watchOS](watchos.md)
+- [Omarchy](omarchy.md)
+- [Open Source Apps](open-source-apps.md)
+- [PowerToys Run Plugins](powertoys-run-plugins.md)
+- [Raspberry Pi](raspberry-pi.md)
+
+<!-- kb-related:end -->

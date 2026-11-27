@@ -9,6 +9,29 @@ Game engine.
 
 !!! info "Source"
     79 resources imported from [ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Construct 2** — game engine. This page brings together 79 links about Construct 2, grouped into 11 sections. The largest sections are **Learning**, **YouTube Channels**, **Hosting**, a good place to start if you are exploring the topic for the first time. It belongs to the **Gaming** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Scirra** — 5 links
+- **Community** — 3 links
+- **Made With Construct** — 4 links
+- **Hosting** — 6 links
+- **Export** — 5 links
+- **Addons** — 6 links
+- **Tools** — 3 links
+- **Addon Development** — 6 links
+- **YouTube Channels** — 14 links
+- **Learning** — 25 links
+- **Teaching** — 2 links
+
+<!-- kb-about:end -->
+
 ## Scirra
 
 - [Forums](https://www.construct.net/forum)
@@ -160,3 +183,20 @@ Game engine.
 
 - [Level Up - The Educator's Edition](https://www.construct.net/en/make-games/education/resources/ebook) - The ideal companion for anyone using Construct in the classroom.
 - [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum) - Free starter curriculum for Construct aimed at teaching students the basics of Computer Science.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Esports](esports.md)
+- [Flame](flame.md)
+- [Game Datasets](game-datasets.md)
+- [Game Engine Development](game-engine-development.md)
+- [PlayCanvas](playcanvas.md)
+- [Roblox](roblox.md)
+- [Babylon.js](babylon-js.md)
+- [CHIP-8](chip-8.md)
+
+<!-- kb-related:end -->

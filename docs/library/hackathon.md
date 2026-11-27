@@ -9,6 +9,21 @@ Running fun and productive hackathons.
 
 !!! info "Source"
     114 resources imported from [dribdat/awesome-hackathon](https://github.com/dribdat/awesome-hackathon), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Learn**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Hackathon** — running fun and productive hackathons. This page brings together 113 links about Hackathon, grouped into 3 sections. The largest sections are **Platforms**, **Tooling**, **Guides**, a good place to start if you are exploring the topic for the first time. It belongs to the **Learn** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Platforms** — 57 links
+- **Tooling** — 33 links
+- **Guides** — 23 links
+
+<!-- kb-about:end -->
+
 ## Platforms
 
 ### Open Source 🌳
@@ -156,3 +171,15 @@ Running fun and productive hackathons.
 - [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - From a popular Web3 community.
 - University Industry Innovation Network (UIIN) - [Participant](https://www.uiin.org/wp-content/uploads/2021/03/SB_Participant-handbook.pdf) and [Organizer](https://uiin.org/wp-content/uploads/2021/04/Hackathon-Handbook-010720.pdf) handbooks.
 - [Zotero - Awesome Hackathon](https://www.zotero.org/groups/5538025/awesome_hackathons) - A web library of references on research into the Impacts, Landscape, Motivation and Organizing of hackathons.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Learn** category of the [KEEBOX Library](index.md):
+
+- [Product Management](product-management.md)
+- [Programming for Kids](programming-for-kids.md)
+- [STEAM](steam.md)
+
+<!-- kb-related:end -->

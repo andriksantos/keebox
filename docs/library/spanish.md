@@ -9,6 +9,22 @@ Curated Spanish resources.
 
 !!! info "Source"
     49 resources imported from [dav009/awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Spanish**. This page brings together 49 links about Spanish, grouped into 4 sections. The largest sections are **Corpora**, **Part of Speech Taggers (POS Taggers)**, **Misc**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Part of Speech Taggers (POS Taggers)** — 7 links
+- **Name Entity Recognition (NER)** — 3 links
+- **Corpora** — 35 links
+- **Misc** — 4 links
+
+<!-- kb-about:end -->
+
 ## Part of Speech Taggers (POS Taggers)
 
 - [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
@@ -74,3 +90,20 @@ Curated Spanish resources.
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [TensorFlow](tensorflow.md)
+- [TensorFlow.js](tensorflow-js.md)
+- [Theoretical Computer Science](theoretical-computer-science.md)
+- [Tutorials](tutorials.md)
+- [Position-Based Quantum Cryptography](position-based-quantum-cryptography.md)
+- [Quantum Computing](quantum-computing.md)
+- [Question Answering](question-answering.md)
+- [Software Engineering for Machine Learning](software-engineering-for-machine-learning.md)
+
+<!-- kb-related:end -->

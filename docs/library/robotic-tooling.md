@@ -9,6 +9,31 @@ Free and open tools for professional robotic development.
 
 !!! info "Source"
     938 resources imported from [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Robotic Tooling** — free and open tools for professional robotic development. This page brings together 938 links about Robotic Tooling, grouped into 20 sections. The largest sections are **Sensor Processing**, **Development Environment**, **Operation System**, a good place to start if you are exploring the topic for the first time. It belongs to the **Hardware** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Communication and Coordination** — 23 links
+- **Documentation and Presentation** — 43 links
+- **Requirements and Safety** — 14 links
+- **Architecture and Design** — 12 links
+- **Frameworks and Stacks** — 24 links
+- **Development Environment** — 121 links
+- **Simulation** — 56 links
+- **Electronics and Mechanics** — 33 links
+- **Sensor Processing** — 167 links
+- **Localization and State Estimation** — 20 links
+- **Simultaneous Localization and Mapping** — 64 links
+- **Prediction** — 2 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## Communication and Coordination
 
 - [Agile Development](https://agilemanifesto.org/) - Manifesto for Agile Software Development.
@@ -1097,3 +1122,19 @@ Free and open tools for professional robotic development.
 - [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - Automotive Radar Dataset for Deep Learning Based 3D Object Detection.
 - [Objectron](https://github.com/google-research-datasets/Objectron/) - A collection of short, object-centric video clips, which are accompanied by AR session metadata that includes camera poses, sparse point-clouds and characterization of the planar surfaces in the surrounding environment.
 - [ONCE dataset](https://once-for-auto-driving.github.io/index.html) - A large-scale autonomous driving dataset with 2D&3D object annotations.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Hardware** category of the [KEEBOX Library](index.md):
+
+- [ADS-B](ads-b.md)
+- [Bluetooth Beacons](bluetooth-beacons.md)
+- [Electronics](electronics.md)
+- [Flying FPV](flying-fpv.md)
+- [LIDAR](lidar.md)
+- [Open Hardware](open-hardware.md)
+- [Plotters](plotters.md)
+
+<!-- kb-related:end -->

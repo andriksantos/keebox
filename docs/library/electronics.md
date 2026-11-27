@@ -9,6 +9,31 @@ For electronic engineers and hobbyists.
 
 !!! info "Source"
     155 resources imported from [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Hardware**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Electronics** — for electronic engineers and hobbyists. This page brings together 155 links about Electronics, grouped into 21 sections. The largest sections are **Learning**, **Simulators**, **Videos**, a good place to start if you are exploring the topic for the first time. It belongs to the **Hardware** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Learning** — 17 links
+- **Documentation** — 5 links
+- **Simulators** — 17 links
+- **Gerber Viewers** — 9 links
+- **Free EDA Packages** — 9 links
+- **Paid EDA Packages** — 2 links
+- **CAD Specific** — 14 links
+- **PCB Batching Services** — 6 links
+- **Part Search Engines** — 6 links
+- **Project Sharing Platforms** — 8 links
+- **Inventory Management and Purchasing** — 3 links
+- **Miscellaneous Software Projects** — 5 links
+- …and 9 more sections
+
+<!-- kb-about:end -->
+
 ## Learning
 
 ### Technical Tutorials
@@ -260,3 +285,19 @@ For electronic engineers and hobbyists.
 - [Complete Digital Electronics Course](https://youtube.com/playlist?list=PLww54WQ2wa5obq6IbRbIiql8oHaTUp3T_&si=I4mqjy3JUZ8xmElT) - دورة الالكترونيات الرقمية
 - [professional Electronics Design](https://youtube.com/playlist?list=PLww54WQ2wa5oKEhE_D3UVbKWwml8o8_Fu&si=BF213_MSJwSiyvIV) - دورة التصميم الالكتروني المحترف كاملة
 - [professional PCB Design](https://www.youtube.com/playlist?list=PLww54WQ2wa5pBm96kQTkqAyMXn9F4Q0i9) - دورة تصميم اللوحات المطبوعة (PCB)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Hardware** category of the [KEEBOX Library](index.md):
+
+- [Flying FPV](flying-fpv.md)
+- [LIDAR](lidar.md)
+- [Open Hardware](open-hardware.md)
+- [Plotters](plotters.md)
+- [Robotic Tooling](robotic-tooling.md)
+- [ADS-B](ads-b.md)
+- [Bluetooth Beacons](bluetooth-beacons.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,31 @@ For digital designers.
 
 !!! info "Source"
     91 resources imported from [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Web Design** — for digital designers. This page brings together 91 links about Web Design, grouped into 13 sections. The largest sections are **Blog & News**, **Colors**, **Icons**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Blog & News** — 11 links
+- **Inspiration** — 8 links
+- **Colors** — 9 links
+- **Typography** — 8 links
+- **Icons** — 9 links
+- **Images** — 6 links
+- **Guidelines** — 5 links
+- **Design Tools** — 6 links
+- **Prototype Tools** — 7 links
+- **Tutorials** — 5 links
+- **Books** — 4 links
+- **Productivity** — 9 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Blog & News
 
 - [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
@@ -138,3 +163,20 @@ For digital designers.
 - [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
 - [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
 - [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Web Monetization](web-monetization.md)
+- [WebXR](webxr.md)
+- [Whisper](whisper.md)
+- [WP-CLI](wp-cli.md)
+- [Urban & Regional Planning](urban-regional-planning.md)
+- [Userscripts](userscripts.md)
+- [Veganism](veganism.md)
+- [Web Archiving](web-archiving.md)
+
+<!-- kb-related:end -->

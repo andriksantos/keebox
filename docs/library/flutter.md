@@ -9,6 +9,31 @@ Google's mobile SDK for building native iOS and Android apps from a single codeb
 
 !!! info "Source"
     497 resources imported from [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Flutter** — google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart. This page brings together 445 links about Flutter, grouped into 14 sections. The largest sections are **Components**, **Community**, **Open Source Apps**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Articles** — 31 links
+- **Advanced graphics rendering** — 4 links
+- **Videos** — 6 links
+- **Components** — 148 links
+- **Templates** — 31 links
+- **Plugins** — 35 links
+- **Frameworks** — 38 links
+- **Experimental** — 1 link
+- **Engines** — 14 links
+- **Open Source Apps** — 43 links
+- **Utilities** — 27 links
+- **Podcasts** — 4 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Articles
 
 ### Introduction
@@ -875,3 +900,20 @@ Google's mobile SDK for building native iOS and Android apps from a single codeb
 ### 🇺🇿 Uzbekistan
 
 - [Telegram](https://t.me/dartdevuz)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [Fuse](fuse.md)
+- [GNOME](gnome.md)
+- [IBM Cloud](ibm-cloud.md)
+- [Integration](integration.md)
+- [Electron](electron.md)
+- [ESP](esp.md)
+- [Firebase](firebase.md)
+- [Firebase Genkit](firebase-genkit.md)
+
+<!-- kb-related:end -->

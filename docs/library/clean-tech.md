@@ -9,6 +9,21 @@ Fighting climate change with technology.
 
 !!! info "Source"
     72 resources imported from [nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Business**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Clean Tech** — fighting climate change with technology. This page brings together 72 links about Clean Tech, grouped into 3 sections. The largest sections are **Companies**, **More Resources**, **Research**, a good place to start if you are exploring the topic for the first time. It belongs to the **Business** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Companies** — 56 links
+- **More Resources** — 11 links
+- **Research** — 5 links
+
+<!-- kb-about:end -->
+
 ## Companies
 
 ### Vegetation & Agriculture
@@ -106,3 +121,18 @@ Fighting climate change with technology.
 - [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 - [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 - [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Business** category of the [KEEBOX Library](index.md):
+
+- [Engineering Strategy](engineering-strategy.md)
+- [Engineering Team Management](engineering-team-management.md)
+- [OKR Methodology](okr-methodology.md)
+- [Social Enterprise](social-enterprise.md)
+- [Wardley Maps](wardley-maps.md)
+- [Billing](billing.md)
+
+<!-- kb-related:end -->

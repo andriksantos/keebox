@@ -9,6 +9,20 @@ Curated Free Programming Books resources.
 
 !!! info "Source"
     120 resources imported from [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Books**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Free Programming Books**. This page brings together 119 links about Free Programming Books, grouped into 2 sections. The largest sections are **Resources**, **Translations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Books** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 116 links
+- **Translations** — 3 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 ### Books
@@ -156,3 +170,13 @@ Curated Free Programming Books resources.
     - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/HEAD/docs/CONTRIBUTING.md)
     - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/HEAD/docs/HOWTO.md)
 - ... *[More languages](https://github.com/EbookFoundation/free-programming-books/blob/HEAD/docs/README.md#translations)* ...
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Books** category of the [KEEBOX Library](index.md):
+
+- [Book Authoring](book-authoring.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,27 @@ Curated InfluxDB resources.
 
 !!! info "Source"
     142 resources imported from [mark-rushakoff/awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Databases**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**InfluxDB**. This page brings together 141 links about InfluxDB, grouped into 9 sections. The largest sections are **Collecting data into InfluxDB**, **Client libraries**, **Consuming data from InfluxDB**, a good place to start if you are exploring the topic for the first time. It belongs to the **Databases** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Reference material** — 1 link
+- **Client libraries** — 24 links
+- **Collecting data into InfluxDB** — 75 links
+- **Consuming data from InfluxDB** — 12 links
+- **Provisioning InfluxDB** — 7 links
+- **Queries** — 4 links
+- **Hosting of InfluxDB / SaaS** — 4 links
+- **Miscellaneous** — 4 links
+- **Other awesome lists** — 10 links
+
+<!-- kb-about:end -->
+
 ## Reference material
 
 - [Official documentation](https://docs.influxdata.com/influxdb/latest/)
@@ -211,3 +232,20 @@ Curated InfluxDB resources.
 
 - [awesome](https://github.com/sindresorhus/awesome)
 - [lists](https://github.com/jnv/lists)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Databases** category of the [KEEBOX Library](index.md):
+
+- [MongoDB](mongodb.md)
+- [Neon](neon.md)
+- [NoSQL Guides](nosql-guides.md)
+- [PocketBase](pocketbase.md)
+- [TinkerPop](tinkerpop.md)
+- [TypeDB](typedb.md)
+- [Database Tools](database-tools.md)
+- [HBase](hbase.md)
+
+<!-- kb-related:end -->

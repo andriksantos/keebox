@@ -9,6 +9,21 @@ Curated Programming for Kids resources.
 
 !!! info "Source"
     29 resources imported from [HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Learn**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Programming for Kids**. This page brings together 29 links about Programming for Kids, grouped into 3 sections. The largest sections are **Upper Elementary**, **Lower Elementary**, **Pre-Literate**, a good place to start if you are exploring the topic for the first time. It belongs to the **Learn** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Pre-Literate** — 3 links
+- **Lower Elementary** — 9 links
+- **Upper Elementary** — 17 links
+
+<!-- kb-about:end -->
+
 ## Pre-Literate
 
 - [Scratch Jr.](https://www.scratchjr.org/) - An app that teaches young kids how to visually code interactive stories and games. A simplified version of the Scratch website, for a tablet.
@@ -46,3 +61,15 @@ Curated Programming for Kids resources.
 - [Sphereo](https://sphero.com/products/mini-at-home-learning-kit) - A spherical robot that can be programmed with a block-programming language in a companion app.
 - [KODU Game Lab](https://www.kodugamelab.com/) - Kodu lets kids create 3D games on the PC and Xbox via a simple visual programming language.
 - [CodeKidz](https://codekidz.ai/) - Learn through AI tutor and gamified content, including python, javascript, c/c++, game development, machine learning, generative ai, and more.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Learn** category of the [KEEBOX Library](index.md):
+
+- [STEAM](steam.md)
+- [Hackathon](hackathon.md)
+- [Product Management](product-management.md)
+
+<!-- kb-related:end -->

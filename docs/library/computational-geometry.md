@@ -9,6 +9,27 @@ Computational approaches for problems in geometry.
 
 !!! info "Source"
     58 resources imported from [atkirtland/awesome-computational-geometry](https://github.com/atkirtland/awesome-computational-geometry), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Computational Geometry** — computational approaches for problems in geometry. This page brings together 58 links about Computational Geometry, grouped into 9 sections. The largest sections are **Courses**, **Libraries**, **Algorithm Visualizations**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Algorithm Visualizations** — 9 links
+- **Books** — 6 links
+- **Notes** — 4 links
+- **Libraries** — 10 links
+- **Conferences** — 7 links
+- **Journals** — 3 links
+- **Competitive Programming** — 4 links
+- **Courses** — 12 links
+- **Miscellaneous** — 3 links
+
+<!-- kb-about:end -->
+
 ## Algorithm Visualizations
 
 - [Convex Hull](https://visualgo.net/en/convexhull?slide=1) - The convex hull of a shape is the smallest convex set that contains it.
@@ -103,3 +124,20 @@ Computational approaches for problems in geometry.
 - [The Open Problems Project](https://topp.openproblem.net/) - A project aimed to record important open problems in computational geometry and related fields.
 - [Wolfram](https://reference.wolfram.com/language/guide/GeometricComputation.html) - Documentation for computational geometry algorithms implemented in the Wolfram language.
 - [Matlab](https://www.mathworks.com/help/matlab/computational-geometry.html) - Documentation for computational geometry algorithms implemented in the Matlab.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Copilot Agents](copilot-agents.md)
+- [Creative Coding](creative-coding.md)
+- [Credit Modeling](credit-modeling.md)
+- [Crypto Currency Tools & Algorithms](crypto-currency-tools-algorithms.md)
+- [Citizen Science](citizen-science.md)
+- [Code Points](code-points.md)
+- [Colorful](colorful.md)
+- [Computational Biology](computational-biology.md)
+
+<!-- kb-related:end -->

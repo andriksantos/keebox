@@ -9,6 +9,23 @@ Curated Katas resources.
 
 !!! info "Source"
     90 resources imported from [gamontal/awesome-katas](https://github.com/gamontal/awesome-katas), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Katas**. This page brings together 90 links about Katas, grouped into 5 sections. The largest sections are **Others**, **CodeKata**, **Gaurav Aroras TDD Katas Collection**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **CodeKata** — 21 links
+- **Wonderland Clojure Katas** — 7 links
+- **SensioLabs PoleDev Katas** — 5 links
+- **Gaurav Aroras TDD Katas Collection** — 16 links
+- **Others** — 41 links
+
+<!-- kb-about:end -->
+
 ## CodeKata
 
     - [Kata01: Supermarket Pricing](http://codekata.com/kata/kata01-supermarket-pricing/)
@@ -113,3 +130,20 @@ Curated Katas resources.
     - [Docker Katas](https://github.com/eficode-academy/docker-katas)
     - [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata)
     - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Ledger](ledger.md)
+- [Markdown](markdown.md)
+- [Microservices](microservices.md)
+- [MQTT](mqtt.md)
+- [inspectIT](inspectit.md)
+- [IRC](irc.md)
+- [JSON](json.md)
+- [Jupyter](jupyter.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,29 @@ AI-powered code review platform.
 
 !!! info "Source"
     37 resources imported from [coderabbitai/awesome-coderabbit](https://github.com/coderabbitai/awesome-coderabbit), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Testing**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+CodeRabbit is an AI code review tool that comments on pull requests in GitHub, GitLab, Azure DevOps and Bitbucket, summarizing changes and pointing out bugs, security issues and style problems.
+
+This list gathers its official documentation, getting-started guides, configuration examples, integrations and tutorials. Use **Configuration Examples** to tune reviews for your codebase; AI reviews work best as a first pass, with a human still approving the merge.
+
+### What you'll find
+
+- **Official Resources** — 7 links
+- **Getting Started** — 2 links
+- **API Reference** — 1 link
+- **Integration Guides** — 4 links
+- **Video Tutorials** — 1 link
+- **Blogs** — 5 links
+- **Media Coverage** — 2 links
+- **Community Reviews** — 2 links
+- **Projects Using CodeRabbit** — 13 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Documentation](https://docs.coderabbit.ai) - Comprehensive docs covering all aspects of CodeRabbit.
@@ -74,3 +97,20 @@ AI-powered code review platform.
 - [Plane](https://github.com/makeplane/plane) - Open-source project management tool [Example Review](https://github.com/makeplane/plane/pull/5933).
 - [Unkey](https://github.com/unkeyed/unkey) - API key management solution [Example Review](https://github.com/unkeyed/unkey/pull/2639).
 - [UploadThing](https://github.com/pingdotgg/uploadthing) - File upload solution for modern web [Example Review](https://github.com/pingdotgg/uploadthing/pull/1038).
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Testing** category of the [KEEBOX Library](index.md):
+
+- [Gatling](gatling.md)
+- [JMeter](jmeter.md)
+- [k6](k6.md)
+- [Playwright](playwright.md)
+- [Selenium](selenium.md)
+- [TAP](tap.md)
+- [Testing](testing.md)
+- [Appium](appium.md)
+
+<!-- kb-related:end -->

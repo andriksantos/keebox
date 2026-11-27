@@ -9,6 +9,31 @@ Terminal-based AI coding assistant by Google.
 
 !!! info "Source"
     386 resources imported from [Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Gemini CLI** — terminal-based AI coding assistant by Google. This page brings together 386 links about Gemini CLI, grouped into 17 sections. The largest sections are **MCP Servers**, **Commands & Extensions**, **Development Tools & Utilities**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 3 links
+- **Interfaces** — 12 links
+- **Forks** — 3 links
+- **Agent Orchestration & CLI Tools** — 42 links
+- **Commands & Extensions** — 83 links
+- **Fun** — 1 link
+- **Development Tools & Utilities** — 80 links
+- **Browser Extensions** — 2 links
+- **SDKs** — 2 links
+- **API Bridges & Proxies** — 10 links
+- **Prompts** — 2 links
+- **Education & Study Tools** — 4 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - The official open-source AI agent that brings the power of Gemini directly into your terminal. Features context-aware coding assistance, file manipulation, and command execution capabilities.
@@ -445,3 +470,20 @@ Terminal-based AI coding assistant by Google.
 - [Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - A unified AI-powered CLI tool for automating GitHub repository management (issues, PRs, topics, profiles) powered by Gemini 3 and Gemma 3.
 - [toprank](https://github.com/nowork-studio/toprank) - Claude Code plugin for SEO and Google Ads that includes a Gemini cross-model review skill. Uses Gemini for second-opinion reviews on Google Ads campaigns, SEO metadata, and schema markup — leveraging Gemini's native Google ecosystem knowledge for higher-quality decisions than Claude alone. MIT, 107 stars.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Includes a `/notfair:gemini` cross-model review skill that runs Gemini as a second-opinion gate on ad campaigns, SEO metadata, and schema markup. MIT, ~2.9k stars.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Geocaching](geocaching.md)
+- [GeoJSON](geojson.md)
+- [GitHub Wiki](github-wiki.md)
+- [GraphQL](graphql.md)
+- [For Girls](for-girls.md)
+- [Framer](framer.md)
+- [Free Software](free-software.md)
+- [Funny Markov Chains](funny-markov-chains.md)
+
+<!-- kb-related:end -->

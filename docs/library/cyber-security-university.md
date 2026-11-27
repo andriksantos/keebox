@@ -9,6 +9,22 @@ Free educational resources that focus on learning by doing.
 
 !!! info "Source"
     10 resources imported from [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Cyber Security University** — free educational resources that focus on learning by doing. This page brings together 10 links about Cyber Security University, grouped into 4 sections. The largest sections are **Introduction and Pre-Security**, **Free Beginner Red Team Path**, **Free Beginner Blue Team Path**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Introduction and Pre-Security** — 3 links
+- **Free Beginner Red Team Path** — 3 links
+- **Free Beginner Blue Team Path** — 3 links
+- **Extremely Hard Rooms to do** — 1 link
+
+<!-- kb-about:end -->
+
 ## Introduction and Pre-Security
 
 ### Level 1 - Intro
@@ -45,3 +61,20 @@ Free educational resources that focus on learning by doing.
 ## Extremely Hard Rooms to do
 
 - [Year of the Owl](https://tryhackme.com/room/yearoftheowl) - Owl-themed boot to root machine.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Detection Engineering](detection-engineering.md)
+- [DevSecOps](devsecops.md)
+- [Embedded and IoT Security](embedded-and-iot-security.md)
+- [EVM Security](evm-security.md)
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md)
+- [Web Security](web-security.md)
+- [CI/CD Attacks](ci-cd-attacks.md)
+- [CTF](ctf.md)
+
+<!-- kb-related:end -->

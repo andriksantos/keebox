@@ -9,6 +9,31 @@ CSS preprocessor.
 
 !!! info "Source"
     152 resources imported from [LucasBassetti/awesome-less](https://github.com/LucasBassetti/awesome-less), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Less** — cSS preprocessor. This page brings together 152 links about Less, grouped into 13 sections. The largest sections are **Libraries and Mixins**, **GUIs, Editors and Plugins**, **UI/Theme Frameworks and Components**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Getting Started** — 5 links
+- **UI/Theme Frameworks and Components** — 16 links
+- **Libraries and Mixins** — 38 links
+- **Style Guides** — 2 links
+- **Ports of Less** — 14 links
+- **GUIs, Editors and Plugins** — 24 links
+- **Online Less Compilers** — 9 links
+- **Online Web IDEs/Playgrounds with Less support** — 5 links
+- **Translations** — 9 links
+- **Articles** — 9 links
+- **Videos** — 4 links
+- **Experiments** — 11 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Getting Started
 
 - [Beginner's Guide](http://www.hongkiat.com/blog/less-basic/)
@@ -233,3 +258,20 @@ CSS preprocessor.
 - [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/less)
 - [Twitter](https://twitter.com/hashtag/lesscss)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [lit](lit.md)
+- [Marionette.js](marionette-js.md)
+- [Master CSS](master-css.md)
+- [Material-UI](material-ui.md)
+- [Inertia.js](inertia-js.md)
+- [Inspiration](inspiration.md)
+- [Ionic Framework](ionic-framework.md)
+- [jQuery](jquery.md)
+
+<!-- kb-related:end -->

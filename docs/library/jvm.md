@@ -9,6 +9,31 @@ Curated JVM resources.
 
 !!! info "Source"
     354 resources imported from [deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**JVM**. This page brings together 354 links about JVM, grouped into 17 sections. The largest sections are **Memory and concurrency**, **Profilers**, **Media**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Bytecode** — 3 links
+- **Garbage collectors** — 7 links
+- **Load tools** — 2 links
+- **Languages** — 21 links
+- **Machine Learning** — 3 links
+- **Memory and concurrency** — 75 links
+- **Metaprogramming** — 23 links
+- **Native** — 8 links
+- **Network** — 22 links
+- **Nix tools** — 20 links
+- **Profilers** — 49 links
+- **Runtimes** — 6 links
+- …and 5 more sections
+
+<!-- kb-about:end -->
+
 ## Bytecode
 
 - [asmtools](https://wiki.openjdk.java.net/display/CodeTools/asmtools) - Used to develop tools for the production of Java .class files.
@@ -413,3 +438,20 @@ Curated JVM resources.
 - [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer
 - [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
 - [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [KDE](kde.md)
+- [Low Code](low-code.md)
+- [.NET](net.md)
+- [Nix](nix.md)
+- [GNOME](gnome.md)
+- [IBM Cloud](ibm-cloud.md)
+- [Integration](integration.md)
+- [IPFS](ipfs.md)
+
+<!-- kb-related:end -->

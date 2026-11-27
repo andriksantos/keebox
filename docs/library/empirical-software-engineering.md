@@ -9,6 +9,22 @@ Evidence-based research on software systems.
 
 !!! info "Source"
     71 resources imported from [dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Empirical Software Engineering** — evidence-based research on software systems. This page brings together 71 links about Empirical Software Engineering, grouped into 4 sections. The largest sections are **Data Sets**, **Tools**, **Research Outlets**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Repositories** — 9 links
+- **Data Sets** — 30 links
+- **Tools** — 22 links
+- **Research Outlets** — 10 links
+
+<!-- kb-about:end -->
+
 ## Repositories
 
 - [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
@@ -91,3 +107,20 @@ Evidence-based research on software systems.
     - [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)
     - [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software)
     - [SANER: IEEE International Conference on Software Analysis, Evolution and Reengineering](https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000695)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Generative AI](generative-ai.md)
+- [H2O](h2o.md)
+- [Information Retrieval](information-retrieval.md)
+- [JAX](jax.md)
+- [Computer Vision](computer-vision.md)
+- [Conversational AI](conversational-ai.md)
+- [Cryptography](cryptography.md)
+- [Education](education-2.md)
+
+<!-- kb-related:end -->

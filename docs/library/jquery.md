@@ -9,6 +9,30 @@ Easy to use JavaScript library for DOM manipulation.
 
 !!! info "Source"
     176 resources imported from [petk/awesome-jquery](https://github.com/petk/awesome-jquery), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+jQuery simplified DOM manipulation, events and AJAX for more than a decade, and it still runs on a large share of websites, especially WordPress themes and older business applications.
+
+This list collects plugins for UI, animation, forms, mobile and testing, plus server integrations and community resources. For new projects, modern browsers cover most of what jQuery offered natively, but this collection remains valuable when you maintain or extend an existing site.
+
+### What you'll find
+
+- **Resources** — 30 links
+- **Plugins** — 3 links
+- **Animation** — 102 links
+- **Mobile** — 3 links
+- **UI** — 7 links
+- **Testing** — 2 links
+- **Server-side Integrations** — 7 links
+- **Community** — 9 links
+- **Alternatives** — 3 links
+- **Looking for more lists like this** — 10 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 - [API documentation](http://api.jquery.com/) - Official jQuery documentation.
@@ -261,3 +285,20 @@ Easy to use JavaScript library for DOM manipulation.
 - [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 - [js-must-watch](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
         - [Chinese](https://github.com/Iamlars/awesome-jquery/tree/chinese) - Chinese translation of Awesome jQuery.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Less](less.md)
+- [lit](lit.md)
+- [Marionette.js](marionette-js.md)
+- [Master CSS](master-css.md)
+- [Hydrogen](hydrogen.md)
+- [Inertia.js](inertia-js.md)
+- [Inspiration](inspiration.md)
+- [Ionic Framework](ionic-framework.md)
+
+<!-- kb-related:end -->

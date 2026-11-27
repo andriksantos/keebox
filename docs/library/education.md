@@ -9,6 +9,31 @@ Curated Education resources.
 
 !!! info "Source"
     42 resources imported from [pehapkari/awesome-symfony-education](https://github.com/pehapkari/awesome-symfony-education), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Education**. This page brings together 42 links about Education, grouped into 16 sections. The largest sections are **General**, **Books**, **Tutorials and Video Courses**, a good place to start if you are exploring the topic for the first time. It belongs to the **Back-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Single Action Controller** — 2 links
+- **Tutorials and Video Courses** — 3 links
+- **Series for begginers** — 3 links
+- **Dependency Injection** — 1 link
+- **EventDispatcher** — 3 links
+- **Security** — 3 links
+- **Forms** — 3 links
+- **Doctrine** — 3 links
+- **Translations** — 3 links
+- **Bundles** — 1 link
+- **Decoupling** — 2 links
+- **Legacy** — 3 links
+- …and 4 more sections
+
+<!-- kb-about:end -->
+
 ## Single Action Controller
 
 - [DunglasActionBundle: Symfony controllers, redesigned](https://dunglas.fr/2016/01/dunglasactionbundle-symfony-controllers-redesigned/) [2016]
@@ -98,3 +123,20 @@ Curated Education resources.
 - [Symfony Framework Deepdive - Security](https://leanpub.com/symfonyframeworkdeepdive-security) [2015]
 - [Symfony Certification - Unofficial self-study guide](https://leanpub.com/symfony-selfstudy) [2015]
 - [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [updated 2014]
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [FastAPI](fastapi.md)
+- [Flask](flask.md)
+- [IAM](iam.md)
+- [Kustomize](kustomize.md)
+- [Apache Wicket](apache-wicket.md)
+- [CDK](cdk.md)
+- [Dash](dash.md)
+- [Dropwizard](dropwizard.md)
+
+<!-- kb-related:end -->

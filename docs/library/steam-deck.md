@@ -9,6 +9,33 @@ A handheld gaming computer developed by Valve.
 
 !!! info "Source"
     158 resources imported from [airscripts/awesome-steam-deck](https://github.com/airscripts/awesome-steam-deck), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Valve's Steam Deck is a handheld PC running SteamOS, a Linux-based system with desktop mode, Proton compatibility for Windows games and support for emulators and third-party launchers.
+
+The list covers guides, accessories, software, performance tuning, customization, battery management and emulation. New owners should start with **Guide** and **Performance**; the **Customization** and **Emulation** sections are where the Deck becomes a much more flexible device.
+
+### What you'll find
+
+- **Guide** — 13 links
+- **Hardware** — 3 links
+- **Accessory** — 28 links
+- **Software** — 16 links
+- **Performance** — 6 links
+- **Customization** — 3 links
+- **Power Management** — 1 link
+- **Emulation** — 18 links
+- **Launcher** — 8 links
+- **Remote** — 8 links
+- **File Management** — 3 links
+- **Storage Management** — 2 links
+- …and 8 more sections
+
+<!-- kb-about:end -->
+
 ## Guide
 
 - [SSD Replacement](https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989) - How to replace your SSD.
@@ -226,3 +253,20 @@ A handheld gaming computer developed by Valve.
 - [On Deck](https://open.spotify.com/show/5oH7NqKxSPiVFANLuYgDSn) - A podcast on Spotify by Nerdnest.
 - [Decked Up](https://open.spotify.com/show/4ZW6yNxludK6FZQwvQlfJX) - A podcast on Spotify by Mekel Kasanova.
 - [Fan The Deck](https://open.spotify.com/show/74eIOxJhDmmSZFbwlh7HIN) - A podcast on Spotify by Richard Alvarez.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Tech Ethics](tech-ethics.md)
+- [Theravada](theravada.md)
+- [Transit](transit.md)
+- [Translations](translations.md)
+- [Software Architecture](software-architecture.md)
+- [Stacks](stacks-2.md)
+- [Standards](standards.md)
+- [Steam](steam-2.md)
+
+<!-- kb-related:end -->

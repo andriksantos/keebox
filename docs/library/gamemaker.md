@@ -9,6 +9,33 @@ Game engine.
 
 !!! info "Source"
     368 resources imported from [bytecauldron/awesome-gamemaker](https://github.com/bytecauldron/awesome-gamemaker), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Gaming**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+GameMaker is a 2D game engine with its own scripting language, GML, used to make hits such as Undertale, Hyper Light Drifter and Hotline Miami. It exports to Windows, macOS, Linux, mobile and consoles.
+
+This is one of the largest lists in the Library: libraries for data structures, timing, async loading, native extensions, debugging and tools. Beginners should begin with **Getting Started**; experienced developers will find reusable code in the later sections.
+
+### What you'll find
+
+- **Getting Started** — 6 links
+- **Data Manipulation** — 22 links
+- **Native Extensions** — 22 links
+- **Timing** — 10 links
+- **Async** — 5 links
+- **Utilities** — 34 links
+- **Tools** — 10 links
+- **Debugging** — 16 links
+- **Input Handling** — 9 links
+- **User Interface** — 27 links
+- **Localization** — 9 links
+- **Physics** — 9 links
+- …and 17 more sections
+
+<!-- kb-about:end -->
+
 ## Getting Started
 
 - [GameMaker Manual](https://manual.gamemaker.io/)
@@ -466,3 +493,20 @@ Game engine.
 - [Slyddar](https://www.youtube.com/c/Slyddar/) - A channel dedicated to both DnD and GML tutorials.
 - [SamSpadeGameDev](https://www.youtube.com/@SamSpadeGameDev) - In-depth coding tutorials for the hobbyist game maker.
 - [gentoo's iceberg Playlist](https://www.youtube.com/playlist?list=PLks6h7R6jAUGrofUAQB178r6K8h43Ml5-) - Series based on iceberg to display advanced programming ideas in GameMaker.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Gaming** category of the [KEEBOX Library](index.md):
+
+- [Games of Coding](games-of-coding.md)
+- [Haxe Game Development](haxe-game-development.md)
+- [LÖVE](l-ve.md)
+- [Learn Gamedev](learn-gamedev.md)
+- [Game Datasets](game-datasets.md)
+- [Game Engine Development](game-engine-development.md)
+- [Game Production](game-production.md)
+- [Game Remakes](game-remakes.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,24 @@ P2P hypermedia protocol.
 
 !!! info "Source"
     95 resources imported from [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Platforms**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**IPFS** — p2P hypermedia protocol. This page brings together 95 links about IPFS, grouped into 6 sections. The largest sections are **Tools**, **Apps**, **Services & Platforms**, a good place to start if you are exploring the topic for the first time. It belongs to the **Platforms** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Apps** — 26 links
+- **Browsers** — 4 links
+- **Tools** — 43 links
+- **Debugging Tools & Learning** — 7 links
+- **Services & Platforms** — 8 links
+- **Pinning services** — 7 links
+
+<!-- kb-about:end -->
+
 ## Apps
 
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
@@ -121,3 +139,20 @@ P2P hypermedia protocol.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
 - [Storacha](https://storacha.network) - Super hot decentralized data at scale.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Platforms** category of the [KEEBOX Library](index.md):
+
+- [JVM](jvm.md)
+- [KDE](kde.md)
+- [Low Code](low-code.md)
+- [.NET](net.md)
+- [Fuse](fuse.md)
+- [GNOME](gnome.md)
+- [IBM Cloud](ibm-cloud.md)
+- [Integration](integration.md)
+
+<!-- kb-related:end -->

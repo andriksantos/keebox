@@ -9,6 +9,25 @@ A free overlay network for enabling anonymous communication.
 
 !!! info "Source"
     154 resources imported from [polycarbohydrate/awesome-tor](https://github.com/polycarbohydrate/awesome-tor), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Tor** — a free overlay network for enabling anonymous communication. This page brings together 154 links about Tor, grouped into 7 sections. The largest sections are **Applications**, **Public reception, Impact, News, and Legislation**, **Official Manual**, a good place to start if you are exploring the topic for the first time. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Manual** — 19 links
+- **Applications** — 78 links
+- **Bridges** — 11 links
+- **Bypass Censorship** — 13 links
+- **Public reception, Impact, News, and Legislation** — 23 links
+- **State of the Onion** — 7 links
+- **Whistleblowing** — 3 links
+
+<!-- kb-about:end -->
+
 ## Official Manual
 
 - [About Tor Browser](https://tb-manual.torproject.org/about/) - Learn what Tor Browser can do to protect your privacy and anonymity.
@@ -191,3 +210,20 @@ A free overlay network for enabling anonymous communication.
 - [GlobaLeaks](https://www.globaleaks.org/) - A free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [SecureDrop](https://securedrop.org/) - An open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 - [WikiLeaks](https://wikileaks.org/) - Specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Waves](waves.md)
+- [Algorand](algorand.md)
+- [ATProto](atproto.md)
+- [Bitcoin](bitcoin.md)
+- [Non-Financial Blockchain](non-financial-blockchain.md)
+- [Ripple](ripple.md)
+- [Stacks](stacks.md)
+- [Substrate](substrate.md)
+
+<!-- kb-related:end -->

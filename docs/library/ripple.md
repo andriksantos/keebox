@@ -9,6 +9,15 @@ Open source distributed settlement network.
 
 !!! info "Source"
     107 resources imported from [vhpoet/awesome-ripple](https://github.com/vhpoet/awesome-ripple), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Decentralized Systems**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Ripple** — open source distributed settlement network. This page brings together 0 links about Ripple, grouped into 0 sections. It belongs to the **Decentralized Systems** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+<!-- kb-about:end -->
+
 #### Official
 
 - [Ripple Website](https://ripple.com/)
@@ -160,3 +169,20 @@ Open source distributed settlement network.
 - [Codius Website](https://codius.org/)
 - [Codius Github](https://github.com/codius)
 - [Codius Hosts](http://codiushosts.com/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Decentralized Systems** category of the [KEEBOX Library](index.md):
+
+- [Stacks](stacks.md)
+- [Substrate](substrate.md)
+- [Tor](tor.md)
+- [Waves](waves.md)
+- [Ethereum](ethereum.md)
+- [Golem](golem.md)
+- [Mastodon](mastodon.md)
+- [Non-Financial Blockchain](non-financial-blockchain.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,27 @@ Rust framework inspired by Elm and React for creating multi-threaded frontend we
 
 !!! info "Source"
     196 resources imported from [jetli/awesome-yew](https://github.com/jetli/awesome-yew), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Yew** — rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly. This page brings together 196 links about Yew, grouped into 9 sections. The largest sections are **Projects**, **Crates**, **Articles**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official** — 9 links
+- **Projects** — 87 links
+- **Templates** — 11 links
+- **Crates** — 48 links
+- **Tooling** — 10 links
+- **Articles** — 16 links
+- **Courses** — 1 link
+- **Books** — 6 links
+- **Alternatives** — 8 links
+
+<!-- kb-about:end -->
+
 ## Official
 
 - [Yew](https://github.com/yewstack/yew) - Rust / WebAssembly framework for building client web apps.
@@ -251,3 +272,20 @@ Rust framework inspired by Elm and React for creating multi-threaded frontend we
 - [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 - [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Angular](angular.md)
+- [Backbone](backbone.md)
+- [Blazor](blazor.md)
+- [Browserify](browserify.md)
+- [WebAssembly](webassembly.md)
+- [WebGL](webgl.md)
+- [WebGPU](webgpu.md)
+- [WordPress-Gatsby](wordpress-gatsby.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,25 @@ Curated Readme resources.
 
 !!! info "Source"
     144 resources imported from [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Readme**. This page brings together 144 links about Readme, grouped into 7 sections. The largest sections are **Examples**, **Tools**, **Architecture Examples**, a good place to start if you are exploring the topic for the first time. It belongs to the **Miscellaneous** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Examples** — 101 links
+- **Architecture Examples** — 9 links
+- **Articles** — 7 links
+- **Presentations** — 1 link
+- **Tools** — 17 links
+- **Creating GIFs** — 8 links
+- **Get Feedback** — 1 link
+
+<!-- kb-about:end -->
+
 ## Examples
 
 - [Abblix/Oidc.Server](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
@@ -173,3 +192,20 @@ Curated Readme resources.
 ## Get Feedback
 
 - [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Research Tools](research-tools.md)
+- [REST](rest.md)
+- [SAP Commerce](sap-commerce.md)
+- [Scientific Computing](scientific-computing.md)
+- [Prometheus](prometheus.md)
+- [QR Code](qr-code.md)
+- [Quarto](quarto.md)
+- [Read the Docs](read-the-docs.md)
+
+<!-- kb-related:end -->

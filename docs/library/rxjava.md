@@ -9,6 +9,25 @@ Curated RxJava resources.
 
 !!! info "Source"
     42 resources imported from [eleventigers/awesome-rxjava](https://github.com/eleventigers/awesome-rxjava), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**RxJava**. This page brings together 42 links about RxJava, grouped into 7 sections. The largest sections are **Utilities**, **Bindings**, **Community**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Bindings** — 13 links
+- **Utilities** — 16 links
+- **Testing** — 2 links
+- **Guides** — 2 links
+- **Articles** — 3 links
+- **Tools** — 1 link
+- **Community** — 5 links
+
+<!-- kb-about:end -->
+
 ## Bindings
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava.
@@ -71,3 +90,20 @@ Curated RxJava resources.
 - [`@RxJava` on Twitter](http://twitter.com/RxJava)
 - [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
 - [GitHub Issues](https://github.com/ReactiveX/RxJava/issues)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Standard Style](standard-style.md)
+- [Swift](swift.md)
+- [Typing](typing.md)
+- [V](v.md)
+- [Promises](promises.md)
+- [PureScript](purescript.md)
+- [Q#](q.md)
+- [Rust](rust.md)
+
+<!-- kb-related:end -->

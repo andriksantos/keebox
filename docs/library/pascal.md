@@ -9,6 +9,31 @@ Curated Pascal resources.
 
 !!! info "Source"
     518 resources imported from [Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Pascal**. This page brings together 518 links about Pascal, grouped into 38 sections. The largest sections are **Network**, **Other non-visual**, **Graphic**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **General Libraries** — 18 links
+- **Audio** — 6 links
+- **Video** — 5 links
+- **Graphic** — 40 links
+- **Game dev** — 19 links
+- **Network** — 52 links
+- **Cloud & remote services** — 15 links
+- **Serial port** — 6 links
+- **Event bus** — 6 links
+- **Control packs** — 12 links
+- **Single controls** — 17 links
+- **Editors** — 5 links
+- …and 26 more sections
+
+<!-- kb-about:end -->
+
 ## General Libraries
 
 - [JCL](https://github.com/project-jedi/jcl). `[Delphi]` `[FPC]` Set of thoroughly tested and fully documented utility functions and non-visual classes which can be instantly reused in your Delphi and C++ Builder projects. The library is grouped into several categories such as Strings, Files and I/O, Security, Math and many, many more.
@@ -640,3 +665,20 @@ Curated Pascal resources.
 - [DFMJSON](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 - [James - The Delphi Project Manager](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
 - [OpenAPI Client Generator](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Pest](pest.md)
+- [Ponyfills](ponyfills.md)
+- [Promises](promises.md)
+- [PureScript](purescript.md)
+- [Network Layer](network-layer.md)
+- [npm](npm.md)
+- [npm scripts](npm-scripts.md)
+- [Observables](observables.md)
+
+<!-- kb-related:end -->

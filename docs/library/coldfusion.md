@@ -9,6 +9,31 @@ Curated ColdFusion resources.
 
 !!! info "Source"
     64 resources imported from [seancoyne/awesome-coldfusion](https://github.com/seancoyne/awesome-coldfusion), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Programming Languages**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**ColdFusion**. This page brings together 62 links about ColdFusion, grouped into 13 sections. The largest sections are **Other Libraries**, **Editors**, **Documentation**, a good place to start if you are exploring the topic for the first time. It belongs to the **Programming Languages** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Engines** — 2 links
+- **Application Frameworks** — 4 links
+- **Testing** — 5 links
+- **Dependency Injection** — 3 links
+- **CMS** — 6 links
+- **NoSQL** — 3 links
+- **REST** — 4 links
+- **Other Libraries** — 9 links
+- **Editors** — 8 links
+- **Tools** — 2 links
+- **References** — 6 links
+- **Resources** — 3 links
+- …and 1 more sections
+
+<!-- kb-about:end -->
+
 ## Engines
 
 - [Adobe ColdFusion](http://www.adobe.com/products/coldfusion-family.html)
@@ -111,3 +136,20 @@ Curated ColdFusion resources.
 - [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation
 - [Official Lucee Server Documentation](http://docs.lucee.org/) - New Lucee Documentation
 - [Railo Documentation](https://github.com/getrailo/railo/wiki) - Official Railo docs
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Programming Languages** category of the [KEEBOX Library](index.md):
+
+- [Composer](composer.md)
+- [Coq](coq.md)
+- [Dart](dart.md)
+- [Data Science](data-science.md)
+- [Ada/SPARK](ada-spark.md)
+- [AVA](ava.md)
+- [CircuitPython](circuitpython.md)
+- [ClojureScript](clojurescript.md)
+
+<!-- kb-related:end -->

@@ -9,6 +9,27 @@ Curated Music resources.
 
 !!! info "Source"
     130 resources imported from [ciconia/awesome-music](https://github.com/ciconia/awesome-music), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Media**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Music**. This page brings together 130 links about Music, grouped into 9 sections. The largest sections are **Music Programming**, **Music Notation**, **Audio Tools**, a good place to start if you are exploring the topic for the first time. It belongs to the **Media** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Audio Editing** — 7 links
+- **Audio Libraries** — 11 links
+- **Audio Tools** — 18 links
+- **Free Music Scores** — 9 links
+- **MIDI Tools & Libraries** — 9 links
+- **Music Notation** — 32 links
+- **Music Programming** — 36 links
+- **Music Theory Teaching** — 5 links
+- **Standards** — 3 links
+
+<!-- kb-about:end -->
+
 ## Audio Editing
 
 - [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
@@ -165,3 +186,20 @@ Curated Music resources.
 - [MEI (Music Encoding Initiative)](http://music-encoding.org/) - an open-source effort to define a system for encoding musical documents in a machine-readable structure.
 - [MusicXML](http://www.musicxml.com/) - the standard open format for exchanging digital sheet music.
 - [SMuFL (Standard Music Font Layout)](http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Media** category of the [KEEBOX Library](index.md):
+
+- [Pixel Art](pixel-art.md)
+- [Stock Resources](stock-resources.md)
+- [VLC](vlc.md)
+- [Audio Over IP](audio-over-ip.md)
+- [FFmpeg](ffmpeg.md)
+- [Fonts](fonts.md)
+- [GIF](gif.md)
+- [Icons](icons.md)
+
+<!-- kb-related:end -->

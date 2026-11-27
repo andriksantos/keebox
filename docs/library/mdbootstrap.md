@@ -9,6 +9,28 @@ Templates, layouts, components, and widgets to rapidly build websites.
 
 !!! info "Source"
     69 resources imported from [mdbootstrap/awesome-mdbootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Front-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**MDBootstrap** — templates, layouts, components, and widgets to rapidly build websites. This page brings together 69 links about MDBootstrap, grouped into 10 sections. The largest sections are **Tools**, **TW Elements useful links (Tailwind CSS)**, **Resources**, a good place to start if you are exploring the topic for the first time. It belongs to the **Front-End Development** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Resources** — 8 links
+- **Community** — 2 links
+- **Useful Links** — 8 links
+- **Articles** — 2 links
+- **Rankings** — 4 links
+- **Tools** — 19 links
+- **Data Grid** — 7 links
+- **CLI & hosting** — 4 links
+- **TW Elements useful links (Tailwind CSS)** — 13 links
+- **Education** — 2 links
+
+<!-- kb-about:end -->
+
 ## Resources
 
 - [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - Free to download, open-source Bootstrap 5 UI Kit.
@@ -107,3 +129,20 @@ Templates, layouts, components, and widgets to rapidly build websites.
 
 - [Video Tutorials](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
 - [Written Tutorials](https://mdbootstrap.com/learn/mdb-foundations/basics/introduction/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Front-End Development** category of the [KEEBOX Library](index.md):
+
+- [Mobile Web Development](mobile-web-development.md)
+- [Motion UI Design](motion-ui-design.md)
+- [Offline-First](offline-first.md)
+- [PageSpeed Metrics](pagespeed-metrics.md)
+- [lit](lit.md)
+- [Marionette.js](marionette-js.md)
+- [Master CSS](master-css.md)
+- [Material-UI](material-ui.md)
+
+<!-- kb-related:end -->

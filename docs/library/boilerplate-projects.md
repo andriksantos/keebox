@@ -9,6 +9,33 @@ Curated Boilerplate Projects resources.
 
 !!! info "Source"
     94 resources imported from [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Miscellaneous**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+A good boilerplate saves days of setup: folder structure, build tools, linting, testing and deployment already wired together. This list groups starter projects by technology, from Android and iOS to JavaScript, Python, PHP, Ruby and microservices.
+
+Before adopting one, check that it is still maintained and matches the versions you plan to use. A boilerplate is a starting point; remove what you don't need instead of carrying unused dependencies into production.
+
+### What you'll find
+
+- **Android Development** — 12 links
+- **IOS Development.** — 4 links
+- **JavaScript** — 39 links
+- **Hybrid Mobile App Frameworks** — 1 link
+- **Microservices** — 1 link
+- **Python** — 14 links
+- **PHP** — 1 link
+- **Ruby** — 4 links
+- **.NET** — 1 link
+- **Go** — 1 link
+- **Browser Webextensions** — 1 link
+- **Websites** — 11 links
+- …and 2 more sections
+
+<!-- kb-about:end -->
+
 ## Android Development
 
 - [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
@@ -144,3 +171,20 @@ Curated Boilerplate Projects resources.
 
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 - [Pollinate](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Miscellaneous** category of the [KEEBOX Library](index.md):
+
+- [Bots](bots.md)
+- [Calculators](calculators.md)
+- [ChatGPT](chatgpt.md)
+- [ChatOps](chatops.md)
+- [Awesome](awesome.md)
+- [Beginner-Friendly Projects](beginner-friendly-projects.md)
+- [Biological Image Analysis](biological-image-analysis.md)
+- [Biological Visualizations](biological-visualizations.md)
+
+<!-- kb-related:end -->

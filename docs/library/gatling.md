@@ -9,6 +9,28 @@ Open-source load and performance testing framework based on Scala, Akka, and Net
 
 !!! info "Source"
     65 resources imported from [aliesbelik/awesome-gatling](https://github.com/aliesbelik/awesome-gatling), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Testing**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Gatling** — open-source load and performance testing framework based on Scala, Akka, and Netty. This page brings together 65 links about Gatling, grouped into 10 sections. The largest sections are **Tools**, **Videos**, **Distributed Testing**, a good place to start if you are exploring the topic for the first time. It belongs to the **Testing** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Official Resources** — 3 links
+- **Getting Started** — 3 links
+- **Tutorials** — 3 links
+- **Distributed Testing** — 4 links
+- **Tools** — 39 links
+- **CI** — 2 links
+- **Test Management** — 1 link
+- **Trainings & Courses** — 2 links
+- **Videos** — 5 links
+- **Community** — 3 links
+
+<!-- kb-about:end -->
+
 ## Official Resources
 
 - [Homepage](https://gatling.io/)
@@ -122,3 +144,20 @@ Open-source load and performance testing framework based on Scala, Akka, and Net
 - [Gatling Community](https://community.gatling.io/)
 - [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-java+or+gatling-plugin)
 - [`@GatlingTool` on Twitter](https://x.com/gatlingtool)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Testing** category of the [KEEBOX Library](index.md):
+
+- [JMeter](jmeter.md)
+- [k6](k6.md)
+- [Playwright](playwright.md)
+- [Selenium](selenium.md)
+- [TAP](tap.md)
+- [Testing](testing.md)
+- [Appium](appium.md)
+- [CodeRabbit](coderabbit.md)
+
+<!-- kb-related:end -->

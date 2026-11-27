@@ -9,6 +9,17 @@ Curated Play1 Framework resources.
 
 !!! info "Source"
     139 resources imported from [PerfectCarl/awesome-play1](https://github.com/PerfectCarl/awesome-play1), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Back-End Development**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+Play 1 is the original version of the Play Framework, a Java web framework known for hot reloading, a stateless architecture and a convention-over-configuration approach inspired by Rails. Later versions moved to Scala and a different API, so Play 1 applications remain a separate ecosystem.
+
+This list collects modules, plugins and resources for teams still maintaining Play 1 apps. If you are starting a new project, consider a current framework; if you are maintaining one, these modules can save you from rewriting common features.
+
+<!-- kb-about:end -->
+
 ### Database
 
 - **[[carbonate] ](http://www.playframework.com/modules/carbonate) [Carbonate](https://github.com/huljas/play-carbonate)** [](http://www.playframework.com/modules/carbonate) Creates and runs database migrations using Hibernate schema update to automatically generate SQL to the migrations. See this blog [post](http://huljas.github.com/code/2011/04/04/managing-database-with-playcarbonate.html)
@@ -195,3 +206,20 @@ Curated Play1 Framework resources.
 - [Mavenized modules](https://code.google.com/p/maven-play-plugin/wiki/MavenizedModules) and [how to use them](https://code.google.com/p/maven-play-plugin/wiki/Usage)
 - [Using Play's controller](http://www.javabeat.net/using-controllers-in-play-framework/) with a nice roundup about caching, expiration and eTags
 - Using [Luo](https://github.com/greenlaw110)'s `cache4` [annotation](http://www.playframework.com/modules/rythm-1.0.0-20121210/integration#cache4)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Back-End Development** category of the [KEEBOX Library](index.md):
+
+- [Pyramid](pyramid.md)
+- [Reflex](reflex.md)
+- [Slim](slim.md)
+- [Symfony](symfony.md)
+- [Kustomize](kustomize.md)
+- [Lumen](lumen.md)
+- [nginx](nginx.md)
+- [OpenTofu](opentofu.md)
+
+<!-- kb-related:end -->

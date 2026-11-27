@@ -9,6 +9,22 @@ Hosting service for Git repositories.
 
 !!! info "Source"
     66 resources imported from [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Development Environment**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**GitHub** — hosting service for Git repositories. This page brings together 66 links about GitHub, grouped into 4 sections. The largest sections are **Tips, tricks, tools, and add-ons for GitHub power users**, **Infomation for people who are new to GitHub**, **Resources for those already familiar with GitHub**, a good place to start if you are exploring the topic for the first time. It belongs to the **Development Environment** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Infomation for people who are new to GitHub** — 17 links
+- **Resources for those already familiar with GitHub** — 11 links
+- **Tips, tricks, tools, and add-ons for GitHub power users** — 32 links
+- **Novel uses of GitHub** — 6 links
+
+<!-- kb-about:end -->
+
 ## Infomation for people who are new to GitHub
 
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
@@ -86,3 +102,20 @@ Hosting service for Git repositories.
 - [The United States Code](https://github.com/divegeek/uscode) - The complete United States Code.
 - [Le code civil français sous git](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
 - [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Development Environment** category of the [KEEBOX Library](index.md):
+
+- [GitHub Actions](github-actions.md)
+- [Hyper](hyper.md)
+- [Pinned Gists](pinned-gists.md)
+- [Shell](shell.md)
+- [Terminals Are Sexy](terminals-are-sexy.md)
+- [WezTerm](wezterm.md)
+- [Fish](fish.md)
+- [Git Hooks](git-hooks.md)
+
+<!-- kb-related:end -->

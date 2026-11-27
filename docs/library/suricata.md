@@ -9,6 +9,31 @@ Intrusion detection/prevention system and network security monitoring engine.
 
 !!! info "Source"
     83 resources imported from [satta/awesome-suricata](https://github.com/satta/awesome-suricata), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Security**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**Suricata** — intrusion detection/prevention system and network security monitoring engine. This page brings together 83 links about Suricata, grouped into 16 sections. The largest sections are **Rule Sets and Lists**, **Operations, Monitoring and Troubleshooting**, **Rule/Security Content Management and Handling**, a good place to start if you are exploring the topic for the first time. It belongs to the **Security** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Input Tools** — 1 link
+- **Output Tools** — 6 links
+- **Operations, Monitoring and Troubleshooting** — 11 links
+- **Programming Libraries and Toolkits** — 6 links
+- **Dashboards and Templates** — 4 links
+- **Development Tools** — 5 links
+- **Documentation and Guides** — 4 links
+- **Analysis Tools** — 3 links
+- **Rule Sets and Lists** — 17 links
+- **Rule/Security Content Management and Handling** — 9 links
+- **Plugins and Extensions** — 1 link
+- **Systems Using Suricata** — 6 links
+- …and 4 more sections
+
+<!-- kb-about:end -->
+
 ## Input Tools
 
 - [PacketStreamer](https://github.com/deepfence/PacketStreamer) - Distributed tcpdump for cloud native environments.
@@ -139,3 +164,20 @@ Intrusion detection/prevention system and network security monitoring engine.
 - [bash_cata](https://github.com/isMTv/bash_cata) - A simple script that processes the generated Suricata eve-log in real time and, based on alerts, adds an ip-address to the MikroTik Address Lists for a specified time for subsequent blocking.
 - [suriGUI](https://github.com/control-owl/suriGUI) - GUI for Suricata + Qubes OS.
 - [SuriGuard](https://github.com/SEc-123/SuriGuard1) - Web-based management system for Suricata IDS/IPS, featuring advanced analytics and visualization capabilities.
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Security** category of the [KEEBOX Library](index.md):
+
+- [Vehicle Security and Car Hacking](vehicle-security-and-car-hacking.md)
+- [Web Security](web-security.md)
+- [CI/CD Attacks](ci-cd-attacks.md)
+- [CTF](ctf.md)
+- [OpenID Connect](openid-connect.md)
+- [Password Cracking](password-cracking.md)
+- [Prompt Injection](prompt-injection.md)
+- [Security Card Games](security-card-games.md)
+
+<!-- kb-related:end -->

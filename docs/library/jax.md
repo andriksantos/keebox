@@ -9,6 +9,25 @@ Automatic differentiation and XLA compilation brought together for high-performa
 
 !!! info "Source"
     217 resources imported from [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax), dedicated to the public domain ([CC0 / Unlicense](https://creativecommons.org/publicdomain/zero/1.0/)). Thanks to its maintainers and contributors. Part of the [KEEBOX Library](index.md) · Category: **Computer Science**.
+
+<!-- kb-about:start -->
+
+## About this list
+
+**JAX** — automatic differentiation and XLA compilation brought together for high-performance machine learning research. This page brings together 217 links about JAX, grouped into 7 sections. The largest sections are **Libraries**, **Models and Projects**, **Tutorials and Blog Posts**, a good place to start if you are exploring the topic for the first time. It belongs to the **Computer Science** category of the KEEBOX Library; see the related lists at the end of the page for neighbouring topics.
+
+### What you'll find
+
+- **Libraries** — 111 links
+- **Models and Projects** — 63 links
+- **Videos** — 9 links
+- **Papers** — 4 links
+- **Tutorials and Blog Posts** — 26 links
+- **Books** — 1 link
+- **Community** — 3 links
+
+<!-- kb-about:end -->
+
 ## Libraries
 
         - [Flax](https://github.com/google/flax) - Centered on flexibility and clarity.
@@ -266,3 +285,20 @@ Automatic differentiation and XLA compilation brought together for high-performa
 - [JaxLLM (Unofficial) Discord](https://discord.com/channels/1107832795377713302/1107832795688083561)
 - [JAX GitHub Discussions](https://github.com/google/jax/discussions)
 - [Reddit](https://www.reddit.com/r/JAX/)
+
+<!-- kb-related:start -->
+
+## Related lists
+
+More lists in the **Computer Science** category of the [KEEBOX Library](index.md):
+
+- [Linguistics](linguistics.md)
+- [ML with Ruby](ml-with-ruby.md)
+- [Natural Language Generation](natural-language-generation.md)
+- [NLP with Ruby](nlp-with-ruby.md)
+- [Empirical Software Engineering](empirical-software-engineering.md)
+- [Generative AI](generative-ai.md)
+- [H2O](h2o.md)
+- [Information Retrieval](information-retrieval.md)
+
+<!-- kb-related:end -->
